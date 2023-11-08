@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [Solidity](#solidity)
 *   [TypeScript](#typescript)
 *   [Rust](#rust)
 *   [JavaScript](#javascript)
@@ -12,10 +13,15 @@
 *   [Python](#python)
 *   [MDX](#mdx)
 *   [Svelte](#svelte)
-*   [Solidity](#solidity)
 *   [C](#c-1)
 *   [Go](#go)
 *   [HTML](#html)
+
+## Solidity
+
+*   [PaulRBerg/foundry-template](https://github.com/PaulRBerg/foundry-template) - Foundry-based template for developing Solidity smart contracts
+
+*   [thirdweb-dev/contracts](https://github.com/thirdweb-dev/contracts) - Collection of smart contracts deployable via thirdweb
 
 ## TypeScript
 
@@ -147,8 +153,6 @@
 
 *   [BuilderIO/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
 
-*   [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
-
 ## Rust
 
 *   [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
@@ -224,10 +228,6 @@
 ## Svelte
 
 *   [animotionjs/animotion](https://github.com/animotionjs/animotion) - 🪄 Create beautiful presentations with Svelte
-
-## Solidity
-
-*   [thirdweb-dev/contracts](https://github.com/thirdweb-dev/contracts) - Collection of smart contracts deployable via thirdweb
 
 ## C
 
