@@ -831,7 +831,7 @@
 
 *   [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - The No-GraphQL Client for TypeScript
 
-*   [finom/next-epoch](https://github.com/finom/next-epoch) - Next.js REST API library for scalable full-stack applications
+*   [finom/next-smoothie](https://github.com/finom/next-smoothie) - Next.js REST API library for scalable full-stack applications
 
 *   [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
@@ -983,7 +983,7 @@
 
 *   [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - The No-GraphQL Client for TypeScript
 
-*   [finom/next-epoch](https://github.com/finom/next-epoch) - Next.js REST API library for scalable full-stack applications
+*   [finom/next-smoothie](https://github.com/finom/next-smoothie) - Next.js REST API library for scalable full-stack applications
 
 *   [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibilty.
 
@@ -1183,27 +1183,27 @@
 
 ## controller
 
-*   [finom/next-epoch](https://github.com/finom/next-epoch) - Next.js REST API library for scalable full-stack applications
+*   [finom/next-smoothie](https://github.com/finom/next-smoothie) - Next.js REST API library for scalable full-stack applications
 
 ## decorators
 
-*   [finom/next-epoch](https://github.com/finom/next-epoch) - Next.js REST API library for scalable full-stack applications
+*   [finom/next-smoothie](https://github.com/finom/next-smoothie) - Next.js REST API library for scalable full-stack applications
 
 ## nestjs
 
-*   [finom/next-epoch](https://github.com/finom/next-epoch) - Next.js REST API library for scalable full-stack applications
+*   [finom/next-smoothie](https://github.com/finom/next-smoothie) - Next.js REST API library for scalable full-stack applications
 
 *   [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibilty.
 
 ## nextjs13
 
-*   [finom/next-epoch](https://github.com/finom/next-epoch) - Next.js REST API library for scalable full-stack applications
+*   [finom/next-smoothie](https://github.com/finom/next-smoothie) - Next.js REST API library for scalable full-stack applications
 
 *   [nicoalbanese/kirimase](https://github.com/nicoalbanese/kirimase) - Build full-stack Next.js apps faster
 
 ## service
 
-*   [finom/next-epoch](https://github.com/finom/next-epoch) - Next.js REST API library for scalable full-stack applications
+*   [finom/next-smoothie](https://github.com/finom/next-smoothie) - Next.js REST API library for scalable full-stack applications
 
 ## fetch
 

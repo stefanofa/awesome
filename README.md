@@ -29,7 +29,7 @@
 
 *   [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
 
-*   [finom/next-epoch](https://github.com/finom/next-epoch) - Next.js REST API library for scalable full-stack applications
+*   [finom/next-smoothie](https://github.com/finom/next-smoothie) - Next.js REST API library for scalable full-stack applications
 
 *   [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the browser Fetch API
 
