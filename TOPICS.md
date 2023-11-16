@@ -555,7 +555,7 @@
 
 *   [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - The No-GraphQL Client for TypeScript
 
-*   [finom/next-smoothie](https://github.com/finom/next-smoothie) - Next.js REST API library for scalable full-stack applications
+*   [finom/next-smoothie](https://github.com/finom/next-smoothie) - Create structured REST API in Next.js App router environment
 
 *   [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
@@ -1135,7 +1135,7 @@
 
 *   [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - The No-GraphQL Client for TypeScript
 
-*   [finom/next-smoothie](https://github.com/finom/next-smoothie) - Next.js REST API library for scalable full-stack applications
+*   [finom/next-smoothie](https://github.com/finom/next-smoothie) - Create structured REST API in Next.js App router environment
 
 *   [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibilty.
 
@@ -1331,27 +1331,27 @@
 
 ## controller
 
-*   [finom/next-smoothie](https://github.com/finom/next-smoothie) - Next.js REST API library for scalable full-stack applications
+*   [finom/next-smoothie](https://github.com/finom/next-smoothie) - Create structured REST API in Next.js App router environment
 
 ## decorators
 
-*   [finom/next-smoothie](https://github.com/finom/next-smoothie) - Next.js REST API library for scalable full-stack applications
+*   [finom/next-smoothie](https://github.com/finom/next-smoothie) - Create structured REST API in Next.js App router environment
 
 ## nestjs
 
-*   [finom/next-smoothie](https://github.com/finom/next-smoothie) - Next.js REST API library for scalable full-stack applications
+*   [finom/next-smoothie](https://github.com/finom/next-smoothie) - Create structured REST API in Next.js App router environment
 
 *   [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibilty.
 
 ## nextjs13
 
-*   [finom/next-smoothie](https://github.com/finom/next-smoothie) - Next.js REST API library for scalable full-stack applications
+*   [finom/next-smoothie](https://github.com/finom/next-smoothie) - Create structured REST API in Next.js App router environment
 
 *   [nicoalbanese/kirimase](https://github.com/nicoalbanese/kirimase) - Build full-stack Next.js apps faster
 
 ## service
 
-*   [finom/next-smoothie](https://github.com/finom/next-smoothie) - Next.js REST API library for scalable full-stack applications
+*   [finom/next-smoothie](https://github.com/finom/next-smoothie) - Create structured REST API in Next.js App router environment
 
 ## fetch
 
