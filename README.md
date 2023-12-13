@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-*   [Objective-C](#objective-c)
 *   [TypeScript](#typescript)
+*   [Objective-C](#objective-c)
 *   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
 *   [Solidity](#solidity)
@@ -26,11 +26,9 @@
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [C#](#c-2)
 
-## Objective-C
-
-*   [newmarcel/KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - Prevents your Mac from going to sleep.
-
 ## TypeScript
+
+*   [withastro/astro](https://github.com/withastro/astro) - The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work!
 
 *   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance chatbot framework that supports speech synthesis, multimodal, and extensible Function Call plugin system. Supports one-click free deployment of your private ChatGPT/LLM web application.
 
@@ -250,7 +248,9 @@
 
 *   [Folks-Finance/folks-finance-js-sdk](https://github.com/Folks-Finance/folks-finance-js-sdk) - The official JavaScript SDK for the Folks Finance Protocol
 
-*   [tsconfig/bases](https://github.com/tsconfig/bases) - Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
+## Objective-C
+
+*   [newmarcel/KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - Prevents your Mac from going to sleep.
 
 ## JavaScript
 
