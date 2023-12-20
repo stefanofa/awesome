@@ -1229,7 +1229,7 @@
 
 *   [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - The No-GraphQL Client for TypeScript
 
-*   [finom/next-smoothie](https://github.com/finom/next-smoothie) - The missing decorator-based API router for Next.js
+*   [finom/vovk](https://github.com/finom/vovk) - The missing decorator-based API router for Next.js
 
 *   [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 
@@ -1277,7 +1277,7 @@
 
 *   [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - The No-GraphQL Client for TypeScript
 
-*   [finom/next-smoothie](https://github.com/finom/next-smoothie) - The missing decorator-based API router for Next.js
+*   [finom/vovk](https://github.com/finom/vovk) - The missing decorator-based API router for Next.js
 
 *   [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
@@ -2905,27 +2905,27 @@
 
 ## controller
 
-*   [finom/next-smoothie](https://github.com/finom/next-smoothie) - The missing decorator-based API router for Next.js
+*   [finom/vovk](https://github.com/finom/vovk) - The missing decorator-based API router for Next.js
 
 ## decorators
 
-*   [finom/next-smoothie](https://github.com/finom/next-smoothie) - The missing decorator-based API router for Next.js
+*   [finom/vovk](https://github.com/finom/vovk) - The missing decorator-based API router for Next.js
 
 ## nestjs
 
-*   [finom/next-smoothie](https://github.com/finom/next-smoothie) - The missing decorator-based API router for Next.js
+*   [finom/vovk](https://github.com/finom/vovk) - The missing decorator-based API router for Next.js
 
 *   [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 
 ## nextjs13
 
-*   [finom/next-smoothie](https://github.com/finom/next-smoothie) - The missing decorator-based API router for Next.js
+*   [finom/vovk](https://github.com/finom/vovk) - The missing decorator-based API router for Next.js
 
 *   [nicoalbanese/kirimase](https://github.com/nicoalbanese/kirimase) - Build full-stack Next.js apps faster
 
 ## service
 
-*   [finom/next-smoothie](https://github.com/finom/next-smoothie) - The missing decorator-based API router for Next.js
+*   [finom/vovk](https://github.com/finom/vovk) - The missing decorator-based API router for Next.js
 
 ## fetch
 
