@@ -24,9 +24,10 @@
 *   [Jinja](#jinja)
 *   [Ruby](#ruby)
 *   [SCSS](#scss)
-*   [Jupyter Notebook](#jupyter-notebook)
 
 ## TypeScript
+
+*   [TanStack/router](https://github.com/TanStack/router) - 🤖 Fully typesafe Router for React (and friends) w/ built-in caching, 1st class search-param APIs, client-side cache integration and isomorphic rendering.
 
 *   [unjs/untun](https://github.com/unjs/untun) - 🚇 Tunnel your local HTTP(s) server to the world! powered by  Cloudflare Quick Tunnels.
 
@@ -467,7 +468,3 @@
 ## SCSS
 
 *   [IanLunn/Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
-
-## Jupyter Notebook
-
-*   [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
