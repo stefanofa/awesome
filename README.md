@@ -141,7 +141,7 @@
 
 *   [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
 
-*   [finom/vovk](https://github.com/finom/vovk) - The missing decorator-based API router for Next.js
+*   [finom/vovk](https://github.com/finom/vovk) - Meta-isomorphic framework built on top of Next.js public API
 
 *   [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the browser Fetch API
 
