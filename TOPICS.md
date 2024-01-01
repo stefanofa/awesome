@@ -561,6 +561,8 @@
 *   [typescipt](#typescipt)
 *   [database](#database)
 *   [deno](#deno)
+*   [microsoft-sql-server](#microsoft-sql-server)
+*   [mssql](#mssql)
 *   [query-builder](#query-builder)
 *   [sql](#sql)
 *   [sqlite](#sqlite)
@@ -1394,7 +1396,7 @@
 
 *   [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - The No-GraphQL Client for TypeScript
 
-*   [finom/vovk](https://github.com/finom/vovk) - Meta-isomorphic framework built on top of Next.js public API
+*   [finom/vovk](https://github.com/finom/vovk) - Type-isomorphic framework built on top of Next.js public API
 
 *   [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 
@@ -1616,7 +1618,7 @@
 
 *   [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - The No-GraphQL Client for TypeScript
 
-*   [finom/vovk](https://github.com/finom/vovk) - Meta-isomorphic framework built on top of Next.js public API
+*   [finom/vovk](https://github.com/finom/vovk) - Type-isomorphic framework built on top of Next.js public API
 
 *   [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
@@ -3130,39 +3132,39 @@
 
 ## controller
 
-*   [finom/vovk](https://github.com/finom/vovk) - Meta-isomorphic framework built on top of Next.js public API
+*   [finom/vovk](https://github.com/finom/vovk) - Type-isomorphic framework built on top of Next.js public API
 
 ## decorators
 
-*   [finom/vovk](https://github.com/finom/vovk) - Meta-isomorphic framework built on top of Next.js public API
+*   [finom/vovk](https://github.com/finom/vovk) - Type-isomorphic framework built on top of Next.js public API
 
 ## nestjs
 
-*   [finom/vovk](https://github.com/finom/vovk) - Meta-isomorphic framework built on top of Next.js public API
+*   [finom/vovk](https://github.com/finom/vovk) - Type-isomorphic framework built on top of Next.js public API
 
 *   [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 
 ## nextjs13
 
-*   [finom/vovk](https://github.com/finom/vovk) - Meta-isomorphic framework built on top of Next.js public API
+*   [finom/vovk](https://github.com/finom/vovk) - Type-isomorphic framework built on top of Next.js public API
 
 *   [nicoalbanese/kirimase](https://github.com/nicoalbanese/kirimase) - Build full-stack Next.js apps faster
 
 ## rest-api
 
-*   [finom/vovk](https://github.com/finom/vovk) - Meta-isomorphic framework built on top of Next.js public API
+*   [finom/vovk](https://github.com/finom/vovk) - Type-isomorphic framework built on top of Next.js public API
 
 ## service
 
-*   [finom/vovk](https://github.com/finom/vovk) - Meta-isomorphic framework built on top of Next.js public API
+*   [finom/vovk](https://github.com/finom/vovk) - Type-isomorphic framework built on top of Next.js public API
 
 ## threading
 
-*   [finom/vovk](https://github.com/finom/vovk) - Meta-isomorphic framework built on top of Next.js public API
+*   [finom/vovk](https://github.com/finom/vovk) - Type-isomorphic framework built on top of Next.js public API
 
 ## worker
 
-*   [finom/vovk](https://github.com/finom/vovk) - Meta-isomorphic framework built on top of Next.js public API
+*   [finom/vovk](https://github.com/finom/vovk) - Type-isomorphic framework built on top of Next.js public API
 
 ## fetch
 
@@ -3563,6 +3565,8 @@
 *   [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 *   [timothymiller/t4-app](https://github.com/timothymiller/t4-app) - A powerful cross-platform UI toolkit for building actually native iOS, Android, macOS, Windows, Linux, and Progressive Web Apps with React (Native).
+
+*   [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 
 ## bundler
 
@@ -4227,6 +4231,14 @@
 *   [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 
 ## deno
+
+*   [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
+
+## microsoft-sql-server
+
+*   [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
+
+## mssql
 
 *   [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 
