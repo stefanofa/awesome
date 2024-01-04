@@ -913,7 +913,7 @@
 
 *   [udecode/plate](https://github.com/udecode/plate) - The rich-text editor for React.
 
-*   [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel) - www.embla-carousel.com — A lightweight carousel library with fluid motion and great swipe precision.
+*   [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel) - A lightweight carousel library with fluid motion and great swipe precision.
 
 *   [TanStack/router](https://github.com/TanStack/router) - 🤖 Fully typesafe Router for React (and friends) w/ built-in caching, 1st class search-param APIs, client-side cache integration and isomorphic rendering.
 
@@ -1031,7 +1031,7 @@
 
 *   [lokalise/i18n-ally](https://github.com/lokalise/i18n-ally) - 🌍 All in one i18n extension for VS Code
 
-*   [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel) - www.embla-carousel.com — A lightweight carousel library with fluid motion and great swipe precision.
+*   [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel) - A lightweight carousel library with fluid motion and great swipe precision.
 
 *   [TanStack/router](https://github.com/TanStack/router) - 🤖 Fully typesafe Router for React (and friends) w/ built-in caching, 1st class search-param APIs, client-side cache integration and isomorphic rendering.
 
@@ -1109,7 +1109,7 @@
 
 *   [udecode/plate](https://github.com/udecode/plate) - The rich-text editor for React.
 
-*   [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel) - www.embla-carousel.com — A lightweight carousel library with fluid motion and great swipe precision.
+*   [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel) - A lightweight carousel library with fluid motion and great swipe precision.
 
 *   [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Open source email management tools to reach inbox zero fast.
 
@@ -1209,7 +1209,7 @@
 
 *   [udecode/plate](https://github.com/udecode/plate) - The rich-text editor for React.
 
-*   [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel) - www.embla-carousel.com — A lightweight carousel library with fluid motion and great swipe precision.
+*   [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel) - A lightweight carousel library with fluid motion and great swipe precision.
 
 *   [TanStack/router](https://github.com/TanStack/router) - 🤖 Fully typesafe Router for React (and friends) w/ built-in caching, 1st class search-param APIs, client-side cache integration and isomorphic rendering.
 
@@ -1405,47 +1405,47 @@
 
 ## carousel
 
-*   [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel) - www.embla-carousel.com — A lightweight carousel library with fluid motion and great swipe precision.
+*   [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel) - A lightweight carousel library with fluid motion and great swipe precision.
 
 *   [justin-chu/react-fast-marquee](https://github.com/justin-chu/react-fast-marquee) - A lightweight React component that harnesses the power of CSS animations to create silky smooth marquees.
 
 ## carousel-component
 
-*   [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel) - www.embla-carousel.com — A lightweight carousel library with fluid motion and great swipe precision.
+*   [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel) - A lightweight carousel library with fluid motion and great swipe precision.
 
 ## carousel-plugin
 
-*   [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel) - www.embla-carousel.com — A lightweight carousel library with fluid motion and great swipe precision.
+*   [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel) - A lightweight carousel library with fluid motion and great swipe precision.
 
 ## dependency-free
 
-*   [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel) - www.embla-carousel.com — A lightweight carousel library with fluid motion and great swipe precision.
+*   [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel) - A lightweight carousel library with fluid motion and great swipe precision.
 
 ## mobile
 
-*   [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel) - www.embla-carousel.com — A lightweight carousel library with fluid motion and great swipe precision.
+*   [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel) - A lightweight carousel library with fluid motion and great swipe precision.
 
 ## mobile-web
 
-*   [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel) - www.embla-carousel.com — A lightweight carousel library with fluid motion and great swipe precision.
+*   [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel) - A lightweight carousel library with fluid motion and great swipe precision.
 
 ## slider
 
-*   [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel) - www.embla-carousel.com — A lightweight carousel library with fluid motion and great swipe precision.
+*   [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel) - A lightweight carousel library with fluid motion and great swipe precision.
 
 *   [justin-chu/react-fast-marquee](https://github.com/justin-chu/react-fast-marquee) - A lightweight React component that harnesses the power of CSS animations to create silky smooth marquees.
 
 ## slider-plugin
 
-*   [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel) - www.embla-carousel.com — A lightweight carousel library with fluid motion and great swipe precision.
+*   [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel) - A lightweight carousel library with fluid motion and great swipe precision.
 
 ## slideshow
 
-*   [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel) - www.embla-carousel.com — A lightweight carousel library with fluid motion and great swipe precision.
+*   [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel) - A lightweight carousel library with fluid motion and great swipe precision.
 
 ## svelte
 
-*   [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel) - www.embla-carousel.com — A lightweight carousel library with fluid motion and great swipe precision.
+*   [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel) - A lightweight carousel library with fluid motion and great swipe precision.
 
 *   [TanStack/router](https://github.com/TanStack/router) - 🤖 Fully typesafe Router for React (and friends) w/ built-in caching, 1st class search-param APIs, client-side cache integration and isomorphic rendering.
 
@@ -1457,15 +1457,15 @@
 
 ## touch
 
-*   [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel) - www.embla-carousel.com — A lightweight carousel library with fluid motion and great swipe precision.
+*   [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel) - A lightweight carousel library with fluid motion and great swipe precision.
 
 ## touch-evens
 
-*   [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel) - www.embla-carousel.com — A lightweight carousel library with fluid motion and great swipe precision.
+*   [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel) - A lightweight carousel library with fluid motion and great swipe precision.
 
 ## vanilla
 
-*   [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel) - www.embla-carousel.com — A lightweight carousel library with fluid motion and great swipe precision.
+*   [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel) - A lightweight carousel library with fluid motion and great swipe precision.
 
 ## ai
 

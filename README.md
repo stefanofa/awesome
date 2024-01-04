@@ -33,7 +33,7 @@
 
 *   [udecode/plate](https://github.com/udecode/plate) - The rich-text editor for React.
 
-*   [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel) - www.embla-carousel.com — A lightweight carousel library with fluid motion and great swipe precision.
+*   [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel) - A lightweight carousel library with fluid motion and great swipe precision.
 
 *   [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Open source email management tools to reach inbox zero fast.
 
