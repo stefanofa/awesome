@@ -27,6 +27,8 @@
 
 ## TypeScript
 
+*   [labs42io/clean-code-typescript](https://github.com/labs42io/clean-code-typescript) - Clean Code concepts adapted for TypeScript
+
 *   [huozhi/bunchee](https://github.com/huozhi/bunchee) - Zero config bundler for ECMAScript and TypeScript packages
 
 *   [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (298 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores
@@ -113,7 +115,7 @@
 
 *   [dai-shi/waku](https://github.com/dai-shi/waku) - ⛩️ The minimal React framework
 
-*   [withastro/astro](https://github.com/withastro/astro) - The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work!
+*   [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 
 *   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance chatbot framework that supports speech synthesis, multimodal, and extensible Function Call plugin system. Supports one-click free deployment of your private ChatGPT/LLM web application.
 
@@ -274,8 +276,6 @@
 *   [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code
 
 *   [joe-bell/cva](https://github.com/joe-bell/cva) - Class Variance Authority
-
-*   [joe-bell/plaiceholder](https://github.com/joe-bell/plaiceholder) - Beautiful image placeholders, without the hassle.
 
 ## Shell
 
