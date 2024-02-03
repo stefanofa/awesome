@@ -5,6 +5,7 @@
 *   [TypeScript](#typescript)
 *   [Shell](#shell)
 *   [JavaScript](#javascript)
+*   [Ruby](#ruby)
 *   [Clojure](#clojure)
 *   [CSS](#css)
 *   [HTML](#html)
@@ -56,8 +57,6 @@
 *   [FrigadeHQ/remote-storage](https://github.com/FrigadeHQ/remote-storage) - remoteStorage is a simple library that combines the localStorage API with a remote server to persist data across sessions. It works as a simple key value database store and backend with support for React, Next.js, Vue, Node, and any Javascript stack
 
 *   [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
-
-*   [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - Personal finance and wealth management app
 
 *   [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
 
@@ -331,6 +330,10 @@
 
 *   [inovua/reactdatagrid](https://github.com/inovua/reactdatagrid) - Empower Your Data with the best React Data Grid there is
 
+## Ruby
+
+*   [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
+
 ## Clojure
 
 *   [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
@@ -429,7 +432,7 @@
 
 ## Java
 
-*   [theonedev/onedev](https://github.com/theonedev/onedev) - Lightweight and performant GitLab alternative. Ultra easy to set up and maintain.
+*   [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Ultra Easy to Set Up and Maintain.
 
 ## Lua
 

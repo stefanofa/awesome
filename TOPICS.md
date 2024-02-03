@@ -110,8 +110,11 @@
 *   [reactjs](#reactjs)
 *   [sdk](#sdk)
 *   [finance](#finance)
-*   [nodejs](#nodejs)
+*   [hotwire](#hotwire)
 *   [personal-finance](#personal-finance)
+*   [ruby-on-rails](#ruby-on-rails)
+*   [stimulusjs](#stimulusjs)
+*   [turbo](#turbo)
 *   [collaboration](#collaboration)
 *   [mattermost](#mattermost)
 *   [monorepo](#monorepo)
@@ -167,6 +170,7 @@
 *   [lang-chain](#lang-chain)
 *   [lang-ui](#lang-ui)
 *   [bash](#bash)
+*   [nodejs](#nodejs)
 *   [rust](#rust)
 *   [serverless](#serverless)
 *   [charts](#charts)
@@ -720,6 +724,7 @@
 *   [performance](#performance)
 *   [react-server-components](#react-server-components)
 *   [scrolling](#scrolling)
+*   [tabular-data](#tabular-data)
 *   [virtual-scroll](#virtual-scroll)
 *   [virtualization](#virtualization)
 *   [virtualized](#virtualized)
@@ -996,7 +1001,7 @@
 
 *   [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 
-*   [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - Personal finance and wealth management app
+*   [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
 
 *   [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
 
@@ -1069,8 +1074,6 @@
 *   [wevm/vocs](https://github.com/wevm/vocs) - Minimal Documentation Framework, powered by React + Vite.
 
 *   [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
-
-*   [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - Personal finance and wealth management app
 
 *   [PuruVJ/neodrag](https://github.com/PuruVJ/neodrag) - One Draggable to rule them all 💍
 
@@ -1284,8 +1287,6 @@
 
 *   [wevm/vocs](https://github.com/wevm/vocs) - Minimal Documentation Framework, powered by React + Vite.
 
-*   [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - Personal finance and wealth management app
-
 *   [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
 
 *   [rcbyr/keen-slider](https://github.com/rcbyr/keen-slider) - The HTML touch slider carousel with the most native feeling you will get.
@@ -1473,8 +1474,6 @@
 *   [mfts/papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
 
 *   [FrigadeHQ/remote-storage](https://github.com/FrigadeHQ/remote-storage) - remoteStorage is a simple library that combines the localStorage API with a remote server to persist data across sessions. It works as a simple key value database store and backend with support for React, Next.js, Vue, Node, and any Javascript stack
-
-*   [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - Personal finance and wealth management app
 
 *   [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 
@@ -1714,13 +1713,15 @@
 
 *   [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
 
+*   [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
+
 ## self-hosted
 
 *   [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
 
 *   [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 
-*   [theonedev/onedev](https://github.com/theonedev/onedev) - Lightweight and performant GitLab alternative. Ultra easy to set up and maintain.
+*   [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Ultra Easy to Set Up and Maintain.
 
 ## subscriptions
 
@@ -1972,49 +1973,27 @@
 
 ## finance
 
-*   [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - Personal finance and wealth management app
+*   [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
 
-## nodejs
+## hotwire
 
-*   [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - Personal finance and wealth management app
-
-*   [google/zx](https://github.com/google/zx) - A tool for writing better scripts
-
-*   [jaredhanson/passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js.
-
-*   [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
-
-*   [sindresorhus/ow](https://github.com/sindresorhus/ow) - Function argument validation for humans
-
-*   [toddbluhm/env-cmd](https://github.com/toddbluhm/env-cmd) - Setting environment variables from a file
-
-*   [ecyrbe/zodios](https://github.com/ecyrbe/zodios) - typescript http client and server with zod validation
-
-*   [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (July 2023)
-
-*   [sindresorhus/np](https://github.com/sindresorhus/np) - A better `npm publish`
-
-*   [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - The No-GraphQL Client for TypeScript
-
-*   [finom/vovk](https://github.com/finom/vovk) - A Structural add-on for Next.js
-
-*   [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-
-*   [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
-
-*   [mkosir/typescript-style-guide](https://github.com/mkosir/typescript-style-guide) - ⚙️ TypeScript Style Guide. Concise set of conventions and best practices used to create consistent, maintainable code.
-
-*   [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
-
-*   [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
-
-*   [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
-
-*   [feathersjs/feathers](https://github.com/feathersjs/feathers) - The API and real-time application framework
+*   [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
 
 ## personal-finance
 
-*   [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - Personal finance and wealth management app
+*   [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
+
+## ruby-on-rails
+
+*   [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
+
+## stimulusjs
+
+*   [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
+
+## turbo
+
+*   [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
 
 ## collaboration
 
@@ -2184,7 +2163,7 @@
 
 *   [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
 
-*   [theonedev/onedev](https://github.com/theonedev/onedev) - Lightweight and performant GitLab alternative. Ultra easy to set up and maintain.
+*   [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Ultra Easy to Set Up and Maintain.
 
 *   [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
 
@@ -2325,6 +2304,42 @@
 *   [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
 
 *   [micromatch/micromatch](https://github.com/micromatch/micromatch) - Highly optimized wildcard and glob matching library. Faster, drop-in replacement to minimatch and multimatch. Used by square, webpack, babel core, yarn, jest, taro, bulma, browser-sync, documentation.js, stylelint, nyc, ava, and many others! Please follow micromatch's author: https://github.com/jonschlinkert
+
+## nodejs
+
+*   [google/zx](https://github.com/google/zx) - A tool for writing better scripts
+
+*   [jaredhanson/passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js.
+
+*   [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
+
+*   [sindresorhus/ow](https://github.com/sindresorhus/ow) - Function argument validation for humans
+
+*   [toddbluhm/env-cmd](https://github.com/toddbluhm/env-cmd) - Setting environment variables from a file
+
+*   [ecyrbe/zodios](https://github.com/ecyrbe/zodios) - typescript http client and server with zod validation
+
+*   [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (July 2023)
+
+*   [sindresorhus/np](https://github.com/sindresorhus/np) - A better `npm publish`
+
+*   [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - The No-GraphQL Client for TypeScript
+
+*   [finom/vovk](https://github.com/finom/vovk) - A Structural add-on for Next.js
+
+*   [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+
+*   [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
+
+*   [mkosir/typescript-style-guide](https://github.com/mkosir/typescript-style-guide) - ⚙️ TypeScript Style Guide. Concise set of conventions and best practices used to create consistent, maintainable code.
+
+*   [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
+
+*   [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
+
+*   [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
+
+*   [feathersjs/feathers](https://github.com/feathersjs/feathers) - The API and real-time application framework
 
 ## rust
 
@@ -3644,21 +3659,21 @@
 
 ## ci-cd
 
-*   [theonedev/onedev](https://github.com/theonedev/onedev) - Lightweight and performant GitLab alternative. Ultra easy to set up and maintain.
+*   [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Ultra Easy to Set Up and Maintain.
 
 ## devops
 
-*   [theonedev/onedev](https://github.com/theonedev/onedev) - Lightweight and performant GitLab alternative. Ultra easy to set up and maintain.
+*   [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Ultra Easy to Set Up and Maintain.
 
 *   [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 
 ## kanban
 
-*   [theonedev/onedev](https://github.com/theonedev/onedev) - Lightweight and performant GitLab alternative. Ultra easy to set up and maintain.
+*   [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Ultra Easy to Set Up and Maintain.
 
 ## packages
 
-*   [theonedev/onedev](https://github.com/theonedev/onedev) - Lightweight and performant GitLab alternative. Ultra easy to set up and maintain.
+*   [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Ultra Easy to Set Up and Maintain.
 
 ## astronvim
 
@@ -4965,6 +4980,10 @@
 *   [code-hike/bright](https://github.com/code-hike/bright) - React Server Component for syntax highlighting
 
 ## scrolling
+
+*   [inokawa/virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list (and grid) component for React, Vue and Solid.
+
+## tabular-data
 
 *   [inokawa/virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list (and grid) component for React, Vue and Solid.
 
