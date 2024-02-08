@@ -349,6 +349,7 @@
 *   [command-line-tool](#command-line-tool)
 *   [customization](#customization)
 *   [linux](#linux)
+*   [spicetify-extensions](#spicetify-extensions)
 *   [spotify](#spotify)
 *   [windows](#windows)
 *   [bar](#bar)
@@ -3285,6 +3286,10 @@
 *   [electron/forge](https://github.com/electron/forge) - :electron: A complete tool for building and publishing Electron applications
 
 *   [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+
+## spicetify-extensions
+
+*   [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 
 ## spotify
 
