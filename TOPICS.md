@@ -1618,7 +1618,7 @@
 
 *   [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - The No-GraphQL Client for TypeScript
 
-*   [finom/vovk](https://github.com/finom/vovk) - A Structural add-on for Next.js
+*   [finom/vovk](https://github.com/finom/vovk) - REST for Next
 
 *   [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 
@@ -2434,7 +2434,7 @@
 
 *   [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - The No-GraphQL Client for TypeScript
 
-*   [finom/vovk](https://github.com/finom/vovk) - A Structural add-on for Next.js
+*   [finom/vovk](https://github.com/finom/vovk) - REST for Next
 
 *   [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
@@ -4106,39 +4106,39 @@
 
 ## controller
 
-*   [finom/vovk](https://github.com/finom/vovk) - A Structural add-on for Next.js
+*   [finom/vovk](https://github.com/finom/vovk) - REST for Next
 
 ## decorators
 
-*   [finom/vovk](https://github.com/finom/vovk) - A Structural add-on for Next.js
+*   [finom/vovk](https://github.com/finom/vovk) - REST for Next
 
 ## nestjs
 
-*   [finom/vovk](https://github.com/finom/vovk) - A Structural add-on for Next.js
+*   [finom/vovk](https://github.com/finom/vovk) - REST for Next
 
 *   [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 
 ## nextjs13
 
-*   [finom/vovk](https://github.com/finom/vovk) - A Structural add-on for Next.js
+*   [finom/vovk](https://github.com/finom/vovk) - REST for Next
 
 *   [nicoalbanese/kirimase](https://github.com/nicoalbanese/kirimase) - Build full-stack Next.js apps, incredibly fast
 
 ## rest-api
 
-*   [finom/vovk](https://github.com/finom/vovk) - A Structural add-on for Next.js
+*   [finom/vovk](https://github.com/finom/vovk) - REST for Next
 
 ## service
 
-*   [finom/vovk](https://github.com/finom/vovk) - A Structural add-on for Next.js
+*   [finom/vovk](https://github.com/finom/vovk) - REST for Next
 
 ## threading
 
-*   [finom/vovk](https://github.com/finom/vovk) - A Structural add-on for Next.js
+*   [finom/vovk](https://github.com/finom/vovk) - REST for Next
 
 ## worker
 
-*   [finom/vovk](https://github.com/finom/vovk) - A Structural add-on for Next.js
+*   [finom/vovk](https://github.com/finom/vovk) - REST for Next
 
 ## fetch
 
