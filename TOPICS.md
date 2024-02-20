@@ -4327,15 +4327,15 @@
 
 ## scroll
 
-*   [studio-freight/lenis](https://github.com/studio-freight/lenis) - How smooth scroll should be
+*   [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - How smooth scroll should be
 
 ## smooth
 
-*   [studio-freight/lenis](https://github.com/studio-freight/lenis) - How smooth scroll should be
+*   [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - How smooth scroll should be
 
 ## smooth-scroll
 
-*   [studio-freight/lenis](https://github.com/studio-freight/lenis) - How smooth scroll should be
+*   [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - How smooth scroll should be
 
 ## command-palette
 
