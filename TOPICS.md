@@ -869,6 +869,7 @@
 *   [works-with-quasar](#works-with-quasar)
 *   [works-with-react](#works-with-react)
 *   [works-with-reason](#works-with-reason)
+*   [works-with-solidjs](#works-with-solidjs)
 *   [works-with-svelte](#works-with-svelte)
 *   [works-with-vue](#works-with-vue)
 *   [works-with-yew](#works-with-yew)
@@ -5578,6 +5579,10 @@
 *   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 
 ## works-with-reason
+
+*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
+
+## works-with-solidjs
 
 *   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 
