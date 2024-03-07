@@ -458,7 +458,11 @@
 *   [neovim](#neovim)
 *   [neovim-config](#neovim-config)
 *   [neovim-configuration](#neovim-configuration)
+*   [neovim-dotfiles](#neovim-dotfiles)
 *   [neovim-lua](#neovim-lua)
+*   [neovim-lua-plugin](#neovim-lua-plugin)
+*   [neovim-plugin](#neovim-plugin)
+*   [neovim-plugins](#neovim-plugins)
 *   [neovim-setup](#neovim-setup)
 *   [nvim](#nvim)
 *   [vim](#vim)
@@ -1634,7 +1638,7 @@
 
 *   [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - The No-GraphQL Client for TypeScript
 
-*   [finom/vovk](https://github.com/finom/vovk) - REST for Next
+*   [finom/vovk](https://github.com/finom/vovk) - REST for Next - Transforms Next.js into a powerful and extensible REST API platform
 
 *   [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 
@@ -2450,7 +2454,7 @@
 
 *   [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - The No-GraphQL Client for TypeScript
 
-*   [finom/vovk](https://github.com/finom/vovk) - REST for Next
+*   [finom/vovk](https://github.com/finom/vovk) - REST for Next - Transforms Next.js into a powerful and extensible REST API platform
 
 *   [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
@@ -3792,7 +3796,23 @@
 
 *   [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
 
+## neovim-dotfiles
+
+*   [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
+
 ## neovim-lua
+
+*   [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
+
+## neovim-lua-plugin
+
+*   [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
+
+## neovim-plugin
+
+*   [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
+
+## neovim-plugins
 
 *   [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
 
@@ -4126,39 +4146,39 @@
 
 ## controller
 
-*   [finom/vovk](https://github.com/finom/vovk) - REST for Next
+*   [finom/vovk](https://github.com/finom/vovk) - REST for Next - Transforms Next.js into a powerful and extensible REST API platform
 
 ## decorators
 
-*   [finom/vovk](https://github.com/finom/vovk) - REST for Next
+*   [finom/vovk](https://github.com/finom/vovk) - REST for Next - Transforms Next.js into a powerful and extensible REST API platform
 
 ## nestjs
 
-*   [finom/vovk](https://github.com/finom/vovk) - REST for Next
+*   [finom/vovk](https://github.com/finom/vovk) - REST for Next - Transforms Next.js into a powerful and extensible REST API platform
 
 *   [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 
 ## nextjs13
 
-*   [finom/vovk](https://github.com/finom/vovk) - REST for Next
+*   [finom/vovk](https://github.com/finom/vovk) - REST for Next - Transforms Next.js into a powerful and extensible REST API platform
 
 *   [nicoalbanese/kirimase](https://github.com/nicoalbanese/kirimase) - Build full-stack Next.js apps, incredibly fast
 
 ## rest-api
 
-*   [finom/vovk](https://github.com/finom/vovk) - REST for Next
+*   [finom/vovk](https://github.com/finom/vovk) - REST for Next - Transforms Next.js into a powerful and extensible REST API platform
 
 ## service
 
-*   [finom/vovk](https://github.com/finom/vovk) - REST for Next
+*   [finom/vovk](https://github.com/finom/vovk) - REST for Next - Transforms Next.js into a powerful and extensible REST API platform
 
 ## threading
 
-*   [finom/vovk](https://github.com/finom/vovk) - REST for Next
+*   [finom/vovk](https://github.com/finom/vovk) - REST for Next - Transforms Next.js into a powerful and extensible REST API platform
 
 ## worker
 
-*   [finom/vovk](https://github.com/finom/vovk) - REST for Next
+*   [finom/vovk](https://github.com/finom/vovk) - REST for Next - Transforms Next.js into a powerful and extensible REST API platform
 
 ## fetch
 

@@ -152,7 +152,7 @@
 
 *   [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
 
-*   [finom/vovk](https://github.com/finom/vovk) - REST for Next
+*   [finom/vovk](https://github.com/finom/vovk) - REST for Next - Transforms Next.js into a powerful and extensible REST API platform
 
 *   [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the browser Fetch API
 
