@@ -802,7 +802,6 @@
 *   [olap](#olap)
 *   [devcontainer](#devcontainer)
 *   [devcontainers](#devcontainers)
-*   [hacktoberfest2023](#hacktoberfest2023)
 *   [remote-development](#remote-development)
 *   [remote-development-environment](#remote-development-environment)
 *   [continuous-integration](#continuous-integration)
@@ -5302,10 +5301,6 @@
 *   [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 
 ## devcontainers
-
-*   [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
-
-## hacktoberfest2023
 
 *   [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 
