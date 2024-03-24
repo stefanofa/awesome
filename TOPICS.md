@@ -899,7 +899,7 @@
 
 ## clickhouse
 
-*   [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Support our Product Hunt launch 👇
+*   [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure.
 
 *   [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
 
@@ -909,7 +909,7 @@
 
 ## mysql
 
-*   [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Support our Product Hunt launch 👇
+*   [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure.
 
 *   [slashbaseide/slashbase](https://github.com/slashbaseide/slashbase) - Modern database IDE for your dev & data workflows. Supports MySQL, PostgreSQL & MongoDB.
 
@@ -923,7 +923,7 @@
 
 ## next-auth
 
-*   [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Support our Product Hunt launch 👇
+*   [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure.
 
 *   [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
 
@@ -931,7 +931,7 @@
 
 ## nextjs
 
-*   [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Support our Product Hunt launch 👇
+*   [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure.
 
 *   [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
 
@@ -983,7 +983,7 @@
 
 ## open-source
 
-*   [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Support our Product Hunt launch 👇
+*   [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure.
 
 *   [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
 
@@ -997,11 +997,11 @@
 
 ## planetscale
 
-*   [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Support our Product Hunt launch 👇
+*   [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure.
 
 ## prisma
 
-*   [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Support our Product Hunt launch 👇
+*   [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure.
 
 *   [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
 
@@ -1015,13 +1015,13 @@
 
 ## resend
 
-*   [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Support our Product Hunt launch 👇
+*   [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure.
 
 *   [nicoalbanese/kirimase](https://github.com/nicoalbanese/kirimase) - Build full-stack Next.js apps, incredibly fast
 
 ## tailwindcss
 
-*   [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Support our Product Hunt launch 👇
+*   [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure.
 
 *   [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 
@@ -1039,11 +1039,11 @@
 
 ## tinybird
 
-*   [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Support our Product Hunt launch 👇
+*   [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure.
 
 ## turborepo
 
-*   [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Support our Product Hunt launch 👇
+*   [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure.
 
 *   [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 
@@ -1051,7 +1051,7 @@
 
 ## typescript
 
-*   [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Support our Product Hunt launch 👇
+*   [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure.
 
 *   [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
 
@@ -1157,7 +1157,7 @@
 
 ## upstash
 
-*   [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Support our Product Hunt launch 👇
+*   [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure.
 
 *   [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Open source email app to reach inbox zero fast.
 
@@ -1165,7 +1165,7 @@
 
 ## vercel
 
-*   [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Support our Product Hunt launch 👇
+*   [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure.
 
 *   [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 

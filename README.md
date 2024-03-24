@@ -28,7 +28,7 @@
 
 ## TypeScript
 
-*   [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Support our Product Hunt launch 👇
+*   [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure.
 
 *   [unjs/jiti](https://github.com/unjs/jiti) - Runtime Typescript and ESM support for Node.js
 
