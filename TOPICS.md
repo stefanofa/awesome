@@ -32,7 +32,10 @@
 *   [postgresql](#postgresql)
 *   [self-hosted](#self-hosted)
 *   [signing](#signing)
+*   [dnd](#dnd)
 *   [drag-and-drop](#drag-and-drop)
+*   [dropzone](#dropzone)
+*   [sortable](#sortable)
 *   [google](#google)
 *   [indexing](#indexing)
 *   [seo](#seo)
@@ -1407,11 +1410,23 @@
 
 *   [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
 
+## dnd
+
+*   [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) - Fast drag and drop for any experience on any tech stack
+
 ## drag-and-drop
 
 *   [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) - Fast drag and drop for any experience on any tech stack
 
 *   [react-grid-layout/react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints, for React.
+
+## dropzone
+
+*   [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) - Fast drag and drop for any experience on any tech stack
+
+## sortable
+
+*   [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) - Fast drag and drop for any experience on any tech stack
 
 ## google
 
