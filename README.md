@@ -166,7 +166,7 @@
 
 *   [suspensive/react](https://github.com/suspensive/react) - Packages to use React Suspense & ErrorBoundary easily (one of Tanstack Query v4's community resources)
 
-*   [leap-ai/headshots-starter](https://github.com/leap-ai/headshots-starter) -
+*   [astriaai/headshots-starter](https://github.com/astriaai/headshots-starter) -
 
 *   [HiDeoo/starlight-openapi](https://github.com/HiDeoo/starlight-openapi) - Starlight plugin to generate documentation from OpenAPI/Swagger specifications
 

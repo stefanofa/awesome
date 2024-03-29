@@ -1234,7 +1234,7 @@
 
 *   [gabrielediremigio/gabrielediremigio](https://github.com/gabrielediremigio/gabrielediremigio) -
 
-*   [leap-ai/headshots-starter](https://github.com/leap-ai/headshots-starter) -
+*   [astriaai/headshots-starter](https://github.com/astriaai/headshots-starter) -
 
 *   [eslint/generator-eslint](https://github.com/eslint/generator-eslint) - A Yeoman generator to help with ESLint development
 
