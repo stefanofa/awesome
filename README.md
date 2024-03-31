@@ -278,7 +278,7 @@
 
 ## JavaScript
 
-*   [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS!
+*   [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable!
 
 *   [veltman/flubber](https://github.com/veltman/flubber) - Tools for smoother shape animations.
 
