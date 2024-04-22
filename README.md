@@ -32,6 +32,8 @@
 
 ## TypeScript
 
+*   [joschan21/profanity.dev](https://github.com/joschan21/profanity.dev) -
+
 *   [TypeStrong/typedoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects.
 
 *   [WalletConnect/EIP6963](https://github.com/WalletConnect/EIP6963) - A web application showcasing the implementation and usage of EIP-6963 for Multi Injected Provider Discovery
@@ -382,7 +384,7 @@
 
 *   [winstonjs/winston](https://github.com/winstonjs/winston) - A logger for just about everything.
 
-*   [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable!
+*   [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 
 *   [veltman/flubber](https://github.com/veltman/flubber) - Tools for smoother shape animations.
 
@@ -615,8 +617,6 @@
 *   [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 
 *   [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
-
-*   [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 
 ## Objective-C
 
