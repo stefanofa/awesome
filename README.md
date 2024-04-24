@@ -32,6 +32,10 @@
 
 ## TypeScript
 
+*   [teambit/bit](https://github.com/teambit/bit) - A build system for development of composable software.
+
+*   [oclif/oclif](https://github.com/oclif/oclif) - CLI for generating, building, and releasing oclif CLIs. Built by Salesforce.
+
 *   [47ng/nuqs](https://github.com/47ng/nuqs) - Type-safe search params state manager for Next.js - Like React.useState, but stored in the URL query string.
 
 *   [vite-pwa/docs](https://github.com/vite-pwa/docs) - Documentation: PWA integrations for Vite and the ecosystem
@@ -378,9 +382,9 @@
 
 *   [0xEssential/opensea-discord-bot](https://github.com/0xEssential/opensea-discord-bot) - A TS script to hit the OpenSea API for collection sales and send messages to Discord
 
-*   [sushiswap/sushiswap-interface](https://github.com/sushiswap/sushiswap-interface) - 🍣 An open source interface for the SushiSwap Protocol
-
 ## JavaScript
+
+*   [dexie/Dexie.js](https://github.com/dexie/Dexie.js) - A Minimalistic Wrapper for IndexedDB
 
 *   [GoogleChrome/workbox](https://github.com/GoogleChrome/workbox) - 📦 Workbox: JavaScript libraries for Progressive Web Apps
 
@@ -462,8 +466,6 @@
 
 *   [ethereum/blockies](https://github.com/ethereum/blockies) - <1k library that generates blocky identicons
 
-*   [mewo2/terrain](https://github.com/mewo2/terrain) - Fantasy map generator
-
 ## MDX
 
 *   [smakosh/roll-your-own-auth](https://github.com/smakosh/roll-your-own-auth) - Copy & paste code to roll your own auth easily and for free
@@ -503,8 +505,6 @@
 *   [crytic/awesome-ethereum-security](https://github.com/crytic/awesome-ethereum-security) - A curated list of awesome Ethereum security references
 
 *   [0xvadym/awesome-defi-product-management](https://github.com/0xvadym/awesome-defi-product-management) - A curated list of DeFi product management resources
-
-*   [OffcierCia/ultimate-defi-research-base](https://github.com/OffcierCia/ultimate-defi-research-base) - Here we collect and discuss the best DeFI & Blockchain researches and tools. Feel free to DM me on Twitter or open pool request.
 
 ## Go
 
