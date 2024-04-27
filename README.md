@@ -32,7 +32,7 @@
 
 ## TypeScript
 
-*   [dubinc/oss-gallery](https://github.com/dubinc/oss-gallery) - A crowdsourced list of the best open-source projects on the internet.
+*   [dubinc/oss-gallery](https://github.com/dubinc/oss-gallery) - A crowdsourced list of the best open-source projects on the internet. Built with the Dub.co API.
 
 *   [teambit/bit](https://github.com/teambit/bit) - A build system for development of composable software.
 
