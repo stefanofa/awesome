@@ -330,7 +330,6 @@
 *   [mysql](#mysql)
 *   [next-auth](#next-auth)
 *   [planetscale](#planetscale)
-*   [resend](#resend)
 *   [tinybird](#tinybird)
 *   [turborepo](#turborepo)
 *   [upstash](#upstash)
@@ -880,6 +879,7 @@
 *   [lucia-auth](#lucia-auth)
 *   [nextauth](#nextauth)
 *   [rails](#rails)
+*   [resend](#resend)
 *   [shadcn](#shadcn)
 *   [notifications](#notifications)
 *   [toast](#toast)
@@ -3955,12 +3955,6 @@
 
 *   [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure
 
-## resend
-
-*   [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure
-
-*   [nicoalbanese/kirimase](https://github.com/nicoalbanese/kirimase) - Build full-stack Next.js apps, incredibly fast
-
 ## tinybird
 
 *   [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure
@@ -6654,6 +6648,10 @@
 *   [nicoalbanese/kirimase](https://github.com/nicoalbanese/kirimase) - Build full-stack Next.js apps, incredibly fast
 
 *   [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
+
+## resend
+
+*   [nicoalbanese/kirimase](https://github.com/nicoalbanese/kirimase) - Build full-stack Next.js apps, incredibly fast
 
 ## shadcn
 
