@@ -1875,7 +1875,7 @@
 
 *   [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.
 
-*   [suspensive/react](https://github.com/suspensive/react) - Packages to use React Suspense & ErrorBoundary easily (one of Tanstack Query v4's community resources)
+*   [toss/suspensive](https://github.com/toss/suspensive) - Packages to use React Suspense & ErrorBoundary easily (one of Tanstack Query v4's community resources)
 
 *   [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
 
@@ -6389,29 +6389,29 @@
 
 ## async
 
-*   [suspensive/react](https://github.com/suspensive/react) - Packages to use React Suspense & ErrorBoundary easily (one of Tanstack Query v4's community resources)
+*   [toss/suspensive](https://github.com/toss/suspensive) - Packages to use React Suspense & ErrorBoundary easily (one of Tanstack Query v4's community resources)
 
 ## errorboundary
 
-*   [suspensive/react](https://github.com/suspensive/react) - Packages to use React Suspense & ErrorBoundary easily (one of Tanstack Query v4's community resources)
+*   [toss/suspensive](https://github.com/toss/suspensive) - Packages to use React Suspense & ErrorBoundary easily (one of Tanstack Query v4's community resources)
 
 ## react-query
 
-*   [suspensive/react](https://github.com/suspensive/react) - Packages to use React Suspense & ErrorBoundary easily (one of Tanstack Query v4's community resources)
+*   [toss/suspensive](https://github.com/toss/suspensive) - Packages to use React Suspense & ErrorBoundary easily (one of Tanstack Query v4's community resources)
 
 ## ssr
 
-*   [suspensive/react](https://github.com/suspensive/react) - Packages to use React Suspense & ErrorBoundary easily (one of Tanstack Query v4's community resources)
+*   [toss/suspensive](https://github.com/toss/suspensive) - Packages to use React Suspense & ErrorBoundary easily (one of Tanstack Query v4's community resources)
 
 *   [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 
 ## suspense
 
-*   [suspensive/react](https://github.com/suspensive/react) - Packages to use React Suspense & ErrorBoundary easily (one of Tanstack Query v4's community resources)
+*   [toss/suspensive](https://github.com/toss/suspensive) - Packages to use React Suspense & ErrorBoundary easily (one of Tanstack Query v4's community resources)
 
 ## suspensive
 
-*   [suspensive/react](https://github.com/suspensive/react) - Packages to use React Suspense & ErrorBoundary easily (one of Tanstack Query v4's community resources)
+*   [toss/suspensive](https://github.com/toss/suspensive) - Packages to use React Suspense & ErrorBoundary easily (one of Tanstack Query v4's community resources)
 
 ## plugin
 
