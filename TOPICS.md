@@ -919,7 +919,8 @@
 *   [t4-stack](#t4-stack)
 *   [tamagui](#tamagui)
 *   [tanstack](#tanstack)
-*   [heml](#heml)
+*   [helm](#helm)
+*   [helm-charts](#helm-charts)
 *   [pnpm](#pnpm)
 *   [private-npm](#private-npm)
 *   [registry](#registry)
@@ -6802,7 +6803,11 @@
 
 *   [timothymiller/t4-app](https://github.com/timothymiller/t4-app) - A powerful cross-platform UI toolkit for building actually native iOS, Android, macOS, Windows, Linux, and Progressive Web Apps with React (Native).
 
-## heml
+## helm
+
+*   [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
+
+## helm-charts
 
 *   [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
 
