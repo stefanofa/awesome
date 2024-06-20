@@ -257,7 +257,7 @@
 
 *   [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the browser Fetch API
 
-*   [toss/suspensive](https://github.com/toss/suspensive) - Packages to use React Suspense & ErrorBoundary easily (one of Tanstack Query v4's community resources)
+*   [toss/suspensive](https://github.com/toss/suspensive) - Packages to use React Suspense & ErrorBoundary easily (one of Tanstack Query community resources)
 
 *   [astriaai/headshots-starter](https://github.com/astriaai/headshots-starter) -
 
