@@ -30,6 +30,8 @@
 
 ## Go
 
+*   [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+
 *   [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
 
 *   [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find and verify secrets
@@ -503,8 +505,6 @@
 *   [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 
 *   [brimdata/react-arborist](https://github.com/brimdata/react-arborist) - The complete tree view component for React
-
-*   [vercel/on-demand-isr](https://github.com/vercel/on-demand-isr) -
 
 ## miscellaneous
 
