@@ -2350,7 +2350,7 @@
 
 *   [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.
 
-*   [toss/suspensive](https://github.com/toss/suspensive) - Packages to use React Suspense & ErrorBoundary easily (one of Tanstack Query community resources)
+*   [toss/suspensive](https://github.com/toss/suspensive) - Packages to use React Suspense easily (one of Tanstack Query community resources)
 
 *   [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
 
@@ -2930,7 +2930,7 @@
 
 *   [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
 
-*   [unjs/unplugin](https://github.com/unjs/unplugin) - Unified plugin system for Vite, Rollup, Webpack, esbuild, rolldown, and more
+*   [unjs/unplugin](https://github.com/unjs/unplugin) - Unified plugin system for Vite, Rollup, Webpack, esbuild, Rolldown, and more
 
 ## esm
 
@@ -4718,7 +4718,7 @@
 
 *   [wevm/vocs](https://github.com/wevm/vocs) - Minimal Documentation Framework, powered by React + Vite.
 
-*   [unjs/unplugin](https://github.com/unjs/unplugin) - Unified plugin system for Vite, Rollup, Webpack, esbuild, rolldown, and more
+*   [unjs/unplugin](https://github.com/unjs/unplugin) - Unified plugin system for Vite, Rollup, Webpack, esbuild, Rolldown, and more
 
 *   [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.
 
@@ -4830,23 +4830,23 @@
 
 ## rolldown
 
-*   [unjs/unplugin](https://github.com/unjs/unplugin) - Unified plugin system for Vite, Rollup, Webpack, esbuild, rolldown, and more
+*   [unjs/unplugin](https://github.com/unjs/unplugin) - Unified plugin system for Vite, Rollup, Webpack, esbuild, Rolldown, and more
 
 ## rollup
 
-*   [unjs/unplugin](https://github.com/unjs/unplugin) - Unified plugin system for Vite, Rollup, Webpack, esbuild, rolldown, and more
+*   [unjs/unplugin](https://github.com/unjs/unplugin) - Unified plugin system for Vite, Rollup, Webpack, esbuild, Rolldown, and more
 
 ## rspack
 
-*   [unjs/unplugin](https://github.com/unjs/unplugin) - Unified plugin system for Vite, Rollup, Webpack, esbuild, rolldown, and more
+*   [unjs/unplugin](https://github.com/unjs/unplugin) - Unified plugin system for Vite, Rollup, Webpack, esbuild, Rolldown, and more
 
 ## unplugin
 
-*   [unjs/unplugin](https://github.com/unjs/unplugin) - Unified plugin system for Vite, Rollup, Webpack, esbuild, rolldown, and more
+*   [unjs/unplugin](https://github.com/unjs/unplugin) - Unified plugin system for Vite, Rollup, Webpack, esbuild, Rolldown, and more
 
 ## webpack
 
-*   [unjs/unplugin](https://github.com/unjs/unplugin) - Unified plugin system for Vite, Rollup, Webpack, esbuild, rolldown, and more
+*   [unjs/unplugin](https://github.com/unjs/unplugin) - Unified plugin system for Vite, Rollup, Webpack, esbuild, Rolldown, and more
 
 *   [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.
 
@@ -6520,29 +6520,29 @@
 
 ## async
 
-*   [toss/suspensive](https://github.com/toss/suspensive) - Packages to use React Suspense & ErrorBoundary easily (one of Tanstack Query community resources)
+*   [toss/suspensive](https://github.com/toss/suspensive) - Packages to use React Suspense easily (one of Tanstack Query community resources)
 
 ## errorboundary
 
-*   [toss/suspensive](https://github.com/toss/suspensive) - Packages to use React Suspense & ErrorBoundary easily (one of Tanstack Query community resources)
+*   [toss/suspensive](https://github.com/toss/suspensive) - Packages to use React Suspense easily (one of Tanstack Query community resources)
 
 ## react-query
 
-*   [toss/suspensive](https://github.com/toss/suspensive) - Packages to use React Suspense & ErrorBoundary easily (one of Tanstack Query community resources)
+*   [toss/suspensive](https://github.com/toss/suspensive) - Packages to use React Suspense easily (one of Tanstack Query community resources)
 
 ## ssr
 
-*   [toss/suspensive](https://github.com/toss/suspensive) - Packages to use React Suspense & ErrorBoundary easily (one of Tanstack Query community resources)
+*   [toss/suspensive](https://github.com/toss/suspensive) - Packages to use React Suspense easily (one of Tanstack Query community resources)
 
 *   [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 
 ## suspense
 
-*   [toss/suspensive](https://github.com/toss/suspensive) - Packages to use React Suspense & ErrorBoundary easily (one of Tanstack Query community resources)
+*   [toss/suspensive](https://github.com/toss/suspensive) - Packages to use React Suspense easily (one of Tanstack Query community resources)
 
 ## suspensive
 
-*   [toss/suspensive](https://github.com/toss/suspensive) - Packages to use React Suspense & ErrorBoundary easily (one of Tanstack Query community resources)
+*   [toss/suspensive](https://github.com/toss/suspensive) - Packages to use React Suspense easily (one of Tanstack Query community resources)
 
 ## plugin
 

@@ -270,7 +270,7 @@
 
 *   [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
 
-*   [unjs/unplugin](https://github.com/unjs/unplugin) - Unified plugin system for Vite, Rollup, Webpack, esbuild, rolldown, and more
+*   [unjs/unplugin](https://github.com/unjs/unplugin) - Unified plugin system for Vite, Rollup, Webpack, esbuild, Rolldown, and more
 
 *   [rcbyr/keen-slider](https://github.com/rcbyr/keen-slider) - The HTML touch slider carousel with the most native feeling you will get.
 
@@ -360,7 +360,7 @@
 
 *   [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the browser Fetch API
 
-*   [toss/suspensive](https://github.com/toss/suspensive) - Packages to use React Suspense & ErrorBoundary easily (one of Tanstack Query community resources)
+*   [toss/suspensive](https://github.com/toss/suspensive) - Packages to use React Suspense easily (one of Tanstack Query community resources)
 
 *   [astriaai/headshots-starter](https://github.com/astriaai/headshots-starter) -
 
