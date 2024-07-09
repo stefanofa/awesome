@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [miscellaneous](#miscellaneous)
 *   [css](#css)
 *   [font](#font)
 *   [font-family](#font-family)
@@ -115,7 +116,6 @@
 *   [react-router](#react-router)
 *   [remix-run](#remix-run)
 *   [validation](#validation)
-*   [miscellaneous](#miscellaneous)
 *   [apachebench](#apachebench)
 *   [load](#load)
 *   [load-testing](#load-testing)
@@ -1252,13 +1252,102 @@
 *   [charting-library](#charting-library)
 *   [data-visualisation](#data-visualisation)
 *   [recharts](#recharts)
-*   [design-patterns](#design-patterns)
-*   [interview](#interview)
-*   [interview-practice](#interview-practice)
-*   [interview-questions](#interview-questions)
-*   [system](#system)
-*   [web-application](#web-application)
-*   [webapp](#webapp)
+
+## miscellaneous
+
+*   [toss/es-toolkit](https://github.com/toss/es-toolkit) - A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.
+
+*   [IdoPesok/zsa](https://github.com/IdoPesok/zsa) -
+
+*   [workos/awesome-developer-experience](https://github.com/workos/awesome-developer-experience) - 🤘 A curated list of DX (Developer Experience) resources
+
+*   [unjs/h3](https://github.com/unjs/h3) - ⚡️ Minimal H(TTP) framework built for high performance and portability
+
+*   [tapjs/tsimp](https://github.com/tapjs/tsimp) -
+
+*   [sindresorhus/ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner
+
+*   [total-typescript/tsconfig](https://github.com/total-typescript/tsconfig) - The simplest way to set up your tsconfig.json
+
+*   [ponder-sh/ponder](https://github.com/ponder-sh/ponder) - A backend framework for crypto apps
+
+*   [47ng/nuqs](https://github.com/47ng/nuqs) - Type-safe search params state manager for Next.js - Like React.useState, but stored in the URL query string.
+
+*   [vite-pwa/docs](https://github.com/vite-pwa/docs) - Documentation: PWA integrations for Vite and the ecosystem
+
+*   [joschan21/profanity.dev](https://github.com/joschan21/profanity.dev) -
+
+*   [winstonjs/winston](https://github.com/winstonjs/winston) - A logger for just about everything.
+
+*   [unjs/jiti](https://github.com/unjs/jiti) - Runtime Typescript and ESM support for Node.js
+
+*   [GoogleChromeLabs/comlink](https://github.com/GoogleChromeLabs/comlink) - Comlink makes WebWorkers enjoyable.
+
+*   [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (286 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores
+
+*   [favware/esbuild-plugin-file-path-extensions](https://github.com/favware/esbuild-plugin-file-path-extensions) - An esbuild plugin to automatically insert file extensions in your built JavaScript files based on the specified target
+
+*   [veltman/flubber](https://github.com/veltman/flubber) - Tools for smoother shape animations.
+
+*   [contentlayerdev/contentlayer](https://github.com/contentlayerdev/contentlayer) - Contentlayer turns your content into data - making it super easy to import MD(X) and CMS content in your app
+
+*   [vanilla-extract-css/vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
+
+*   [ethanniser/next-typesafe-url](https://github.com/ethanniser/next-typesafe-url) - Fully typesafe, JSON serializable, and zod validated URL search params, dynamic route params, and routing for NextJS.
+
+*   [plantain-00/type-coverage](https://github.com/plantain-00/type-coverage) - A CLI tool to check type coverage for typescript code
+
+*   [bpierre/dnum](https://github.com/bpierre/dnum) - 🧮 Small library for big decimal numbers.
+
+*   [unjs/untun](https://github.com/unjs/untun) - 🚇 Tunnel your local HTTP(s) server to the world! powered by  Cloudflare Quick Tunnels.
+
+*   [jakearchibald/idb-keyval](https://github.com/jakearchibald/idb-keyval) - A super-simple-small promise-based keyval store implemented with IndexedDB
+
+*   [unjs/unstorage](https://github.com/unjs/unstorage) -  💾 Unstorage provides an async Key-Value storage API with conventional features like multi driver mounting, watching and working with metadata, dozens of built-in drivers and a tiny core.
+
+*   [facebook/stylex](https://github.com/facebook/stylex) - StyleX is the styling system for ambitious user interfaces.
+
+*   [dai-shi/waku](https://github.com/dai-shi/waku) - ⛩️ The minimal React framework
+
+*   [koekeishiya/skhd](https://github.com/koekeishiya/skhd) -  Simple hotkey daemon for macOS
+
+*   [illixion/vscode-vibrancy-continued](https://github.com/illixion/vscode-vibrancy-continued) - Enable Acrylic/Glass effect for your VS Code.
+
+*   [hashicorp/nextjs-bundle-analysis](https://github.com/hashicorp/nextjs-bundle-analysis) - A github action that provides detailed bundle analysis on PRs for next.js apps
+
+*   [slowmist/Web3-Project-Security-Practice-Requirements](https://github.com/slowmist/Web3-Project-Security-Practice-Requirements) -
+
+*   [llamaxyz/llama](https://github.com/llamaxyz/llama) - Llama is an onchain governance and access control framework for smart contracts.
+
+*   [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
+
+*   [trustwallet/assets](https://github.com/trustwallet/assets) - A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
+
+*   [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
+
+*   [gabrielediremigio/gabrielediremigio](https://github.com/gabrielediremigio/gabrielediremigio) -
+
+*   [astriaai/headshots-starter](https://github.com/astriaai/headshots-starter) -
+
+*   [eslint/generator-eslint](https://github.com/eslint/generator-eslint) - A Yeoman generator to help with ESLint development
+
+*   [LegendApp/legend-state](https://github.com/LegendApp/legend-state) - Legend-State is a super fast and powerful state library that enables fine-grained reactivity and easy automatic persistence
+
+*   [developit/redaxios](https://github.com/developit/redaxios) - The Axios API, as an 800 byte Fetch wrapper.
+
+*   [ProseMirror/prosemirror](https://github.com/ProseMirror/prosemirror) - The ProseMirror WYSIWYM editor
+
+*   [wormhole-foundation/example-token-bridge-ui](https://github.com/wormhole-foundation/example-token-bridge-ui) - A development bridge UI for testing cross-chain transfers over Wormhole
+
+*   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+
+*   [bluwy/publint](https://github.com/bluwy/publint) - Lint packaging errors
+
+*   [arethetypeswrong/arethetypeswrong.github.io](https://github.com/arethetypeswrong/arethetypeswrong.github.io) - Tool for analyzing TypeScript types of npm packages
+
+*   [transmissions11/solmate](https://github.com/transmissions11/solmate) - Modern, opinionated, and gas optimized building blocks for smart contract development.
+
+*   [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
 
 ## css
 
@@ -1366,7 +1455,7 @@
 
 *   [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
 
-*   [replexica/replexica](https://github.com/replexica/replexica) - 🗺️ Drop-in localization engine for React. Build multilingual products FAST, and reach more customers.
+*   [replexica/replexica](https://github.com/replexica/replexica) - 🗺️ Drop-in localization engine for web and mobile. Build multilingual products FAST, and reach more users.
 
 *   [nkzw-tech/athena-crisis](https://github.com/nkzw-tech/athena-crisis) - Athena Crisis is an Advance Wars inspired modern-retro turn-based tactical strategy game. Athena Crisis is open core technology.
 
@@ -2002,7 +2091,7 @@
 
 *   [edmundhung/conform](https://github.com/edmundhung/conform) - A type-safe form validation library utilizing web fundamentals to progressively enhance HTML Forms with full support for server frameworks like Remix and Next.js.
 
-*   [replexica/replexica](https://github.com/replexica/replexica) - 🗺️ Drop-in localization engine for React. Build multilingual products FAST, and reach more customers.
+*   [replexica/replexica](https://github.com/replexica/replexica) - 🗺️ Drop-in localization engine for web and mobile. Build multilingual products FAST, and reach more users.
 
 *   [TheEdoRan/next-safe-action](https://github.com/TheEdoRan/next-safe-action) - Type safe and validated Server Actions in your Next.js (App Router) project.
 
@@ -2582,100 +2671,6 @@
 
 *   [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data 🤖
 
-## miscellaneous
-
-*   [IdoPesok/zsa](https://github.com/IdoPesok/zsa) -
-
-*   [workos/awesome-developer-experience](https://github.com/workos/awesome-developer-experience) - 🤘 A curated list of DX (Developer Experience) resources
-
-*   [unjs/h3](https://github.com/unjs/h3) - ⚡️ Minimal H(TTP) framework built for high performance and portability
-
-*   [tapjs/tsimp](https://github.com/tapjs/tsimp) -
-
-*   [sindresorhus/ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner
-
-*   [total-typescript/tsconfig](https://github.com/total-typescript/tsconfig) - The simplest way to set up your tsconfig.json
-
-*   [ponder-sh/ponder](https://github.com/ponder-sh/ponder) - A backend framework for crypto apps
-
-*   [47ng/nuqs](https://github.com/47ng/nuqs) - Type-safe search params state manager for Next.js - Like React.useState, but stored in the URL query string.
-
-*   [vite-pwa/docs](https://github.com/vite-pwa/docs) - Documentation: PWA integrations for Vite and the ecosystem
-
-*   [joschan21/profanity.dev](https://github.com/joschan21/profanity.dev) -
-
-*   [winstonjs/winston](https://github.com/winstonjs/winston) - A logger for just about everything.
-
-*   [unjs/jiti](https://github.com/unjs/jiti) - Runtime Typescript and ESM support for Node.js
-
-*   [GoogleChromeLabs/comlink](https://github.com/GoogleChromeLabs/comlink) - Comlink makes WebWorkers enjoyable.
-
-*   [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (286 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores
-
-*   [favware/esbuild-plugin-file-path-extensions](https://github.com/favware/esbuild-plugin-file-path-extensions) - An esbuild plugin to automatically insert file extensions in your built JavaScript files based on the specified target
-
-*   [veltman/flubber](https://github.com/veltman/flubber) - Tools for smoother shape animations.
-
-*   [contentlayerdev/contentlayer](https://github.com/contentlayerdev/contentlayer) - Contentlayer turns your content into data - making it super easy to import MD(X) and CMS content in your app
-
-*   [vanilla-extract-css/vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
-
-*   [ethanniser/next-typesafe-url](https://github.com/ethanniser/next-typesafe-url) - Fully typesafe, JSON serializable, and zod validated URL search params, dynamic route params, and routing for NextJS.
-
-*   [plantain-00/type-coverage](https://github.com/plantain-00/type-coverage) - A CLI tool to check type coverage for typescript code
-
-*   [bpierre/dnum](https://github.com/bpierre/dnum) - 🧮 Small library for big decimal numbers.
-
-*   [unjs/untun](https://github.com/unjs/untun) - 🚇 Tunnel your local HTTP(s) server to the world! powered by  Cloudflare Quick Tunnels.
-
-*   [jakearchibald/idb-keyval](https://github.com/jakearchibald/idb-keyval) - A super-simple-small promise-based keyval store implemented with IndexedDB
-
-*   [unjs/unstorage](https://github.com/unjs/unstorage) -  💾 Unstorage provides an async Key-Value storage API with conventional features like multi driver mounting, watching and working with metadata, dozens of built-in drivers and a tiny core.
-
-*   [facebook/stylex](https://github.com/facebook/stylex) - StyleX is the styling system for ambitious user interfaces.
-
-*   [dai-shi/waku](https://github.com/dai-shi/waku) - ⛩️ The minimal React framework
-
-*   [koekeishiya/skhd](https://github.com/koekeishiya/skhd) -  Simple hotkey daemon for macOS
-
-*   [illixion/vscode-vibrancy-continued](https://github.com/illixion/vscode-vibrancy-continued) - Enable Acrylic/Glass effect for your VS Code.
-
-*   [hashicorp/nextjs-bundle-analysis](https://github.com/hashicorp/nextjs-bundle-analysis) - A github action that provides detailed bundle analysis on PRs for next.js apps
-
-*   [slowmist/Web3-Project-Security-Practice-Requirements](https://github.com/slowmist/Web3-Project-Security-Practice-Requirements) -
-
-*   [llamaxyz/llama](https://github.com/llamaxyz/llama) - Llama is an onchain governance and access control framework for smart contracts.
-
-*   [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
-
-*   [trustwallet/assets](https://github.com/trustwallet/assets) - A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
-
-*   [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
-
-*   [gabrielediremigio/gabrielediremigio](https://github.com/gabrielediremigio/gabrielediremigio) -
-
-*   [astriaai/headshots-starter](https://github.com/astriaai/headshots-starter) -
-
-*   [eslint/generator-eslint](https://github.com/eslint/generator-eslint) - A Yeoman generator to help with ESLint development
-
-*   [LegendApp/legend-state](https://github.com/LegendApp/legend-state) - Legend-State is a super fast and powerful state library that enables fine-grained reactivity and easy automatic persistence
-
-*   [developit/redaxios](https://github.com/developit/redaxios) - The Axios API, as an 800 byte Fetch wrapper.
-
-*   [ProseMirror/prosemirror](https://github.com/ProseMirror/prosemirror) - The ProseMirror WYSIWYM editor
-
-*   [wormhole-foundation/example-token-bridge-ui](https://github.com/wormhole-foundation/example-token-bridge-ui) - A development bridge UI for testing cross-chain transfers over Wormhole
-
-*   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
-
-*   [bluwy/publint](https://github.com/bluwy/publint) - Lint packaging errors
-
-*   [arethetypeswrong/arethetypeswrong.github.io](https://github.com/arethetypeswrong/arethetypeswrong.github.io) - Tool for analyzing TypeScript types of npm packages
-
-*   [transmissions11/solmate](https://github.com/transmissions11/solmate) - Modern, opinionated, and gas optimized building blocks for smart contract development.
-
-*   [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
-
 ## apachebench
 
 *   [six-ddc/plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool that includes a real-time web UI and terminal display
@@ -3198,7 +3193,7 @@
 
 ## i18n
 
-*   [replexica/replexica](https://github.com/replexica/replexica) - 🗺️ Drop-in localization engine for React. Build multilingual products FAST, and reach more customers.
+*   [replexica/replexica](https://github.com/replexica/replexica) - 🗺️ Drop-in localization engine for web and mobile. Build multilingual products FAST, and reach more users.
 
 *   [lokalise/i18n-ally](https://github.com/lokalise/i18n-ally) - 🌍 All in one i18n extension for VS Code
 
@@ -3206,7 +3201,7 @@
 
 ## reactjs
 
-*   [replexica/replexica](https://github.com/replexica/replexica) - 🗺️ Drop-in localization engine for React. Build multilingual products FAST, and reach more customers.
+*   [replexica/replexica](https://github.com/replexica/replexica) - 🗺️ Drop-in localization engine for web and mobile. Build multilingual products FAST, and reach more users.
 
 *   [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 
@@ -3766,8 +3761,6 @@
 
 *   [magicpatterns/catalog](https://github.com/magicpatterns/catalog) - The Magic Patterns Catalog is an open-source website that lists the most popular React component libraries, helping you find the perfect component.
 
-*   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-
 ## prototyping
 
 *   [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
@@ -4247,8 +4240,6 @@
 *   [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
 *   [remeda/remeda](https://github.com/remeda/remeda) - A utility library for JavaScript and TypeScript.
-
-*   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 
 ## tutorial-code
 
@@ -4760,8 +4751,6 @@
 
 *   [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 
-*   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-
 ## iaas
 
 *   [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
@@ -4909,8 +4898,6 @@
 *   [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 
 *   [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
-
-*   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 
 ## chrome-extension
 
@@ -5129,8 +5116,6 @@
 *   [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS
 
 *   [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
-
-*   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 
 ## statusline
 
@@ -7864,8 +7849,6 @@
 
 *   [magicpatterns/catalog](https://github.com/magicpatterns/catalog) - The Magic Patterns Catalog is an open-source website that lists the most popular React component libraries, helping you find the perfect component.
 
-*   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-
 ## styling
 
 *   [magicpatterns/catalog](https://github.com/magicpatterns/catalog) - The Magic Patterns Catalog is an open-source website that lists the most popular React component libraries, helping you find the perfect component.
@@ -8191,31 +8174,3 @@
 ## recharts
 
 *   [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
-
-## design-patterns
-
-*   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-
-## interview
-
-*   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-
-## interview-practice
-
-*   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-
-## interview-questions
-
-*   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-
-## system
-
-*   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-
-## web-application
-
-*   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-
-## webapp
-
-*   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.

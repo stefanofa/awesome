@@ -30,6 +30,8 @@
 
 ## TypeScript
 
+*   [toss/es-toolkit](https://github.com/toss/es-toolkit) - A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.
+
 *   [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
 
 *   [arktypeio/arktype](https://github.com/arktypeio/arktype) - TypeScript's 1:1 validator, optimized from editor to runtime
@@ -70,7 +72,7 @@
 
 *   [dividab/tsconfig-paths](https://github.com/dividab/tsconfig-paths) - Load node modules according to tsconfig paths, in run-time or via API.
 
-*   [replexica/replexica](https://github.com/replexica/replexica) - 🗺️ Drop-in localization engine for React. Build multilingual products FAST, and reach more customers.
+*   [replexica/replexica](https://github.com/replexica/replexica) - 🗺️ Drop-in localization engine for web and mobile. Build multilingual products FAST, and reach more users.
 
 *   [decs/typeschema](https://github.com/decs/typeschema) - 🛵 Universal adapter for TypeScript schema validation.
 
@@ -631,8 +633,6 @@
 *   [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 
 *   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
-
-*   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 
 ## Solidity
 
