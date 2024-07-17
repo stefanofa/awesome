@@ -1883,7 +1883,7 @@
 
 *   [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.
 
-*   [toss/suspensive](https://github.com/toss/suspensive) - Packages for asynchronous operations, timing, error handling, viewport control, and caching (one of Tanstack Query community resources)
+*   [toss/suspensive](https://github.com/toss/suspensive) - Packages for easily managing asynchronous operations, timing, error handling, detecting elements in the viewport, and caching (one of the Tanstack Query community resources)
 
 *   [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
 
@@ -3525,7 +3525,7 @@
 
 *   [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 
-*   [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore.
+*   [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that supports both caching and beyond caching workloads.
 
 *   [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 
@@ -4385,11 +4385,11 @@
 
 ## cache
 
-*   [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore.
+*   [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that supports both caching and beyond caching workloads.
 
 ## database
 
-*   [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore.
+*   [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that supports both caching and beyond caching workloads.
 
 *   [dexie/Dexie.js](https://github.com/dexie/Dexie.js) - A Minimalistic Wrapper for IndexedDB
 
@@ -4405,23 +4405,23 @@
 
 ## key-value
 
-*   [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore.
+*   [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that supports both caching and beyond caching workloads.
 
 ## key-value-store
 
-*   [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore.
+*   [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that supports both caching and beyond caching workloads.
 
 ## nosql
 
-*   [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore.
+*   [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that supports both caching and beyond caching workloads.
 
 ## valkey
 
-*   [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore.
+*   [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that supports both caching and beyond caching workloads.
 
 ## valkey-client
 
-*   [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore.
+*   [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that supports both caching and beyond caching workloads.
 
 ## testcontainers
 
@@ -6889,29 +6889,29 @@
 
 ## async
 
-*   [toss/suspensive](https://github.com/toss/suspensive) - Packages for asynchronous operations, timing, error handling, viewport control, and caching (one of Tanstack Query community resources)
+*   [toss/suspensive](https://github.com/toss/suspensive) - Packages for easily managing asynchronous operations, timing, error handling, detecting elements in the viewport, and caching (one of the Tanstack Query community resources)
 
 ## errorboundary
 
-*   [toss/suspensive](https://github.com/toss/suspensive) - Packages for asynchronous operations, timing, error handling, viewport control, and caching (one of Tanstack Query community resources)
+*   [toss/suspensive](https://github.com/toss/suspensive) - Packages for easily managing asynchronous operations, timing, error handling, detecting elements in the viewport, and caching (one of the Tanstack Query community resources)
 
 ## react-query
 
-*   [toss/suspensive](https://github.com/toss/suspensive) - Packages for asynchronous operations, timing, error handling, viewport control, and caching (one of Tanstack Query community resources)
+*   [toss/suspensive](https://github.com/toss/suspensive) - Packages for easily managing asynchronous operations, timing, error handling, detecting elements in the viewport, and caching (one of the Tanstack Query community resources)
 
 ## ssr
 
-*   [toss/suspensive](https://github.com/toss/suspensive) - Packages for asynchronous operations, timing, error handling, viewport control, and caching (one of Tanstack Query community resources)
+*   [toss/suspensive](https://github.com/toss/suspensive) - Packages for easily managing asynchronous operations, timing, error handling, detecting elements in the viewport, and caching (one of the Tanstack Query community resources)
 
 *   [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 
 ## suspense
 
-*   [toss/suspensive](https://github.com/toss/suspensive) - Packages for asynchronous operations, timing, error handling, viewport control, and caching (one of Tanstack Query community resources)
+*   [toss/suspensive](https://github.com/toss/suspensive) - Packages for easily managing asynchronous operations, timing, error handling, detecting elements in the viewport, and caching (one of the Tanstack Query community resources)
 
 ## suspensive
 
-*   [toss/suspensive](https://github.com/toss/suspensive) - Packages for asynchronous operations, timing, error handling, viewport control, and caching (one of Tanstack Query community resources)
+*   [toss/suspensive](https://github.com/toss/suspensive) - Packages for easily managing asynchronous operations, timing, error handling, detecting elements in the viewport, and caching (one of the Tanstack Query community resources)
 
 ## plugin
 

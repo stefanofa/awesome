@@ -266,7 +266,7 @@
 
 *   [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the browser Fetch API
 
-*   [toss/suspensive](https://github.com/toss/suspensive) - Packages for asynchronous operations, timing, error handling, viewport control, and caching (one of Tanstack Query community resources)
+*   [toss/suspensive](https://github.com/toss/suspensive) - Packages for easily managing asynchronous operations, timing, error handling, detecting elements in the viewport, and caching (one of the Tanstack Query community resources)
 
 *   [astriaai/headshots-starter](https://github.com/astriaai/headshots-starter) -
 
@@ -588,7 +588,7 @@
 
 ## C
 
-*   [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore.
+*   [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that supports both caching and beyond caching workloads.
 
 *   [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
 
