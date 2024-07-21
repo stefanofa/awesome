@@ -152,7 +152,7 @@
 
 *   [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Production-ready. Community-driven.
 
-*   [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure
+*   [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Loved by modern marketing teams like Vercel, Raycast, and Perplexity.
 
 *   [unjs/jiti](https://github.com/unjs/jiti) - Runtime Typescript and ESM support for Node.js
 
