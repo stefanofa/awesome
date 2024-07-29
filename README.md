@@ -300,7 +300,7 @@
 
 *   [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
 
-*   [toss/suspensive](https://github.com/toss/suspensive) - Manage asynchronous operations, timing, error handling, detecting intersection of elements, and caching easily (One of TanStack Query community resources)
+*   [toss/suspensive](https://github.com/toss/suspensive) - Manage asynchronous operations, timing, error handling, detecting intersection of elements, and caching easily and declaratively (One of TanStack Query community resources)
 
 *   [astriaai/headshots-starter](https://github.com/astriaai/headshots-starter) -
 

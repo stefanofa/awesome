@@ -2113,7 +2113,7 @@
 
 *   [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.
 
-*   [toss/suspensive](https://github.com/toss/suspensive) - Manage asynchronous operations, timing, error handling, detecting intersection of elements, and caching easily (One of TanStack Query community resources)
+*   [toss/suspensive](https://github.com/toss/suspensive) - Manage asynchronous operations, timing, error handling, detecting intersection of elements, and caching easily and declaratively (One of TanStack Query community resources)
 
 *   [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
 
@@ -8149,29 +8149,29 @@
 
 ## async
 
-*   [toss/suspensive](https://github.com/toss/suspensive) - Manage asynchronous operations, timing, error handling, detecting intersection of elements, and caching easily (One of TanStack Query community resources)
+*   [toss/suspensive](https://github.com/toss/suspensive) - Manage asynchronous operations, timing, error handling, detecting intersection of elements, and caching easily and declaratively (One of TanStack Query community resources)
 
 ## errorboundary
 
-*   [toss/suspensive](https://github.com/toss/suspensive) - Manage asynchronous operations, timing, error handling, detecting intersection of elements, and caching easily (One of TanStack Query community resources)
+*   [toss/suspensive](https://github.com/toss/suspensive) - Manage asynchronous operations, timing, error handling, detecting intersection of elements, and caching easily and declaratively (One of TanStack Query community resources)
 
 ## react-query
 
-*   [toss/suspensive](https://github.com/toss/suspensive) - Manage asynchronous operations, timing, error handling, detecting intersection of elements, and caching easily (One of TanStack Query community resources)
+*   [toss/suspensive](https://github.com/toss/suspensive) - Manage asynchronous operations, timing, error handling, detecting intersection of elements, and caching easily and declaratively (One of TanStack Query community resources)
 
 ## ssr
 
-*   [toss/suspensive](https://github.com/toss/suspensive) - Manage asynchronous operations, timing, error handling, detecting intersection of elements, and caching easily (One of TanStack Query community resources)
+*   [toss/suspensive](https://github.com/toss/suspensive) - Manage asynchronous operations, timing, error handling, detecting intersection of elements, and caching easily and declaratively (One of TanStack Query community resources)
 
 *   [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 
 ## suspense
 
-*   [toss/suspensive](https://github.com/toss/suspensive) - Manage asynchronous operations, timing, error handling, detecting intersection of elements, and caching easily (One of TanStack Query community resources)
+*   [toss/suspensive](https://github.com/toss/suspensive) - Manage asynchronous operations, timing, error handling, detecting intersection of elements, and caching easily and declaratively (One of TanStack Query community resources)
 
 ## suspensive
 
-*   [toss/suspensive](https://github.com/toss/suspensive) - Manage asynchronous operations, timing, error handling, detecting intersection of elements, and caching easily (One of TanStack Query community resources)
+*   [toss/suspensive](https://github.com/toss/suspensive) - Manage asynchronous operations, timing, error handling, detecting intersection of elements, and caching easily and declaratively (One of TanStack Query community resources)
 
 ## plugin
 
