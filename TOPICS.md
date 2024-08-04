@@ -318,7 +318,6 @@
 *   [toolbox](#toolbox)
 *   [type-level-programming](#type-level-programming)
 *   [types](#types)
-*   [constraint-validation](#constraint-validation)
 *   [form-validation](#form-validation)
 *   [progressive-enhancement](#progressive-enhancement)
 *   [react-router](#react-router)
@@ -4580,10 +4579,6 @@
 *   [ts-essentials/ts-essentials](https://github.com/ts-essentials/ts-essentials) - All essential TypeScript types in one place 🤙
 
 *   [millsp/ts-toolbelt](https://github.com/millsp/ts-toolbelt) - 👷 TypeScript's largest type utility library
-
-## constraint-validation
-
-*   [edmundhung/conform](https://github.com/edmundhung/conform) - A type-safe form validation library utilizing web fundamentals to progressively enhance HTML Forms with full support for server frameworks like Remix and Next.js.
 
 ## form-validation
 
