@@ -1442,7 +1442,6 @@
 *   [unix](#unix)
 *   [css-effects](#css-effects)
 *   [communication](#communication)
-*   [hacktoberfest-accepted](#hacktoberfest-accepted)
 *   [notification-center](#notification-center)
 *   [push-notifications](#push-notifications)
 *   [sms](#sms)
@@ -9996,10 +9995,6 @@
 *   [IanLunn/Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
 
 ## communication
-
-*   [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
-
-## hacktoberfest-accepted
 
 *   [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 
