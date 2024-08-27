@@ -2008,7 +2008,7 @@
 
 *   [TheSGJ/nextjs-toploader](https://github.com/TheSGJ/nextjs-toploader) - A Next.js Top Loading Bar component made using nprogress, works with Next.js 14 , Next.js 13 and React.
 
-*   [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
+*   [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
 
 *   [elrumordelaluz/reactour](https://github.com/elrumordelaluz/reactour) - Tourist Guide into your React Components
 
@@ -2412,7 +2412,7 @@
 
 *   [stackblitz/tutorialkit](https://github.com/stackblitz/tutorialkit) - TutorialKit by StackBlitz - Create interactive tutorials powered by the WebContainer API
 
-*   [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
+*   [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
 
 *   [gildas-lormeau/zip.js](https://github.com/gildas-lormeau/zip.js) - JavaScript library to zip and unzip files supporting multi-core compression, compression streams, zip64, split files and encryption.
 
@@ -3678,7 +3678,7 @@
 
 ## blog
 
-*   [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
+*   [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
 
 *   [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 
@@ -3690,17 +3690,17 @@
 
 ## code
 
-*   [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
+*   [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
 
 ## docs
 
-*   [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
+*   [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
 
 *   [wevm/vocs](https://github.com/wevm/vocs) - Minimal Documentation Framework, powered by React + Vite.
 
 ## markdown
 
-*   [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
+*   [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
 
 *   [wevm/vocs](https://github.com/wevm/vocs) - Minimal Documentation Framework, powered by React + Vite.
 
@@ -3714,7 +3714,7 @@
 
 ## mdx
 
-*   [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
+*   [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
 
 *   [wevm/vocs](https://github.com/wevm/vocs) - Minimal Documentation Framework, powered by React + Vite.
 
@@ -3724,11 +3724,11 @@
 
 ## scrollytelling
 
-*   [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
+*   [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
 
 ## syntax-highlighting
 
-*   [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
+*   [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
 
 *   [code-hike/bright](https://github.com/code-hike/bright) - React Server Component for syntax highlighting
 
