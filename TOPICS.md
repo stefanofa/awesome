@@ -1426,7 +1426,10 @@
 *   [fetch-api](#fetch-api)
 *   [superagent](#superagent)
 *   [xmlhttprequest](#xmlhttprequest)
+*   [certificate-management](#certificate-management)
 *   [end-to-end-encryption](#end-to-end-encryption)
+*   [pki](#pki)
+*   [private-ca](#private-ca)
 *   [secret-manager](#secret-manager)
 *   [secret-scanning](#secret-scanning)
 *   [markup](#markup)
@@ -1597,7 +1600,7 @@
 
 *   [sdorra/content-collections](https://github.com/sdorra/content-collections) - Transform your content into type-safe data collections
 
-*   [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The powerful docs framework based on Next.js. Alternative to Nextra
+*   [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework for Next.js. Alternative to Nextra
 
 *   [zce/velite](https://github.com/zce/velite) - Turns Markdown / MDX, YAML, JSON, or others into app's data layer with Zod schema.
 
@@ -1613,7 +1616,7 @@
 
 *   [sdorra/content-collections](https://github.com/sdorra/content-collections) - Transform your content into type-safe data collections
 
-*   [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The powerful docs framework based on Next.js. Alternative to Nextra
+*   [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework for Next.js. Alternative to Nextra
 
 *   [midday-ai/midday](https://github.com/midday-ai/midday) - Run your business smarter 🪄
 
@@ -1631,7 +1634,7 @@
 
 *   [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.
 
-*   [replexica/replexica](https://github.com/replexica/replexica) - ⚡️ Instant AI localization for modern teams. Build multilingual products 100x faster, and reach more users. Next-gen and invite-only. Ask your team lead to book a demo.
+*   [replexica/replexica](https://github.com/replexica/replexica) - ⚡️ Instant AI localization for multilingual software. Produce professional-grade translations instantly, and reach more users. Invite-only: ask your team lead to book a demo.
 
 *   [TheEdoRan/next-safe-action](https://github.com/TheEdoRan/next-safe-action) - Type safe and validated Server Actions in your Next.js project.
 
@@ -1953,25 +1956,25 @@
 
 ## app-router
 
-*   [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The powerful docs framework based on Next.js. Alternative to Nextra
+*   [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework for Next.js. Alternative to Nextra
 
 *   [shuding/next-view-transitions](https://github.com/shuding/next-view-transitions) - Use CSS View Transitions API in Next.js App Router.
 
 ## content-collections
 
-*   [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The powerful docs framework based on Next.js. Alternative to Nextra
+*   [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework for Next.js. Alternative to Nextra
 
 *   [akhila-ariyachandra/akhilaariyachandra.com](https://github.com/akhila-ariyachandra/akhilaariyachandra.com) - ✨ My portfolio built with Next.js, Tailwind, Content Collections, Turso, Drizzle ORM, and Vercel.
 
 ## contentlayer
 
-*   [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The powerful docs framework based on Next.js. Alternative to Nextra
+*   [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework for Next.js. Alternative to Nextra
 
 *   [zce/velite](https://github.com/zce/velite) - Turns Markdown / MDX, YAML, JSON, or others into app's data layer with Zod schema.
 
 ## docs
 
-*   [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The powerful docs framework based on Next.js. Alternative to Nextra
+*   [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework for Next.js. Alternative to Nextra
 
 *   [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
 
@@ -1979,7 +1982,7 @@
 
 ## next
 
-*   [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The powerful docs framework based on Next.js. Alternative to Nextra
+*   [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework for Next.js. Alternative to Nextra
 
 *   [TheSGJ/nextjs-toploader](https://github.com/TheSGJ/nextjs-toploader) - A Next.js Top Loading Bar component made using nprogress, works with Next.js 14 , Next.js 13 and React.
 
@@ -1987,7 +1990,7 @@
 
 ## tailwindcss
 
-*   [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The powerful docs framework based on Next.js. Alternative to Nextra
+*   [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework for Next.js. Alternative to Nextra
 
 *   [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
 
@@ -2019,7 +2022,7 @@
 
 ## typescript
 
-*   [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The powerful docs framework based on Next.js. Alternative to Nextra
+*   [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework for Next.js. Alternative to Nextra
 
 *   [zce/velite](https://github.com/zce/velite) - Turns Markdown / MDX, YAML, JSON, or others into app's data layer with Zod schema.
 
@@ -2495,7 +2498,7 @@
 
 *   [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.
 
-*   [replexica/replexica](https://github.com/replexica/replexica) - ⚡️ Instant AI localization for modern teams. Build multilingual products 100x faster, and reach more users. Next-gen and invite-only. Ask your team lead to book a demo.
+*   [replexica/replexica](https://github.com/replexica/replexica) - ⚡️ Instant AI localization for multilingual software. Produce professional-grade translations instantly, and reach more users. Invite-only: ask your team lead to book a demo.
 
 *   [nkzw-tech/athena-crisis](https://github.com/nkzw-tech/athena-crisis) - Athena Crisis is an Advance Wars inspired modern-retro turn-based tactical strategy game. Athena Crisis is open core technology.
 
@@ -3703,7 +3706,7 @@
 
 *   [elrumordelaluz/reactour](https://github.com/elrumordelaluz/reactour) - Tourist Guide into your React Components
 
-*   [replexica/replexica](https://github.com/replexica/replexica) - ⚡️ Instant AI localization for modern teams. Build multilingual products 100x faster, and reach more users. Next-gen and invite-only. Ask your team lead to book a demo.
+*   [replexica/replexica](https://github.com/replexica/replexica) - ⚡️ Instant AI localization for multilingual software. Produce professional-grade translations instantly, and reach more users. Invite-only: ask your team lead to book a demo.
 
 *   [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 
@@ -4191,7 +4194,7 @@
 
 *   [opral/monorepo](https://github.com/opral/monorepo) - globalization ecosystem && change control SDK
 
-*   [replexica/replexica](https://github.com/replexica/replexica) - ⚡️ Instant AI localization for modern teams. Build multilingual products 100x faster, and reach more users. Next-gen and invite-only. Ask your team lead to book a demo.
+*   [replexica/replexica](https://github.com/replexica/replexica) - ⚡️ Instant AI localization for multilingual software. Produce professional-grade translations instantly, and reach more users. Invite-only: ask your team lead to book a demo.
 
 *   [lokalise/i18n-ally](https://github.com/lokalise/i18n-ally) - 🌍 All in one i18n extension for VS Code
 
@@ -9915,7 +9918,19 @@
 
 *   [alovajs/alova](https://github.com/alovajs/alova) - Workflow-Streamlined next-generation request tools. Extremely streamline API integration workflow, just one step
 
+## certificate-management
+
+*   [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
+
 ## end-to-end-encryption
+
+*   [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
+
+## pki
+
+*   [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
+
+## private-ca
 
 *   [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
 
