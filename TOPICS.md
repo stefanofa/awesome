@@ -200,6 +200,7 @@
 *   [drag](#drag)
 *   [drag-and-drop](#drag-and-drop)
 *   [forked](#forked)
+*   [react-beautiful-dnd](#react-beautiful-dnd)
 *   [reordering](#reordering)
 *   [sortable](#sortable)
 *   [authentication-backend](#authentication-backend)
@@ -3910,6 +3911,10 @@
 *   [react-grid-layout/react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints, for React.
 
 ## forked
+
+*   [hello-pangea/dnd](https://github.com/hello-pangea/dnd) - Beautiful and accessible drag and drop for lists with React.
+
+## react-beautiful-dnd
 
 *   [hello-pangea/dnd](https://github.com/hello-pangea/dnd) - Beautiful and accessible drag and drop for lists with React.
 
