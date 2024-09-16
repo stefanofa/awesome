@@ -201,6 +201,10 @@
 *   [drag-and-drop](#drag-and-drop)
 *   [forked](#forked)
 *   [react-beautiful-dnd](#react-beautiful-dnd)
+*   [react-component](#react-component)
+*   [react-drag-and-drop](#react-drag-and-drop)
+*   [react-draggable](#react-draggable)
+*   [react-sortable](#react-sortable)
 *   [reordering](#reordering)
 *   [sortable](#sortable)
 *   [authentication-backend](#authentication-backend)
@@ -407,7 +411,6 @@
 *   [react-components](#react-components)
 *   [step-by-step](#step-by-step)
 *   [tourist-guide](#tourist-guide)
-*   [react-component](#react-component)
 *   [tooltip](#tooltip)
 *   [shepherd](#shepherd)
 *   [blockchain](#blockchain)
@@ -3918,6 +3921,28 @@
 
 *   [hello-pangea/dnd](https://github.com/hello-pangea/dnd) - Beautiful and accessible drag and drop for lists with React.
 
+## react-component
+
+*   [hello-pangea/dnd](https://github.com/hello-pangea/dnd) - Beautiful and accessible drag and drop for lists with React.
+
+*   [gilbarbara/react-joyride](https://github.com/gilbarbara/react-joyride) - Create guided tours in your apps
+
+*   [justin-chu/react-fast-marquee](https://github.com/justin-chu/react-fast-marquee) - A lightweight React component that harnesses the power of CSS animations to create silky smooth marquees.
+
+*   [inokawa/virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list (and grid) component for React, Vue, Solid and Svelte.
+
+## react-drag-and-drop
+
+*   [hello-pangea/dnd](https://github.com/hello-pangea/dnd) - Beautiful and accessible drag and drop for lists with React.
+
+## react-draggable
+
+*   [hello-pangea/dnd](https://github.com/hello-pangea/dnd) - Beautiful and accessible drag and drop for lists with React.
+
+## react-sortable
+
+*   [hello-pangea/dnd](https://github.com/hello-pangea/dnd) - Beautiful and accessible drag and drop for lists with React.
+
 ## reordering
 
 *   [hello-pangea/dnd](https://github.com/hello-pangea/dnd) - Beautiful and accessible drag and drop for lists with React.
@@ -5077,14 +5102,6 @@
 ## tourist-guide
 
 *   [elrumordelaluz/reactour](https://github.com/elrumordelaluz/reactour) - Tourist Guide into your React Components
-
-## react-component
-
-*   [gilbarbara/react-joyride](https://github.com/gilbarbara/react-joyride) - Create guided tours in your apps
-
-*   [justin-chu/react-fast-marquee](https://github.com/justin-chu/react-fast-marquee) - A lightweight React component that harnesses the power of CSS animations to create silky smooth marquees.
-
-*   [inokawa/virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list (and grid) component for React, Vue, Solid and Svelte.
 
 ## tooltip
 
