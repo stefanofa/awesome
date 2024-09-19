@@ -425,7 +425,7 @@
 
 *   [toddbluhm/env-cmd](https://github.com/toddbluhm/env-cmd) - Setting environment variables from a file
 
-*   [sst/open-next](https://github.com/sst/open-next) - Open source Next.js serverless adapter
+*   [sst/open-next](https://github.com/sst/open-next) - Open-source Next.js adapter for AWS
 
 *   [streetsidesoftware/cspell](https://github.com/streetsidesoftware/cspell) - A Spell Checker for Code!
 

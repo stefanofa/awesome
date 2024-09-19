@@ -2474,7 +2474,7 @@
 
 *   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure /  DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT/ Claude application.
 
-*   [sst/open-next](https://github.com/sst/open-next) - Open source Next.js serverless adapter
+*   [sst/open-next](https://github.com/sst/open-next) - Open-source Next.js adapter for AWS
 
 *   [nanxiaobei/react-live-island](https://github.com/nanxiaobei/react-live-island) - 🏝 Dynamic Island for React
 
@@ -8820,7 +8820,7 @@
 
 ## aws
 
-*   [sst/open-next](https://github.com/sst/open-next) - Open source Next.js serverless adapter
+*   [sst/open-next](https://github.com/sst/open-next) - Open-source Next.js adapter for AWS
 
 *   [Noovolari/leapp](https://github.com/Noovolari/leapp) - Leapp is the DevTool to access your cloud
 
@@ -8832,7 +8832,7 @@
 
 ## sst
 
-*   [sst/open-next](https://github.com/sst/open-next) - Open source Next.js serverless adapter
+*   [sst/open-next](https://github.com/sst/open-next) - Open-source Next.js adapter for AWS
 
 *   [sst/sst](https://github.com/sst/sst) - SST v2
 
