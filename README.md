@@ -330,7 +330,7 @@
 
 *   [QuiiBz/next-international](https://github.com/QuiiBz/next-international) - Type-safe internationalization (i18n) for Next.js
 
-*   [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with shadcn
+*   [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with shadcn/ui
 
 *   [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel) - A lightweight carousel library with fluid motion and great swipe precision.
 

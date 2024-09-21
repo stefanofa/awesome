@@ -2044,7 +2044,7 @@
 
 *   [lokalise/i18n-ally](https://github.com/lokalise/i18n-ally) - 🌍 All in one i18n extension for VS Code
 
-*   [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with shadcn
+*   [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with shadcn/ui
 
 *   [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel) - A lightweight carousel library with fluid motion and great swipe precision.
 
@@ -2252,7 +2252,7 @@
 
 *   [QuiiBz/next-international](https://github.com/QuiiBz/next-international) - Type-safe internationalization (i18n) for Next.js
 
-*   [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with shadcn
+*   [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with shadcn/ui
 
 *   [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel) - A lightweight carousel library with fluid motion and great swipe precision.
 
@@ -5570,7 +5570,7 @@
 
 *   [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 
-*   [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with shadcn
+*   [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with shadcn/ui
 
 *   [Doist/typist](https://github.com/Doist/typist) - The mighty Tiptap-based rich-text editor that powers Doist products.
 
@@ -8312,19 +8312,19 @@
 
 ## rich-text-editor
 
-*   [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with shadcn
+*   [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with shadcn/ui
 
 *   [Doist/typist](https://github.com/Doist/typist) - The mighty Tiptap-based rich-text editor that powers Doist products.
 
 ## shadcn
 
-*   [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with shadcn
+*   [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with shadcn/ui
 
 *   [nicoalbanese/kirimase](https://github.com/nicoalbanese/kirimase) - Build full-stack Next.js apps, incredibly fast
 
 ## slate
 
-*   [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with shadcn
+*   [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with shadcn/ui
 
 *   [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 
