@@ -648,7 +648,7 @@
 
 *   [veltman/flubber](https://github.com/veltman/flubber) - Tools for smoother shape animations.
 
-*   [google/zx](https://github.com/google/zx) - A tool for writing better scripts
+*   [google/zx](https://github.com/google/zx) - 🔥🔥🔥 A tool for writing better scripts 🔥🔥🔥
 
 *   [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 
@@ -816,7 +816,7 @@
 
 ## Shell
 
-*   [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines for macOS
+*   [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines
 
 *   [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
 
