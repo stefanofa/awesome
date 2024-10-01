@@ -1352,6 +1352,7 @@
 *   [registry-proxy](#registry-proxy)
 *   [sponsor](#sponsor)
 *   [verdaccio](#verdaccio)
+*   [cluster](#cluster)
 *   [effect](#effect)
 *   [opentelemetry](#opentelemetry)
 *   [platform](#platform)
@@ -2567,6 +2568,8 @@
 *   [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 
 *   [logchimp/logchimp](https://github.com/logchimp/logchimp) - Track your customers feedback to build better products with LogChimp. ⭐️ Star to support our work!
+
+*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - A framework for building custom AI Copilots 🤖 in-app AI chatbots, in-app AI Agents, & AI-powered Textareas.
 
 *   [stryker-mutator/stryker-js](https://github.com/stryker-mutator/stryker-js) - Mutation testing for JavaScript and friends
 
@@ -9643,6 +9646,10 @@
 ## verdaccio
 
 *   [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
+
+## cluster
+
+*   [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools for building production-grade applications in TypeScript.
 
 ## effect
 
