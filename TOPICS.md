@@ -2,6 +2,14 @@
 
 ## Table of Contents
 
+*   [animate](#animate)
+*   [animation](#animation)
+*   [css](#css)
+*   [design](#design)
+*   [motion](#motion)
+*   [preset](#preset)
+*   [tailwindcss](#tailwindcss)
+*   [tailwindcss-plugin](#tailwindcss-plugin)
 *   [monorepo](#monorepo)
 *   [nextjs](#nextjs)
 *   [shadcn](#shadcn)
@@ -61,7 +69,6 @@
 *   [product-tour](#product-tour)
 *   [product-tours](#product-tours)
 *   [setup](#setup)
-*   [tailwindcss](#tailwindcss)
 *   [tour](#tour)
 *   [wizard](#wizard)
 *   [awesome](#awesome)
@@ -389,8 +396,6 @@
 *   [lab](#lab)
 *   [oklab](#oklab)
 *   [rgb](#rgb)
-*   [css](#css)
-*   [design](#design)
 *   [design-system](#design-system)
 *   [design-systems](#design-systems)
 *   [design-tokens](#design-tokens)
@@ -1138,7 +1143,6 @@
 *   [tinacms](#tinacms)
 *   [lint](#lint)
 *   [statuspage](#statuspage)
-*   [animation](#animation)
 *   [generative-art](#generative-art)
 *   [motion-design](#motion-design)
 *   [r3f](#r3f)
@@ -1333,6 +1337,7 @@
 *   [react-framework](#react-framework)
 *   [marquee](#marquee)
 *   [ticker](#ticker)
+*   [hacktoberfest2024](#hacktoberfest2024)
 *   [expo](#expo)
 *   [mst](#mst)
 *   [react-native-generator](#react-native-generator)
@@ -1560,8 +1565,96 @@
 *   [blitz](#blitz)
 *   [fullstack](#fullstack)
 *   [prisma2](#prisma2)
-*   [feathers](#feathers)
-*   [feathersjs](#feathersjs)
+
+## animate
+
+*   [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) - tailwindcss-motion is a Tailwind CSS Plugin made at RomboHQ. It’s a simple, yet powerful, animation library with a simple syntax.
+
+## animation
+
+*   [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) - tailwindcss-motion is a Tailwind CSS Plugin made at RomboHQ. It’s a simple, yet powerful, animation library with a simple syntax.
+
+*   [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
+
+*   [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
+
+## css
+
+*   [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) - tailwindcss-motion is a Tailwind CSS Plugin made at RomboHQ. It’s a simple, yet powerful, animation library with a simple syntax.
+
+*   [terrazzoapp/terrazzo](https://github.com/terrazzoapp/terrazzo) - Use DTCG tokens JSON to generate code for web, mobile, native apps, and more
+
+*   [callstack/linaria](https://github.com/callstack/linaria) - Zero-runtime CSS in JS library
+
+*   [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
+
+*   [nkzw-tech/athena-crisis](https://github.com/nkzw-tech/athena-crisis) - Athena Crisis is a modern-retro turn-based tactical strategy game. Athena Crisis is open core technology.
+
+*   [nextui-org/tailwind-variants](https://github.com/nextui-org/tailwind-variants) - 🦄 Tailwindcss first-class variant API
+
+*   [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
+
+*   [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
+
+*   [nativewind/nativewind](https://github.com/nativewind/nativewind) - React Native utility-first universal design system - powered by Tailwind CSS
+
+*   [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME 👇👇👇
+
+## design
+
+*   [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) - tailwindcss-motion is a Tailwind CSS Plugin made at RomboHQ. It’s a simple, yet powerful, animation library with a simple syntax.
+
+*   [terrazzoapp/terrazzo](https://github.com/terrazzoapp/terrazzo) - Use DTCG tokens JSON to generate code for web, mobile, native apps, and more
+
+*   [gmrchk/blobity](https://github.com/gmrchk/blobity) - The cursor is the heart of any interaction with the web. Why not take it to the next level? 🚀
+
+*   [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
+
+*   [magicpatterns/catalog](https://github.com/magicpatterns/catalog) - The Magic Patterns Catalog is an open-source website that lists the most popular React component libraries, helping you find the perfect component.
+
+## motion
+
+*   [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) - tailwindcss-motion is a Tailwind CSS Plugin made at RomboHQ. It’s a simple, yet powerful, animation library with a simple syntax.
+
+## preset
+
+*   [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) - tailwindcss-motion is a Tailwind CSS Plugin made at RomboHQ. It’s a simple, yet powerful, animation library with a simple syntax.
+
+## tailwindcss
+
+*   [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) - tailwindcss-motion is a Tailwind CSS Plugin made at RomboHQ. It’s a simple, yet powerful, animation library with a simple syntax.
+
+*   [uixmat/onborda](https://github.com/uixmat/onborda) - An onboarding wizard flow / product tour for Next.js animated by framer motion
+
+*   [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework for Next.js. Alternative to Nextra
+
+*   [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
+
+*   [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
+
+*   [nextui-org/tailwind-variants](https://github.com/nextui-org/tailwind-variants) - 🦄 Tailwindcss first-class variant API
+
+*   [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Loved by modern marketing teams like Vercel, Raycast, and Perplexity.
+
+*   [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
+
+*   [mfts/papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
+
+*   [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
+
+*   [aanckar/react-pdf-tailwind](https://github.com/aanckar/react-pdf-tailwind) - Use Tailwind CSS to style PDFs created with react-pdf
+
+*   [nativewind/nativewind](https://github.com/nativewind/nativewind) - React Native utility-first universal design system - powered by Tailwind CSS
+
+*   [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - React components to build charts and dashboards
+
+*   [akhila-ariyachandra/akhilaariyachandra.com](https://github.com/akhila-ariyachandra/akhilaariyachandra.com) - ✨ My portfolio built with Next.js, Tailwind, Content Collections, Turso, Drizzle ORM, and Vercel.
+
+*   [animotionjs/animotion](https://github.com/animotionjs/animotion) - 🪄 Create beautiful presentations with Svelte
+
+## tailwindcss-plugin
+
+*   [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) - tailwindcss-motion is a Tailwind CSS Plugin made at RomboHQ. It’s a simple, yet powerful, animation library with a simple syntax.
 
 ## monorepo
 
@@ -1577,7 +1670,7 @@
 
 *   [uixmat/onborda](https://github.com/uixmat/onborda) - An onboarding wizard flow / product tour for Next.js animated by framer motion
 
-*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - react UI + infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
+*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
 
 *   [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev is the open source background jobs platform.
 
@@ -1879,8 +1972,6 @@
 
 *   [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js
 
-*   [feathersjs/feathers](https://github.com/feathersjs/feathers) - The API and real-time application framework
-
 ## typescript
 
 *   [bloomberg/stricli](https://github.com/bloomberg/stricli) - Build complex CLIs with type safety and no dependencies
@@ -1893,7 +1984,7 @@
 
 *   [algorandfoundation/algokit-lora](https://github.com/algorandfoundation/algokit-lora) -
 
-*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - react UI + infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
+*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
 
 *   [evmts/tevm-monorepo](https://github.com/evmts/tevm-monorepo) - A library that enables next-generation UX and DX via putting an ethereum node in the browser and solidity in javascript
 
@@ -2073,8 +2164,6 @@
 
 *   [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js
 
-*   [feathersjs/feathers](https://github.com/feathersjs/feathers) - The API and real-time application framework
-
 ## compiler
 
 *   [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
@@ -2241,8 +2330,6 @@
 
 *   [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
 
-*   [feathersjs/feathers](https://github.com/feathersjs/feathers) - The API and real-time application framework
-
 ## secret-sharing
 
 *   [dmno-dev/dmno](https://github.com/dmno-dev/dmno) - Full-stack configuration & secrets. Batteries included.
@@ -2405,7 +2492,7 @@
 
 *   [winstonjs/winston](https://github.com/winstonjs/winston) - A logger for just about everything.
 
-*   [unjs/jiti](https://github.com/unjs/jiti) - Runtime Typescript and ESM support for Node.js
+*   [unjs/jiti](https://github.com/unjs/jiti) - Runtime TypeScript and ESM support for Node.js
 
 *   [GoogleChromeLabs/comlink](https://github.com/GoogleChromeLabs/comlink) - Comlink makes WebWorkers enjoyable.
 
@@ -2573,7 +2660,7 @@
 
 *   [unadlib/mutative](https://github.com/unadlib/mutative) - Efficient immutable updates, 2-6x faster than naive handcrafted reducer, and more than 10x faster than Immer.
 
-*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - react UI + infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
+*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
 
 *   [sdorra/content-collections](https://github.com/sdorra/content-collections) - Transform your content into type-safe data collections
 
@@ -2773,7 +2860,7 @@
 
 *   [leerob/vim-for-react-devs](https://github.com/leerob/vim-for-react-devs) - A bite-sized course to get you quickly productive with Vim.
 
-*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - react UI + infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
+*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
 
 *   [mathuo/dockview](https://github.com/mathuo/dockview) - Zero dependency Docking Layout Manager. Supports Vanilla TypeScript, React and Vue.
 
@@ -2857,36 +2944,6 @@
 
 *   [uixmat/onborda](https://github.com/uixmat/onborda) - An onboarding wizard flow / product tour for Next.js animated by framer motion
 
-## tailwindcss
-
-*   [uixmat/onborda](https://github.com/uixmat/onborda) - An onboarding wizard flow / product tour for Next.js animated by framer motion
-
-*   [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework for Next.js. Alternative to Nextra
-
-*   [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
-
-*   [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
-
-*   [nextui-org/tailwind-variants](https://github.com/nextui-org/tailwind-variants) - 🦄 Tailwindcss first-class variant API
-
-*   [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Loved by modern marketing teams like Vercel, Raycast, and Perplexity.
-
-*   [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
-
-*   [mfts/papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
-
-*   [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
-
-*   [aanckar/react-pdf-tailwind](https://github.com/aanckar/react-pdf-tailwind) - Use Tailwind CSS to style PDFs created with react-pdf
-
-*   [nativewind/nativewind](https://github.com/nativewind/nativewind) - React Native utility-first universal design system - powered by Tailwind CSS
-
-*   [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - React components to build charts and dashboards
-
-*   [akhila-ariyachandra/akhilaariyachandra.com](https://github.com/akhila-ariyachandra/akhilaariyachandra.com) - ✨ My portfolio built with Next.js, Tailwind, Content Collections, Turso, Drizzle ORM, and Vercel.
-
-*   [animotionjs/animotion](https://github.com/animotionjs/animotion) - 🪄 Create beautiful presentations with Svelte
-
 ## tour
 
 *   [uixmat/onborda](https://github.com/uixmat/onborda) - An onboarding wizard flow / product tour for Next.js animated by framer motion
@@ -2937,7 +2994,7 @@
 
 *   [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui.
 
-*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - react UI + infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
+*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
 
 *   [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
 
@@ -3011,8 +3068,6 @@
 
 *   [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js
 
-*   [feathersjs/feathers](https://github.com/feathersjs/feathers) - The API and real-time application framework
-
 ## functional
 
 *   [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
@@ -3073,7 +3128,7 @@
 
 *   [logchimp/logchimp](https://github.com/logchimp/logchimp) - Track your customers feedback to build better products with LogChimp. ⭐️ Star to support our work!
 
-*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - react UI + infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
+*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
 
 *   [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway with integrated Guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
 
@@ -3138,6 +3193,8 @@
 *   [ethereum-lists/chains](https://github.com/ethereum-lists/chains) - provides metadata for chains
 
 *   [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
+
+*   [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
 
 *   [electron/forge](https://github.com/electron/forge) - :electron: A complete tool for building and publishing Electron applications
 
@@ -3375,15 +3432,15 @@
 
 ## agent
 
-*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - react UI + infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
+*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
 
 ## agents
 
-*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - react UI + infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
+*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
 
 ## ai
 
-*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - react UI + infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
+*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
 
 *   [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 
@@ -3401,43 +3458,43 @@
 
 ## ai-agent
 
-*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - react UI + infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
+*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
 
 ## ai-assistant
 
-*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - react UI + infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
+*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
 
 ## assistant
 
-*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - react UI + infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
+*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
 
 ## copilot
 
-*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - react UI + infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
+*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
 
 ## copilot-chat
 
-*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - react UI + infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
+*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
 
 ## langchain
 
-*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - react UI + infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
+*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
 
 *   [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway with integrated Guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
 
 ## langgraph
 
-*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - react UI + infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
+*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
 
 ## llm
 
-*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - react UI + infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
+*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
 
 *   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 
 ## ts
 
-*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - react UI + infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
+*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
 
 *   [alexcanessa/typescript-coverage-report](https://github.com/alexcanessa/typescript-coverage-report) - Node command tool to generate TypeScript coverage report
 
@@ -4897,8 +4954,6 @@
 
 *   [nativewind/nativewind](https://github.com/nativewind/nativewind) - React Native utility-first universal design system - powered by Tailwind CSS
 
-*   [feathersjs/feathers](https://github.com/feathersjs/feathers) - The API and real-time application framework
-
 ## stepper
 
 *   [damianricobelli/stepperize](https://github.com/damianricobelli/stepperize) - A library for creating step-by-step workflows in your apps
@@ -5038,36 +5093,6 @@
 ## rgb
 
 *   [Evercoder/culori](https://github.com/Evercoder/culori) - A comprehensive color library for JavaScript.
-
-## css
-
-*   [terrazzoapp/terrazzo](https://github.com/terrazzoapp/terrazzo) - Use DTCG tokens JSON to generate code for web, mobile, native apps, and more
-
-*   [callstack/linaria](https://github.com/callstack/linaria) - Zero-runtime CSS in JS library
-
-*   [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
-
-*   [nkzw-tech/athena-crisis](https://github.com/nkzw-tech/athena-crisis) - Athena Crisis is a modern-retro turn-based tactical strategy game. Athena Crisis is open core technology.
-
-*   [nextui-org/tailwind-variants](https://github.com/nextui-org/tailwind-variants) - 🦄 Tailwindcss first-class variant API
-
-*   [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
-
-*   [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
-
-*   [nativewind/nativewind](https://github.com/nativewind/nativewind) - React Native utility-first universal design system - powered by Tailwind CSS
-
-*   [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME 👇👇👇
-
-## design
-
-*   [terrazzoapp/terrazzo](https://github.com/terrazzoapp/terrazzo) - Use DTCG tokens JSON to generate code for web, mobile, native apps, and more
-
-*   [gmrchk/blobity](https://github.com/gmrchk/blobity) - The cursor is the heart of any interaction with the web. Why not take it to the next level? 🚀
-
-*   [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
-
-*   [magicpatterns/catalog](https://github.com/magicpatterns/catalog) - The Magic Patterns Catalog is an open-source website that lists the most popular React component libraries, helping you find the perfect component.
 
 ## design-system
 
@@ -5449,8 +5474,6 @@
 
 *   [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 
-*   [feathersjs/feathers](https://github.com/feathersjs/feathers) - The API and real-time application framework
-
 ## bunjs
 
 *   [gildas-lormeau/zip.js](https://github.com/gildas-lormeau/zip.js) - JavaScript library to zip and unzip files supporting multi-core compression, compression streams, zip64, split files and encryption.
@@ -5790,8 +5813,6 @@
 *   [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
 
 *   [sanity-io/sanity](https://github.com/sanity-io/sanity) - Sanity Studio – Rapidly configure content workspaces powered by structured content
-
-*   [feathersjs/feathers](https://github.com/feathersjs/feathers) - The API and real-time application framework
 
 ## slack
 
@@ -8733,12 +8754,6 @@
 
 *   [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) - Awesome list of status page open source software, services and public status pages of major internet companies
 
-## animation
-
-*   [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
-
-*   [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
-
 ## generative-art
 
 *   [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
@@ -9586,6 +9601,10 @@
 ## ticker
 
 *   [justin-chu/react-fast-marquee](https://github.com/justin-chu/react-fast-marquee) - A lightweight React component that harnesses the power of CSS animations to create silky smooth marquees.
+
+## hacktoberfest2024
+
+*   [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
 
 ## expo
 
@@ -10524,11 +10543,3 @@
 ## prisma2
 
 *   [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js
-
-## feathers
-
-*   [feathersjs/feathers](https://github.com/feathersjs/feathers) - The API and real-time application framework
-
-## feathersjs
-
-*   [feathersjs/feathers](https://github.com/feathersjs/feathers) - The API and real-time application framework
