@@ -11,8 +11,9 @@
 *   [Vue](#vue)
 *   [Solidity](#solidity)
 *   [Java](#java)
+*   [C++](#c)
 *   [Swift](#swift)
-*   [C](#c)
+*   [C](#c-1)
 *   [Markdown](#markdown)
 *   [Ruby](#ruby)
 *   [Shell](#shell)
@@ -25,7 +26,6 @@
 *   [PHP](#php)
 *   [Lua](#lua)
 *   [Kotlin](#kotlin)
-*   [C++](#c-1)
 *   [Zig](#zig)
 *   [Svelte](#svelte)
 *   [Jupyter Notebook](#jupyter-notebook)
@@ -426,7 +426,7 @@
 
 *   [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
 
-*   [toss/suspensive](https://github.com/toss/suspensive) - Manage asynchronous operations, timing, error handling, detecting intersection of elements, and caching easily and declaratively
+*   [toss/suspensive](https://github.com/toss/suspensive) - Manage asynchronous operations, timing, error handling and detecting intersection of elements easily (one of TanStack Query's community resources)
 
 *   [astriaai/headshots-starter](https://github.com/astriaai/headshots-starter) -
 
@@ -728,8 +728,6 @@
 
 *   [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback
 
-*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
-
 *   [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A fast, smart, & global CDN for modern(es2015+) web development.
 
 *   [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
@@ -779,6 +777,14 @@
 *   [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
 
 *   [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
+
+## C++
+
+*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
+
+*   [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
+
+*   [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
 
 ## Swift
 
@@ -865,12 +871,6 @@
 ## Kotlin
 
 *   [ethereum-lists/chains](https://github.com/ethereum-lists/chains) - provides metadata for chains
-
-## C++
-
-*   [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
-
-*   [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
 
 ## Zig
 
