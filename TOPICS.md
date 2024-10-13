@@ -2,6 +2,15 @@
 
 ## Table of Contents
 
+*   [annotation-tool](#annotation-tool)
+*   [code-annotation](#code-annotation)
+*   [code-blocks](#code-blocks)
+*   [code-documentation](#code-documentation)
+*   [diff](#diff)
+*   [documentation-tool](#documentation-tool)
+*   [syntax-highlighting](#syntax-highlighting)
+*   [text-marker](#text-marker)
+*   [web-development](#web-development)
 *   [miscellaneous](#miscellaneous)
 *   [generation](#generation)
 *   [preset](#preset)
@@ -228,7 +237,6 @@
 *   [stryker](#stryker)
 *   [color-themes](#color-themes)
 *   [delta](#delta)
-*   [diff](#diff)
 *   [git](#git)
 *   [git-delta](#git-delta)
 *   [pager](#pager)
@@ -468,7 +476,6 @@
 *   [blog](#blog)
 *   [code](#code)
 *   [scrollytelling](#scrollytelling)
-*   [syntax-highlighting](#syntax-highlighting)
 *   [gpt](#gpt)
 *   [llamacpp](#llamacpp)
 *   [localai](#localai)
@@ -1562,7 +1569,48 @@
 *   [chatgpt-api](#chatgpt-api)
 *   [language](#language)
 *   [toolchain](#toolchain)
-*   [contracts](#contracts)
+
+## annotation-tool
+
+*   [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code) - A text marking & annotation engine for presenting source code on the web.
+
+## code-annotation
+
+*   [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code) - A text marking & annotation engine for presenting source code on the web.
+
+## code-blocks
+
+*   [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code) - A text marking & annotation engine for presenting source code on the web.
+
+## code-documentation
+
+*   [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code) - A text marking & annotation engine for presenting source code on the web.
+
+## diff
+
+*   [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code) - A text marking & annotation engine for presenting source code on the web.
+
+*   [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
+
+## documentation-tool
+
+*   [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code) - A text marking & annotation engine for presenting source code on the web.
+
+## syntax-highlighting
+
+*   [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code) - A text marking & annotation engine for presenting source code on the web.
+
+*   [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
+
+*   [code-hike/bright](https://github.com/code-hike/bright) - React Server Component for syntax highlighting
+
+## text-marker
+
+*   [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code) - A text marking & annotation engine for presenting source code on the web.
+
+## web-development
+
+*   [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code) - A text marking & annotation engine for presenting source code on the web.
 
 ## miscellaneous
 
@@ -4160,10 +4208,6 @@
 
 *   [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 
-## diff
-
-*   [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
-
 ## git
 
 *   [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
@@ -5510,12 +5554,6 @@
 
 *   [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
 
-## syntax-highlighting
-
-*   [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
-
-*   [code-hike/bright](https://github.com/code-hike/bright) - React Server Component for syntax highlighting
-
 ## gpt
 
 *   [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM)
@@ -6369,8 +6407,6 @@
 ## verification
 
 *   [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
-
-*   [ethereum/sourcify](https://github.com/ethereum/sourcify) - Decentralized Solidity contract source code verification service
 
 ## vault
 
@@ -10561,7 +10597,3 @@
 ## toolchain
 
 *   [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
-
-## contracts
-
-*   [ethereum/sourcify](https://github.com/ethereum/sourcify) - Decentralized Solidity contract source code verification service
