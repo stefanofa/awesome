@@ -256,7 +256,7 @@
 
 *   [dividab/tsconfig-paths](https://github.com/dividab/tsconfig-paths) - Load node modules according to tsconfig paths, in run-time or via API.
 
-*   [replexica/replexica](https://github.com/replexica/replexica) - ⚡️ State-of-the-art AI localization for web & mobile, right from CI/CD. Talk to our dev team to become a customer!
+*   [replexica/replexica](https://github.com/replexica/replexica) - ⚡️ State-of-the-art AI localization, right from CI/CD. Talk to our dev team to become a customer!
 
 *   [decs/typeschema](https://github.com/decs/typeschema) - 🛵 Universal adapter for TypeScript schema validation.
 

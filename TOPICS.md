@@ -1852,6 +1852,8 @@
 
 *   [shipshapecode/shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
 
+*   [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
+
 *   [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
 
 *   [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management solution built for developers.
@@ -1870,7 +1872,7 @@
 
 *   [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 
-*   [replexica/replexica](https://github.com/replexica/replexica) - ⚡️ State-of-the-art AI localization for web & mobile, right from CI/CD. Talk to our dev team to become a customer!
+*   [replexica/replexica](https://github.com/replexica/replexica) - ⚡️ State-of-the-art AI localization, right from CI/CD. Talk to our dev team to become a customer!
 
 *   [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 
@@ -1960,7 +1962,7 @@
 
 *   [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.
 
-*   [replexica/replexica](https://github.com/replexica/replexica) - ⚡️ State-of-the-art AI localization for web & mobile, right from CI/CD. Talk to our dev team to become a customer!
+*   [replexica/replexica](https://github.com/replexica/replexica) - ⚡️ State-of-the-art AI localization, right from CI/CD. Talk to our dev team to become a customer!
 
 *   [TheEdoRan/next-safe-action](https://github.com/TheEdoRan/next-safe-action) - Type safe and validated Server Actions in your Next.js project.
 
@@ -2730,7 +2732,7 @@
 
 *   [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.
 
-*   [replexica/replexica](https://github.com/replexica/replexica) - ⚡️ State-of-the-art AI localization for web & mobile, right from CI/CD. Talk to our dev team to become a customer!
+*   [replexica/replexica](https://github.com/replexica/replexica) - ⚡️ State-of-the-art AI localization, right from CI/CD. Talk to our dev team to become a customer!
 
 *   [nkzw-tech/athena-crisis](https://github.com/nkzw-tech/athena-crisis) - Athena Crisis is a modern-retro turn-based tactical strategy game. Athena Crisis is open core technology.
 
@@ -3216,7 +3218,7 @@
 
 *   [elrumordelaluz/reactour](https://github.com/elrumordelaluz/reactour) - Tourist Guide into your React Components
 
-*   [replexica/replexica](https://github.com/replexica/replexica) - ⚡️ State-of-the-art AI localization for web & mobile, right from CI/CD. Talk to our dev team to become a customer!
+*   [replexica/replexica](https://github.com/replexica/replexica) - ⚡️ State-of-the-art AI localization, right from CI/CD. Talk to our dev team to become a customer!
 
 *   [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 
@@ -5366,7 +5368,7 @@
 
 *   [opral/monorepo](https://github.com/opral/monorepo) - globalization ecosystem && change control SDK
 
-*   [replexica/replexica](https://github.com/replexica/replexica) - ⚡️ State-of-the-art AI localization for web & mobile, right from CI/CD. Talk to our dev team to become a customer!
+*   [replexica/replexica](https://github.com/replexica/replexica) - ⚡️ State-of-the-art AI localization, right from CI/CD. Talk to our dev team to become a customer!
 
 *   [lokalise/i18n-ally](https://github.com/lokalise/i18n-ally) - 🌍 All in one i18n extension for VS Code
 
@@ -7038,7 +7040,7 @@
 
 ## hacktoberfest2024
 
-*   [replexica/replexica](https://github.com/replexica/replexica) - ⚡️ State-of-the-art AI localization for web & mobile, right from CI/CD. Talk to our dev team to become a customer!
+*   [replexica/replexica](https://github.com/replexica/replexica) - ⚡️ State-of-the-art AI localization, right from CI/CD. Talk to our dev team to become a customer!
 
 *   [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
 
