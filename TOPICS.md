@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [miscellaneous](#miscellaneous)
 *   [annotation-tool](#annotation-tool)
 *   [code-annotation](#code-annotation)
 *   [code-blocks](#code-blocks)
@@ -11,7 +12,6 @@
 *   [syntax-highlighting](#syntax-highlighting)
 *   [text-marker](#text-marker)
 *   [web-development](#web-development)
-*   [miscellaneous](#miscellaneous)
 *   [generation](#generation)
 *   [preset](#preset)
 *   [productivity](#productivity)
@@ -1101,7 +1101,6 @@
 *   [translation](#translation)
 *   [vscode-extension](#vscode-extension)
 *   [vue-i18n](#vue-i18n)
-*   [rich-text-editor](#rich-text-editor)
 *   [slate](#slate)
 *   [api-client](#api-client)
 *   [graphql-client](#graphql-client)
@@ -1216,6 +1215,7 @@
 *   [markdown-editor](#markdown-editor)
 *   [plain-text](#plain-text)
 *   [plain-text-editor](#plain-text-editor)
+*   [rich-text-editor](#rich-text-editor)
 *   [tiptap-editor](#tiptap-editor)
 *   [typist](#typist)
 *   [react-context](#react-context)
@@ -1568,51 +1568,10 @@
 *   [chatbot](#chatbot)
 *   [chatgpt-api](#chatgpt-api)
 *   [language](#language)
-*   [toolchain](#toolchain)
-
-## annotation-tool
-
-*   [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code) - A text marking & annotation engine for presenting source code on the web.
-
-## code-annotation
-
-*   [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code) - A text marking & annotation engine for presenting source code on the web.
-
-## code-blocks
-
-*   [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code) - A text marking & annotation engine for presenting source code on the web.
-
-## code-documentation
-
-*   [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code) - A text marking & annotation engine for presenting source code on the web.
-
-## diff
-
-*   [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code) - A text marking & annotation engine for presenting source code on the web.
-
-*   [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
-
-## documentation-tool
-
-*   [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code) - A text marking & annotation engine for presenting source code on the web.
-
-## syntax-highlighting
-
-*   [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code) - A text marking & annotation engine for presenting source code on the web.
-
-*   [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
-
-*   [code-hike/bright](https://github.com/code-hike/bright) - React Server Component for syntax highlighting
-
-## text-marker
-
-*   [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code) - A text marking & annotation engine for presenting source code on the web.
-
-## web-development
-
-*   [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code) - A text marking & annotation engine for presenting source code on the web.
 
 ## miscellaneous
+
+*   [pilcrowonpaper/copenhagen](https://github.com/pilcrowonpaper/copenhagen) - A basic guideline on implementing auth for the web
 
 *   [jamdotdev/dev-starter-pack](https://github.com/jamdotdev/dev-starter-pack) - The essential startup starter kit.
 
@@ -1749,6 +1708,48 @@
 *   [wormhole-foundation/example-token-bridge-ui](https://github.com/wormhole-foundation/example-token-bridge-ui) - A development bridge UI for testing cross-chain transfers over Wormhole
 
 *   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+
+## annotation-tool
+
+*   [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code) - A text marking & annotation engine for presenting source code on the web.
+
+## code-annotation
+
+*   [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code) - A text marking & annotation engine for presenting source code on the web.
+
+## code-blocks
+
+*   [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code) - A text marking & annotation engine for presenting source code on the web.
+
+## code-documentation
+
+*   [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code) - A text marking & annotation engine for presenting source code on the web.
+
+## diff
+
+*   [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code) - A text marking & annotation engine for presenting source code on the web.
+
+*   [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
+
+## documentation-tool
+
+*   [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code) - A text marking & annotation engine for presenting source code on the web.
+
+## syntax-highlighting
+
+*   [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code) - A text marking & annotation engine for presenting source code on the web.
+
+*   [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
+
+*   [code-hike/bright](https://github.com/code-hike/bright) - React Server Component for syntax highlighting
+
+## text-marker
+
+*   [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code) - A text marking & annotation engine for presenting source code on the web.
+
+## web-development
+
+*   [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code) - A text marking & annotation engine for presenting source code on the web.
 
 ## generation
 
@@ -2406,8 +2407,6 @@
 
 *   [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
 
-*   [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
-
 ## ui
 
 *   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source, local-first Webflow alternative. Design directly in your live React site and publish your changes to code.
@@ -2824,8 +2823,6 @@
 
 *   [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 
-*   [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
-
 ## compiler
 
 *   [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
@@ -2849,8 +2846,6 @@
 *   [eslint/eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
 
 *   [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
-
-*   [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
 
 ## minifier
 
@@ -5531,8 +5526,6 @@
 *   [autofix-ci/action](https://github.com/autofix-ci/action) - The autofix.ci GitHub Action.
 
 *   [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
-
-*   [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
 
 ## github-actions
 
@@ -8618,12 +8611,6 @@
 
 *   [lokalise/i18n-ally](https://github.com/lokalise/i18n-ally) - 🌍 All in one i18n extension for VS Code
 
-## rich-text-editor
-
-*   [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with shadcn/ui
-
-*   [Doist/typist](https://github.com/Doist/typist) - The mighty Tiptap-based rich-text editor that powers Doist products.
-
 ## slate
 
 *   [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with shadcn/ui
@@ -9093,6 +9080,10 @@
 *   [Doist/typist](https://github.com/Doist/typist) - The mighty Tiptap-based rich-text editor that powers Doist products.
 
 ## plain-text-editor
+
+*   [Doist/typist](https://github.com/Doist/typist) - The mighty Tiptap-based rich-text editor that powers Doist products.
+
+## rich-text-editor
 
 *   [Doist/typist](https://github.com/Doist/typist) - The mighty Tiptap-based rich-text editor that powers Doist products.
 
@@ -10595,7 +10586,3 @@
 ## language
 
 *   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
-
-## toolchain
-
-*   [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
