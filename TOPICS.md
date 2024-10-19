@@ -2,8 +2,12 @@
 
 ## Table of Contents
 
-*   [animated](#animated)
+*   [accessible](#accessible)
 *   [animation](#animation)
+*   [number-format](#number-format)
+*   [odometer](#odometer)
+*   [react-animation](#react-animation)
+*   [animated](#animated)
 *   [components](#components)
 *   [framer-motion](#framer-motion)
 *   [tailwindcss](#tailwindcss)
@@ -1814,11 +1818,13 @@
 *   [wallet](#wallet)
 *   [widget](#widget)
 
-## animated
+## accessible
 
-*   [ibelick/motion-primitives](https://github.com/ibelick/motion-primitives) - A collection of open-source, customizable motion components built on top of Framer Motion.
+*   [barvian/number-flow](https://github.com/barvian/number-flow) - A React component to transition, format, and localize numbers.
 
 ## animation
+
+*   [barvian/number-flow](https://github.com/barvian/number-flow) - A React component to transition, format, and localize numbers.
 
 *   [ibelick/motion-primitives](https://github.com/ibelick/motion-primitives) - A collection of open-source, customizable motion components built on top of Framer Motion.
 
@@ -1833,6 +1839,22 @@
 *   [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code
 
 *   [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
+
+## number-format
+
+*   [barvian/number-flow](https://github.com/barvian/number-flow) - A React component to transition, format, and localize numbers.
+
+## odometer
+
+*   [barvian/number-flow](https://github.com/barvian/number-flow) - A React component to transition, format, and localize numbers.
+
+## react-animation
+
+*   [barvian/number-flow](https://github.com/barvian/number-flow) - A React component to transition, format, and localize numbers.
+
+## animated
+
+*   [ibelick/motion-primitives](https://github.com/ibelick/motion-primitives) - A collection of open-source, customizable motion components built on top of Framer Motion.
 
 ## components
 
@@ -2749,8 +2771,6 @@
 *   [0xvadym/awesome-defi-product-management](https://github.com/0xvadym/awesome-defi-product-management) - A curated list of DeFi product management resources
 
 *   [0xEssential/opensea-discord-bot](https://github.com/0xEssential/opensea-discord-bot) - A TS script to hit the OpenSea API for collection sales and send messages to Discord
-
-*   [mewo2/terrain](https://github.com/mewo2/terrain) - Fantasy map generator
 
 ## builder
 
@@ -6350,11 +6370,11 @@
 
 ## globalization
 
-*   [opral/monorepo](https://github.com/opral/monorepo) - globalization ecosystem && change control SDK
+*   [opral/monorepo](https://github.com/opral/monorepo) - lix (change control system) && inlang (globalization ecosystem for software built on lix)
 
 ## i18n
 
-*   [opral/monorepo](https://github.com/opral/monorepo) - globalization ecosystem && change control SDK
+*   [opral/monorepo](https://github.com/opral/monorepo) - lix (change control system) && inlang (globalization ecosystem for software built on lix)
 
 *   [replexica/replexica](https://github.com/replexica/replexica) - ⚡️ State-of-the-art AI localization, right from CI/CD. Talk to our dev team to become a customer!
 
@@ -6364,15 +6384,15 @@
 
 ## localisation
 
-*   [opral/monorepo](https://github.com/opral/monorepo) - globalization ecosystem && change control SDK
+*   [opral/monorepo](https://github.com/opral/monorepo) - lix (change control system) && inlang (globalization ecosystem for software built on lix)
 
 ## localization
 
-*   [opral/monorepo](https://github.com/opral/monorepo) - globalization ecosystem && change control SDK
+*   [opral/monorepo](https://github.com/opral/monorepo) - lix (change control system) && inlang (globalization ecosystem for software built on lix)
 
 ## vscode
 
-*   [opral/monorepo](https://github.com/opral/monorepo) - globalization ecosystem && change control SDK
+*   [opral/monorepo](https://github.com/opral/monorepo) - lix (change control system) && inlang (globalization ecosystem for software built on lix)
 
 *   [lokalise/i18n-ally](https://github.com/lokalise/i18n-ally) - 🌍 All in one i18n extension for VS Code
 

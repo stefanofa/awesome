@@ -35,6 +35,8 @@
 
 ## TypeScript
 
+*   [barvian/number-flow](https://github.com/barvian/number-flow) - A React component to transition, format, and localize numbers.
+
 *   [ibelick/motion-primitives](https://github.com/ibelick/motion-primitives) - A collection of open-source, customizable motion components built on top of Framer Motion.
 
 *   [joshuawootonn/react-components-from-scratch](https://github.com/joshuawootonn/react-components-from-scratch) - Accessible and animated components
@@ -171,7 +173,7 @@
 
 *   [vikejs/vike](https://github.com/vikejs/vike) - 🔨 Flexible, lean, community-driven, dependable, fast Vite-based frontend framework.
 
-*   [opral/monorepo](https://github.com/opral/monorepo) - globalization ecosystem && change control SDK
+*   [opral/monorepo](https://github.com/opral/monorepo) - lix (change control system) && inlang (globalization ecosystem for software built on lix)
 
 *   [GriffinJohnston/ldrs](https://github.com/GriffinJohnston/ldrs) - Modern, tree-shakeable loader & spinner web components. Made with CSS, HTML and SVG. https://uiball.com/ldrs
 
@@ -884,8 +886,6 @@
 *   [fomo-nouns/fomo-nouns](https://github.com/fomo-nouns/fomo-nouns) - Repository for the FOMO Nouns project
 
 *   [ethereum/blockies](https://github.com/ethereum/blockies) - <1k library that generates blocky identicons
-
-*   [mewo2/terrain](https://github.com/mewo2/terrain) - Fantasy map generator
 
 ## Rust
 
