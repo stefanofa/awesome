@@ -3,6 +3,7 @@
 ## Table of Contents
 
 *   [TypeScript](#typescript)
+*   [Kotlin](#kotlin)
 *   [C++](#c)
 *   [Python](#python)
 *   [Go](#go)
@@ -25,7 +26,6 @@
 *   [Elixir](#elixir)
 *   [PHP](#php)
 *   [Lua](#lua)
-*   [Kotlin](#kotlin)
 *   [Zig](#zig)
 *   [Svelte](#svelte)
 *   [Jupyter Notebook](#jupyter-notebook)
@@ -34,6 +34,18 @@
 *   [C#](#c-2)
 
 ## TypeScript
+
+*   [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 Schedule social media posts, measure them, exchange with other members and get a lot of help from AI 🚀
+
+*   [tolgee/tolgee-platform](https://github.com/tolgee/tolgee-platform) - Developer & translator friendly web-based localization platform
+
+*   [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
+
+*   [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
+
+*   [unkeyed/unkey](https://github.com/unkeyed/unkey) - Open source API management platform
+
+*   [okwasniewski/react-native-bottom-tabs](https://github.com/okwasniewski/react-native-bottom-tabs) - Native Bottom Tabs for React Native
 
 *   [tinylibs/tinybench](https://github.com/tinylibs/tinybench) - 🔎 A simple, tiny and lightweight benchmarking library!
 
@@ -643,9 +655,11 @@
 
 *   [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 
-*   [lightshiftdev/starknet-bootcamp](https://github.com/lightshiftdev/starknet-bootcamp) - Official repo for the Amsterdam Starknet bootcamp
+## Kotlin
 
-*   [Folks-Finance/folks-finance-js-sdk](https://github.com/Folks-Finance/folks-finance-js-sdk) - The official JavaScript SDK for the Folks Finance Algorand Protocol
+*   [lodev09/react-native-true-sheet](https://github.com/lodev09/react-native-true-sheet) - The true native bottom sheet experience 💩
+
+*   [ethereum-lists/chains](https://github.com/ethereum-lists/chains) - provides metadata for chains
 
 ## C++
 
@@ -671,7 +685,7 @@
 
 *   [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 
-*   [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
+*   [yadm-dev/yadm](https://github.com/yadm-dev/yadm) - Yet Another Dotfiles Manager
 
 *   [ytisf/theZoo](https://github.com/ytisf/theZoo) - A repository of LIVE malwares for your own joy and pleasure. theZoo is a project created to make the possibility of malware analysis open and available to the public.
 
@@ -688,8 +702,6 @@
 *   [starkware-libs/cairo-lang](https://github.com/starkware-libs/cairo-lang) -
 
 *   [crytic/slither](https://github.com/crytic/slither) - Static Analyzer for Solidity and Vyper
-
-*   [ccyanxyz/uniswap-arbitrage-analysis](https://github.com/ccyanxyz/uniswap-arbitrage-analysis) - Uniswap arbitrage problem analysis
 
 ## Go
 
@@ -768,8 +780,6 @@
 *   [matheusfelipeog/beautiful-docs](https://github.com/matheusfelipeog/beautiful-docs) - Pointers to useful, well-written, and otherwise beautiful documentation.
 
 *   [smartcontractkit/starter-kits](https://github.com/smartcontractkit/starter-kits) - A repo of starter kits for working with various languages and frameworks across the smart contract ecosystem.
-
-*   [crytic/awesome-ethereum-security](https://github.com/crytic/awesome-ethereum-security) - A curated list of awesome Ethereum security references
 
 ## JavaScript
 
@@ -893,8 +903,6 @@
 
 *   [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
 
-*   [wagerfield/parallax](https://github.com/wagerfield/parallax) - Parallax Engine that reacts to the orientation of a smart device
-
 ## Rust
 
 *   [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
@@ -960,10 +968,6 @@
 *   [transmissions11/solmate](https://github.com/transmissions11/solmate) - Modern, opinionated, and gas optimized building blocks for smart contract development.
 
 *   [Vectorized/solady](https://github.com/Vectorized/solady) - Optimized Solidity snippets.
-
-*   [libevm/subway](https://github.com/libevm/subway) - A practical example on how to perform sandwich attacks on Ethereum
-
-*   [ohgeez-dao/airdrop](https://github.com/ohgeez-dao/airdrop) -
 
 ## Java
 
@@ -1062,10 +1066,6 @@
 ## Lua
 
 *   [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
-
-## Kotlin
-
-*   [ethereum-lists/chains](https://github.com/ethereum-lists/chains) - provides metadata for chains
 
 ## Zig
 
