@@ -34,6 +34,10 @@
 
 ## TypeScript
 
+*   [inngest/inngest](https://github.com/inngest/inngest) - A scalable, event-driven durable execution platform.  Run stateful step functions functions deployed to serverless, servers, or the edge.
+
+*   [haydenbleasel/next-forge](https://github.com/haydenbleasel/next-forge) - Production-grade Turborepo template for Next.js apps.
+
 *   [useplunk/plunk](https://github.com/useplunk/plunk) - The Open-Source Email Platform
 
 *   [Shopify/flash-list](https://github.com/Shopify/flash-list) - A better list for React Native
@@ -176,7 +180,7 @@
 
 *   [tinylibs/tinypool](https://github.com/tinylibs/tinypool) - 🧵 A minimal and tiny Node.js Worker Thread Pool implementation (38KB)
 
-*   [stackblitz-labs/pkg.pr.new](https://github.com/stackblitz-labs/pkg.pr.new) - Continuous (Preview) Releases for your libraries!
+*   [stackblitz-labs/pkg.pr.new](https://github.com/stackblitz-labs/pkg.pr.new) - 📦️ Continuous (Preview) Releases for your libraries!
 
 *   [vercel/little-date](https://github.com/vercel/little-date) - A friendly formatter to make date ranges small & sweet
 
@@ -656,8 +660,6 @@
 
 *   [mhaidarhanif/rewinds-legacy](https://github.com/mhaidarhanif/rewinds-legacy) - ⏪ The Remix Stack with Tailwind - New repo: https://github.com/mhaidarhanif/rewinds
 
-*   [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  A complete search engine and RAG pipeline in your browser, server or edge network with support for full-text, vector, and hybrid search in less than 2kb.
-
 ## JavaScript
 
 *   [paulmillr/chokidar](https://github.com/paulmillr/chokidar) - Minimal and efficient cross-platform file watching library
@@ -953,8 +955,6 @@
 *   [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 
 *   [matheusfelipeog/beautiful-docs](https://github.com/matheusfelipeog/beautiful-docs) - Pointers to useful, well-written, and otherwise beautiful documentation.
-
-*   [smartcontractkit/starter-kits](https://github.com/smartcontractkit/starter-kits) - A repo of starter kits for working with various languages and frameworks across the smart contract ecosystem.
 
 ## Vue
 
