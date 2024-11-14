@@ -6161,7 +6161,7 @@
 
 *   [zce/velite](https://github.com/zce/velite) - Turns Markdown / MDX, YAML, JSON, or others into app's data layer with Zod schema.
 
-*   [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A fast, smart, & global CDN for modern(es2015+) web development.
+*   [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - The no-build CDN for modern web development.
 
 *   [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
 
@@ -6719,7 +6719,7 @@
 
 *   [unjs/ipx](https://github.com/unjs/ipx) - 🖼️ High performance, secure and easy-to-use image optimizer.
 
-*   [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A fast, smart, & global CDN for modern(es2015+) web development.
+*   [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - The no-build CDN for modern web development.
 
 *   [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 
@@ -6863,7 +6863,7 @@
 
 ## deno
 
-*   [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A fast, smart, & global CDN for modern(es2015+) web development.
+*   [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - The no-build CDN for modern web development.
 
 *   [gildas-lormeau/zip.js](https://github.com/gildas-lormeau/zip.js) - JavaScript library to zip and unzip files supporting multi-core compression, compression streams, zip64, split files and encryption.
 
@@ -6871,19 +6871,19 @@
 
 ## es2015
 
-*   [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A fast, smart, & global CDN for modern(es2015+) web development.
+*   [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - The no-build CDN for modern web development.
 
 *   [react-grid-layout/react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints, for React.
 
 ## es6
 
-*   [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A fast, smart, & global CDN for modern(es2015+) web development.
+*   [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - The no-build CDN for modern web development.
 
 *   [pahen/madge](https://github.com/pahen/madge) - Create graphs from your CommonJS, AMD or ES6 module dependencies
 
 ## esm
 
-*   [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A fast, smart, & global CDN for modern(es2015+) web development.
+*   [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - The no-build CDN for modern web development.
 
 *   [privatenumber/pkgroll](https://github.com/privatenumber/pkgroll) - 📦  Zero-config package bundler for Node.js + TypeScript
 
@@ -6891,11 +6891,11 @@
 
 ## infrastructure
 
-*   [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A fast, smart, & global CDN for modern(es2015+) web development.
+*   [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - The no-build CDN for modern web development.
 
 ## js
 
-*   [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A fast, smart, & global CDN for modern(es2015+) web development.
+*   [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - The no-build CDN for modern web development.
 
 *   [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 
@@ -6903,7 +6903,7 @@
 
 ## npm
 
-*   [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A fast, smart, & global CDN for modern(es2015+) web development.
+*   [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - The no-build CDN for modern web development.
 
 *   [unjs/defu](https://github.com/unjs/defu) - 🌊 Assign default properties recursively
 

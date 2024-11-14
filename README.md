@@ -902,7 +902,7 @@
 
 *   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 
-*   [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A fast, smart, & global CDN for modern(es2015+) web development.
+*   [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - The no-build CDN for modern web development.
 
 *   [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
 
