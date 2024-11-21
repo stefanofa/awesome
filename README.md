@@ -8,10 +8,10 @@
 *   [Python](#python)
 *   [Swift](#swift)
 *   [Shell](#shell)
+*   [Go](#go)
 *   [Java](#java)
 *   [C++](#c)
 *   [Kotlin](#kotlin)
-*   [Go](#go)
 *   [miscellaneous](#miscellaneous)
 *   [Vue](#vue)
 *   [Solidity](#solidity)
@@ -33,6 +33,8 @@
 *   [SCSS](#scss)
 
 ## Rust
+
+*   [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
 
 *   [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 
@@ -215,8 +217,6 @@
 *   [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components. Works with modern frameworks, and even just Vanilla JS
 
 *   [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
-
-*   [inngest/inngest](https://github.com/inngest/inngest) - A scalable, event-driven durable execution platform.  Run stateful step functions functions deployed to serverless, servers, or the edge.
 
 *   [haydenbleasel/next-forge](https://github.com/haydenbleasel/next-forge) - Production-grade Turborepo template for Next.js apps.
 
@@ -434,7 +434,7 @@
 
 *   [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 
-*   [mehdibha/dotUI](https://github.com/mehdibha/dotUI) - ✨ Build a unique component collection.
+*   [mehdibha/dotUI](https://github.com/mehdibha/dotUI) - ✨ Build unique.
 
 *   [bestofjs/bestofjs](https://github.com/bestofjs/bestofjs) - :star: A place to find the best components to build amazing web applications. The best of JavaScript!
 
@@ -828,8 +828,6 @@
 
 *   [happykit/flags](https://github.com/happykit/flags) - ⛳️ Feature Flags for Next.js
 
-*   [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for single-page applications on top of REST/GraphQL APIs, using TypeScript, React and Material Design
-
 ## Python
 
 *   [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
@@ -876,31 +874,9 @@
 
 *   [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
 
-## Java
-
-*   [observabilitystack/geoip-api](https://github.com/observabilitystack/geoip-api) - A JSON REST API for Maxmind GeoIP databases
-
-*   [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
-
-*   [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
-
-## C++
-
-*   [laverdet/isolated-vm](https://github.com/laverdet/isolated-vm) - Secure & isolated JS environments for nodejs
-
-*   [mrousavy/react-native-mmkv](https://github.com/mrousavy/react-native-mmkv) - ⚡️ The fastest key/value storage for React Native. ~30x faster than AsyncStorage!
-
-*   [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
-
-*   [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
-
-## Kotlin
-
-*   [lodev09/react-native-true-sheet](https://github.com/lodev09/react-native-true-sheet) - The true native bottom sheet experience 💩
-
-*   [ethereum-lists/chains](https://github.com/ethereum-lists/chains) - provides metadata for chains
-
 ## Go
+
+*   [inngest/inngest](https://github.com/inngest/inngest) - The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge.
 
 *   [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
 
@@ -941,6 +917,30 @@
 *   [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 
 *   [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
+
+## Java
+
+*   [observabilitystack/geoip-api](https://github.com/observabilitystack/geoip-api) - A JSON REST API for Maxmind GeoIP databases
+
+*   [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
+
+*   [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
+
+## C++
+
+*   [laverdet/isolated-vm](https://github.com/laverdet/isolated-vm) - Secure & isolated JS environments for nodejs
+
+*   [mrousavy/react-native-mmkv](https://github.com/mrousavy/react-native-mmkv) - ⚡️ The fastest key/value storage for React Native. ~30x faster than AsyncStorage!
+
+*   [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
+
+*   [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
+
+## Kotlin
+
+*   [lodev09/react-native-true-sheet](https://github.com/lodev09/react-native-true-sheet) - The true native bottom sheet experience 💩
+
+*   [ethereum-lists/chains](https://github.com/ethereum-lists/chains) - provides metadata for chains
 
 ## miscellaneous
 
