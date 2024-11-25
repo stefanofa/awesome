@@ -104,7 +104,7 @@
 
 *   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source, local-first Figma for React. Design directly in your live React app and publish your changes to code.
 
-*   [onejs/one](https://github.com/onejs/one) - ❶ One is a new React framework - incredible for web, but also for native. No Metro, just a single Vite plugin.
+*   [onejs/one](https://github.com/onejs/one) - ❶ One is a new React framework - target web and native with a single Vite plugin and fully shared code, so you can ship cross-platform nearly as easy as single-platform.
 
 *   [midday-ai/v1](https://github.com/midday-ai/v1) - An open-source starter kit based on Midday.
 

@@ -1632,6 +1632,7 @@
 *   [size](#size)
 *   [infinite-scroll](#infinite-scroll)
 *   [tabular-data](#tabular-data)
+*   [virtual-list](#virtual-list)
 *   [virtual-scroll](#virtual-scroll)
 *   [virtualized](#virtualized)
 *   [windowing](#windowing)
@@ -3076,7 +3077,7 @@
 
 *   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source, local-first Figma for React. Design directly in your live React app and publish your changes to code.
 
-*   [onejs/one](https://github.com/onejs/one) - ❶ One is a new React framework - incredible for web, but also for native. No Metro, just a single Vite plugin.
+*   [onejs/one](https://github.com/onejs/one) - ❶ One is a new React framework - target web and native with a single Vite plugin and fully shared code, so you can ship cross-platform nearly as easy as single-platform.
 
 *   [FormidableLabs/react-live](https://github.com/FormidableLabs/react-live) - A flexible playground for live editing React components
 
@@ -4402,7 +4403,7 @@
 
 *   [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 
-*   [onejs/one](https://github.com/onejs/one) - ❶ One is a new React framework - incredible for web, but also for native. No Metro, just a single Vite plugin.
+*   [onejs/one](https://github.com/onejs/one) - ❶ One is a new React framework - target web and native with a single Vite plugin and fully shared code, so you can ship cross-platform nearly as easy as single-platform.
 
 *   [serwist/serwist](https://github.com/serwist/serwist) - A Swiss Army knife for service workers.
 
@@ -4554,7 +4555,7 @@
 
 *   [mrousavy/react-native-mmkv](https://github.com/mrousavy/react-native-mmkv) - ⚡️ The fastest key/value storage for React Native. ~30x faster than AsyncStorage!
 
-*   [onejs/one](https://github.com/onejs/one) - ❶ One is a new React framework - incredible for web, but also for native. No Metro, just a single Vite plugin.
+*   [onejs/one](https://github.com/onejs/one) - ❶ One is a new React framework - target web and native with a single Vite plugin and fully shared code, so you can ship cross-platform nearly as easy as single-platform.
 
 *   [damianricobelli/stepperize](https://github.com/damianricobelli/stepperize) - A library for creating step-by-step workflows in your apps
 
@@ -5318,7 +5319,7 @@
 
 *   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source, local-first Figma for React. Design directly in your live React app and publish your changes to code.
 
-*   [onejs/one](https://github.com/onejs/one) - ❶ One is a new React framework - incredible for web, but also for native. No Metro, just a single Vite plugin.
+*   [onejs/one](https://github.com/onejs/one) - ❶ One is a new React framework - target web and native with a single Vite plugin and fully shared code, so you can ship cross-platform nearly as easy as single-platform.
 
 *   [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 
@@ -11973,6 +11974,10 @@
 *   [inokawa/virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list (and grid) component for React, Vue, Solid and Svelte.
 
 ## tabular-data
+
+*   [inokawa/virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list (and grid) component for React, Vue, Solid and Svelte.
+
+## virtual-list
 
 *   [inokawa/virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list (and grid) component for React, Vue, Solid and Svelte.
 
