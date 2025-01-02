@@ -945,6 +945,7 @@
 *   [wysiwyg](#wysiwyg)
 *   [wysiwyg-editor](#wysiwyg-editor)
 *   [dotenv](#dotenv)
+*   [dotenvx](#dotenvx)
 *   [react-aria-components](#react-aria-components)
 *   [github-stars](#github-stars)
 *   [hall-of-fame](#hall-of-fame)
@@ -8948,6 +8949,10 @@
 *   [Doist/typist](https://github.com/Doist/typist) - The mighty Tiptap-based rich-text editor that powers Doist products.
 
 ## dotenv
+
+*   [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a better dotenv–from the creator of `dotenv`
+
+## dotenvx
 
 *   [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a better dotenv–from the creator of `dotenv`
 
