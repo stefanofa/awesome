@@ -13,6 +13,7 @@
 *   [HTML](#html)
 *   [C++](#c)
 *   [Swift](#swift)
+*   [MDX](#mdx)
 *   [Shell](#shell)
 *   [Java](#java)
 *   [Kotlin](#kotlin)
@@ -23,7 +24,6 @@
 *   [Ruby](#ruby)
 *   [Objective-C](#objective-c)
 *   [Clojure](#clojure)
-*   [MDX](#mdx)
 *   [CSS](#css)
 *   [Elixir](#elixir)
 *   [Lua](#lua)
@@ -85,8 +85,6 @@
 *   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI framework.
 
 *   [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
-
-*   [openauthjs/openauth](https://github.com/openauthjs/openauth) - ▦ Universal, standards-based auth provider.
 
 *   [rphlmr/drizzle-lab](https://github.com/rphlmr/drizzle-lab) - Play with Drizzle everywhere
 
@@ -968,7 +966,7 @@
 
 *   [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 
-*   [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
+*   [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 
 ## Swift
 
@@ -977,6 +975,18 @@
 *   [evanw/thumbhash](https://github.com/evanw/thumbhash) - A very compact representation of an image placeholder
 
 *   [alexwidua/prototypes](https://github.com/alexwidua/prototypes) - little monorepo of swiftui prototypes
+
+## MDX
+
+*   [openauthjs/openauth](https://github.com/openauthjs/openauth) - ▦ Universal, standards-based auth provider.
+
+*   [smakosh/roll-your-own-auth](https://github.com/smakosh/roll-your-own-auth) - Copy & paste code to roll your own auth easily and for free
+
+*   [shuding/cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib.
+
+*   [akhila-ariyachandra/akhilaariyachandra.com](https://github.com/akhila-ariyachandra/akhilaariyachandra.com) - ✨ My portfolio built with Next.js, Tailwind, Content Collections, Turso, Drizzle ORM, and Vercel.
+
+*   [mkosir/typescript-style-guide](https://github.com/mkosir/typescript-style-guide) - ⚙️ TypeScript Style Guide. A concise set of conventions and best practices for creating consistent, maintainable code.
 
 ## Shell
 
@@ -1053,16 +1063,6 @@
 *   [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 
 *   [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
-
-## MDX
-
-*   [smakosh/roll-your-own-auth](https://github.com/smakosh/roll-your-own-auth) - Copy & paste code to roll your own auth easily and for free
-
-*   [shuding/cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib.
-
-*   [akhila-ariyachandra/akhilaariyachandra.com](https://github.com/akhila-ariyachandra/akhilaariyachandra.com) - ✨ My portfolio built with Next.js, Tailwind, Content Collections, Turso, Drizzle ORM, and Vercel.
-
-*   [mkosir/typescript-style-guide](https://github.com/mkosir/typescript-style-guide) - ⚙️ TypeScript Style Guide. A concise set of conventions and best practices for creating consistent, maintainable code.
 
 ## CSS
 
