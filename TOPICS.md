@@ -735,6 +735,7 @@
 *   [llava](#llava)
 *   [mistral](#mistral)
 *   [phi3](#phi3)
+*   [phi4](#phi4)
 *   [type-level-programming](#type-level-programming)
 *   [dnd](#dnd)
 *   [drag](#drag)
@@ -1131,7 +1132,6 @@
 *   [z](#z)
 *   [zsh](#zsh)
 *   [tsconfig-paths](#tsconfig-paths)
-*   [hacktoberfest2024](#hacktoberfest2024)
 *   [changelog](#changelog)
 *   [publish](#publish)
 *   [release](#release)
@@ -2088,6 +2088,8 @@
 
 *   [dividab/tsconfig-paths](https://github.com/dividab/tsconfig-paths) - Load node modules according to tsconfig paths, in run-time or via API.
 
+*   [replexica/replexica](https://github.com/replexica/replexica) - ⚡️ AI Localization for web & mobile, right from CI/CD.
+
 *   [decs/typeschema](https://github.com/decs/typeschema) - 🛵 Universal adapter for TypeScript schema validation.
 
 *   [TheEdoRan/next-safe-action](https://github.com/TheEdoRan/next-safe-action) - Type safe and validated Server Actions in your Next.js project.
@@ -2484,7 +2486,7 @@
 
 *   [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.
 
-*   [replexica/replexica](https://github.com/replexica/replexica) - ⚡️ State-of-the-art AI localization, for web & mobile, right from CI/CD.
+*   [replexica/replexica](https://github.com/replexica/replexica) - ⚡️ AI Localization for web & mobile, right from CI/CD.
 
 *   [nkzw-tech/athena-crisis](https://github.com/nkzw-tech/athena-crisis) - Athena Crisis is a modern-retro turn-based tactical strategy game. Athena Crisis is open core technology.
 
@@ -2691,6 +2693,8 @@
 *   [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 
 *   [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
+
+*   [replexica/replexica](https://github.com/replexica/replexica) - ⚡️ AI Localization for web & mobile, right from CI/CD.
 
 *   [TheEdoRan/next-safe-action](https://github.com/TheEdoRan/next-safe-action) - Type safe and validated Server Actions in your Next.js project.
 
@@ -2908,7 +2912,7 @@
 
 *   [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 
-*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
+*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.
 
 ## llama-index
 
@@ -2920,7 +2924,7 @@
 
 *   [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) - Data framework for your LLM applications. Focus on server side solution
 
-*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
+*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.
 
 ## llamaindex
 
@@ -2942,7 +2946,7 @@
 
 *   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
 
-*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
+*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.
 
 ## node
 
@@ -3432,8 +3436,6 @@
 
 *   [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.
 
-*   [replexica/replexica](https://github.com/replexica/replexica) - ⚡️ State-of-the-art AI localization, for web & mobile, right from CI/CD.
-
 *   [TheEdoRan/next-safe-action](https://github.com/TheEdoRan/next-safe-action) - Type safe and validated Server Actions in your Next.js project.
 
 *   [shuding/next-view-transitions](https://github.com/shuding/next-view-transitions) - Use CSS View Transitions API in Next.js App Router.
@@ -3636,6 +3638,8 @@
 
 *   [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 
+*   [replexica/replexica](https://github.com/replexica/replexica) - ⚡️ AI Localization for web & mobile, right from CI/CD.
+
 *   [teambit/bit](https://github.com/teambit/bit) - A build system for development of composable software.
 
 *   [rcbyr/keen-slider](https://github.com/rcbyr/keen-slider) - The HTML touch slider carousel with the most native feeling you will get.
@@ -3656,7 +3660,7 @@
 
 *   [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 
-*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
+*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.
 
 *   [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 
@@ -3684,7 +3688,7 @@
 
 *   [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 
-*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
+*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.
 
 *   [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 
@@ -3840,6 +3844,8 @@
 
 *   [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 
+*   [replexica/replexica](https://github.com/replexica/replexica) - ⚡️ AI Localization for web & mobile, right from CI/CD.
+
 *   [teambit/bit](https://github.com/teambit/bit) - A build system for development of composable software.
 
 *   [TanStack/store](https://github.com/TanStack/store) - 🤖 Framework agnostic, type-safe store w/ reactive framework adapters
@@ -3927,8 +3933,6 @@
 *   [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
 
 *   [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
-
-*   [replexica/replexica](https://github.com/replexica/replexica) - ⚡️ State-of-the-art AI localization, for web & mobile, right from CI/CD.
 
 *   [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 
@@ -4081,6 +4085,8 @@
 *   [damianricobelli/stepperize](https://github.com/damianricobelli/stepperize) - A library for creating step-by-step workflows in your apps
 
 *   [gluestack/gluestack-ui](https://github.com/gluestack/gluestack-ui) - React & React Native Components & Patterns (copy-paste components & patterns crafted with Tailwind CSS (NativeWind))
+
+*   [replexica/replexica](https://github.com/replexica/replexica) - ⚡️ AI Localization for web & mobile, right from CI/CD.
 
 *   [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
 
@@ -4536,8 +4542,6 @@
 
 *   [elrumordelaluz/reactour](https://github.com/elrumordelaluz/reactour) - Tourist Guide into your React Components
 
-*   [replexica/replexica](https://github.com/replexica/replexica) - ⚡️ State-of-the-art AI localization, for web & mobile, right from CI/CD.
-
 *   [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 
 *   [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
@@ -4838,7 +4842,7 @@
 
 *   [TheR1D/shell\_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
 
-*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
+*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.
 
 *   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen /  DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.
 
@@ -5782,7 +5786,7 @@
 
 *   [opral/monorepo](https://github.com/opral/monorepo) - lix (change control system) && inlang (globalization ecosystem for software built on lix)
 
-*   [replexica/replexica](https://github.com/replexica/replexica) - ⚡️ State-of-the-art AI localization, for web & mobile, right from CI/CD.
+*   [replexica/replexica](https://github.com/replexica/replexica) - ⚡️ AI Localization for web & mobile, right from CI/CD.
 
 *   [lokalise/i18n-ally](https://github.com/lokalise/i18n-ally) - 🌍 All in one i18n extension for VS Code
 
@@ -5807,6 +5811,8 @@
 *   [tolgee/tolgee-platform](https://github.com/tolgee/tolgee-platform) - Developer & translator friendly web-based localization platform
 
 *   [opral/monorepo](https://github.com/opral/monorepo) - lix (change control system) && inlang (globalization ecosystem for software built on lix)
+
+*   [replexica/replexica](https://github.com/replexica/replexica) - ⚡️ AI Localization for web & mobile, right from CI/CD.
 
 ## localization-tool
 
@@ -7274,7 +7280,7 @@
 
 *   [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
 
-*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
+*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.
 
 ## prompt-engineering
 
@@ -7878,29 +7884,33 @@
 
 ## gemma
 
-*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
+*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.
 
 ## gemma2
 
-*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
+*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.
 
 ## llama2
 
-*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
+*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.
 
 *   [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 
 ## llava
 
-*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
+*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.
 
 ## mistral
 
-*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
+*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.
 
 ## phi3
 
-*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
+*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.
+
+## phi4
+
+*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.
 
 ## type-level-programming
 
@@ -9837,10 +9847,6 @@
 ## tsconfig-paths
 
 *   [dividab/tsconfig-paths](https://github.com/dividab/tsconfig-paths) - Load node modules according to tsconfig paths, in run-time or via API.
-
-## hacktoberfest2024
-
-*   [replexica/replexica](https://github.com/replexica/replexica) - ⚡️ State-of-the-art AI localization, for web & mobile, right from CI/CD.
 
 ## changelog
 

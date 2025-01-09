@@ -360,7 +360,7 @@
 
 *   [dividab/tsconfig-paths](https://github.com/dividab/tsconfig-paths) - Load node modules according to tsconfig paths, in run-time or via API.
 
-*   [replexica/replexica](https://github.com/replexica/replexica) - ⚡️ State-of-the-art AI localization, for web & mobile, right from CI/CD.
+*   [replexica/replexica](https://github.com/replexica/replexica) - ⚡️ AI Localization for web & mobile, right from CI/CD.
 
 *   [decs/typeschema](https://github.com/decs/typeschema) - 🛵 Universal adapter for TypeScript schema validation.
 
@@ -882,7 +882,7 @@
 
 *   [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback
 
-*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
+*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.
 
 *   [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A no-build CDN for modern web development.
 
