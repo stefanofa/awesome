@@ -35,6 +35,12 @@
 
 ## TypeScript
 
+*   [nextjs/saas-starter](https://github.com/nextjs/saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
+
+*   [callstackincubator/flows-ai](https://github.com/callstackincubator/flows-ai) - Run complex AI workflows
+
+*   [pmndrs/use-gesture](https://github.com/pmndrs/use-gesture) - 👇Bread n butter utility for component-tied mouse/touch gestures in React and Vanilla Javascript.
+
 *   [martiserra99/formity](https://github.com/martiserra99/formity) - Formity - A highly customizable React library for creating advanced multi-step forms (https://www.formity.app/).
 
 *   [omgovich/colord](https://github.com/omgovich/colord) - 👑 A tiny yet powerful tool for high-performance color manipulations and conversions
@@ -759,8 +765,6 @@
 
 *   [tsconfig/bases](https://github.com/tsconfig/bases) - Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
 
-*   [reown-com/appkit](https://github.com/reown-com/appkit) - The full stack toolkit to build onchain app UX
-
 ## Python
 
 *   [bytedance/monolith](https://github.com/bytedance/monolith) - A Lightweight Recommendation System
@@ -1027,8 +1031,6 @@
 
 *   [fomo-nouns/fomo-nouns](https://github.com/fomo-nouns/fomo-nouns) - Repository for the FOMO Nouns project
 
-*   [ethereum/blockies](https://github.com/ethereum/blockies) - <1k library that generates blocky identicons
-
 ## Zig
 
 *   [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
@@ -1130,8 +1132,6 @@
 *   [smartcontractkit/starter-kits](https://github.com/smartcontractkit/starter-kits) - A repo of starter kits for working with various languages and frameworks across the smart contract ecosystem.
 
 *   [crytic/awesome-ethereum-security](https://github.com/crytic/awesome-ethereum-security) - A curated list of awesome Ethereum security references
-
-*   [0xvadym/awesome-defi-product-management](https://github.com/0xvadym/awesome-defi-product-management) - A curated list of DeFi product management resources
 
 ## HTML
 
