@@ -35,6 +35,8 @@
 
 ## TypeScript
 
+*   [salesforce/tough-cookie](https://github.com/salesforce/tough-cookie) - RFC6265 Cookies and CookieJar for Node.js
+
 *   [nextjs/saas-starter](https://github.com/nextjs/saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
 
 *   [callstackincubator/flows-ai](https://github.com/callstackincubator/flows-ai) - Run complex AI workflows
@@ -762,8 +764,6 @@
 *   [lightshiftdev/starknet-bootcamp](https://github.com/lightshiftdev/starknet-bootcamp) - Official repo for the Amsterdam Starknet bootcamp
 
 *   [Folks-Finance/algorand-js-sdk](https://github.com/Folks-Finance/algorand-js-sdk) - The official JavaScript SDK for the Folks Finance Algorand Protocol
-
-*   [tsconfig/bases](https://github.com/tsconfig/bases) - Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
 
 ## Python
 
