@@ -419,8 +419,10 @@
 *   [geoip-location](#geoip-location)
 *   [geoip-lookup](#geoip-lookup)
 *   [geoip2](#geoip2)
+*   [deepseek](#deepseek)
 *   [excalidraw](#excalidraw)
 *   [gemini](#gemini)
+*   [gemini-ai](#gemini-ai)
 *   [high-performance](#high-performance)
 *   [linux-desktop](#linux-desktop)
 *   [mac-desktop](#mac-desktop)
@@ -787,7 +789,6 @@
 *   [liquid](#liquid)
 *   [shopify](#shopify)
 *   [visual](#visual)
-*   [deepseek](#deepseek)
 *   [gemma](#gemma)
 *   [gemma2](#gemma2)
 *   [llama2](#llama2)
@@ -2510,7 +2511,7 @@
 
 ## agents
 
-*   [callstackincubator/flows-ai](https://github.com/callstackincubator/flows-ai) - Run complex AI workflows
+*   [callstackincubator/flows-ai](https://github.com/callstackincubator/flows-ai) - Run AI workflows with TypeScript & Vercel AI SDK
 
 *   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI framework.
 
@@ -2518,7 +2519,7 @@
 
 ## ai
 
-*   [callstackincubator/flows-ai](https://github.com/callstackincubator/flows-ai) - Run complex AI workflows
+*   [callstackincubator/flows-ai](https://github.com/callstackincubator/flows-ai) - Run AI workflows with TypeScript & Vercel AI SDK
 
 *   [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 
@@ -2558,11 +2559,11 @@
 
 ## flows
 
-*   [callstackincubator/flows-ai](https://github.com/callstackincubator/flows-ai) - Run complex AI workflows
+*   [callstackincubator/flows-ai](https://github.com/callstackincubator/flows-ai) - Run AI workflows with TypeScript & Vercel AI SDK
 
 ## workflows
 
-*   [callstackincubator/flows-ai](https://github.com/callstackincubator/flows-ai) - Run complex AI workflows
+*   [callstackincubator/flows-ai](https://github.com/callstackincubator/flows-ai) - Run AI workflows with TypeScript & Vercel AI SDK
 
 *   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI framework.
 
@@ -3901,6 +3902,8 @@
 *   [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
 
 *   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI framework.
+
+*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 
 *   [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 
@@ -6816,6 +6819,12 @@
 
 *   [observabilitystack/geoip-api](https://github.com/observabilitystack/geoip-api) - A JSON REST API for Maxmind GeoIP databases
 
+## deepseek
+
+*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
+
+*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.
+
 ## excalidraw
 
 *   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
@@ -6827,6 +6836,10 @@
 *   [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 
 *   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen /  DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.
+
+## gemini-ai
+
+*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 
 ## high-performance
 
@@ -9025,10 +9038,6 @@
 ## visual
 
 *   [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
-
-## deepseek
-
-*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.
 
 ## gemma
 
