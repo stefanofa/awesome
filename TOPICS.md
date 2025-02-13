@@ -2509,7 +2509,7 @@
 
 *   [modernweb-dev/web](https://github.com/modernweb-dev/web) - Guides, tools and libraries for modern web development.
 
-*   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI framework.
+*   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - the TypeScript AI agent framework
 
 *   [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
 
@@ -3013,7 +3013,7 @@
 
 *   [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech\_balloon: :gem:
 
-*   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI framework.
+*   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - the TypeScript AI agent framework
 
 *   [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
 
@@ -3163,7 +3163,7 @@
 
 *   [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 
-*   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI framework.
+*   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - the TypeScript AI agent framework
 
 *   [haydenbleasel/next-forge](https://github.com/haydenbleasel/next-forge) - Production-grade Turborepo template for Next.js apps.
 
@@ -3725,7 +3725,7 @@
 
 *   [callstackincubator/flows-ai](https://github.com/callstackincubator/flows-ai) - Run AI workflows with TypeScript & Vercel AI SDK
 
-*   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI framework.
+*   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - the TypeScript AI agent framework
 
 *   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
 
@@ -3743,7 +3743,7 @@
 
 *   [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
 
-*   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI framework.
+*   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - the TypeScript AI agent framework
 
 *   [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 
@@ -3775,7 +3775,7 @@
 
 *   [callstackincubator/flows-ai](https://github.com/callstackincubator/flows-ai) - Run AI workflows with TypeScript & Vercel AI SDK
 
-*   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI framework.
+*   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - the TypeScript AI agent framework
 
 *   [inngest/inngest](https://github.com/inngest/inngest) - The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge.
 
@@ -3891,7 +3891,7 @@
 
 *   [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 
-*   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI framework.
+*   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - the TypeScript AI agent framework
 
 *   [haydenbleasel/next-forge](https://github.com/haydenbleasel/next-forge) - Production-grade Turborepo template for Next.js apps.
 
@@ -4511,7 +4511,7 @@
 
 *   [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
 
-*   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI framework.
+*   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - the TypeScript AI agent framework
 
 *   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 
@@ -5047,7 +5047,7 @@
 
 *   [sindresorhus/slugify](https://github.com/sindresorhus/slugify) - Slugify a string
 
-*   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI framework.
+*   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - the TypeScript AI agent framework
 
 *   [paulmillr/chokidar](https://github.com/paulmillr/chokidar) - Minimal and efficient cross-platform file watching library
 
@@ -5411,7 +5411,7 @@
 
 *   [mattpocock/evalite](https://github.com/mattpocock/evalite) - Test your LLM-powered apps with TypeScript. No API key required.
 
-*   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI framework.
+*   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - the TypeScript AI agent framework
 
 ## eslint
 
@@ -6703,15 +6703,15 @@
 
 ## chatbots
 
-*   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI framework.
+*   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - the TypeScript AI agent framework
 
 ## mcp
 
-*   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI framework.
+*   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - the TypeScript AI agent framework
 
 ## tts
 
-*   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI framework.
+*   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - the TypeScript AI agent framework
 
 ## c
 

@@ -348,7 +348,7 @@
 
 *   [LegendApp/legend-list](https://github.com/LegendApp/legend-list) -
 
-*   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI framework.
+*   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - the TypeScript AI agent framework
 
 *   [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
 
