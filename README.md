@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [CSS](#css)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [Vue](#vue)
@@ -11,7 +12,6 @@
 *   [Go](#go)
 *   [Python](#python)
 *   [Jupyter Notebook](#jupyter-notebook)
-*   [CSS](#css)
 *   [Zig](#zig)
 *   [PHP](#php)
 *   [C++](#c)
@@ -31,6 +31,14 @@
 *   [Svelte](#svelte)
 *   [Jinja](#jinja)
 *   [SCSS](#scss)
+
+## CSS
+
+*   [calcom/font](https://github.com/calcom/font) - The home for our Cal Sans font.
+
+*   [kepano/flexoki](https://github.com/kepano/flexoki) - An inky color scheme for prose and code.
+
+*   [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 
 ## TypeScript
 
@@ -776,8 +784,6 @@
 
 *   [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 
-*   [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
-
 ## JavaScript
 
 *   [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building stunning, memorable user interfaces.
@@ -1139,12 +1145,6 @@
 *   [karpathy/micrograd](https://github.com/karpathy/micrograd) - A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
 
 *   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
-
-## CSS
-
-*   [kepano/flexoki](https://github.com/kepano/flexoki) - An inky color scheme for prose and code.
-
-*   [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 
 ## Zig
 
