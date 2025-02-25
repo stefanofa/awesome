@@ -41,12 +41,14 @@
 *   [style-observer](#style-observer)
 *   [vite](#vite)
 *   [vite-plugin](#vite-plugin)
+*   [agents](#agents)
 *   [ai](#ai)
 *   [embedders](#embedders)
-*   [firebase](#firebase)
-*   [gemini](#gemini)
 *   [genkit](#genkit)
-*   [google-cloud](#google-cloud)
+*   [llm](#llm)
+*   [machine-learning](#machine-learning)
+*   [multimodal](#multimodal)
+*   [rag](#rag)
 *   [vector-database](#vector-database)
 *   [linter](#linter)
 *   [monorepo](#monorepo)
@@ -154,7 +156,6 @@
 *   [postgres](#postgres)
 *   [shadcn-ui](#shadcn-ui)
 *   [stripe](#stripe)
-*   [agents](#agents)
 *   [flows](#flows)
 *   [workflows](#workflows)
 *   [drag](#drag)
@@ -198,7 +199,6 @@
 *   [command-line](#command-line)
 *   [command-line-tool](#command-line-tool)
 *   [gpt](#gpt)
-*   [llm](#llm)
 *   [prompt](#prompt)
 *   [prompt-engineering](#prompt-engineering)
 *   [prompt-generator](#prompt-generator)
@@ -327,6 +327,7 @@
 *   [backend](#backend)
 *   [backend-as-a-service](#backend-as-a-service)
 *   [docker](#docker)
+*   [firebase](#firebase)
 *   [flutter](#flutter)
 *   [ios](#ios)
 *   [react-native](#react-native)
@@ -537,6 +538,7 @@
 *   [geoip2](#geoip2)
 *   [deepseek](#deepseek)
 *   [excalidraw](#excalidraw)
+*   [gemini](#gemini)
 *   [gemini-ai](#gemini-ai)
 *   [high-performance](#high-performance)
 *   [linux-desktop](#linux-desktop)
@@ -625,7 +627,6 @@
 *   [crawler](#crawler)
 *   [html-to-markdown](#html-to-markdown)
 *   [markdown](#markdown)
-*   [rag](#rag)
 *   [scraping](#scraping)
 *   [web-crawler](#web-crawler)
 *   [webscraping](#webscraping)
@@ -2080,19 +2081,14 @@
 *   [apache](#apache)
 *   [data-viz](#data-viz)
 *   [echarts](#echarts)
-*   [image-generation](#image-generation)
-*   [image-generator](#image-generator)
-*   [opengraph-images](#opengraph-images)
-*   [satori](#satori)
-*   [dynamic-types](#dynamic-types)
-*   [safety](#safety)
-*   [type-safety](#type-safety)
-*   [type-utilities](#type-utilities)
-*   [create-t3-app](#create-t3-app)
-*   [npx](#npx)
-*   [t3](#t3)
 
 ## miscellaneous
+
+*   [joshwcomeau/use-sound](https://github.com/joshwcomeau/use-sound) - A React Hook for playing sound effects
+
+*   [joshwcomeau/tinkersynth](https://github.com/joshwcomeau/tinkersynth) - An experimental art project. Create unique art through serendipitous discovery.
+
+*   [preconstruct/preconstruct](https://github.com/preconstruct/preconstruct) - 🎁 Dev and build your code painlessly in monorepos
 
 *   [calcom/font](https://github.com/calcom/font) - The home for our Cal Sans font.
 
@@ -2374,7 +2370,7 @@
 
 *   [origin-space/originui](https://github.com/origin-space/originui) -
 
-*   [polarsource/polar](https://github.com/polarsource/polar) - An open source Merchant of Record. Sell SaaS and digital products in minutes.
+*   [polarsource/polar](https://github.com/polarsource/polar) - An open source engine for your digital products. Sell SaaS and digital products in minutes.
 
 *   [typehero/typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers
 
@@ -2484,8 +2480,6 @@
 
 *   [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 
-*   [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
-
 ## satus
 
 *   [darkroomengineering/satus](https://github.com/darkroomengineering/satus) - Advanced Next.js App Router starter for content-driven sites
@@ -2519,8 +2513,6 @@
 *   [akhila-ariyachandra/akhilaariyachandra.com](https://github.com/akhila-ariyachandra/akhilaariyachandra.com) - ✨ My portfolio built with Next.js, Tailwind, Content Collections, Turso, Drizzle ORM, and Vercel.
 
 *   [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
-
-*   [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
 
 ## 3d
 
@@ -2820,7 +2812,7 @@
 
 *   [mui/base-ui](https://github.com/mui/base-ui) - Base UI is an open-source library of accessible, unstyled UI components for React.
 
-*   [polarsource/polar](https://github.com/polarsource/polar) - An open source Merchant of Record. Sell SaaS and digital products in minutes.
+*   [polarsource/polar](https://github.com/polarsource/polar) - An open source engine for your digital products. Sell SaaS and digital products in minutes.
 
 *   [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 
@@ -2842,7 +2834,7 @@
 
 *   [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
 
-*   [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components. Works with modern frameworks, and even just Vanilla JS
+*   [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components. Works in React, Vue, Svelte, Solid, Preact
 
 *   [haydenbleasel/next-forge](https://github.com/haydenbleasel/next-forge) - Production-grade Turborepo template for Next.js apps.
 
@@ -3174,8 +3166,6 @@
 
 *   [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 
-*   [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
-
 ## ui-components
 
 *   [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building stunning, memorable user interfaces.
@@ -3184,7 +3174,7 @@
 
 *   [serafimcloud/21st](https://github.com/serafimcloud/21st) - npm for design engineers: largest marketplace of shadcn/ui-based React Tailwind components, blocks and hooks
 
-*   [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components. Works with modern frameworks, and even just Vanilla JS
+*   [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components. Works in React, Vue, Svelte, Solid, Preact
 
 *   [gluestack/gluestack-ui](https://github.com/gluestack/gluestack-ui) - React & React Native Components & Patterns (copy-paste components & patterns crafted with Tailwind CSS (NativeWind))
 
@@ -3292,8 +3282,6 @@
 
 *   [IanLunn/Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
 
-*   [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
-
 ## observer
 
 *   [LeaVerou/style-observer](https://github.com/LeaVerou/style-observer) - Run JS when a CSS property changes. Any CSS property.
@@ -3337,6 +3325,16 @@
 *   [antfu-collective/vite-plugin-inspect](https://github.com/antfu-collective/vite-plugin-inspect) - Inspect the intermediate state of Vite plugins
 
 *   [vikejs/vike](https://github.com/vikejs/vike) - 🔨 The Framework *You* Control - Next.js & Nuxt alternative for unprecedented flexibility and dependability.
+
+## agents
+
+*   [firebase/genkit](https://github.com/firebase/genkit) - An open source framework for building AI-powered apps with familiar code-centric patterns. Genkit makes it easy to develop, integrate, and test AI features with observability and evaluations. Genkit works with various models and platforms.
+
+*   [callstackincubator/flows-ai](https://github.com/callstackincubator/flows-ai) - Run AI workflows with TypeScript & Vercel AI SDK
+
+*   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - the TypeScript AI agent framework
+
+*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
 
 ## ai
 
@@ -3382,29 +3380,49 @@
 
 *   [firebase/genkit](https://github.com/firebase/genkit) - An open source framework for building AI-powered apps with familiar code-centric patterns. Genkit makes it easy to develop, integrate, and test AI features with observability and evaluations. Genkit works with various models and platforms.
 
-## firebase
-
-*   [firebase/genkit](https://github.com/firebase/genkit) - An open source framework for building AI-powered apps with familiar code-centric patterns. Genkit makes it easy to develop, integrate, and test AI features with observability and evaluations. Genkit works with various models and platforms.
-
-*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds\_
-
-## gemini
-
-*   [firebase/genkit](https://github.com/firebase/genkit) - An open source framework for building AI-powered apps with familiar code-centric patterns. Genkit makes it easy to develop, integrate, and test AI features with observability and evaluations. Genkit works with various models and platforms.
-
-*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
-
-*   [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
-
-*   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen /  DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.
-
 ## genkit
 
 *   [firebase/genkit](https://github.com/firebase/genkit) - An open source framework for building AI-powered apps with familiar code-centric patterns. Genkit makes it easy to develop, integrate, and test AI features with observability and evaluations. Genkit works with various models and platforms.
 
-## google-cloud
+## llm
 
 *   [firebase/genkit](https://github.com/firebase/genkit) - An open source framework for building AI-powered apps with familiar code-centric patterns. Genkit makes it easy to develop, integrate, and test AI features with observability and evaluations. Genkit works with various models and platforms.
+
+*   [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
+
+*   [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) - Data framework for your LLM applications. Focus on server side solution
+
+*   [supabase-community/database-build](https://github.com/supabase-community/database-build) - In-browser Postgres sandbox with AI assistance (formerly postgres.new)
+
+*   [TheR1D/shell\_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
+
+*   [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
+
+*   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - the TypeScript AI agent framework
+
+*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
+
+*   [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
+
+*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
+
+*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
+
+## machine-learning
+
+*   [firebase/genkit](https://github.com/firebase/genkit) - An open source framework for building AI-powered apps with familiar code-centric patterns. Genkit makes it easy to develop, integrate, and test AI features with observability and evaluations. Genkit works with various models and platforms.
+
+## multimodal
+
+*   [firebase/genkit](https://github.com/firebase/genkit) - An open source framework for building AI-powered apps with familiar code-centric patterns. Genkit makes it easy to develop, integrate, and test AI features with observability and evaluations. Genkit works with various models and platforms.
+
+## rag
+
+*   [firebase/genkit](https://github.com/firebase/genkit) - An open source framework for building AI-powered apps with familiar code-centric patterns. Genkit makes it easy to develop, integrate, and test AI features with observability and evaluations. Genkit works with various models and platforms.
+
+*   [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
+
+*   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen /  DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.
 
 ## vector-database
 
@@ -3474,7 +3492,7 @@
 
 *   [JamieMason/syncpack](https://github.com/JamieMason/syncpack) - Consistent dependency versions in large JavaScript Monorepos.
 
-*   [polarsource/polar](https://github.com/polarsource/polar) - An open source Merchant of Record. Sell SaaS and digital products in minutes.
+*   [polarsource/polar](https://github.com/polarsource/polar) - An open source engine for your digital products. Sell SaaS and digital products in minutes.
 
 *   [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
 
@@ -3562,7 +3580,7 @@
 
 *   [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) - Data framework for your LLM applications. Focus on server side solution
 
-*   [polarsource/polar](https://github.com/polarsource/polar) - An open source Merchant of Record. Sell SaaS and digital products in minutes.
+*   [polarsource/polar](https://github.com/polarsource/polar) - An open source engine for your digital products. Sell SaaS and digital products in minutes.
 
 *   [mattpocock/evalite](https://github.com/mattpocock/evalite) - Test your LLM-powered apps with TypeScript. No API key required.
 
@@ -3798,10 +3816,6 @@
 
 *   [statelyai/xstate](https://github.com/statelyai/xstate) - Actor-based state management & orchestration for complex app logic.
 
-*   [millsp/ts-toolbelt](https://github.com/millsp/ts-toolbelt) - 👷 TypeScript's largest type utility library
-
-*   [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
-
 ## microfront-end
 
 *   [originjs/vite-plugin-federation](https://github.com/originjs/vite-plugin-federation) - Module Federation for vite & rollup
@@ -3824,7 +3838,7 @@
 
 *   [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 
-*   [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components. Works with modern frameworks, and even just Vanilla JS
+*   [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components. Works in React, Vue, Svelte, Solid, Preact
 
 *   [tolgee/tolgee-platform](https://github.com/tolgee/tolgee-platform) - Developer & translator friendly web-based localization platform
 
@@ -4080,8 +4094,6 @@
 
 *   [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
 
-*   [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
-
 ## package
 
 *   [rustwasm/wasm-pack](https://github.com/rustwasm/wasm-pack) - 📦✨ your favorite rust -> wasm workflow tool!
@@ -4302,7 +4314,7 @@
 
 *   [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) - Visual builder for React. Build apps, websites, and content. Integrate with your codebase.
 
-*   [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components. Works with modern frameworks, and even just Vanilla JS
+*   [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components. Works in React, Vue, Svelte, Solid, Preact
 
 *   [terrazzoapp/terrazzo](https://github.com/terrazzoapp/terrazzo) - Use DTCG tokens JSON to generate code for web, mobile, native apps, and more
 
@@ -4332,7 +4344,7 @@
 
 *   [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) - Visual builder for React. Build apps, websites, and content. Integrate with your codebase.
 
-*   [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components. Works with modern frameworks, and even just Vanilla JS
+*   [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components. Works in React, Vue, Svelte, Solid, Preact
 
 *   [chakra-ui/ark](https://github.com/chakra-ui/ark) - Build your design system with React, Svelte, Vue, and Solid. Powered by State Machines
 
@@ -4624,17 +4636,9 @@
 
 *   [nextjs/saas-starter](https://github.com/nextjs/saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
 
-*   [polarsource/polar](https://github.com/polarsource/polar) - An open source Merchant of Record. Sell SaaS and digital products in minutes.
+*   [polarsource/polar](https://github.com/polarsource/polar) - An open source engine for your digital products. Sell SaaS and digital products in minutes.
 
 *   [haydenbleasel/next-forge](https://github.com/haydenbleasel/next-forge) - Production-grade Turborepo template for Next.js apps.
-
-## agents
-
-*   [callstackincubator/flows-ai](https://github.com/callstackincubator/flows-ai) - Run AI workflows with TypeScript & Vercel AI SDK
-
-*   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - the TypeScript AI agent framework
-
-*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
 
 ## flows
 
@@ -4736,13 +4740,11 @@
 
 *   [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.
 
-*   [millsp/ts-toolbelt](https://github.com/millsp/ts-toolbelt) - 👷 TypeScript's largest type utility library
-
 ## a11y
 
 *   [omgovich/colord](https://github.com/omgovich/colord) - 👑 A tiny yet powerful tool for high-performance color manipulations and conversions
 
-*   [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components. Works with modern frameworks, and even just Vanilla JS
+*   [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components. Works in React, Vue, Svelte, Solid, Preact
 
 ## color
 
@@ -4887,8 +4889,6 @@
 *   [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 
 *   [statelyai/xstate](https://github.com/statelyai/xstate) - Actor-based state management & orchestration for complex app logic.
-
-*   [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 
 ## hex
 
@@ -5082,28 +5082,6 @@
 
 *   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen /  DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.
 
-## llm
-
-*   [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
-
-*   [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) - Data framework for your LLM applications. Focus on server side solution
-
-*   [supabase-community/database-build](https://github.com/supabase-community/database-build) - In-browser Postgres sandbox with AI assistance (formerly postgres.new)
-
-*   [TheR1D/shell\_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
-
-*   [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
-
-*   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - the TypeScript AI agent framework
-
-*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
-
-*   [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
-
-*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
-
-*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
-
 ## prompt
 
 *   [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
@@ -5174,7 +5152,7 @@
 
 *   [serafimcloud/21st](https://github.com/serafimcloud/21st) - npm for design engineers: largest marketplace of shadcn/ui-based React Tailwind components, blocks and hooks
 
-*   [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components. Works with modern frameworks, and even just Vanilla JS
+*   [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components. Works in React, Vue, Svelte, Solid, Preact
 
 *   [ibelick/motion-primitives](https://github.com/ibelick/motion-primitives) - UI kit to make beautiful, animated interfaces, faster. Customizable. Open Source.
 
@@ -5400,8 +5378,6 @@
 
 *   [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js
 
-*   [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
-
 ## flowchart
 
 *   [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.
@@ -5432,7 +5408,7 @@
 
 *   [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 
-*   [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components. Works with modern frameworks, and even just Vanilla JS
+*   [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components. Works in React, Vue, Svelte, Solid, Preact
 
 *   [tolgee/tolgee-platform](https://github.com/tolgee/tolgee-platform) - Developer & translator friendly web-based localization platform
 
@@ -5794,7 +5770,7 @@
 
 *   [mui/base-ui](https://github.com/mui/base-ui) - Base UI is an open-source library of accessible, unstyled UI components for React.
 
-*   [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components. Works with modern frameworks, and even just Vanilla JS
+*   [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components. Works in React, Vue, Svelte, Solid, Preact
 
 *   [joshuawootonn/react-components-from-scratch](https://github.com/joshuawootonn/react-components-from-scratch) - Accessible and animated components
 
@@ -5844,31 +5820,31 @@
 
 ## digital-products
 
-*   [polarsource/polar](https://github.com/polarsource/polar) - An open source Merchant of Record. Sell SaaS and digital products in minutes.
+*   [polarsource/polar](https://github.com/polarsource/polar) - An open source engine for your digital products. Sell SaaS and digital products in minutes.
 
 ## fastapi
 
-*   [polarsource/polar](https://github.com/polarsource/polar) - An open source Merchant of Record. Sell SaaS and digital products in minutes.
+*   [polarsource/polar](https://github.com/polarsource/polar) - An open source engine for your digital products. Sell SaaS and digital products in minutes.
 
 ## lemon-squeezy
 
-*   [polarsource/polar](https://github.com/polarsource/polar) - An open source Merchant of Record. Sell SaaS and digital products in minutes.
+*   [polarsource/polar](https://github.com/polarsource/polar) - An open source engine for your digital products. Sell SaaS and digital products in minutes.
 
 ## merchant-of-record
 
-*   [polarsource/polar](https://github.com/polarsource/polar) - An open source Merchant of Record. Sell SaaS and digital products in minutes.
+*   [polarsource/polar](https://github.com/polarsource/polar) - An open source engine for your digital products. Sell SaaS and digital products in minutes.
 
 ## mor
 
-*   [polarsource/polar](https://github.com/polarsource/polar) - An open source Merchant of Record. Sell SaaS and digital products in minutes.
+*   [polarsource/polar](https://github.com/polarsource/polar) - An open source engine for your digital products. Sell SaaS and digital products in minutes.
 
 ## paddle
 
-*   [polarsource/polar](https://github.com/polarsource/polar) - An open source Merchant of Record. Sell SaaS and digital products in minutes.
+*   [polarsource/polar](https://github.com/polarsource/polar) - An open source engine for your digital products. Sell SaaS and digital products in minutes.
 
 ## payments
 
-*   [polarsource/polar](https://github.com/polarsource/polar) - An open source Merchant of Record. Sell SaaS and digital products in minutes.
+*   [polarsource/polar](https://github.com/polarsource/polar) - An open source engine for your digital products. Sell SaaS and digital products in minutes.
 
 *   [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 
@@ -5876,11 +5852,11 @@
 
 ## polar
 
-*   [polarsource/polar](https://github.com/polarsource/polar) - An open source Merchant of Record. Sell SaaS and digital products in minutes.
+*   [polarsource/polar](https://github.com/polarsource/polar) - An open source engine for your digital products. Sell SaaS and digital products in minutes.
 
 ## python
 
-*   [polarsource/polar](https://github.com/polarsource/polar) - An open source Merchant of Record. Sell SaaS and digital products in minutes.
+*   [polarsource/polar](https://github.com/polarsource/polar) - An open source engine for your digital products. Sell SaaS and digital products in minutes.
 
 *   [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 
@@ -5908,19 +5884,19 @@
 
 ## saas
 
-*   [polarsource/polar](https://github.com/polarsource/polar) - An open source Merchant of Record. Sell SaaS and digital products in minutes.
+*   [polarsource/polar](https://github.com/polarsource/polar) - An open source engine for your digital products. Sell SaaS and digital products in minutes.
 
 *   [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven.
 
 ## sponsor
 
-*   [polarsource/polar](https://github.com/polarsource/polar) - An open source Merchant of Record. Sell SaaS and digital products in minutes.
+*   [polarsource/polar](https://github.com/polarsource/polar) - An open source engine for your digital products. Sell SaaS and digital products in minutes.
 
 *   [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry
 
 ## subscriptions
 
-*   [polarsource/polar](https://github.com/polarsource/polar) - An open source Merchant of Record. Sell SaaS and digital products in minutes.
+*   [polarsource/polar](https://github.com/polarsource/polar) - An open source engine for your digital products. Sell SaaS and digital products in minutes.
 
 *   [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
 
@@ -6232,6 +6208,10 @@
 
 *   [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system.
 
+## firebase
+
+*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds\_
+
 ## flutter
 
 *   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds\_
@@ -6414,7 +6394,7 @@
 
 *   [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 
-*   [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components. Works with modern frameworks, and even just Vanilla JS
+*   [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components. Works in React, Vue, Svelte, Solid, Preact
 
 *   [chakra-ui/ark](https://github.com/chakra-ui/ark) - Build your design system with React, Svelte, Vue, and Solid. Powered by State Machines
 
@@ -6758,7 +6738,7 @@
 
 *   [mrousavy/nitro](https://github.com/mrousavy/nitro) - 🔥 Insanely fast native C++, Swift or Kotlin modules with a statically compiled binding layer to JSI
 
-*   [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components. Works with modern frameworks, and even just Vanilla JS
+*   [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components. Works in React, Vue, Svelte, Solid, Preact
 
 *   [ibelick/motion-primitives](https://github.com/ibelick/motion-primitives) - UI kit to make beautiful, animated interfaces, faster. Customizable. Open Source.
 
@@ -7238,8 +7218,6 @@
 
 *   [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 
-*   [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
-
 ## react-dom
 
 *   [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
@@ -7364,7 +7342,7 @@
 
 *   [rphlmr/drizzle-lab](https://github.com/rphlmr/drizzle-lab) - Play with Drizzle everywhere
 
-*   [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components. Works with modern frameworks, and even just Vanilla JS
+*   [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components. Works in React, Vue, Svelte, Solid, Preact
 
 ## docker-container
 
@@ -7396,41 +7374,41 @@
 
 ## agnostic
 
-*   [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components. Works with modern frameworks, and even just Vanilla JS
+*   [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components. Works in React, Vue, Svelte, Solid, Preact
 
 *   [rcbyr/keen-slider](https://github.com/rcbyr/keen-slider) - The HTML touch slider carousel with the most native feeling you will get.
 
 ## component
 
-*   [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components. Works with modern frameworks, and even just Vanilla JS
+*   [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components. Works in React, Vue, Svelte, Solid, Preact
 
 ## headlessui
 
-*   [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components. Works with modern frameworks, and even just Vanilla JS
+*   [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components. Works in React, Vue, Svelte, Solid, Preact
 
 *   [inokawa/virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list (and grid) component for React, Vue, Solid and Svelte.
 
 ## primitives
 
-*   [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components. Works with modern frameworks, and even just Vanilla JS
+*   [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components. Works in React, Vue, Svelte, Solid, Preact
 
 ## state-machines
 
-*   [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components. Works with modern frameworks, and even just Vanilla JS
+*   [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components. Works in React, Vue, Svelte, Solid, Preact
 
 ## sveltejs
 
-*   [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components. Works with modern frameworks, and even just Vanilla JS
+*   [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components. Works in React, Vue, Svelte, Solid, Preact
 
 *   [serwist/serwist](https://github.com/serwist/serwist) - A Swiss Army knife for service workers.
 
 ## ui-kit
 
-*   [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components. Works with modern frameworks, and even just Vanilla JS
+*   [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components. Works in React, Vue, Svelte, Solid, Preact
 
 ## universal
 
-*   [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components. Works with modern frameworks, and even just Vanilla JS
+*   [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components. Works in React, Vue, Svelte, Solid, Preact
 
 *   [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
 
@@ -7571,6 +7549,14 @@
 ## excalidraw
 
 *   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
+
+## gemini
+
+*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
+
+*   [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
+
+*   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen /  DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.
 
 ## gemini-ai
 
@@ -8054,12 +8040,6 @@
 
 *   [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 
-## rag
-
-*   [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
-
-*   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen /  DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.
-
 ## scraping
 
 *   [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
@@ -8141,8 +8121,6 @@
 *   [unjs/ipx](https://github.com/unjs/ipx) - 🖼️ High performance, secure and easy-to-use image optimizer.
 
 *   [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
-
-*   [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
 
 ## image-processing
 
@@ -9493,8 +9471,6 @@
 *   [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 
 *   [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-
-*   [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
 
 ## jsx-lite
 
@@ -10992,8 +10968,6 @@
 
 *   [ts-essentials/ts-essentials](https://github.com/ts-essentials/ts-essentials) - All essential TypeScript types in one place 🤙
 
-*   [millsp/ts-toolbelt](https://github.com/millsp/ts-toolbelt) - 👷 TypeScript's largest type utility library
-
 ## form-validation
 
 *   [edmundhung/conform](https://github.com/edmundhung/conform) - A type-safe form validation library utilizing web fundamentals to progressively enhance HTML Forms with full support for server frameworks like Remix and Next.js.
@@ -11604,8 +11578,6 @@
 
 *   [remeda/remeda](https://github.com/remeda/remeda) - A utility library for JavaScript and TypeScript.
 
-*   [millsp/ts-toolbelt](https://github.com/millsp/ts-toolbelt) - 👷 TypeScript's largest type utility library
-
 ## consul
 
 *   [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
@@ -11930,8 +11902,6 @@
 
 *   [mfts/papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
 
-*   [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
-
 ## planetscale
 
 *   [dubinc/dub](https://github.com/dubinc/dub) - Open-source link attribution platform. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.
@@ -12212,15 +12182,11 @@
 
 *   [AnswerOverflow/AnswerOverflow](https://github.com/AnswerOverflow/AnswerOverflow) - Powering Discord content discovery by making web pages from threads for some of the largest servers, including Valorant, Cloudflare, C#, and Nuxt.
 
-*   [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
-
 ## trpc
 
 *   [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 
 *   [timothymiller/t4-app](https://github.com/timothymiller/t4-app) - Full stack meta-framework for building iOS, Android, and Progressive Web Apps with Tamagui and deploying to Cloudflare.
-
-*   [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 
 ## blitzjs
 
@@ -12925,8 +12891,6 @@
 ## type-checking
 
 *   [sindresorhus/ow](https://github.com/sindresorhus/ow) - Function argument validation for humans
-
-*   [millsp/ts-toolbelt](https://github.com/millsp/ts-toolbelt) - 👷 TypeScript's largest type utility library
 
 ## customization
 
@@ -14867,47 +14831,3 @@
 ## echarts
 
 *   [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
-
-## image-generation
-
-*   [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
-
-## image-generator
-
-*   [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
-
-## opengraph-images
-
-*   [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
-
-## satori
-
-*   [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
-
-## dynamic-types
-
-*   [millsp/ts-toolbelt](https://github.com/millsp/ts-toolbelt) - 👷 TypeScript's largest type utility library
-
-## safety
-
-*   [millsp/ts-toolbelt](https://github.com/millsp/ts-toolbelt) - 👷 TypeScript's largest type utility library
-
-## type-safety
-
-*   [millsp/ts-toolbelt](https://github.com/millsp/ts-toolbelt) - 👷 TypeScript's largest type utility library
-
-## type-utilities
-
-*   [millsp/ts-toolbelt](https://github.com/millsp/ts-toolbelt) - 👷 TypeScript's largest type utility library
-
-## create-t3-app
-
-*   [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
-
-## npx
-
-*   [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
-
-## t3
-
-*   [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
