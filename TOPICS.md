@@ -714,6 +714,7 @@
 *   [generation](#generation)
 *   [preset](#preset)
 *   [scaffolding](#scaffolding)
+*   [cursor](#cursor)
 *   [devtool](#devtool)
 *   [electron](#electron)
 *   [local-first](#local-first)
@@ -1024,7 +1025,6 @@
 *   [tutorial](#tutorial)
 *   [webcontainer](#webcontainer)
 *   [blob](#blob)
-*   [cursor](#cursor)
 *   [ux](#ux)
 *   [draggable](#draggable)
 *   [droppable](#droppable)
@@ -8445,6 +8445,12 @@
 
 *   [preset/preset](https://github.com/preset/preset) - Elegant, ecosystem-agnostic preset mechanism
 
+## cursor
+
+*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source Cursor for Designers. Design directly in your live React app and publish your changes to code.
+
+*   [gmrchk/blobity](https://github.com/gmrchk/blobity) - The cursor is the heart of any interaction with the web. Why not take it to the next level? 🚀
+
 ## devtool
 
 *   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source Cursor for Designers. Design directly in your live React app and publish your changes to code.
@@ -10098,10 +10104,6 @@
 *   [stackblitz/tutorialkit](https://github.com/stackblitz/tutorialkit) - TutorialKit by StackBlitz - Create interactive tutorials powered by the WebContainer API
 
 ## blob
-
-*   [gmrchk/blobity](https://github.com/gmrchk/blobity) - The cursor is the heart of any interaction with the web. Why not take it to the next level? 🚀
-
-## cursor
 
 *   [gmrchk/blobity](https://github.com/gmrchk/blobity) - The cursor is the heart of any interaction with the web. Why not take it to the next level? 🚀
 
