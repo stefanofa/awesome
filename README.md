@@ -33,6 +33,12 @@
 
 ## TypeScript
 
+*   [instructa/viber3d](https://github.com/instructa/viber3d) - A modern starter kit for 3D browser games powered by r3f and threejs -
+
+*   [vgulerianb/react-exe](https://github.com/vgulerianb/react-exe) - A powerful React component executor that renders code with external dependencies and custom styling
+
+*   [antfu-collective/package-manager-detector](https://github.com/antfu-collective/package-manager-detector) - Package manager detector
+
 *   [partykit/partykit](https://github.com/partykit/partykit) - PartyKit simplifies developing multiplayer applications
 
 *   [danielroe/beasties](https://github.com/danielroe/beasties) - A library to inline your app's critical CSS and lazy-load the rest.
@@ -177,7 +183,7 @@
 
 *   [Nutlope/llama-ocr](https://github.com/Nutlope/llama-ocr) - Document to Markdown OCR library with Llama 3.2 vision
 
-*   [chakra-ui/zag](https://github.com/chakra-ui/zag) - Build accessible design systems and component library using finite state machines. Compatible with React, Vue, Svelte, Solid, and Preact.
+*   [chakra-ui/zag](https://github.com/chakra-ui/zag) - Build your design system in React, Solid, Vue or Svelte. Powered by finite state machines
 
 *   [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
 
@@ -928,12 +934,6 @@
 *   [ProseMirror/prosemirror](https://github.com/ProseMirror/prosemirror) - The ProseMirror WYSIWYM editor
 
 *   [publint/publint](https://github.com/publint/publint) - Lint packaging errors
-
-*   [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
-
-*   [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
-
-*   [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript
 
 ## Rust
 
