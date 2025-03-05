@@ -33,6 +33,8 @@
 
 ## TypeScript
 
+*   [jaredh159/tailwind-react-native-classnames](https://github.com/jaredh159/tailwind-react-native-classnames) - simple, expressive API for tailwindcss + react-native
+
 *   [instructa/viber3d](https://github.com/instructa/viber3d) - A modern starter kit for 3D browser games powered by r3f and threejs -
 
 *   [vgulerianb/react-exe](https://github.com/vgulerianb/react-exe) - A powerful React component executor that renders code with external dependencies and custom styling
@@ -1252,8 +1254,6 @@
 *   [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
 
 *   [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
-
-*   [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 
 ## Objective-C
 
