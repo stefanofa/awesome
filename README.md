@@ -2,14 +2,14 @@
 
 ## Table of Contents
 
-*   [TypeScript](#typescript)
-*   [HTML](#html)
 *   [Python](#python)
+*   [TypeScript](#typescript)
+*   [Go](#go)
+*   [HTML](#html)
 *   [Rust](#rust)
 *   [JavaScript](#javascript)
 *   [CSS](#css)
 *   [Vue](#vue)
-*   [Go](#go)
 *   [miscellaneous](#miscellaneous)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Zig](#zig)
@@ -30,7 +30,47 @@
 *   [Kotlin](#kotlin)
 *   [Svelte](#svelte)
 
+## Python
+
+*   [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
+
+*   [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) -
+
+*   [bytedance/monolith](https://github.com/bytedance/monolith) - A Lightweight Recommendation System
+
+*   [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) - Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase
+
+*   [polarsource/polar](https://github.com/polarsource/polar) - An open source engine for your digital products. Sell SaaS and digital products in minutes.
+
+*   [TheR1D/shell\_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
+
+*   [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
+
+*   [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
+
+*   [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
+
+*   [hyperknot/openfreemap](https://github.com/hyperknot/openfreemap) - Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data
+
+*   [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
+
+*   [Ackee-Blockchain/wake](https://github.com/Ackee-Blockchain/wake) - Wake is a Python-based Solidity development and testing framework with built-in vulnerability detectors
+
+*   [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
+
+*   [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/
+
+*   [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP / Go cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+
+*   [yadm-dev/yadm](https://github.com/yadm-dev/yadm) - Yet Another Dotfiles Manager
+
+*   [ytisf/theZoo](https://github.com/ytisf/theZoo) - A repository of LIVE malwares for your own joy and pleasure. theZoo is a project created to make the possibility of malware analysis open and available to the public.
+
+*   [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
+
 ## TypeScript
+
+*   [mui/pigment-css](https://github.com/mui/pigment-css) - Pigment CSS is a zero-runtime CSS-in-JS library that extracts the colocated styles to their own CSS files at build time.
 
 *   [google/wireit](https://github.com/google/wireit) - Wireit upgrades your npm/pnpm/yarn scripts to make them smarter and more efficient.
 
@@ -778,7 +818,59 @@
 
 *   [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 
-*   [octokit/octokit.js](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
+## Go
+
+*   [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
+
+*   [google/dotprompt](https://github.com/google/dotprompt) -
+
+*   [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
+
+*   [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
+
+*   [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
+
+*   [inngest/inngest](https://github.com/inngest/inngest) - The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge.
+
+*   [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
+
+*   [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
+
+*   [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running Your AI-Generated Code.
+
+*   [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
+
+*   [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback
+
+*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
+
+*   [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A nobuild content delivery network(CDN) for modern web development.
+
+*   [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
+
+*   [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+
+*   [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
+
+*   [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
+
+*   [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
+
+*   [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
+
+*   [six-ddc/plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool that includes a real-time web UI and terminal display
+
+*   [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
+
+*   [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
+
+*   [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
+
+*   [trustwallet/assets](https://github.com/trustwallet/assets) - A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
+
+*   [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
+
+*   [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 
 ## HTML
 
@@ -795,42 +887,6 @@
 *   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 
 *   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-
-## Python
-
-*   [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) -
-
-*   [bytedance/monolith](https://github.com/bytedance/monolith) - A Lightweight Recommendation System
-
-*   [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) - Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase
-
-*   [polarsource/polar](https://github.com/polarsource/polar) - An open source engine for your digital products. Sell SaaS and digital products in minutes.
-
-*   [TheR1D/shell\_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
-
-*   [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
-
-*   [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
-
-*   [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
-
-*   [hyperknot/openfreemap](https://github.com/hyperknot/openfreemap) - Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data
-
-*   [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
-
-*   [Ackee-Blockchain/wake](https://github.com/Ackee-Blockchain/wake) - Wake is a Python-based Solidity development and testing framework with built-in vulnerability detectors
-
-*   [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
-
-*   [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/
-
-*   [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP / Go cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
-
-*   [yadm-dev/yadm](https://github.com/yadm-dev/yadm) - Yet Another Dotfiles Manager
-
-*   [ytisf/theZoo](https://github.com/ytisf/theZoo) - A repository of LIVE malwares for your own joy and pleasure. theZoo is a project created to make the possibility of malware analysis open and available to the public.
-
-*   [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 
 ## Rust
 
@@ -1068,58 +1124,6 @@
 
 *   [eslint/config-inspector](https://github.com/eslint/config-inspector) - A visual tool for inspecting and understanding your ESLint flat configs.
 
-## Go
-
-*   [google/dotprompt](https://github.com/google/dotprompt) -
-
-*   [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
-
-*   [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
-
-*   [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
-
-*   [inngest/inngest](https://github.com/inngest/inngest) - The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge.
-
-*   [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
-
-*   [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
-
-*   [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running Your AI-Generated Code.
-
-*   [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
-
-*   [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback
-
-*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
-
-*   [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A nobuild content delivery network(CDN) for modern web development.
-
-*   [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
-
-*   [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-
-*   [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
-
-*   [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
-
-*   [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
-
-*   [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
-
-*   [six-ddc/plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool that includes a real-time web UI and terminal display
-
-*   [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
-
-*   [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
-
-*   [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
-
-*   [trustwallet/assets](https://github.com/trustwallet/assets) - A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
-
-*   [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
-
-*   [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
-
 ## miscellaneous
 
 *   [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
@@ -1217,10 +1221,6 @@
 *   [PaulRBerg/foundry-template](https://github.com/PaulRBerg/foundry-template) - Foundry-based template for developing Solidity smart contracts
 
 *   [thirdweb-dev/contracts](https://github.com/thirdweb-dev/contracts) - Collection of smart contracts deployable via thirdweb
-
-*   [transmissions11/solmate](https://github.com/transmissions11/solmate) - Modern, opinionated, and gas optimized building blocks for smart contract development.
-
-*   [Vectorized/solady](https://github.com/Vectorized/solady) - Optimized Solidity snippets.
 
 ## C
 
