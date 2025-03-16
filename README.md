@@ -660,7 +660,7 @@
 
 *   [sindresorhus/ow](https://github.com/sindresorhus/ow) - Function argument validation for humans
 
-*   [dai-shi/waku](https://github.com/dai-shi/waku) - ⛩️ The minimal React framework
+*   [wakujs/waku](https://github.com/wakujs/waku) - ⛩️ The minimal React framework
 
 *   [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 

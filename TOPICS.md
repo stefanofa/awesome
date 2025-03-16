@@ -2336,7 +2336,7 @@
 
 *   [facebook/stylex](https://github.com/facebook/stylex) - StyleX is the styling system for ambitious user interfaces.
 
-*   [dai-shi/waku](https://github.com/dai-shi/waku) - ⛩️ The minimal React framework
+*   [wakujs/waku](https://github.com/wakujs/waku) - ⛩️ The minimal React framework
 
 *   [koekeishiya/skhd](https://github.com/koekeishiya/skhd) -  Simple hotkey daemon for macOS
 
