@@ -36,6 +36,8 @@
 
 *   [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) -
 
+*   [google/dotprompt](https://github.com/google/dotprompt) -
+
 *   [bytedance/monolith](https://github.com/bytedance/monolith) - A Lightweight Recommendation System
 
 *   [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) - Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase
@@ -821,8 +823,6 @@
 ## Go
 
 *   [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
-
-*   [google/dotprompt](https://github.com/google/dotprompt) -
 
 *   [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
 
