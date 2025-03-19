@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-*   [Python](#python)
 *   [TypeScript](#typescript)
+*   [Python](#python)
 *   [Go](#go)
 *   [HTML](#html)
 *   [Rust](#rust)
@@ -30,47 +30,15 @@
 *   [Kotlin](#kotlin)
 *   [Svelte](#svelte)
 
-## Python
-
-*   [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
-
-*   [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) -
-
-*   [google/dotprompt](https://github.com/google/dotprompt) -
-
-*   [bytedance/monolith](https://github.com/bytedance/monolith) - A Lightweight Recommendation System
-
-*   [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) - Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase
-
-*   [polarsource/polar](https://github.com/polarsource/polar) - An open source engine for your digital products. Sell SaaS and digital products in minutes.
-
-*   [TheR1D/shell\_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
-
-*   [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
-
-*   [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
-
-*   [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
-
-*   [hyperknot/openfreemap](https://github.com/hyperknot/openfreemap) - Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data
-
-*   [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
-
-*   [Ackee-Blockchain/wake](https://github.com/Ackee-Blockchain/wake) - Wake is a Python-based Solidity development and testing framework with built-in vulnerability detectors
-
-*   [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
-
-*   [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/
-
-*   [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP / Go cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
-
-*   [yadm-dev/yadm](https://github.com/yadm-dev/yadm) - Yet Another Dotfiles Manager
-
-*   [ytisf/theZoo](https://github.com/ytisf/theZoo) - A repository of LIVE malwares for your own joy and pleasure. theZoo is a project created to make the possibility of malware analysis open and available to the public.
-
-*   [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
-
 ## TypeScript
+
+*   [unnoq/orpc](https://github.com/unnoq/orpc) - Typesafe APIs Made Simple 🪄
+
+*   [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
+
+*   [smithery-ai/cli](https://github.com/smithery-ai/cli) - Smithery CLI MCP server installer
+
+*   [JohannesKlauss/react-hotkeys-hook](https://github.com/JohannesKlauss/react-hotkeys-hook) - React hook for using keyboard shortcuts in components.
 
 *   [mui/pigment-css](https://github.com/mui/pigment-css) - Pigment CSS is a zero-runtime CSS-in-JS library that extracts the colocated styles to their own CSS files at build time.
 
@@ -450,7 +418,7 @@
 
 *   [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
 
-*   [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
+*   [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 
 *   [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive user's focus across the page
 
@@ -814,11 +782,45 @@
 
 *   [mattpocock/ts-reset](https://github.com/mattpocock/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
 
-*   [remeda/remeda](https://github.com/remeda/remeda) - A utility library for JavaScript and TypeScript.
+## Python
 
-*   [QwikDev/partytown](https://github.com/QwikDev/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
+*   [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
 
-*   [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
+*   [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) -
+
+*   [google/dotprompt](https://github.com/google/dotprompt) -
+
+*   [bytedance/monolith](https://github.com/bytedance/monolith) - A Lightweight Recommendation System
+
+*   [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) - Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase
+
+*   [polarsource/polar](https://github.com/polarsource/polar) - An open source engine for your digital products. Sell SaaS and digital products in minutes.
+
+*   [TheR1D/shell\_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
+
+*   [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
+
+*   [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
+
+*   [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
+
+*   [hyperknot/openfreemap](https://github.com/hyperknot/openfreemap) - Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data
+
+*   [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
+
+*   [Ackee-Blockchain/wake](https://github.com/Ackee-Blockchain/wake) - Wake is a Python-based Solidity development and testing framework with built-in vulnerability detectors
+
+*   [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
+
+*   [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/
+
+*   [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP / Go cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+
+*   [yadm-dev/yadm](https://github.com/yadm-dev/yadm) - Yet Another Dotfiles Manager
+
+*   [ytisf/theZoo](https://github.com/ytisf/theZoo) - A repository of LIVE malwares for your own joy and pleasure. theZoo is a project created to make the possibility of malware analysis open and available to the public.
+
+*   [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 
 ## Go
 
@@ -836,7 +838,7 @@
 
 *   [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
 
-*   [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running Your AI-Generated Code.
+*   [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code.
 
 *   [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 
@@ -883,8 +885,6 @@
 *   [microlinkhq/metascraper](https://github.com/microlinkhq/metascraper) - Get unified metadata from websites using Open Graph, Microdata, RDFa, Twitter Cards, JSON-LD, HTML, and more.
 
 *   [LangbaseInc/langui](https://github.com/LangbaseInc/langui) - UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects.
-
-*   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
 ## Rust
 
