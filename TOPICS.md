@@ -793,6 +793,7 @@
 *   [cursor](#cursor)
 *   [devtool](#devtool)
 *   [electron](#electron)
+*   [ide](#ide)
 *   [local-first](#local-first)
 *   [vitejs](#vitejs)
 *   [webflow](#webflow)
@@ -1001,6 +1002,7 @@
 *   [mistral](#mistral)
 *   [phi3](#phi3)
 *   [phi4](#phi4)
+*   [qwen](#qwen)
 *   [type-level-programming](#type-level-programming)
 *   [dnd](#dnd)
 *   [forked](#forked)
@@ -1531,7 +1533,6 @@
 *   [database-client](#database-client)
 *   [database-management](#database-management)
 *   [databases](#databases)
-*   [ide](#ide)
 *   [mongo](#mongo)
 *   [mongo-db](#mongo-db)
 *   [mongosh](#mongosh)
@@ -8875,6 +8876,16 @@
 
 *   [Noovolari/leapp](https://github.com/Noovolari/leapp) - Leapp is the DevTool to access your cloud
 
+## ide
+
+*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source Cursor for Designers. Design directly in your live React app and publish your changes to code.
+
+*   [slashbase/slashbase-go](https://github.com/slashbase/slashbase-go) - Modern database IDE for your dev & data workflows. Supports MySQL, PostgreSQL & MongoDB.
+
+*   [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
+
+*   [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
+
 ## local-first
 
 *   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source Cursor for Designers. Design directly in your live React app and publish your changes to code.
@@ -10006,6 +10017,10 @@
 *   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
 
 ## phi4
+
+*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
+
+## qwen
 
 *   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
 
@@ -12464,14 +12479,6 @@
 *   [slashbase/slashbase-go](https://github.com/slashbase/slashbase-go) - Modern database IDE for your dev & data workflows. Supports MySQL, PostgreSQL & MongoDB.
 
 *   [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
-
-## ide
-
-*   [slashbase/slashbase-go](https://github.com/slashbase/slashbase-go) - Modern database IDE for your dev & data workflows. Supports MySQL, PostgreSQL & MongoDB.
-
-*   [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
-
-*   [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 
 ## mongo
 
