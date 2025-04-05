@@ -3131,7 +3131,7 @@
 
 *   [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for single-page applications on top of REST/GraphQL APIs, using TypeScript, React and Material Design
 
-*   [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
+*   [redwoodjs/graphql](https://github.com/redwoodjs/graphql) - RedwoodGraphQL
 
 *   [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 
@@ -4657,8 +4657,6 @@
 
 *   [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 
-*   [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
-
 *   [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 
 ## load-generator
@@ -4965,7 +4963,7 @@
 
 *   [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 
-*   [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
+*   [redwoodjs/graphql](https://github.com/redwoodjs/graphql) - RedwoodGraphQL
 
 ## epic-stack
 
@@ -6587,7 +6585,7 @@
 
 *   [divriots/jampack](https://github.com/divriots/jampack) - Optimizes static websites for best user experience and best Core Web Vitals scores.
 
-*   [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
+*   [redwoodjs/graphql](https://github.com/redwoodjs/graphql) - RedwoodGraphQL
 
 ## lowcode
 
@@ -8029,7 +8027,7 @@
 
 *   [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for single-page applications on top of REST/GraphQL APIs, using TypeScript, React and Material Design
 
-*   [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
+*   [redwoodjs/graphql](https://github.com/redwoodjs/graphql) - RedwoodGraphQL
 
 ## query
 
@@ -16365,7 +16363,7 @@
 
 ## apollo
 
-*   [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
+*   [redwoodjs/graphql](https://github.com/redwoodjs/graphql) - RedwoodGraphQL
 
 ## clones-detection
 

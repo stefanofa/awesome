@@ -929,7 +929,7 @@
 
 *   [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for single-page applications on top of REST/GraphQL APIs, using TypeScript, React and Material Design
 
-*   [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
+*   [redwoodjs/graphql](https://github.com/redwoodjs/graphql) - RedwoodGraphQL
 
 *   [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code.
 
