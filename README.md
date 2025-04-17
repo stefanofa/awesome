@@ -223,7 +223,7 @@
 
 *   [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
 
-*   [LegendApp/legend-list](https://github.com/LegendApp/legend-list) -
+*   [LegendApp/legend-list](https://github.com/LegendApp/legend-list) - A high-performance list component for React Native
 
 *   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
 
