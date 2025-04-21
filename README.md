@@ -35,7 +35,7 @@
 
 ## miscellaneous
 
-*   [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin & Replit Agent System Prompts, Tools & AI Models.
+*   [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent & Windsurf Agent System Prompts, Tools & AI Models.
 
 *   [prime-ui/primeui](https://github.com/prime-ui/primeui) - AI-powered, open-source platform to launch and manage marketing sites.
 
