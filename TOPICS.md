@@ -2365,7 +2365,7 @@
 
 *   [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models.
 
-*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - Open source vibe coding app
+*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Open-Source Visual Vibecoding Editor – Visually build, style, and edit your React App
 
 *   [gmrchk/blobity](https://github.com/gmrchk/blobity) - The cursor is the heart of any interaction with the web. Why not take it to the next level? 🚀
 
@@ -2377,7 +2377,7 @@
 
 *   [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise) - What if Cursor, Github Copilot and Windsurf could actually interact with your browser?  💬 Comment on any DOM element 🧠 We send the real context to Windsurf ⚡ Save time manually selecting files  Setup in 30 seconds, fully open-source, works first prompt.  Supports every framework with first party support for React, Next.js, Vue and Nuxt.js
 
-*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - Open source vibe coding app
+*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Open-Source Visual Vibecoding Editor – Visually build, style, and edit your React App
 
 *   [slashbase/slashbase-go](https://github.com/slashbase/slashbase-go) - Modern database IDE for your dev & data workflows. Supports MySQL, PostgreSQL & MongoDB.
 
@@ -2767,7 +2767,7 @@
 
 *   [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
 
-*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - Open source vibe coding app
+*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Open-Source Visual Vibecoding Editor – Visually build, style, and edit your React App
 
 *   [midday-ai/v1](https://github.com/midday-ai/v1) - An open-source starter kit based on Midday.
 
@@ -2965,7 +2965,7 @@
 
 *   [chakra-ui/ark](https://github.com/chakra-ui/ark) - Build your design system with React, Svelte, Vue, and Solid. Powered by State Machines
 
-*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - Open source vibe coding app
+*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Open-Source Visual Vibecoding Editor – Visually build, style, and edit your React App
 
 *   [onejs/one](https://github.com/onejs/one) - ❶ One is a new React framework - target web and native with a single Vite plugin and fully shared code, so you can ship cross-platform nearly as easy as single-platform.
 
@@ -3225,7 +3225,7 @@
 
 *   [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Build your own second brain with supermemory. It's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.
 
-*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - Open source vibe coding app
+*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Open-Source Visual Vibecoding Editor – Visually build, style, and edit your React App
 
 *   [bloomberg/stricli](https://github.com/bloomberg/stricli) - Build complex CLIs with type safety and no dependencies
 
@@ -3735,7 +3735,7 @@
 
 *   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 
-*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - Open source vibe coding app
+*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Open-Source Visual Vibecoding Editor – Visually build, style, and edit your React App
 
 *   [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
@@ -4797,7 +4797,7 @@
 
 *   [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Build your own second brain with supermemory. It's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.
 
-*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - Open source vibe coding app
+*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Open-Source Visual Vibecoding Editor – Visually build, style, and edit your React App
 
 *   [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) - tailwindcss-motion is a Tailwind CSS Plugin made at RomboHQ. It’s a simple, yet powerful, animation library with a simple syntax.
 
@@ -5269,7 +5269,7 @@
 
 *   [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
 
-*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - Open source vibe coding app
+*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Open-Source Visual Vibecoding Editor – Visually build, style, and edit your React App
 
 *   [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) - tailwindcss-motion is a Tailwind CSS Plugin made at RomboHQ. It’s a simple, yet powerful, animation library with a simple syntax.
 
@@ -5603,7 +5603,7 @@
 
 *   [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
 
-*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - Open source vibe coding app
+*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Open-Source Visual Vibecoding Editor – Visually build, style, and edit your React App
 
 *   [dmno-dev/dmno](https://github.com/dmno-dev/dmno) - The missing middleware for your configuration and secrets.
 
@@ -5891,7 +5891,7 @@
 
 *   [chakra-ui/ark](https://github.com/chakra-ui/ark) - Build your design system with React, Svelte, Vue, and Solid. Powered by State Machines
 
-*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - Open source vibe coding app
+*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Open-Source Visual Vibecoding Editor – Visually build, style, and edit your React App
 
 *   [gluestack/gluestack-ui](https://github.com/gluestack/gluestack-ui) - React & React Native Components & Patterns (copy-paste components & patterns crafted with Tailwind CSS (NativeWind))
 
@@ -7387,7 +7387,7 @@
 
 *   [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) - Visual builder for React. Build apps, websites, and content. Integrate with your codebase.
 
-*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - Open source vibe coding app
+*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Open-Source Visual Vibecoding Editor – Visually build, style, and edit your React App
 
 *   [farm-fe/farm](https://github.com/farm-fe/farm) - Extremely fast Vite-compatible web build tool written in Rust
 
@@ -9201,7 +9201,7 @@
 
 *   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 
-*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - Open source vibe coding app
+*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Open-Source Visual Vibecoding Editor – Visually build, style, and edit your React App
 
 *   [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 
@@ -9945,7 +9945,7 @@
 
 *   [BetterTyped/react-zoom-pan-pinch](https://github.com/BetterTyped/react-zoom-pan-pinch) - 🖼 React library to support easy zoom, pan, pinch on various html dom elements like \<img> and \<div>
 
-*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - Open source vibe coding app
+*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Open-Source Visual Vibecoding Editor – Visually build, style, and edit your React App
 
 *   [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 
@@ -10345,7 +10345,7 @@
 
 ## webflow
 
-*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - Open source vibe coding app
+*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Open-Source Visual Vibecoding Editor – Visually build, style, and edit your React App
 
 ## local-first
 

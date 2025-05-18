@@ -311,7 +311,7 @@
 
 *   [preset/preset](https://github.com/preset/preset) - Elegant, ecosystem-agnostic preset mechanism
 
-*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - Open source vibe coding app
+*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Open-Source Visual Vibecoding Editor – Visually build, style, and edit your React App
 
 *   [onejs/one](https://github.com/onejs/one) - ❶ One is a new React framework - target web and native with a single Vite plugin and fully shared code, so you can ship cross-platform nearly as easy as single-platform.
 
