@@ -36,6 +36,8 @@
 
 ## TypeScript
 
+*   [rocicorp/mono](https://github.com/rocicorp/mono) - 99% of Queries in Zero Milliseconds
+
 *   [livestorejs/livestore](https://github.com/livestorejs/livestore) - LiveStore is a next-generation state management framework based on reactive SQLite and built-in sync engine.
 
 *   [LovesWorking/rn-better-dev-tools](https://github.com/LovesWorking/rn-better-dev-tools) - Beautiful macOS app for debugging React Query in ANY React-based application (Mobile, Web, TV, VR). Monitor queries across devices in real-time with a gorgeous native interface. Features device management, query visualization, state simulation, and automatic production safety. Works with React Native, React Web, Next.js, Expo, and any platform wher
@@ -310,8 +312,6 @@
 
 *   [chakra-ui/ark](https://github.com/chakra-ui/ark) - Build your design system with React, Svelte, Vue, and Solid. Powered by State Machines
 
-*   [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
-
 *   [mrbirddev/fontsensei](https://github.com/mrbirddev/fontsensei) -
 
 *   [unlayer/react-email-editor](https://github.com/unlayer/react-email-editor) - Drag-n-Drop Email Editor Component for React.js
@@ -324,7 +324,7 @@
 
 *   [preset/preset](https://github.com/preset/preset) - Elegant, ecosystem-agnostic preset mechanism
 
-*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Open-Source Visual Vibecoding Editor – Visually build, style, and edit your React App with AI
+*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
 
 *   [onejs/one](https://github.com/onejs/one) - ❶ One is a new React framework - target web and native with a single Vite plugin and fully shared code, so you can ship cross-platform nearly as easy as single-platform.
 
@@ -896,8 +896,6 @@
 
 *   [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
 
-*   [mhaidarhanif/rewinds-legacy](https://github.com/mhaidarhanif/rewinds-legacy) - ⏪ The Remix Stack with Tailwind - New repo: https://github.com/mhaidarhanif/rewinds
-
 ## EJS
 
 *   [roninoss/create-expo-stack](https://github.com/roninoss/create-expo-stack) - CLI tool to initialize a React Native application with Expo. Provides options to include Typescript, file-based routing via Expo Router, configuration based routing via pure React Navigation, styling via Nativewind, Restyle, Unistyles, StyleSheets, or Tamagui, and/or backend as a service such as Firebase and Supabase.
@@ -911,8 +909,6 @@
 *   [vltpkg/reproduce](https://github.com/vltpkg/reproduce) - Library to check if a package is reproducible
 
 *   [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
-
-*   [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 
 *   [e18e/e18e](https://github.com/e18e/e18e) -
 
@@ -1178,6 +1174,8 @@
 
 *   [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) -
 
+*   [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
+
 *   [google/dotprompt](https://github.com/google/dotprompt) - Executable GenAI prompt templates
 
 *   [bytedance/monolith](https://github.com/bytedance/monolith) - A Lightweight Recommendation System
@@ -1195,6 +1193,8 @@
 *   [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 
 *   [hyperknot/openfreemap](https://github.com/hyperknot/openfreemap) - Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data
+
+*   [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 
 *   [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 

@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [miscellaneous](#miscellaneous)
 *   [data-layer](#data-layer)
 *   [local-first](#local-first)
 *   [signals](#signals)
@@ -61,7 +62,6 @@
 *   [skeleton-loader](#skeleton-loader)
 *   [gesture](#gesture)
 *   [javascript](#javascript)
-*   [miscellaneous](#miscellaneous)
 *   [code-editor](#code-editor)
 *   [cursor](#cursor)
 *   [cursor-ai](#cursor-ai)
@@ -953,6 +953,8 @@
 *   [generation](#generation)
 *   [preset](#preset)
 *   [scaffolding](#scaffolding)
+*   [design-to-code](#design-to-code)
+*   [vibe-coding](#vibe-coding)
 *   [webflow](#webflow)
 *   [claude-3](#claude-3)
 *   [gpt-35-turbo](#gpt-35-turbo)
@@ -2366,7 +2368,294 @@
 *   [vector-search](#vector-search)
 *   [combobox](#combobox)
 *   [command-menu](#command-menu)
-*   [vechaiui](#vechaiui)
+
+## miscellaneous
+
+*   [rocicorp/mono](https://github.com/rocicorp/mono) - 99% of Queries in Zero Milliseconds
+
+*   [nandorojo/moti](https://github.com/nandorojo/moti) - 🐼  The React Native (+ Web) animation library, powered by Reanimated 3.
+
+*   [tailark/blocks](https://github.com/tailark/blocks) - Shadcn marketing blocks
+
+*   [TanStack/db](https://github.com/TanStack/db) - A reactive client store for building super fast apps on sync
+
+*   [stevedylandev/bhvr](https://github.com/stevedylandev/bhvr) - A monorepo template using Bun, Hono, Vite, and React
+
+*   [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code (prev. Roo Cline) gives you a whole dev team of AI agents in your code editor.
+
+*   [tj/n](https://github.com/tj/n) - Node version management
+
+*   [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
+
+*   [felixhageloh/uebersicht](https://github.com/felixhageloh/uebersicht) - ˈyːbɐˌzɪçt
+
+*   [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch) - TheBoringNotch: Not so boring notch That Rocks 🎸🎶
+
+*   [prime-ui/primeui](https://github.com/prime-ui/primeui) - AI-powered, open-source platform to launch and manage marketing sites.
+
+*   [smithery-ai/cli](https://github.com/smithery-ai/cli) - Smithery CLI MCP server installer
+
+*   [mui/pigment-css](https://github.com/mui/pigment-css) - Pigment CSS is a zero-runtime CSS-in-JS library that extracts the colocated styles to their own CSS files at build time.
+
+*   [google/wireit](https://github.com/google/wireit) - Wireit upgrades your npm/pnpm/yarn scripts to make them smarter and more efficient.
+
+*   [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) -
+
+*   [nihgwu/create-slots](https://github.com/nihgwu/create-slots) - Bring slots to React component
+
+*   [Thinkmill/manypkg](https://github.com/Thinkmill/manypkg) - ☔️ An umbrella for your monorepo
+
+*   [jaredh159/tailwind-react-native-classnames](https://github.com/jaredh159/tailwind-react-native-classnames) - simple, expressive API for tailwindcss + react-native
+
+*   [vltpkg/reproduce](https://github.com/vltpkg/reproduce) - Library to check if a package is reproducible
+
+*   [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - The official Typescript SDK for Model Context Protocol servers and clients
+
+*   [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
+
+*   [Filsommer/rosencharts](https://github.com/Filsommer/rosencharts) -
+
+*   [joshwcomeau/use-sound](https://github.com/joshwcomeau/use-sound) - A React Hook for playing sound effects
+
+*   [joshwcomeau/tinkersynth](https://github.com/joshwcomeau/tinkersynth) - An experimental art project. Create unique art through serendipitous discovery.
+
+*   [preconstruct/preconstruct](https://github.com/preconstruct/preconstruct) - 🎁 Dev and build your code painlessly in monorepos
+
+*   [calcom/font](https://github.com/calcom/font) - The home for our Cal Sans font.
+
+*   [antfu/node-modules-inspector](https://github.com/antfu/node-modules-inspector) - Interactive UI for local node modules inspection
+
+*   [serge-0v/next-js-sanity-starter](https://github.com/serge-0v/next-js-sanity-starter) -
+
+*   [Rich-Harris/magic-string](https://github.com/Rich-Harris/magic-string) - Manipulate strings like a wizard
+
+*   [jspm/import-map](https://github.com/jspm/import-map) - Import Map Utility
+
+*   [jspm/jspm](https://github.com/jspm/jspm) - Import Map Package Manager
+
+*   [guybedford/es-module-lexer](https://github.com/guybedford/es-module-lexer) - Low-overhead lexer dedicated to ES module parsing for fast analysis
+
+*   [WICG/import-maps](https://github.com/WICG/import-maps) - Former home of import maps (now merged into HTML)
+
+*   [guybedford/es-module-shims](https://github.com/guybedford/es-module-shims) - Shims for new ES modules features on top of the basic modules support in browsers
+
+*   [yairEO/knobs](https://github.com/yairEO/knobs) - UI knobs controllers for JS/CSS live manipulation of various parameters
+
+*   [TahaSh/blendy](https://github.com/TahaSh/blendy) - 🧈 Smoothly transition one element into another with just a few lines of code.
+
+*   [upstash/jstack](https://github.com/upstash/jstack) - Build seriously fast, lightweight and end-to-end typesafe Next.js apps
+
+*   [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
+
+*   [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
+
+*   [supabase-community/seed](https://github.com/supabase-community/seed) - Automatically seed your database with production-like dummy data based on your schema for local development and testing.
+
+*   [salesforce/tough-cookie](https://github.com/salesforce/tough-cookie) - RFC6265 Cookies and CookieJar for Node.js
+
+*   [bytedance/monolith](https://github.com/bytedance/monolith) - A Lightweight Recommendation System
+
+*   [karpathy/micrograd](https://github.com/karpathy/micrograd) - A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
+
+*   [drizzle-team/brocli](https://github.com/drizzle-team/brocli) - Modern type-safe way of building CLIs
+
+*   [campsite/campsite](https://github.com/campsite/campsite) - The Campsite monorepo
+
+*   [languine-ai/languine](https://github.com/languine-ai/languine) - Translate your application with Languine CLI powered by AI.
+
+*   [raunofreiberg/interfaces](https://github.com/raunofreiberg/interfaces) - A non-exhaustive list of details that make a good web interface.
+
+*   [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
+
+*   [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js) - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
+
+*   [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want!
+
+*   [bvaughn/react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
+
+*   [reactjs/rfcs](https://github.com/reactjs/rfcs) - RFCs for changes to React
+
+*   [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
+
+*   [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
+
+*   [LegendApp/legend-list](https://github.com/LegendApp/legend-list) - A high-performance list component for React Native
+
+*   [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
+
+*   [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
+
+*   [toolbeam/openauth](https://github.com/toolbeam/openauth) - ▦ Universal, standards-based auth provider.
+
+*   [Nutlope/llama-ocr](https://github.com/Nutlope/llama-ocr) - Document to Markdown OCR library with Llama 3.2 vision
+
+*   [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
+
+*   [useplunk/plunk](https://github.com/useplunk/plunk) - The Open-Source Email Platform
+
+*   [Shopify/flash-list](https://github.com/Shopify/flash-list) - A better list for React Native
+
+*   [pqoqubbw/icons](https://github.com/pqoqubbw/icons) - beautifully crafted animated icons
+
+*   [laverdet/isolated-vm](https://github.com/laverdet/isolated-vm) - Secure & isolated JS environments for nodejs
+
+*   [mrbirddev/fontsensei](https://github.com/mrbirddev/fontsensei) -
+
+*   [pilcrowonpaper/copenhagen](https://github.com/pilcrowonpaper/copenhagen) - A basic guideline on implementing auth for the web
+
+*   [jamdotdev/dev-starter-pack](https://github.com/jamdotdev/dev-starter-pack) - The essential startup starter kit.
+
+*   [ComponentDriven/csf](https://github.com/ComponentDriven/csf) - Component Story Format is an open standard for UI component examples based on JavaScript ES6 modules.
+
+*   [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
+
+*   [souporserious/renoun](https://github.com/souporserious/renoun) - The Documentation Toolkit for React
+
+*   [wasmerio/winterjs](https://github.com/wasmerio/winterjs) - Winter is coming... ❄️
+
+*   [evanw/thumbhash](https://github.com/evanw/thumbhash) - A very compact representation of an image placeholder
+
+*   [cschroeter/park-ui](https://github.com/cschroeter/park-ui) - Beautifully designed components built with Ark UI and Panda CSS that work with a variety of JS frameworks.
+
+*   [useblacksmith/setup-node](https://github.com/useblacksmith/setup-node) - Set up your GitHub Actions workflow with a specific version of node.js
+
+*   [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
+
+*   [TahaSh/swapy](https://github.com/TahaSh/swapy) - ✨ A framework-agnostic tool that converts any layout into a drag-to-swap one with just a few lines of code https://swapy.tahazsh.com/
+
+*   [unjs/citty](https://github.com/unjs/citty) - 🌆 Elegant CLI Builder
+
+*   [stackblitz-labs/pkg.pr.new](https://github.com/stackblitz-labs/pkg.pr.new) - 📦️ Continuous (Preview) Releases for your libraries!
+
+*   [vercel/little-date](https://github.com/vercel/little-date) - A friendly formatter to make date ranges small & sweet
+
+*   [unjs/ofetch](https://github.com/unjs/ofetch) - 😱 A better fetch API. Works on node, browser and workers.
+
+*   [e18e/ecosystem-issues](https://github.com/e18e/ecosystem-issues) - A place to keep track of ongoing efforts to improve performance in the JS ecosystem
+
+*   [es-tooling/module-replacements](https://github.com/es-tooling/module-replacements) - A manifest of JS modules and their more modern/active replacements
+
+*   [es-tooling/eslint-plugin-depend](https://github.com/es-tooling/eslint-plugin-depend) - An ESLint plugin for suggesting optimisations in choice of dependency, native equivalents, etc.
+
+*   [CanadaHonk/porffor](https://github.com/CanadaHonk/porffor) - A from-scratch experimental AOT JS engine, written in JS
+
+*   [GriffinJohnston/ldrs](https://github.com/GriffinJohnston/ldrs) - Modern, minimalist loaders & spinners. Made with CSS, HTML and SVG. https://uiball.com/ldrs
+
+*   [nitrojs/nitro](https://github.com/nitrojs/nitro) - Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.
+
+*   [nksaraf/vinxi](https://github.com/nksaraf/vinxi) - The Full Stack JavaScript SDK
+
+*   [inertiajs/inertia](https://github.com/inertiajs/inertia) - Inertia.js lets you quickly build modern single-page React, Vue and Svelte apps using classic server-side routing and controllers.
+
+*   [karthikmudunuri/eldoraui](https://github.com/karthikmudunuri/eldoraui) - Eldora UI is a collection of re-usable components that you can copy and paste into your web apps. It primarily features components, blocks, and templates.
+
+*   [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
+
+*   [alexwidua/prototypes](https://github.com/alexwidua/prototypes) - little monorepo of swiftui prototypes
+
+*   [scarf-sh/scarf-js](https://github.com/scarf-sh/scarf-js) - Installation analytics for your npm package
+
+*   [toss/es-toolkit](https://github.com/toss/es-toolkit) - A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.
+
+*   [IdoPesok/zsa](https://github.com/IdoPesok/zsa) -
+
+*   [workos/awesome-developer-experience](https://github.com/workos/awesome-developer-experience) - 🤘 A curated list of DX (Developer Experience) resources
+
+*   [h3js/h3](https://github.com/h3js/h3) - ⚡️ Minimal H(TTP) framework built for high performance and portability
+
+*   [tapjs/tsimp](https://github.com/tapjs/tsimp) -
+
+*   [sindresorhus/ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner
+
+*   [total-typescript/tsconfig](https://github.com/total-typescript/tsconfig) - The simplest way to set up your tsconfig.json
+
+*   [ponder-sh/ponder](https://github.com/ponder-sh/ponder) - The backend framework for crypto apps
+
+*   [47ng/nuqs](https://github.com/47ng/nuqs) - Type-safe search params state manager for React frameworks - Like useState, but stored in the URL query string.
+
+*   [vite-pwa/docs](https://github.com/vite-pwa/docs) - Documentation: PWA integrations for Vite and the ecosystem
+
+*   [joschan21/profanity.dev](https://github.com/joschan21/profanity.dev) -
+
+*   [winstonjs/winston](https://github.com/winstonjs/winston) - A logger for just about everything.
+
+*   [unjs/jiti](https://github.com/unjs/jiti) - Runtime TypeScript and ESM support for Node.js
+
+*   [GoogleChromeLabs/comlink](https://github.com/GoogleChromeLabs/comlink) - Comlink makes WebWorkers enjoyable.
+
+*   [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (286 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores
+
+*   [favware/esbuild-plugin-file-path-extensions](https://github.com/favware/esbuild-plugin-file-path-extensions) - An esbuild plugin to automatically insert file extensions in your built JavaScript files based on the specified target
+
+*   [veltman/flubber](https://github.com/veltman/flubber) - Tools for smoother shape animations.
+
+*   [contentlayerdev/contentlayer](https://github.com/contentlayerdev/contentlayer) - Contentlayer turns your content into data - making it super easy to import MD(X) and CMS content in your app
+
+*   [vanilla-extract-css/vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
+
+*   [ethanniser/next-typesafe-url](https://github.com/ethanniser/next-typesafe-url) - Fully typesafe, JSON serializable, and zod validated URL search params, dynamic route params, and routing for NextJS.
+
+*   [plantain-00/type-coverage](https://github.com/plantain-00/type-coverage) - A CLI tool to check type coverage for typescript code
+
+*   [bpierre/dnum](https://github.com/bpierre/dnum) - 🧮 Small library for big decimal numbers.
+
+*   [unjs/untun](https://github.com/unjs/untun) - 🚇 Tunnel your local HTTP(s) server to the world! powered by  Cloudflare Quick Tunnels.
+
+*   [jakearchibald/idb-keyval](https://github.com/jakearchibald/idb-keyval) - A super-simple-small promise-based keyval store implemented with IndexedDB
+
+*   [unjs/unstorage](https://github.com/unjs/unstorage) -  💾 Unstorage provides an async Key-Value storage API with conventional features like multi driver mounting, watching and working with metadata, dozens of built-in drivers and a tiny core.
+
+*   [facebook/stylex](https://github.com/facebook/stylex) - StyleX is the styling system for ambitious user interfaces.
+
+*   [wakujs/waku](https://github.com/wakujs/waku) - ⛩️ The minimal React framework
+
+*   [koekeishiya/skhd](https://github.com/koekeishiya/skhd) -  Simple hotkey daemon for macOS
+
+*   [hashicorp/nextjs-bundle-analysis](https://github.com/hashicorp/nextjs-bundle-analysis) - A github action that provides detailed bundle analysis on PRs for next.js apps
+
+*   [slowmist/Web3-Project-Security-Practice-Requirements](https://github.com/slowmist/Web3-Project-Security-Practice-Requirements) - SlowMist's open - sourced guide for Web3 projects. It details security practices across development, release, operation, and incident response, aiming to boost project security.
+
+*   [llamaxyz/llama](https://github.com/llamaxyz/llama) - Llama is an onchain governance and access control framework for smart contracts.
+
+*   [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
+
+*   [trustwallet/assets](https://github.com/trustwallet/assets) - A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
+
+*   [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
+
+*   [gabrielediremigio/gabrielediremigio](https://github.com/gabrielediremigio/gabrielediremigio) -
+
+*   [astriaai/headshots-starter](https://github.com/astriaai/headshots-starter) -
+
+*   [eslint/generator-eslint](https://github.com/eslint/generator-eslint) - A Yeoman generator to help with ESLint development
+
+*   [LegendApp/legend-state](https://github.com/LegendApp/legend-state) - Legend-State is a super fast and powerful state library that enables fine-grained reactivity and easy automatic persistence
+
+*   [developit/redaxios](https://github.com/developit/redaxios) - The Axios API, as an 800 byte Fetch wrapper.
+
+*   [sst/sst](https://github.com/sst/sst) - Build full-stack apps on your own infrastructure.
+
+*   [ProseMirror/prosemirror](https://github.com/ProseMirror/prosemirror) - The ProseMirror WYSIWYM editor
+
+*   [wormhole-foundation/example-token-bridge-ui](https://github.com/wormhole-foundation/example-token-bridge-ui) - A development bridge UI for testing cross-chain transfers over Wormhole
+
+*   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+
+*   [publint/publint](https://github.com/publint/publint) - Lint packaging errors
+
+*   [arethetypeswrong/arethetypeswrong.github.io](https://github.com/arethetypeswrong/arethetypeswrong.github.io) - Tool for analyzing TypeScript types of npm packages
+
+*   [transmissions11/solmate](https://github.com/transmissions11/solmate) - Modern, opinionated, and gas optimized building blocks for smart contract development.
+
+*   [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
+
+*   [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
+
+*   [vercel/on-demand-isr](https://github.com/vercel/on-demand-isr) -
+
+*   [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
+
+*   [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 
 ## data-layer
 
@@ -2596,6 +2885,8 @@
 
 *   [roninoss/create-expo-stack](https://github.com/roninoss/create-expo-stack) - CLI tool to initialize a React Native application with Expo. Provides options to include Typescript, file-based routing via Expo Router, configuration based routing via pure React Navigation, styling via Nativewind, Restyle, Unistyles, StyleSheets, or Tamagui, and/or backend as a service such as Firebase and Supabase.
 
+*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
+
 *   [midday-ai/midday](https://github.com/midday-ai/midday) - Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
 
 ## tailwindcss
@@ -2628,7 +2919,7 @@
 
 *   [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Build your own second brain with supermemory. It's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.
 
-*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Open-Source Visual Vibecoding Editor – Visually build, style, and edit your React App with AI
+*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
 
 *   [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) - tailwindcss-motion is a Tailwind CSS Plugin made at RomboHQ. It’s a simple, yet powerful, animation library with a simple syntax.
 
@@ -2665,8 +2956,6 @@
 *   [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 
 *   [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
-
-*   [mhaidarhanif/rewinds-legacy](https://github.com/mhaidarhanif/rewinds-legacy) - ⏪ The Remix Stack with Tailwind - New repo: https://github.com/mhaidarhanif/rewinds
 
 ## tamagui
 
@@ -2760,7 +3049,7 @@
 
 *   [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Build your own second brain with supermemory. It's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.
 
-*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Open-Source Visual Vibecoding Editor – Visually build, style, and edit your React App with AI
+*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
 
 *   [bloomberg/stricli](https://github.com/bloomberg/stricli) - Build complex CLIs with type safety and no dependencies
 
@@ -2974,8 +3263,6 @@
 
 *   [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
 
-*   [mhaidarhanif/rewinds-legacy](https://github.com/mhaidarhanif/rewinds-legacy) - ⏪ The Remix Stack with Tailwind - New repo: https://github.com/mhaidarhanif/rewinds
-
 ## debuggin
 
 *   [LovesWorking/rn-better-dev-tools](https://github.com/LovesWorking/rn-better-dev-tools) - Beautiful macOS app for debugging React Query in ANY React-based application (Mobile, Web, TV, VR). Monitor queries across devices in real-time with a gorgeous native interface. Features device management, query visualization, state simulation, and automatic production safety. Works with React Native, React Web, Next.js, Expo, and any platform wher
@@ -3096,7 +3383,7 @@
 
 *   [chakra-ui/ark](https://github.com/chakra-ui/ark) - Build your design system with React, Svelte, Vue, and Solid. Powered by State Machines
 
-*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Open-Source Visual Vibecoding Editor – Visually build, style, and edit your React App with AI
+*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
 
 *   [onejs/one](https://github.com/onejs/one) - ❶ One is a new React framework - target web and native with a single Vite plugin and fully shared code, so you can ship cross-platform nearly as easy as single-platform.
 
@@ -3288,8 +3575,6 @@
 
 *   [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
 
-*   [mhaidarhanif/rewinds-legacy](https://github.com/mhaidarhanif/rewinds-legacy) - ⏪ The Remix Stack with Tailwind - New repo: https://github.com/mhaidarhanif/rewinds
-
 ## react-native-better-dev-tools
 
 *   [LovesWorking/rn-better-dev-tools](https://github.com/LovesWorking/rn-better-dev-tools) - Beautiful macOS app for debugging React Query in ANY React-based application (Mobile, Web, TV, VR). Monitor queries across devices in real-time with a gorgeous native interface. Features device management, query visualization, state simulation, and automatic production safety. Works with React Native, React Web, Next.js, Expo, and any platform wher
@@ -3390,7 +3675,7 @@
 
 *   [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
 
-*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Open-Source Visual Vibecoding Editor – Visually build, style, and edit your React App with AI
+*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
 
 *   [dmno-dev/dmno](https://github.com/dmno-dev/dmno) - The missing middleware for your configuration and secrets.
 
@@ -3578,7 +3863,7 @@
 
 *   [chakra-ui/ark](https://github.com/chakra-ui/ark) - Build your design system with React, Svelte, Vue, and Solid. Powered by State Machines
 
-*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Open-Source Visual Vibecoding Editor – Visually build, style, and edit your React App with AI
+*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
 
 *   [gluestack/gluestack-ui](https://github.com/gluestack/gluestack-ui) - React & React Native Components & Patterns (copy-paste components & patterns crafted with Tailwind CSS (NativeWind))
 
@@ -3902,292 +4187,6 @@
 
 *   [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
 
-## miscellaneous
-
-*   [nandorojo/moti](https://github.com/nandorojo/moti) - 🐼  The React Native (+ Web) animation library, powered by Reanimated 3.
-
-*   [tailark/blocks](https://github.com/tailark/blocks) - Shadcn marketing blocks
-
-*   [TanStack/db](https://github.com/TanStack/db) - A reactive client store for building super fast apps on sync
-
-*   [stevedylandev/bhvr](https://github.com/stevedylandev/bhvr) - A monorepo template using Bun, Hono, Vite, and React
-
-*   [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code (prev. Roo Cline) gives you a whole dev team of AI agents in your code editor.
-
-*   [tj/n](https://github.com/tj/n) - Node version management
-
-*   [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
-
-*   [felixhageloh/uebersicht](https://github.com/felixhageloh/uebersicht) - ˈyːbɐˌzɪçt
-
-*   [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch) - TheBoringNotch: Not so boring notch That Rocks 🎸🎶
-
-*   [prime-ui/primeui](https://github.com/prime-ui/primeui) - AI-powered, open-source platform to launch and manage marketing sites.
-
-*   [smithery-ai/cli](https://github.com/smithery-ai/cli) - Smithery CLI MCP server installer
-
-*   [mui/pigment-css](https://github.com/mui/pigment-css) - Pigment CSS is a zero-runtime CSS-in-JS library that extracts the colocated styles to their own CSS files at build time.
-
-*   [google/wireit](https://github.com/google/wireit) - Wireit upgrades your npm/pnpm/yarn scripts to make them smarter and more efficient.
-
-*   [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) -
-
-*   [nihgwu/create-slots](https://github.com/nihgwu/create-slots) - Bring slots to React component
-
-*   [Thinkmill/manypkg](https://github.com/Thinkmill/manypkg) - ☔️ An umbrella for your monorepo
-
-*   [jaredh159/tailwind-react-native-classnames](https://github.com/jaredh159/tailwind-react-native-classnames) - simple, expressive API for tailwindcss + react-native
-
-*   [vltpkg/reproduce](https://github.com/vltpkg/reproduce) - Library to check if a package is reproducible
-
-*   [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - The official Typescript SDK for Model Context Protocol servers and clients
-
-*   [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
-
-*   [Filsommer/rosencharts](https://github.com/Filsommer/rosencharts) -
-
-*   [joshwcomeau/use-sound](https://github.com/joshwcomeau/use-sound) - A React Hook for playing sound effects
-
-*   [joshwcomeau/tinkersynth](https://github.com/joshwcomeau/tinkersynth) - An experimental art project. Create unique art through serendipitous discovery.
-
-*   [preconstruct/preconstruct](https://github.com/preconstruct/preconstruct) - 🎁 Dev and build your code painlessly in monorepos
-
-*   [calcom/font](https://github.com/calcom/font) - The home for our Cal Sans font.
-
-*   [antfu/node-modules-inspector](https://github.com/antfu/node-modules-inspector) - Interactive UI for local node modules inspection
-
-*   [serge-0v/next-js-sanity-starter](https://github.com/serge-0v/next-js-sanity-starter) -
-
-*   [Rich-Harris/magic-string](https://github.com/Rich-Harris/magic-string) - Manipulate strings like a wizard
-
-*   [jspm/import-map](https://github.com/jspm/import-map) - Import Map Utility
-
-*   [jspm/jspm](https://github.com/jspm/jspm) - Import Map Package Manager
-
-*   [guybedford/es-module-lexer](https://github.com/guybedford/es-module-lexer) - Low-overhead lexer dedicated to ES module parsing for fast analysis
-
-*   [WICG/import-maps](https://github.com/WICG/import-maps) - Former home of import maps (now merged into HTML)
-
-*   [guybedford/es-module-shims](https://github.com/guybedford/es-module-shims) - Shims for new ES modules features on top of the basic modules support in browsers
-
-*   [yairEO/knobs](https://github.com/yairEO/knobs) - UI knobs controllers for JS/CSS live manipulation of various parameters
-
-*   [TahaSh/blendy](https://github.com/TahaSh/blendy) - 🧈 Smoothly transition one element into another with just a few lines of code.
-
-*   [upstash/jstack](https://github.com/upstash/jstack) - Build seriously fast, lightweight and end-to-end typesafe Next.js apps
-
-*   [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
-
-*   [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
-
-*   [supabase-community/seed](https://github.com/supabase-community/seed) - Automatically seed your database with production-like dummy data based on your schema for local development and testing.
-
-*   [salesforce/tough-cookie](https://github.com/salesforce/tough-cookie) - RFC6265 Cookies and CookieJar for Node.js
-
-*   [bytedance/monolith](https://github.com/bytedance/monolith) - A Lightweight Recommendation System
-
-*   [karpathy/micrograd](https://github.com/karpathy/micrograd) - A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
-
-*   [drizzle-team/brocli](https://github.com/drizzle-team/brocli) - Modern type-safe way of building CLIs
-
-*   [campsite/campsite](https://github.com/campsite/campsite) - The Campsite monorepo
-
-*   [languine-ai/languine](https://github.com/languine-ai/languine) - Translate your application with Languine CLI powered by AI.
-
-*   [raunofreiberg/interfaces](https://github.com/raunofreiberg/interfaces) - A non-exhaustive list of details that make a good web interface.
-
-*   [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
-
-*   [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js) - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
-
-*   [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want!
-
-*   [bvaughn/react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
-
-*   [reactjs/rfcs](https://github.com/reactjs/rfcs) - RFCs for changes to React
-
-*   [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
-
-*   [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
-
-*   [LegendApp/legend-list](https://github.com/LegendApp/legend-list) - A high-performance list component for React Native
-
-*   [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
-
-*   [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
-
-*   [toolbeam/openauth](https://github.com/toolbeam/openauth) - ▦ Universal, standards-based auth provider.
-
-*   [Nutlope/llama-ocr](https://github.com/Nutlope/llama-ocr) - Document to Markdown OCR library with Llama 3.2 vision
-
-*   [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
-
-*   [useplunk/plunk](https://github.com/useplunk/plunk) - The Open-Source Email Platform
-
-*   [Shopify/flash-list](https://github.com/Shopify/flash-list) - A better list for React Native
-
-*   [pqoqubbw/icons](https://github.com/pqoqubbw/icons) - beautifully crafted animated icons
-
-*   [laverdet/isolated-vm](https://github.com/laverdet/isolated-vm) - Secure & isolated JS environments for nodejs
-
-*   [mrbirddev/fontsensei](https://github.com/mrbirddev/fontsensei) -
-
-*   [pilcrowonpaper/copenhagen](https://github.com/pilcrowonpaper/copenhagen) - A basic guideline on implementing auth for the web
-
-*   [jamdotdev/dev-starter-pack](https://github.com/jamdotdev/dev-starter-pack) - The essential startup starter kit.
-
-*   [ComponentDriven/csf](https://github.com/ComponentDriven/csf) - Component Story Format is an open standard for UI component examples based on JavaScript ES6 modules.
-
-*   [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
-
-*   [souporserious/renoun](https://github.com/souporserious/renoun) - The Documentation Toolkit for React
-
-*   [wasmerio/winterjs](https://github.com/wasmerio/winterjs) - Winter is coming... ❄️
-
-*   [evanw/thumbhash](https://github.com/evanw/thumbhash) - A very compact representation of an image placeholder
-
-*   [cschroeter/park-ui](https://github.com/cschroeter/park-ui) - Beautifully designed components built with Ark UI and Panda CSS that work with a variety of JS frameworks.
-
-*   [useblacksmith/setup-node](https://github.com/useblacksmith/setup-node) - Set up your GitHub Actions workflow with a specific version of node.js
-
-*   [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
-
-*   [TahaSh/swapy](https://github.com/TahaSh/swapy) - ✨ A framework-agnostic tool that converts any layout into a drag-to-swap one with just a few lines of code https://swapy.tahazsh.com/
-
-*   [unjs/citty](https://github.com/unjs/citty) - 🌆 Elegant CLI Builder
-
-*   [stackblitz-labs/pkg.pr.new](https://github.com/stackblitz-labs/pkg.pr.new) - 📦️ Continuous (Preview) Releases for your libraries!
-
-*   [vercel/little-date](https://github.com/vercel/little-date) - A friendly formatter to make date ranges small & sweet
-
-*   [unjs/ofetch](https://github.com/unjs/ofetch) - 😱 A better fetch API. Works on node, browser and workers.
-
-*   [e18e/ecosystem-issues](https://github.com/e18e/ecosystem-issues) - A place to keep track of ongoing efforts to improve performance in the JS ecosystem
-
-*   [es-tooling/module-replacements](https://github.com/es-tooling/module-replacements) - A manifest of JS modules and their more modern/active replacements
-
-*   [es-tooling/eslint-plugin-depend](https://github.com/es-tooling/eslint-plugin-depend) - An ESLint plugin for suggesting optimisations in choice of dependency, native equivalents, etc.
-
-*   [CanadaHonk/porffor](https://github.com/CanadaHonk/porffor) - A from-scratch experimental AOT JS engine, written in JS
-
-*   [GriffinJohnston/ldrs](https://github.com/GriffinJohnston/ldrs) - Modern, minimalist loaders & spinners. Made with CSS, HTML and SVG. https://uiball.com/ldrs
-
-*   [nitrojs/nitro](https://github.com/nitrojs/nitro) - Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.
-
-*   [nksaraf/vinxi](https://github.com/nksaraf/vinxi) - The Full Stack JavaScript SDK
-
-*   [inertiajs/inertia](https://github.com/inertiajs/inertia) - Inertia.js lets you quickly build modern single-page React, Vue and Svelte apps using classic server-side routing and controllers.
-
-*   [karthikmudunuri/eldoraui](https://github.com/karthikmudunuri/eldoraui) - Eldora UI is a collection of re-usable components that you can copy and paste into your web apps. It primarily features components, blocks, and templates.
-
-*   [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
-
-*   [alexwidua/prototypes](https://github.com/alexwidua/prototypes) - little monorepo of swiftui prototypes
-
-*   [scarf-sh/scarf-js](https://github.com/scarf-sh/scarf-js) - Installation analytics for your npm package
-
-*   [toss/es-toolkit](https://github.com/toss/es-toolkit) - A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.
-
-*   [IdoPesok/zsa](https://github.com/IdoPesok/zsa) -
-
-*   [workos/awesome-developer-experience](https://github.com/workos/awesome-developer-experience) - 🤘 A curated list of DX (Developer Experience) resources
-
-*   [h3js/h3](https://github.com/h3js/h3) - ⚡️ Minimal H(TTP) framework built for high performance and portability
-
-*   [tapjs/tsimp](https://github.com/tapjs/tsimp) -
-
-*   [sindresorhus/ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner
-
-*   [total-typescript/tsconfig](https://github.com/total-typescript/tsconfig) - The simplest way to set up your tsconfig.json
-
-*   [ponder-sh/ponder](https://github.com/ponder-sh/ponder) - The backend framework for crypto apps
-
-*   [47ng/nuqs](https://github.com/47ng/nuqs) - Type-safe search params state manager for React frameworks - Like useState, but stored in the URL query string.
-
-*   [vite-pwa/docs](https://github.com/vite-pwa/docs) - Documentation: PWA integrations for Vite and the ecosystem
-
-*   [joschan21/profanity.dev](https://github.com/joschan21/profanity.dev) -
-
-*   [winstonjs/winston](https://github.com/winstonjs/winston) - A logger for just about everything.
-
-*   [unjs/jiti](https://github.com/unjs/jiti) - Runtime TypeScript and ESM support for Node.js
-
-*   [GoogleChromeLabs/comlink](https://github.com/GoogleChromeLabs/comlink) - Comlink makes WebWorkers enjoyable.
-
-*   [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (286 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores
-
-*   [favware/esbuild-plugin-file-path-extensions](https://github.com/favware/esbuild-plugin-file-path-extensions) - An esbuild plugin to automatically insert file extensions in your built JavaScript files based on the specified target
-
-*   [veltman/flubber](https://github.com/veltman/flubber) - Tools for smoother shape animations.
-
-*   [contentlayerdev/contentlayer](https://github.com/contentlayerdev/contentlayer) - Contentlayer turns your content into data - making it super easy to import MD(X) and CMS content in your app
-
-*   [vanilla-extract-css/vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
-
-*   [ethanniser/next-typesafe-url](https://github.com/ethanniser/next-typesafe-url) - Fully typesafe, JSON serializable, and zod validated URL search params, dynamic route params, and routing for NextJS.
-
-*   [plantain-00/type-coverage](https://github.com/plantain-00/type-coverage) - A CLI tool to check type coverage for typescript code
-
-*   [bpierre/dnum](https://github.com/bpierre/dnum) - 🧮 Small library for big decimal numbers.
-
-*   [unjs/untun](https://github.com/unjs/untun) - 🚇 Tunnel your local HTTP(s) server to the world! powered by  Cloudflare Quick Tunnels.
-
-*   [jakearchibald/idb-keyval](https://github.com/jakearchibald/idb-keyval) - A super-simple-small promise-based keyval store implemented with IndexedDB
-
-*   [unjs/unstorage](https://github.com/unjs/unstorage) -  💾 Unstorage provides an async Key-Value storage API with conventional features like multi driver mounting, watching and working with metadata, dozens of built-in drivers and a tiny core.
-
-*   [facebook/stylex](https://github.com/facebook/stylex) - StyleX is the styling system for ambitious user interfaces.
-
-*   [wakujs/waku](https://github.com/wakujs/waku) - ⛩️ The minimal React framework
-
-*   [koekeishiya/skhd](https://github.com/koekeishiya/skhd) -  Simple hotkey daemon for macOS
-
-*   [hashicorp/nextjs-bundle-analysis](https://github.com/hashicorp/nextjs-bundle-analysis) - A github action that provides detailed bundle analysis on PRs for next.js apps
-
-*   [slowmist/Web3-Project-Security-Practice-Requirements](https://github.com/slowmist/Web3-Project-Security-Practice-Requirements) - SlowMist's open - sourced guide for Web3 projects. It details security practices across development, release, operation, and incident response, aiming to boost project security.
-
-*   [llamaxyz/llama](https://github.com/llamaxyz/llama) - Llama is an onchain governance and access control framework for smart contracts.
-
-*   [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
-
-*   [trustwallet/assets](https://github.com/trustwallet/assets) - A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
-
-*   [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
-
-*   [gabrielediremigio/gabrielediremigio](https://github.com/gabrielediremigio/gabrielediremigio) -
-
-*   [astriaai/headshots-starter](https://github.com/astriaai/headshots-starter) -
-
-*   [eslint/generator-eslint](https://github.com/eslint/generator-eslint) - A Yeoman generator to help with ESLint development
-
-*   [LegendApp/legend-state](https://github.com/LegendApp/legend-state) - Legend-State is a super fast and powerful state library that enables fine-grained reactivity and easy automatic persistence
-
-*   [developit/redaxios](https://github.com/developit/redaxios) - The Axios API, as an 800 byte Fetch wrapper.
-
-*   [sst/sst](https://github.com/sst/sst) - Build full-stack apps on your own infrastructure.
-
-*   [ProseMirror/prosemirror](https://github.com/ProseMirror/prosemirror) - The ProseMirror WYSIWYM editor
-
-*   [wormhole-foundation/example-token-bridge-ui](https://github.com/wormhole-foundation/example-token-bridge-ui) - A development bridge UI for testing cross-chain transfers over Wormhole
-
-*   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
-
-*   [publint/publint](https://github.com/publint/publint) - Lint packaging errors
-
-*   [arethetypeswrong/arethetypeswrong.github.io](https://github.com/arethetypeswrong/arethetypeswrong.github.io) - Tool for analyzing TypeScript types of npm packages
-
-*   [transmissions11/solmate](https://github.com/transmissions11/solmate) - Modern, opinionated, and gas optimized building blocks for smart contract development.
-
-*   [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
-
-*   [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
-
-*   [vercel/on-demand-isr](https://github.com/vercel/on-demand-isr) -
-
-*   [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
-
-*   [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
-
 ## code-editor
 
 *   [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise) - What if Cursor, Github Copilot and Windsurf could actually interact with your browser?  💬 Comment on any DOM element 🧠 We send the real context to Windsurf ⚡ Save time manually selecting files  Setup in 30 seconds, fully open-source, works first prompt.  Supports every framework with first party support for React, Next.js, Vue and Nuxt.js
@@ -4198,7 +4197,7 @@
 
 *   [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models.
 
-*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Open-Source Visual Vibecoding Editor – Visually build, style, and edit your React App with AI
+*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
 
 *   [gmrchk/blobity](https://github.com/gmrchk/blobity) - The cursor is the heart of any interaction with the web. Why not take it to the next level? 🚀
 
@@ -4206,11 +4205,13 @@
 
 *   [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise) - What if Cursor, Github Copilot and Windsurf could actually interact with your browser?  💬 Comment on any DOM element 🧠 We send the real context to Windsurf ⚡ Save time manually selecting files  Setup in 30 seconds, fully open-source, works first prompt.  Supports every framework with first party support for React, Next.js, Vue and Nuxt.js
 
+*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
+
 ## ide
 
 *   [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise) - What if Cursor, Github Copilot and Windsurf could actually interact with your browser?  💬 Comment on any DOM element 🧠 We send the real context to Windsurf ⚡ Save time manually selecting files  Setup in 30 seconds, fully open-source, works first prompt.  Supports every framework with first party support for React, Next.js, Vue and Nuxt.js
 
-*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Open-Source Visual Vibecoding Editor – Visually build, style, and edit your React App with AI
+*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
 
 *   [slashbase/slashbase-go](https://github.com/slashbase/slashbase-go) - Modern database IDE for your dev & data workflows. Supports MySQL, PostgreSQL & MongoDB.
 
@@ -4314,7 +4315,7 @@
 
 *   [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
 
-*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Open-Source Visual Vibecoding Editor – Visually build, style, and edit your React App with AI
+*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
 
 *   [midday-ai/v1](https://github.com/midday-ai/v1) - An open-source starter kit based on Midday.
 
@@ -4654,7 +4655,7 @@
 
 *   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 
-*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Open-Source Visual Vibecoding Editor – Visually build, style, and edit your React App with AI
+*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
 
 *   [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
@@ -5023,8 +5024,6 @@
 *   [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 
 *   [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
-
-*   [mhaidarhanif/rewinds-legacy](https://github.com/mhaidarhanif/rewinds-legacy) - ⏪ The Remix Stack with Tailwind - New repo: https://github.com/mhaidarhanif/rewinds
 
 ## react-native-web
 
@@ -5838,7 +5837,7 @@
 
 *   [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
 
-*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Open-Source Visual Vibecoding Editor – Visually build, style, and edit your React App with AI
+*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
 
 *   [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) - tailwindcss-motion is a Tailwind CSS Plugin made at RomboHQ. It’s a simple, yet powerful, animation library with a simple syntax.
 
@@ -5891,8 +5890,6 @@
 *   [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
 
 *   [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
-
-*   [mhaidarhanif/rewinds-legacy](https://github.com/mhaidarhanif/rewinds-legacy) - ⏪ The Remix Stack with Tailwind - New repo: https://github.com/mhaidarhanif/rewinds
 
 ## bunjs
 
@@ -6316,8 +6313,6 @@
 
 *   [akhila-ariyachandra/akhilaariyachandra.com](https://github.com/akhila-ariyachandra/akhilaariyachandra.com) - ✨ My portfolio built with Next.js, Tailwind, Content Collections, Turso, Drizzle ORM, and Vercel.
 
-*   [mhaidarhanif/rewinds-legacy](https://github.com/mhaidarhanif/rewinds-legacy) - ⏪ The Remix Stack with Tailwind - New repo: https://github.com/mhaidarhanif/rewinds
-
 ## acrylic
 
 *   [tauri-apps/window-vibrancy](https://github.com/tauri-apps/window-vibrancy) - Make your windows vibrant.
@@ -6417,8 +6412,6 @@
 ## remix-stack
 
 *   [epicweb-dev/epic-stack](https://github.com/epicweb-dev/epic-stack) - This is a Full Stack app starter with the foundational things setup and configured for you to hit the ground running on your next EPIC idea.
-
-*   [mhaidarhanif/rewinds-legacy](https://github.com/mhaidarhanif/rewinds-legacy) - ⏪ The Remix Stack with Tailwind - New repo: https://github.com/mhaidarhanif/rewinds
 
 ## remix-stacks
 
@@ -6982,6 +6975,8 @@
 
 *   [htmujahid/shadcn-editor](https://github.com/htmujahid/shadcn-editor) - Lexical base rich text editor using shadcn/ui components
 
+*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
+
 *   [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 
 *   [Doist/typist](https://github.com/Doist/typist) - The mighty Tiptap-based rich-text editor that powers Doist products.
@@ -7070,15 +7065,11 @@
 
 *   [darkroomengineering/satus](https://github.com/darkroomengineering/satus) - Advanced Next.js App Router starter for content-driven sites
 
-*   [mhaidarhanif/rewinds-legacy](https://github.com/mhaidarhanif/rewinds-legacy) - ⏪ The Remix Stack with Tailwind - New repo: https://github.com/mhaidarhanif/rewinds
-
 ## starter-kit
 
 *   [darkroomengineering/satus](https://github.com/darkroomengineering/satus) - Advanced Next.js App Router starter for content-driven sites
 
 *   [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 The cross-browser extension framework.
-
-*   [mhaidarhanif/rewinds-legacy](https://github.com/mhaidarhanif/rewinds-legacy) - ⏪ The Remix Stack with Tailwind - New repo: https://github.com/mhaidarhanif/rewinds
 
 ## storyblok
 
@@ -7688,7 +7679,7 @@
 
 *   [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) - Visual builder for React. Build apps, websites, and content. Integrate with your codebase.
 
-*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Open-Source Visual Vibecoding Editor – Visually build, style, and edit your React App with AI
+*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
 
 *   [farm-fe/farm](https://github.com/farm-fe/farm) - Extremely fast Vite-compatible web build tool written in Rust
 
@@ -9470,8 +9461,6 @@
 
 *   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 
-*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Open-Source Visual Vibecoding Editor – Visually build, style, and edit your React App with AI
-
 *   [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 
 *   [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -9662,6 +9651,8 @@
 
 *   [rphlmr/drizzle-lab](https://github.com/rphlmr/drizzle-lab) - Play with Drizzle everywhere
 
+*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
+
 *   [nicoalbanese/kirimase](https://github.com/nicoalbanese/kirimase) - Build full-stack Next.js apps, incredibly fast
 
 *   [timothymiller/t4-app](https://github.com/timothymiller/t4-app) - Full stack meta-framework for building iOS, Android, and Progressive Web Apps with Tamagui and deploying to Cloudflare.
@@ -9761,8 +9752,6 @@
 *   [chakra-ui/zag](https://github.com/chakra-ui/zag) - Build your design system in React, Solid, Vue or Svelte. Powered by finite state machines
 
 *   [inokawa/virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list (and grid) component for React, Vue, Solid and Svelte.
-
-*   [mhaidarhanif/rewinds-legacy](https://github.com/mhaidarhanif/rewinds-legacy) - ⏪ The Remix Stack with Tailwind - New repo: https://github.com/mhaidarhanif/rewinds
 
 ## primitives
 
@@ -10202,7 +10191,7 @@
 
 *   [BetterTyped/react-zoom-pan-pinch](https://github.com/BetterTyped/react-zoom-pan-pinch) - 🖼 React library to support easy zoom, pan, pinch on various html dom elements like \<img> and \<div>
 
-*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Open-Source Visual Vibecoding Editor – Visually build, style, and edit your React App with AI
+*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
 
 *   [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 
@@ -10524,8 +10513,6 @@
 
 *   [sdorra/content-collections](https://github.com/sdorra/content-collections) - Transform your content into type-safe data collections
 
-*   [mhaidarhanif/rewinds-legacy](https://github.com/mhaidarhanif/rewinds-legacy) - ⏪ The Remix Stack with Tailwind - New repo: https://github.com/mhaidarhanif/rewinds
-
 ## annotation-tool
 
 *   [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code) - A text marking & annotation engine for presenting source code on the web.
@@ -10576,9 +10563,17 @@
 
 *   [preset/preset](https://github.com/preset/preset) - Elegant, ecosystem-agnostic preset mechanism
 
+## design-to-code
+
+*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
+
+## vibe-coding
+
+*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
+
 ## webflow
 
-*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Open-Source Visual Vibecoding Editor – Visually build, style, and edit your React App with AI
+*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
 
 ## claude-3
 
@@ -17107,7 +17102,3 @@
 ## command-menu
 
 *   [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
-
-## vechaiui
-
-*   [mhaidarhanif/rewinds-legacy](https://github.com/mhaidarhanif/rewinds-legacy) - ⏪ The Remix Stack with Tailwind - New repo: https://github.com/mhaidarhanif/rewinds
