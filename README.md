@@ -448,7 +448,7 @@
 
 *   [es-tooling/eslint-plugin-depend](https://github.com/es-tooling/eslint-plugin-depend) - An ESLint plugin for suggesting optimisations in choice of dependency, native equivalents, etc.
 
-*   [vikejs/vike](https://github.com/vikejs/vike) - 🔨 The Framework *You* Control – Next.js & Nuxt alternative for unprecedented flexibility and stability.
+*   [vikejs/vike](https://github.com/vikejs/vike) - 🔨 Vike — The Modular Framework — Next.js & Nuxt alternative for unprecedented flexibility and stability.
 
 *   [opral/monorepo](https://github.com/opral/monorepo) - lix (change control system) && inlang (globalization ecosystem for software built on lix)
 
