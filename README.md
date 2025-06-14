@@ -36,7 +36,9 @@
 
 ## TypeScript
 
-*   [achtaitaipai/odyc](https://github.com/achtaitaipai/odyc) -
+*   [c15t/c15t](https://github.com/c15t/c15t) - Full Stack Consent Framework in typescript
+
+*   [achtaitaipai/odyc](https://github.com/achtaitaipai/odyc) - A tiny JS library for pixel stories
 
 *   [jonahsnider/convert](https://github.com/jonahsnider/convert) - The smallest & fastest library for really easy, totally type-safe unit conversions in TypeScript & JavaScript.
 
@@ -1149,8 +1151,6 @@
 *   [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 
 *   [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
-
-*   [facebook/memlab](https://github.com/facebook/memlab) - A framework for finding JavaScript memory leaks and analyzing heap snapshots
 
 ## Kotlin
 
