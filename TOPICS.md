@@ -8,6 +8,7 @@
 *   [typescript](#typescript)
 *   [game-engine](#game-engine)
 *   [javascipt](#javascipt)
+*   [odyc](#odyc)
 *   [pixel-art](#pixel-art)
 *   [miscellaneous](#miscellaneous)
 *   [conversion](#conversion)
@@ -2651,6 +2652,10 @@
 *   [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 
 ## javascipt
+
+*   [achtaitaipai/odyc](https://github.com/achtaitaipai/odyc) - A tiny JS library for pixel stories
+
+## odyc
 
 *   [achtaitaipai/odyc](https://github.com/achtaitaipai/odyc) - A tiny JS library for pixel stories
 
