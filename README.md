@@ -37,6 +37,8 @@
 
 ## TypeScript
 
+*   [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
+
 *   [florian-lefebvre/astro-integration-kit](https://github.com/florian-lefebvre/astro-integration-kit) - A package that contains utilities to help you build Astro integrations.
 
 *   [animate-ui/animate-ui](https://github.com/animate-ui/animate-ui) - Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.
@@ -900,8 +902,6 @@
 *   [happykit/flags](https://github.com/happykit/flags) - ⛳️ Feature Flags for Next.js
 
 *   [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for single-page applications on top of REST/GraphQL APIs, using TypeScript, React and Material Design
-
-*   [redwoodjs/graphql](https://github.com/redwoodjs/graphql) - RedwoodGraphQL
 
 ## Astro
 
