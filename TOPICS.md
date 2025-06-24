@@ -2568,7 +2568,7 @@
 
 *   [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 
-*   [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
+*   [aidenybai/million](https://github.com/aidenybai/million) - Optimizing compiler for React
 
 *   [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev) - ⚡ Lingo.dev - open-source, AI-powered i18n toolkit for instant localization with LLMs. Bring your own LLM or use Lingo.dev engine. Join discord: https://lingo.dev/go/discord
 
@@ -2968,7 +2968,7 @@
 
 *   [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 
-*   [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
+*   [aidenybai/million](https://github.com/aidenybai/million) - Optimizing compiler for React
 
 *   [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 
@@ -6714,7 +6714,7 @@
 
 *   [JohannesKlauss/react-hotkeys-hook](https://github.com/JohannesKlauss/react-hotkeys-hook) - React hook for using keyboard shortcuts in components.
 
-*   [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
+*   [aidenybai/million](https://github.com/aidenybai/million) - Optimizing compiler for React
 
 *   [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 
@@ -6806,7 +6806,7 @@
 
 *   [six-ddc/plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool that includes a real-time web UI and terminal display
 
-*   [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
+*   [aidenybai/million](https://github.com/aidenybai/million) - Optimizing compiler for React
 
 *   [inokawa/virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list (and grid) component for React, Vue, Solid and Svelte.
 
@@ -7574,7 +7574,7 @@
 
 *   [inokawa/edix](https://github.com/inokawa/edix) - An experimental, framework agnostic, small (4kB+) contenteditable state manager.
 
-*   [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
+*   [aidenybai/million](https://github.com/aidenybai/million) - Optimizing compiler for React
 
 ## qwik
 
@@ -7796,7 +7796,7 @@
 
 *   [farm-fe/farm](https://github.com/farm-fe/farm) - Extremely fast Vite-compatible web build tool written in Rust
 
-*   [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
+*   [aidenybai/million](https://github.com/aidenybai/million) - Optimizing compiler for React
 
 *   [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 
@@ -9914,7 +9914,7 @@
 
 *   [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
 
-*   [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
+*   [aidenybai/million](https://github.com/aidenybai/million) - Optimizing compiler for React
 
 ## i3
 
@@ -12072,7 +12072,7 @@
 
 *   [unjs/ipx](https://github.com/unjs/ipx) - 🖼️ High performance, secure and easy-to-use image optimizer.
 
-*   [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
+*   [aidenybai/million](https://github.com/aidenybai/million) - Optimizing compiler for React
 
 ## proxy
 
@@ -13508,7 +13508,7 @@
 
 ## best-practices
 
-*   [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
+*   [aidenybai/million](https://github.com/aidenybai/million) - Optimizing compiler for React
 
 *   [labs42io/clean-code-typescript](https://github.com/labs42io/clean-code-typescript) - Clean Code concepts adapted for TypeScript
 
@@ -13516,37 +13516,37 @@
 
 ## blockdom
 
-*   [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
+*   [aidenybai/million](https://github.com/aidenybai/million) - Optimizing compiler for React
 
 ## memo
 
-*   [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
+*   [aidenybai/million](https://github.com/aidenybai/million) - Optimizing compiler for React
 
 ## million
 
-*   [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
+*   [aidenybai/million](https://github.com/aidenybai/million) - Optimizing compiler for React
 
 ## millionjs
 
-*   [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
+*   [aidenybai/million](https://github.com/aidenybai/million) - Optimizing compiler for React
 
 *   [timothymiller/t4-app](https://github.com/timothymiller/t4-app) - Full stack meta-framework for building iOS, Android, and Progressive Web Apps with Tamagui and deploying to Cloudflare.
 
 ## optimization
 
-*   [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
+*   [aidenybai/million](https://github.com/aidenybai/million) - Optimizing compiler for React
 
 ## react-optimize
 
-*   [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
+*   [aidenybai/million](https://github.com/aidenybai/million) - Optimizing compiler for React
 
 ## renderer
 
-*   [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
+*   [aidenybai/million](https://github.com/aidenybai/million) - Optimizing compiler for React
 
 ## virtual-dom
 
-*   [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
+*   [aidenybai/million](https://github.com/aidenybai/million) - Optimizing compiler for React
 
 ## distributed-systems
 
