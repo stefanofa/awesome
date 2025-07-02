@@ -480,6 +480,8 @@
 
 *   [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - The official Typescript SDK for Model Context Protocol servers and clients
 
+*   [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
+
 *   [Filsommer/rosencharts](https://github.com/Filsommer/rosencharts) -
 
 *   [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
@@ -1237,8 +1239,6 @@
 *   [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
 
 *   [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) -
-
-*   [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 
 *   [google/dotprompt](https://github.com/google/dotprompt) - Executable GenAI prompt templates
 
