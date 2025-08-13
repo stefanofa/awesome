@@ -59,6 +59,10 @@
 *   [sveltekit](#sveltekit)
 *   [tanstack-router](#tanstack-router)
 *   [turborepo](#turborepo)
+*   [regex](#regex)
+*   [regexp](#regexp)
+*   [type-level](#type-level)
+*   [type-safe](#type-safe)
 *   [postgres](#postgres)
 *   [wasm](#wasm)
 *   [crdt](#crdt)
@@ -220,8 +224,6 @@
 *   [middlewares](#middlewares)
 *   [nextjs14](#nextjs14)
 *   [vercel](#vercel)
-*   [regex](#regex)
-*   [regexp](#regexp)
 *   [regular-expression](#regular-expression)
 *   [chat](#chat)
 *   [multi-model](#multi-model)
@@ -2210,7 +2212,6 @@
 *   [module-federation](#module-federation)
 *   [bundle-size](#bundle-size)
 *   [modular](#modular)
-*   [type-safe](#type-safe)
 *   [dialog](#dialog)
 *   [drawer](#drawer)
 *   [discord-bot](#discord-bot)
@@ -2571,6 +2572,8 @@
 *   [basehub-ai/basehub](https://github.com/basehub-ai/basehub) - SDK for BaseHub—Fast, Collaborative, AI-Native Content Management.
 
 *   [AmanVarshney01/create-better-t-stack](https://github.com/AmanVarshney01/create-better-t-stack) - A modern CLI tool for scaffolding end-to-end type-safe TypeScript projects with best practices and customizable configurations
+
+*   [codpro2005/ts-regexp](https://github.com/codpro2005/ts-regexp) - A strictly typed & minimal RegExp wrapper.
 
 *   [theopenco/llmgateway](https://github.com/theopenco/llmgateway) - Route, manage, and analyze your LLM requests across multiple providers with a unified API interface.
 
@@ -3161,8 +3164,6 @@
 *   [toolwind/anchors](https://github.com/toolwind/anchors) - Anchors for Tailwind CSS provides a simple API for working with CSS anchor positioning, enabling flexible, declarative positioning relative to custom anchors.
 
 *   [joschan21/contentport](https://github.com/joschan21/contentport) - The open-source content platform for technical founders
-
-*   [codpro2005/ts-regexp](https://github.com/codpro2005/ts-regexp) - A strictly typed & minimal RegExp wrapper.
 
 *   [legions-developer/evilcharts](https://github.com/legions-developer/evilcharts) - A Beautiful & Animated Chart UI Website built on top of shadcn & recharts.
 
@@ -4867,6 +4868,32 @@
 *   [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 
 *   [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
+
+## regex
+
+*   [codpro2005/ts-regexp](https://github.com/codpro2005/ts-regexp) - A strictly typed & minimal RegExp wrapper.
+
+*   [unjs/magic-regexp](https://github.com/unjs/magic-regexp) - A compiled-away, type-safe, readable RegExp alternative
+
+*   [micromatch/micromatch](https://github.com/micromatch/micromatch) - Highly optimized wildcard and glob matching library. Faster, drop-in replacement to minimatch and multimatch. Used by square, webpack, babel core, yarn, jest, ract-native, taro, bulma, browser-sync, stylelint, nyc, ava, and many others! Follow micromatch's author: https://github.com/jonschlinkert
+
+## regexp
+
+*   [codpro2005/ts-regexp](https://github.com/codpro2005/ts-regexp) - A strictly typed & minimal RegExp wrapper.
+
+*   [unjs/magic-regexp](https://github.com/unjs/magic-regexp) - A compiled-away, type-safe, readable RegExp alternative
+
+## type-level
+
+*   [codpro2005/ts-regexp](https://github.com/codpro2005/ts-regexp) - A strictly typed & minimal RegExp wrapper.
+
+## type-safe
+
+*   [codpro2005/ts-regexp](https://github.com/codpro2005/ts-regexp) - A strictly typed & minimal RegExp wrapper.
+
+*   [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data 🤖
+
+*   [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
 
 ## postgres
 
@@ -6931,16 +6958,6 @@
 *   [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
 
 *   [mhaidarhanif/rewinds-legacy](https://github.com/mhaidarhanif/rewinds-legacy) - ⏪ The Remix Stack with Tailwind - New repo: https://github.com/mhaidarhanif/rewinds
-
-## regex
-
-*   [unjs/magic-regexp](https://github.com/unjs/magic-regexp) - A compiled-away, type-safe, readable RegExp alternative
-
-*   [micromatch/micromatch](https://github.com/micromatch/micromatch) - Highly optimized wildcard and glob matching library. Faster, drop-in replacement to minimatch and multimatch. Used by square, webpack, babel core, yarn, jest, ract-native, taro, bulma, browser-sync, stylelint, nyc, ava, and many others! Follow micromatch's author: https://github.com/jonschlinkert
-
-## regexp
-
-*   [unjs/magic-regexp](https://github.com/unjs/magic-regexp) - A compiled-away, type-safe, readable RegExp alternative
 
 ## regular-expression
 
@@ -17415,12 +17432,6 @@
 ## modular
 
 *   [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data 🤖
-
-## type-safe
-
-*   [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data 🤖
-
-*   [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
 
 ## dialog
 
