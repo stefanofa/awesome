@@ -2,8 +2,9 @@
 
 ## Table of Contents
 
-*   [miscellaneous](#miscellaneous)
 *   [TypeScript](#typescript)
+*   [HTML](#html)
+*   [miscellaneous](#miscellaneous)
 *   [Astro](#astro)
 *   [JavaScript](#javascript)
 *   [Python](#python)
@@ -16,9 +17,9 @@
 *   [Kotlin](#kotlin)
 *   [Svelte](#svelte)
 *   [Shell](#shell)
+*   [YAML](#yaml)
 *   [Swift](#swift)
 *   [Objective-C](#objective-c)
-*   [HTML](#html)
 *   [Vue](#vue)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Zig](#zig)
@@ -35,53 +36,11 @@
 *   [SCSS](#scss)
 *   [C#](#c-2)
 
-## miscellaneous
-
-*   [stefanofa/awesome](https://github.com/stefanofa/awesome) - 💡 A collection of my starred repos, organized by language. Find inspiration and tools quickly!
-
-*   [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models.
-
-*   [prime-ui/primeui](https://github.com/prime-ui/primeui) - AI-powered, open-source platform to launch and manage marketing sites.
-
-*   [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
-
-*   [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
-
-*   [reactjs/rfcs](https://github.com/reactjs/rfcs) - RFCs for changes to React
-
-*   [pilcrowonpaper/copenhagen](https://github.com/pilcrowonpaper/copenhagen) - A basic guideline on implementing auth for the web
-
-*   [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
-
-*   [e18e/ecosystem-issues](https://github.com/e18e/ecosystem-issues) - A place to keep track of ongoing efforts to improve performance in the JS ecosystem
-
-*   [workos/awesome-developer-experience](https://github.com/workos/awesome-developer-experience) - 🤘 A curated list of DX (Developer Experience) resources
-
-*   [total-typescript/tsconfig](https://github.com/total-typescript/tsconfig) - The simplest way to set up your tsconfig.json
-
-*   [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️
-
-*   [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) - Awesome list of status page open source software, services and public status pages of major internet companies
-
-*   [slowmist/Web3-Project-Security-Practice-Requirements](https://github.com/slowmist/Web3-Project-Security-Practice-Requirements) - SlowMist's open - sourced guide for Web3 projects. It details security practices across development, release, operation, and incident response, aiming to boost project security.
-
-*   [gabrielediremigio/gabrielediremigio](https://github.com/gabrielediremigio/gabrielediremigio) -
-
-*   [privatenumber/pkg-size.dev](https://github.com/privatenumber/pkg-size.dev) - 📦🔍 Find the true size of an npm package
-
-*   [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-
-*   [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
-
-*   [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
-
-*   [matheusfelipeog/beautiful-docs](https://github.com/matheusfelipeog/beautiful-docs) - Pointers to useful, well-written, and otherwise beautiful documentation.
-
-*   [smartcontractkit/starter-kits](https://github.com/smartcontractkit/starter-kits) - A repo of starter kits for working with various languages and frameworks across the smart contract ecosystem.
-
-*   [crytic/awesome-ethereum-security](https://github.com/crytic/awesome-ethereum-security) - A curated list of awesome Ethereum security references
-
 ## TypeScript
+
+*   [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
+
+*   [rdev/liquid-glass-react](https://github.com/rdev/liquid-glass-react) - Apple's Liquid Glass effect for React
 
 *   [getAsterisk/claudia](https://github.com/getAsterisk/claudia) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 
@@ -1077,6 +1036,70 @@
 
 *   [lightshiftdev/starknet-bootcamp](https://github.com/lightshiftdev/starknet-bootcamp) - Official repo for the Amsterdam Starknet bootcamp
 
+## HTML
+
+*   [rebane2001/css-clicker](https://github.com/rebane2001/css-clicker) - a pure-CSS idle game where you build your own website
+
+*   [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy) - The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind.
+
+*   [WICG/import-maps](https://github.com/WICG/import-maps) - Former home of import maps (now merged into HTML)
+
+*   [yairEO/tagify](https://github.com/yairEO/tagify) - 🔖 lightweight, efficient Tags input component in Vanilla JS / React / Angular / Vue
+
+*   [microlinkhq/metascraper](https://github.com/microlinkhq/metascraper) - Get unified metadata from websites using Open Graph, Microdata, RDFa, Twitter Cards, JSON-LD, HTML, and more.
+
+*   [LangbaseInc/langui](https://github.com/LangbaseInc/langui) - UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects.
+
+*   [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
+
+*   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+
+*   [argyleink/gui-challenges](https://github.com/argyleink/gui-challenges) - Components from the YouTube show GUI Challenges: accessible, responsive, adaptive and cross browser components.
+
+## miscellaneous
+
+*   [stefanofa/awesome](https://github.com/stefanofa/awesome) - 💡 A collection of my starred repos, organized by language. Find inspiration and tools quickly!
+
+*   [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models.
+
+*   [prime-ui/primeui](https://github.com/prime-ui/primeui) - AI-powered, open-source platform to launch and manage marketing sites.
+
+*   [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
+
+*   [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
+
+*   [reactjs/rfcs](https://github.com/reactjs/rfcs) - RFCs for changes to React
+
+*   [pilcrowonpaper/copenhagen](https://github.com/pilcrowonpaper/copenhagen) - A basic guideline on implementing auth for the web
+
+*   [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
+
+*   [e18e/ecosystem-issues](https://github.com/e18e/ecosystem-issues) - A place to keep track of ongoing efforts to improve performance in the JS ecosystem
+
+*   [workos/awesome-developer-experience](https://github.com/workos/awesome-developer-experience) - 🤘 A curated list of DX (Developer Experience) resources
+
+*   [total-typescript/tsconfig](https://github.com/total-typescript/tsconfig) - The simplest way to set up your tsconfig.json
+
+*   [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️
+
+*   [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) - Awesome list of status page open source software, services and public status pages of major internet companies
+
+*   [slowmist/Web3-Project-Security-Practice-Requirements](https://github.com/slowmist/Web3-Project-Security-Practice-Requirements) - SlowMist's open - sourced guide for Web3 projects. It details security practices across development, release, operation, and incident response, aiming to boost project security.
+
+*   [gabrielediremigio/gabrielediremigio](https://github.com/gabrielediremigio/gabrielediremigio) -
+
+*   [privatenumber/pkg-size.dev](https://github.com/privatenumber/pkg-size.dev) - 📦🔍 Find the true size of an npm package
+
+*   [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+
+*   [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
+
+*   [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
+
+*   [matheusfelipeog/beautiful-docs](https://github.com/matheusfelipeog/beautiful-docs) - Pointers to useful, well-written, and otherwise beautiful documentation.
+
+*   [smartcontractkit/starter-kits](https://github.com/smartcontractkit/starter-kits) - A repo of starter kits for working with various languages and frameworks across the smart contract ecosystem.
+
 ## Astro
 
 *   [MaggieAppleton/maggieappleton.com-V3](https://github.com/MaggieAppleton/maggieappleton.com-V3) - My digital garden built with Astro and MDX. Featuring loosely opinionated notes, half-formed ideas, and content that is always growing.
@@ -1267,8 +1290,6 @@
 
 *   [facebook/memlab](https://github.com/facebook/memlab) - A framework for finding JavaScript memory leaks and analyzing heap snapshots
 
-*   [wagerfield/parallax](https://github.com/wagerfield/parallax) - Parallax Engine that reacts to the orientation of a smart device
-
 ## Python
 
 *   [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
@@ -1348,8 +1369,6 @@
 *   [ZacharyL2/KeyEcho](https://github.com/ZacharyL2/KeyEcho) - Listen to Mechanical Keyboard Sounds with Every Keystroke - It's Fast
 
 *   [moonrepo/proto](https://github.com/moonrepo/proto) - A pluggable multi-language version manager.
-
-*   [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 
 *   [tauri-apps/window-vibrancy](https://github.com/tauri-apps/window-vibrancy) - Make your windows vibrant.
 
@@ -1541,6 +1560,10 @@
 
 *   [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines
 
+## YAML
+
+*   [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
+
 ## Swift
 
 *   [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
@@ -1560,24 +1583,6 @@
 *   [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) - Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!
 
 *   [newmarcel/KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - Prevents your Mac from going to sleep.
-
-## HTML
-
-*   [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy) - The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind.
-
-*   [WICG/import-maps](https://github.com/WICG/import-maps) - Former home of import maps (now merged into HTML)
-
-*   [yairEO/tagify](https://github.com/yairEO/tagify) - 🔖 lightweight, efficient Tags input component in Vanilla JS / React / Angular / Vue
-
-*   [microlinkhq/metascraper](https://github.com/microlinkhq/metascraper) - Get unified metadata from websites using Open Graph, Microdata, RDFa, Twitter Cards, JSON-LD, HTML, and more.
-
-*   [LangbaseInc/langui](https://github.com/LangbaseInc/langui) - UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects.
-
-*   [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
-
-*   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-
-*   [argyleink/gui-challenges](https://github.com/argyleink/gui-challenges) - Components from the YouTube show GUI Challenges: accessible, responsive, adaptive and cross browser components.
 
 ## Vue
 
@@ -1646,8 +1651,6 @@
 *   [Vectorized/solady](https://github.com/Vectorized/solady) - Optimized Solidity snippets.
 
 *   [libevm/subway](https://github.com/libevm/subway) - A practical example on how to perform sandwich attacks on Ethereum
-
-*   [ohgeez-dao/airdrop](https://github.com/ohgeez-dao/airdrop) -
 
 ## C
 
