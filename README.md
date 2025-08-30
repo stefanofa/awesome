@@ -37,6 +37,10 @@
 
 ## TypeScript
 
+*   [image-js/image-js](https://github.com/image-js/image-js) - Image processing and manipulation in JavaScript
+
+*   [vercel/resumable-stream](https://github.com/vercel/resumable-stream) - Stream resumption for web streams
+
 *   [daybrush/moveable](https://github.com/daybrush/moveable) - Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable!
 
 *   [mmkal/trpc-cli](https://github.com/mmkal/trpc-cli) - Turn a tRPC router into a type-safe, fully-functional, documented CLI
@@ -1043,9 +1047,9 @@
 
 *   [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  A complete search engine and RAG pipeline in your browser, server or edge network with support for full-text, vector, and hybrid search in less than 2kb.
 
-*   [duckdegen/apebot](https://github.com/duckdegen/apebot) - Binance listing sniping bot built to purchase onchain as fast as possible
-
 ## JavaScript
+
+*   [trueadm/ripple](https://github.com/trueadm/ripple) - the elegant UI framework for the web
 
 *   [panphora/overtype](https://github.com/panphora/overtype) - The markdown editor that's just a textarea https://overtype.dev
 
@@ -1311,8 +1315,6 @@
 
 *   [matheusfelipeog/beautiful-docs](https://github.com/matheusfelipeog/beautiful-docs) - Pointers to useful, well-written, and otherwise beautiful documentation.
 
-*   [smartcontractkit/starter-kits](https://github.com/smartcontractkit/starter-kits) - A repo of starter kits for working with various languages and frameworks across the smart contract ecosystem.
-
 ## Astro
 
 *   [MaggieAppleton/maggieappleton.com-V3](https://github.com/MaggieAppleton/maggieappleton.com-V3) - My digital garden built with Astro and MDX. Featuring loosely opinionated notes, half-formed ideas, and content that is always growing.
@@ -1374,8 +1376,6 @@
 *   [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 
 *   [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
-
-*   [starkware-libs/cairo-lang](https://github.com/starkware-libs/cairo-lang) -
 
 ## Rust
 
