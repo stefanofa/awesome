@@ -682,7 +682,6 @@
 *   [style-observer](#style-observer)
 *   [embedders](#embedders)
 *   [genkit](#genkit)
-*   [machine-learning](#machine-learning)
 *   [multimodal](#multimodal)
 *   [rag](#rag)
 *   [vector-database](#vector-database)
@@ -9982,10 +9981,6 @@
 
 *   [firebase/genkit](https://github.com/firebase/genkit) - An open source framework for building AI-powered apps with familiar code-centric patterns. Genkit makes it easy to develop, integrate, and test AI features with observability and evaluations. Genkit works with various models and platforms.
 
-## machine-learning
-
-*   [firebase/genkit](https://github.com/firebase/genkit) - An open source framework for building AI-powered apps with familiar code-centric patterns. Genkit makes it easy to develop, integrate, and test AI features with observability and evaluations. Genkit works with various models and platforms.
-
 ## multimodal
 
 *   [firebase/genkit](https://github.com/firebase/genkit) - An open source framework for building AI-powered apps with familiar code-centric patterns. Genkit makes it easy to develop, integrate, and test AI features with observability and evaluations. Genkit works with various models and platforms.
@@ -17152,7 +17147,7 @@
 
 *   [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - The No-GraphQL Client for TypeScript
 
-*   [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod
+*   [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord modification
 
 *   [AnswerOverflow/AnswerOverflow](https://github.com/AnswerOverflow/AnswerOverflow) - Powering Discord content discovery by making web pages from threads for some of the largest servers, including Valorant, Cloudflare, C#, and Nuxt.
 
@@ -17698,23 +17693,23 @@
 
 ## mod
 
-*   [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod
+*   [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord modification
 
 ## plugins
 
-*   [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod
+*   [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord modification
 
 ## themes
 
-*   [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod
+*   [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord modification
 
 ## vendetta
 
-*   [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod
+*   [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord modification
 
 ## vendetta-plugins
 
-*   [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod
+*   [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord modification
 
 ## async-functions
 
