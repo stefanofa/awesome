@@ -3,6 +3,7 @@
 ## Table of Contents
 
 *   [TypeScript](#typescript)
+*   [Jupyter Notebook](#jupyter-notebook)
 *   [Python](#python)
 *   [JavaScript](#javascript)
 *   [C++](#c)
@@ -22,7 +23,6 @@
 *   [Swift](#swift)
 *   [Objective-C](#objective-c)
 *   [Vue](#vue)
-*   [Jupyter Notebook](#jupyter-notebook)
 *   [Zig](#zig)
 *   [PHP](#php)
 *   [Java](#java)
@@ -36,6 +36,10 @@
 *   [SCSS](#scss)
 
 ## TypeScript
+
+*   [reshaped-ui/reshaped](https://github.com/reshaped-ui/reshaped) - Professionally crafted React & Figma components for building beautiful products or starting your own design system
+
+*   [marmelab/shadcn-admin-kit](https://github.com/marmelab/shadcn-admin-kit) - Component kit to build your Admin app with shadcn/ui
 
 *   [pacocoursey/next-themes](https://github.com/pacocoursey/next-themes) - Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing
 
@@ -1053,11 +1057,13 @@
 
 *   [happykit/flags](https://github.com/happykit/flags) - ⛳️ Feature Flags for Next.js
 
-*   [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for single-page applications on top of REST/GraphQL APIs, using TypeScript, React and Material Design
+## Jupyter Notebook
 
-*   [redwoodjs/graphql](https://github.com/redwoodjs/graphql) - RedwoodGraphQL
+*   [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic's Interactive Prompt Engineering Tutorial
 
-*   [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code.
+*   [karpathy/micrograd](https://github.com/karpathy/micrograd) - A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
+
+*   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 
 ## Python
 
@@ -1608,12 +1614,6 @@
 *   [antfu/node-modules-inspector](https://github.com/antfu/node-modules-inspector) - Interactive UI for local node modules inspection
 
 *   [eslint/config-inspector](https://github.com/eslint/config-inspector) - A visual tool for inspecting and understanding your ESLint flat configs.
-
-## Jupyter Notebook
-
-*   [karpathy/micrograd](https://github.com/karpathy/micrograd) - A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
-
-*   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 
 ## Zig
 
