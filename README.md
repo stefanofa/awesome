@@ -54,7 +54,7 @@
 
 *   [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser
 
-*   [TanStack/devtools](https://github.com/TanStack/devtools) -
+*   [TanStack/devtools](https://github.com/TanStack/devtools) - 🤖 Framework-agnostic devtools panel for handling TanStack libraries devtools and your custom devtool plugins
 
 *   [midday-ai/ai-sdk-tools](https://github.com/midday-ai/ai-sdk-tools) - A collection of essential utilities for AI development. State management, debugging tools, and artifact handling - everything you need to build production-ready AI applications.
 
