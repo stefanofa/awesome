@@ -174,7 +174,7 @@
 
 *   [TanStack/devtools](https://github.com/TanStack/devtools) - 🤖 Framework-agnostic devtools panel for handling TanStack libraries devtools and your custom devtool plugins
 
-*   [midday-ai/ai-sdk-tools](https://github.com/midday-ai/ai-sdk-tools) - A collection of essential utilities for AI development. State management, debugging tools, and artifact handling - everything you need to build production-ready AI applications.
+*   [midday-ai/ai-sdk-tools](https://github.com/midday-ai/ai-sdk-tools) - Essential utilities for building production-ready AI applications with Vercel AI SDK. State management, debugging, structured streaming, intelligent agents, and caching.
 
 *   [LayerXcom/next-navigation-guard](https://github.com/LayerXcom/next-navigation-guard) - Cancel page navigation in Next.js, like Nuxt's Navigation Guard feature.
 
@@ -316,7 +316,7 @@
 
 *   [unjs/unctx](https://github.com/unjs/unctx) - 🍦 Composables in vanilla JS
 
-*   [haydenbleasel/ultracite](https://github.com/haydenbleasel/ultracite) - The AI-ready formatter that helps you write and generate code faster.
+*   [haydenbleasel/ultracite](https://github.com/haydenbleasel/ultracite) - A highly opinionated, zero-configuration linter and formatter.
 
 *   [TanayK07/expo-react-native-cicd](https://github.com/TanayK07/expo-react-native-cicd) - 🚀 Free alternative to Expo EAS builds! Complete CI/CD pipeline for React Native & Expo apps using GitHub Actions. Save $100s monthly with unlimited builds, automated testing, and flexible deployment options.
 
@@ -1140,7 +1140,7 @@
 
 *   [alovajs/alova](https://github.com/alovajs/alova) - The Request Toolkit For Ultimate Efficiency
 
-*   [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access.
+*   [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 
 *   [code-hike/bright](https://github.com/code-hike/bright) - React Server Component for syntax highlighting
 
