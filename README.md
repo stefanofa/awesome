@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [Svelte](#svelte)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
 *   [TypeScript](#typescript)
@@ -19,7 +20,6 @@
 *   [HTML](#html)
 *   [MDX](#mdx)
 *   [PLpgSQL](#plpgsql)
-*   [Svelte](#svelte)
 *   [Shell](#shell)
 *   [Objective-C](#objective-c)
 *   [Vue](#vue)
@@ -35,6 +35,14 @@
 *   [Jinja](#jinja)
 *   [SCSS](#scss)
 *   [C#](#c-2)
+
+## Svelte
+
+*   [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local\* and free forever.
+
+*   [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
+
+*   [animotionjs/animotion](https://github.com/animotionjs/animotion) - 🪄 Create beautiful presentations with Svelte
 
 ## Python
 
@@ -1782,12 +1790,6 @@
 
 *   [livestorejs/livestore](https://github.com/livestorejs/livestore) - LiveStore is a next-generation state management framework based on reactive SQLite and built-in sync engine.
 
-## Svelte
-
-*   [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
-
-*   [animotionjs/animotion](https://github.com/animotionjs/animotion) - 🪄 Create beautiful presentations with Svelte
-
 ## Shell
 
 *   [tj/n](https://github.com/tj/n) - Node version management
@@ -1849,8 +1851,6 @@
 *   [Vectorized/solady](https://github.com/Vectorized/solady) - Optimized Solidity snippets.
 
 *   [libevm/subway](https://github.com/libevm/subway) - A practical example on how to perform sandwich attacks on Ethereum
-
-*   [ohgeez-dao/airdrop](https://github.com/ohgeez-dao/airdrop) -
 
 ## C
 
