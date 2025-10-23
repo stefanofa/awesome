@@ -3493,7 +3493,7 @@
 
 *   [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - The No-GraphQL Client for TypeScript
 
-*   [finom/vovk](https://github.com/finom/vovk) - 🐺 WIP Back-end meta-framework for Next.js
+*   [finom/vovk](https://github.com/finom/vovk) - 🐺 WIP Back-end for Next.js
 
 *   [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 
@@ -4903,7 +4903,7 @@
 
 *   [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - The No-GraphQL Client for TypeScript
 
-*   [finom/vovk](https://github.com/finom/vovk) - 🐺 WIP Back-end meta-framework for Next.js
+*   [finom/vovk](https://github.com/finom/vovk) - 🐺 WIP Back-end for Next.js
 
 *   [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
@@ -6921,7 +6921,7 @@
 
 *   [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 
-*   [finom/vovk](https://github.com/finom/vovk) - 🐺 WIP Back-end meta-framework for Next.js
+*   [finom/vovk](https://github.com/finom/vovk) - 🐺 WIP Back-end for Next.js
 
 *   [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 
@@ -10537,7 +10537,7 @@
 
 *   [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 
-*   [finom/vovk](https://github.com/finom/vovk) - 🐺 WIP Back-end meta-framework for Next.js
+*   [finom/vovk](https://github.com/finom/vovk) - 🐺 WIP Back-end for Next.js
 
 ## basehub
 
@@ -16785,7 +16785,7 @@
 
 *   [TheSGJ/nextjs-toploader](https://github.com/TheSGJ/nextjs-toploader) - A Next.js Top Loading Bar component made using nprogress, works with Next.js 15 , Next.js 14 and React.
 
-*   [finom/vovk](https://github.com/finom/vovk) - 🐺 WIP Back-end meta-framework for Next.js
+*   [finom/vovk](https://github.com/finom/vovk) - 🐺 WIP Back-end for Next.js
 
 *   [nicoalbanese/kirimase](https://github.com/nicoalbanese/kirimase) - Build full-stack Next.js apps, incredibly fast
 
@@ -19749,23 +19749,23 @@
 
 ## controller
 
-*   [finom/vovk](https://github.com/finom/vovk) - 🐺 WIP Back-end meta-framework for Next.js
+*   [finom/vovk](https://github.com/finom/vovk) - 🐺 WIP Back-end for Next.js
 
 ## decorators
 
-*   [finom/vovk](https://github.com/finom/vovk) - 🐺 WIP Back-end meta-framework for Next.js
+*   [finom/vovk](https://github.com/finom/vovk) - 🐺 WIP Back-end for Next.js
 
 ## service
 
-*   [finom/vovk](https://github.com/finom/vovk) - 🐺 WIP Back-end meta-framework for Next.js
+*   [finom/vovk](https://github.com/finom/vovk) - 🐺 WIP Back-end for Next.js
 
 ## threading
 
-*   [finom/vovk](https://github.com/finom/vovk) - 🐺 WIP Back-end meta-framework for Next.js
+*   [finom/vovk](https://github.com/finom/vovk) - 🐺 WIP Back-end for Next.js
 
 ## worker
 
-*   [finom/vovk](https://github.com/finom/vovk) - 🐺 WIP Back-end meta-framework for Next.js
+*   [finom/vovk](https://github.com/finom/vovk) - 🐺 WIP Back-end for Next.js
 
 ## http-request
 
