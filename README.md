@@ -14,13 +14,13 @@
 *   [Kotlin](#kotlin)
 *   [Crystal](#crystal)
 *   [Astro](#astro)
+*   [MDX](#mdx)
 *   [CSS](#css)
 *   [C++](#c)
 *   [Swift](#swift)
 *   [Shell](#shell)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [HTML](#html)
-*   [MDX](#mdx)
 *   [PLpgSQL](#plpgsql)
 *   [Objective-C](#objective-c)
 *   [Vue](#vue)
@@ -188,8 +188,6 @@
 *   [haydenbleasel/kibo](https://github.com/haydenbleasel/kibo) - A custom registry of composable, accessible and extensible components designed for use with shadcn/ui. Free and open source, forever.
 
 *   [Nutlope/receipthero](https://github.com/Nutlope/receipthero) - Organize all your receipts with AI
-
-*   [zap-studio/monorepo](https://github.com/zap-studio/monorepo) - Zap Studio's monorepo.
 
 *   [imskyleen/bprogress](https://github.com/imskyleen/bprogress) - BProgress is a lightweight, customizable progress bar for better user experience.
 
@@ -915,7 +913,7 @@
 
 *   [jonaskello/tsconfig-paths](https://github.com/jonaskello/tsconfig-paths) - Load node modules according to tsconfig paths, in run-time or via API.
 
-*   [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev) - ⚡ Lingo.dev - open-source, AI-powered i18n toolkit for instant localization with LLMs. Bring your own LLM or use Lingo.dev Translation Engine. Join discord:
+*   [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev) - ⚡ Lingo.dev - open-source, AI-powered i18n toolkit for instant localization with LLMs. Bring your own LLM or use Lingo.dev Localization Engine. Join discord:
 
 *   [decs/typeschema](https://github.com/decs/typeschema) - 🛵 Universal adapter for TypeScript schema validation.
 
@@ -1707,6 +1705,24 @@
 
 *   [MaggieAppleton/maggieappleton.com-V3](https://github.com/MaggieAppleton/maggieappleton.com-V3) - My digital garden built with Astro and MDX. Featuring loosely opinionated notes, half-formed ideas, and content that is always growing.
 
+## MDX
+
+*   [zap-studio/monorepo](https://github.com/zap-studio/monorepo) -
+
+*   [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
+
+*   [webtui/webtui](https://github.com/webtui/webtui) -
+
+*   [react-native-elements/react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross-Platform React Native UI Toolkit
+
+*   [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
+
+*   [smakosh/roll-your-own-auth](https://github.com/smakosh/roll-your-own-auth) - Copy & paste code to roll your own auth easily and for free
+
+*   [shuding/cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib.
+
+*   [mkosir/typescript-style-guide](https://github.com/mkosir/typescript-style-guide) - ⚙️ TypeScript Style Guide. A concise set of conventions and best practices for creating consistent, maintainable code.
+
 ## CSS
 
 *   [flornkm/dither-plugin](https://github.com/flornkm/dither-plugin) - A plugin for tailwindcss to dither things.
@@ -1786,22 +1802,6 @@
 *   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
 *   [argyleink/gui-challenges](https://github.com/argyleink/gui-challenges) - Components from the YouTube show GUI Challenges: accessible, responsive, adaptive and cross browser components.
-
-## MDX
-
-*   [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
-
-*   [webtui/webtui](https://github.com/webtui/webtui) -
-
-*   [react-native-elements/react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross-Platform React Native UI Toolkit
-
-*   [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
-
-*   [smakosh/roll-your-own-auth](https://github.com/smakosh/roll-your-own-auth) - Copy & paste code to roll your own auth easily and for free
-
-*   [shuding/cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib.
-
-*   [mkosir/typescript-style-guide](https://github.com/mkosir/typescript-style-guide) - ⚙️ TypeScript Style Guide. A concise set of conventions and best practices for creating consistent, maintainable code.
 
 ## PLpgSQL
 
