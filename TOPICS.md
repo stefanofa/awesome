@@ -2,6 +2,11 @@
 
 ## Table of Contents
 
+*   [playwright](#playwright)
+*   [playwright-python](#playwright-python)
+*   [scraping](#scraping)
+*   [screenshot-utility](#screenshot-utility)
+*   [screenshots](#screenshots)
 *   [agent](#agent)
 *   [ai](#ai)
 *   [aiagent](#aiagent)
@@ -450,9 +455,7 @@
 *   [headless](#headless)
 *   [headless-chrome](#headless-chrome)
 *   [npm](#npm)
-*   [playwright](#playwright)
 *   [scraper](#scraper)
-*   [scraping](#scraping)
 *   [web-crawler](#web-crawler)
 *   [web-crawling](#web-crawling)
 *   [web-scraping-python](#web-scraping-python)
@@ -2324,6 +2327,10 @@
 *   [matomo](#matomo)
 *   [php](#php)
 *   [piwik](#piwik)
+*   [audience-segmentation](#audience-segmentation)
+*   [cohort-analysis](#cohort-analysis)
+*   [product-analytics](#product-analytics)
+*   [user-journey](#user-journey)
 *   [altcoin](#altcoin)
 *   [arbitrage](#arbitrage)
 *   [bitcoin](#bitcoin)
@@ -2814,9 +2821,42 @@
 *   [statechart](#statechart)
 *   [statecharts](#statecharts)
 *   [visualizer](#visualizer)
-*   [apache](#apache)
-*   [data-viz](#data-viz)
-*   [echarts](#echarts)
+
+## playwright
+
+*   [simonw/shot-scraper](https://github.com/simonw/shot-scraper) - A command-line utility for taking automated screenshots of websites
+
+*   [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation.
+
+*   [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+
+*   [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
+
+*   [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
+
+*   [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 The cross-browser extension framework.
+
+## playwright-python
+
+*   [simonw/shot-scraper](https://github.com/simonw/shot-scraper) - A command-line utility for taking automated screenshots of websites
+
+## scraping
+
+*   [simonw/shot-scraper](https://github.com/simonw/shot-scraper) - A command-line utility for taking automated screenshots of websites
+
+*   [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation.
+
+*   [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
+
+*   [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
+
+## screenshot-utility
+
+*   [simonw/shot-scraper](https://github.com/simonw/shot-scraper) - A command-line utility for taking automated screenshots of websites
+
+## screenshots
+
+*   [simonw/shot-scraper](https://github.com/simonw/shot-scraper) - A command-line utility for taking automated screenshots of websites
 
 ## agent
 
@@ -3726,7 +3766,7 @@
 
 *   [arcjet/arcjet-js](https://github.com/arcjet/arcjet-js) - Arcjet JS SDKs. Bot detection, rate limiting, email validation, attack protection, data redaction for Node.js, Next.js, Deno, Bun, Remix, SvelteKit, NestJS.
 
-*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds\_
+*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 
 *   [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 
@@ -3771,8 +3811,6 @@
 *   [phaserjs/phaser](https://github.com/phaserjs/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 
 *   [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
-
-*   [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 
 ## nextjs
 
@@ -3848,7 +3886,7 @@
 
 *   [typehero/typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers
 
-*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds\_
+*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 
 *   [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech\_balloon: :gem:
 
@@ -4564,7 +4602,7 @@
 
 *   [superwall/react-native-superwall](https://github.com/superwall/react-native-superwall) - Remotely configure every aspect of your paywall and double your revenue.
 
-*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds\_
+*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 
 *   [callstackincubator/react-native-bottom-tabs](https://github.com/callstackincubator/react-native-bottom-tabs) - Native Bottom Tabs for React Native
 
@@ -4608,7 +4646,7 @@
 
 *   [superwall/react-native-superwall](https://github.com/superwall/react-native-superwall) - Remotely configure every aspect of your paywall and double your revenue.
 
-*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds\_
+*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 
 *   [callstackincubator/react-native-bottom-tabs](https://github.com/callstackincubator/react-native-bottom-tabs) - Native Bottom Tabs for React Native
 
@@ -4774,7 +4812,7 @@
 
 *   [typehero/typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers
 
-*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds\_
+*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 
 *   [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 
@@ -5070,7 +5108,7 @@
 
 *   [Shopify/react-native-skia](https://github.com/Shopify/react-native-skia) - High-performance React Native Graphics using Skia
 
-*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds\_
+*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 
 *   [jpudysz/react-native-unistyles](https://github.com/jpudysz/react-native-unistyles) - Level up your React Native StyleSheet
 
@@ -5406,7 +5444,7 @@
 
 *   [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 
-*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds\_
+*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 
 *   [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech\_balloon: :gem:
 
@@ -6192,7 +6230,7 @@
 
 *   [roninoss/create-expo-stack](https://github.com/roninoss/create-expo-stack) - CLI tool to initialize a React Native application with Expo. Provides options to include Typescript, file-based routing via Expo Router, configuration based routing via pure React Navigation, styling via Nativewind, Restyle, Unistyles, StyleSheets, or Tamagui, and/or backend as a service such as Firebase and Supabase.
 
-*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds\_
+*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 
 ## firestore
 
@@ -6272,7 +6310,7 @@
 
 *   [roninoss/create-expo-stack](https://github.com/roninoss/create-expo-stack) - CLI tool to initialize a React Native application with Expo. Provides options to include Typescript, file-based routing via Expo Router, configuration based routing via pure React Navigation, styling via Nativewind, Restyle, Unistyles, StyleSheets, or Tamagui, and/or backend as a service such as Firebase and Supabase.
 
-*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds\_
+*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 
 *   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
 
@@ -7814,7 +7852,7 @@
 
 *   [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 
-*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds\_
+*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 
 ## google-photos
 
@@ -7868,7 +7906,7 @@
 
 *   [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app
 
-*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds\_
+*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 
 *   [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
 
@@ -8402,7 +8440,7 @@
 
 *   [web-infra-dev/modern.js](https://github.com/web-infra-dev/modern.js) - A progressive web framework based on React and Rsbuild.
 
-*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds\_
+*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 
 *   [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 
@@ -9114,31 +9152,11 @@
 
 *   [privatenumber/pkg-size.dev](https://github.com/privatenumber/pkg-size.dev) - 📦🔍 Find the true size of an npm package
 
-## playwright
-
-*   [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation.
-
-*   [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
-
-*   [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
-
-*   [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-
-*   [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 The cross-browser extension framework.
-
 ## scraper
 
 *   [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation.
 
 *   [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
-
-*   [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
-
-## scraping
-
-*   [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation.
-
-*   [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 
 *   [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
 
@@ -9924,7 +9942,7 @@
 
 *   [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
 
-*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds\_
+*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 
 *   [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 
@@ -10500,7 +10518,7 @@
 
 *   [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 
-*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds\_
+*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 
 *   [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
 
@@ -10991,8 +11009,6 @@
 *   [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
 
 *   [Yqnn/svg-path-editor](https://github.com/Yqnn/svg-path-editor) - Online editor to create and manipulate SVG paths
-
-*   [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 
 ## tailwindcss-plugin
 
@@ -12214,7 +12230,7 @@
 
 *   [LovesWorking/rn-better-dev-tools](https://github.com/LovesWorking/rn-better-dev-tools) - Beautiful macOS app for debugging React Query in ANY React-based application (Mobile, Web, TV, VR). Monitor queries across devices in real-time with a gorgeous native interface. Features device management, query visualization, state simulation, and automatic production safety. Works with React Native, Web, Next.js, Expo, and any JS based platform
 
-*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds\_
+*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 
 ## reactquery
 
@@ -12820,7 +12836,7 @@
 
 *   [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 
-*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds\_
+*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 
 *   [mrousavy/nitro](https://github.com/mrousavy/nitro) - 🔥 Insanely fast native C++, Swift or Kotlin modules with a statically compiled binding layer to JSI
 
@@ -14414,11 +14430,11 @@
 
 ## appwrite
 
-*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds\_
+*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 
 ## backend
 
-*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds\_
+*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 
 *   [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
 
@@ -14428,11 +14444,11 @@
 
 ## backend-as-a-service
 
-*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds\_
+*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 
 ## hosting
 
-*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds\_
+*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 
 *   [stormkit-io/www-stormkit-io](https://github.com/stormkit-io/www-stormkit-io) - Stormkit is a self-hostable, highly performant and scalable PaaS for modern web applications.
 
@@ -15810,7 +15826,7 @@
 
 *   [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️  – Pull Requests welcome!
 
-*   [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused alternative to Google Analytics.
+*   [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. A better, open-source alternative to Google Analytics, Mixpanel and Amplitude.
 
 *   [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 
@@ -17490,7 +17506,7 @@
 
 *   [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
 
-*   [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused alternative to Google Analytics.
+*   [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. A better, open-source alternative to Google Analytics, Mixpanel and Amplitude.
 
 ## font-family
 
@@ -17834,8 +17850,6 @@
 
 *   [stevenpetryk/mafs](https://github.com/stevenpetryk/mafs) - React components for interactive math
 
-*   [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
-
 ## wrk
 
 *   [six-ddc/plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool that includes a real-time web UI and terminal display
@@ -17901,8 +17915,6 @@
 ## data-visualization
 
 *   [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
-
-*   [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 
 ## visx
 
@@ -19084,17 +19096,15 @@
 
 *   [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
 
-*   [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused alternative to Google Analytics.
+*   [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. A better, open-source alternative to Google Analytics, Mixpanel and Amplitude.
 
 *   [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
-
-*   [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 
 ## google-analytics
 
 *   [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
 
-*   [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused alternative to Google Analytics.
+*   [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. A better, open-source alternative to Google Analytics, Mixpanel and Amplitude.
 
 ## phoenix
 
@@ -19110,7 +19120,7 @@
 
 *   [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️  – Pull Requests welcome!
 
-*   [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused alternative to Google Analytics.
+*   [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. A better, open-source alternative to Google Analytics, Mixpanel and Amplitude.
 
 ## website-analytics
 
@@ -19141,6 +19151,22 @@
 ## piwik
 
 *   [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️  – Pull Requests welcome!
+
+## audience-segmentation
+
+*   [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. A better, open-source alternative to Google Analytics, Mixpanel and Amplitude.
+
+## cohort-analysis
+
+*   [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. A better, open-source alternative to Google Analytics, Mixpanel and Amplitude.
+
+## product-analytics
+
+*   [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. A better, open-source alternative to Google Analytics, Mixpanel and Amplitude.
+
+## user-journey
+
+*   [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. A better, open-source alternative to Google Analytics, Mixpanel and Amplitude.
 
 ## altcoin
 
@@ -21046,8 +21072,6 @@
 
 *   [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 
-*   [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
-
 ## data-visualisation
 
 *   [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
@@ -21165,15 +21189,3 @@
 ## visualizer
 
 *   [statelyai/xstate](https://github.com/statelyai/xstate) - Actor-based state management & orchestration for complex app logic.
-
-## apache
-
-*   [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
-
-## data-viz
-
-*   [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
-
-## echarts
-
-*   [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser

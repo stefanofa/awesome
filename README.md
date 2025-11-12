@@ -37,6 +37,8 @@
 
 ## Python
 
+*   [simonw/shot-scraper](https://github.com/simonw/shot-scraper) - A command-line utility for taking automated screenshots of websites
+
 *   [GibsonAI/Memori](https://github.com/GibsonAI/Memori) - Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems
 
 *   [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
@@ -96,6 +98,8 @@
 *   [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
 
 *   [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open source feature flagging and remote config service. Self-host or use our hosted version at https://app.flagsmith.com.
+
+*   [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 
 *   [yadm-dev/yadm](https://github.com/yadm-dev/yadm) - Yet Another Dotfiles Manager
 
@@ -605,7 +609,7 @@
 
 *   [bvaughn/react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
 
-*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds\_
+*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 
 *   [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 
@@ -1019,7 +1023,7 @@
 
 *   [vanilla-extract-css/vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
 
-*   [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused alternative to Google Analytics.
+*   [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. A better, open-source alternative to Google Analytics, Mixpanel and Amplitude.
 
 *   [vercel/ms](https://github.com/vercel/ms) - Tiny millisecond conversion utility
 
@@ -1255,8 +1259,6 @@
 
 *   [statelyai/xstate](https://github.com/statelyai/xstate) - Actor-based state management & orchestration for complex app logic.
 
-*   [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
-
 ## C++
 
 *   [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
@@ -1440,8 +1442,6 @@
 *   [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 
 *   [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
-
-*   [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 
 *   [trustwallet/assets](https://github.com/trustwallet/assets) - A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
 
