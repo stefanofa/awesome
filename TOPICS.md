@@ -2,7 +2,16 @@
 
 ## Table of Contents
 
+*   [cli](#cli)
+*   [downloader](#downloader)
+*   [python](#python)
+*   [sponsorblock](#sponsorblock)
+*   [youtube-dl](#youtube-dl)
+*   [youtube-downloader](#youtube-downloader)
+*   [yt-dlp](#yt-dlp)
 *   [miscellaneous](#miscellaneous)
+*   [react](#react)
+*   [scroll](#scroll)
 *   [classic-macos](#classic-macos)
 *   [css](#css)
 *   [design-system](#design-system)
@@ -10,7 +19,6 @@
 *   [hacktoberfest2022](#hacktoberfest2022)
 *   [macos](#macos)
 *   [ai](#ai)
-*   [cli](#cli)
 *   [database](#database)
 *   [databases](#databases)
 *   [graph-database](#graph-database)
@@ -47,7 +55,6 @@
 *   [memori-ai](#memori-ai)
 *   [memory](#memory)
 *   [memory-management](#memory-management)
-*   [python](#python)
 *   [state-management](#state-management)
 *   [chromium](#chromium)
 *   [serverless](#serverless)
@@ -84,7 +91,6 @@
 *   [bippy](#bippy)
 *   [fiber](#fiber)
 *   [internal](#internal)
-*   [react](#react)
 *   [reconciler](#reconciler)
 *   [config](#config)
 *   [esbuild](#esbuild)
@@ -998,14 +1004,12 @@
 *   [v0](#v0)
 *   [windsurf-ai](#windsurf-ai)
 *   [collaboration](#collaboration)
-*   [downloader](#downloader)
 *   [music](#music)
 *   [reddit](#reddit)
 *   [social-media](#social-media)
 *   [soundcloud](#soundcloud)
 *   [vimeo](#vimeo)
 *   [vk](#vk)
-*   [youtube-downloader](#youtube-downloader)
 *   [shadcn-theme](#shadcn-theme)
 *   [shadcn-theme-editor](#shadcn-theme-editor)
 *   [toolchain](#toolchain)
@@ -1241,7 +1245,6 @@
 *   [drag](#drag)
 *   [gestures](#gestures)
 *   [pinch](#pinch)
-*   [scroll](#scroll)
 *   [wheel](#wheel)
 *   [zoom](#zoom)
 *   [dynamic-forms](#dynamic-forms)
@@ -2802,16 +2805,162 @@
 *   [searching-algorithms](#searching-algorithms)
 *   [composition](#composition)
 *   [inheritance](#inheritance)
-*   [charting-library](#charting-library)
-*   [data-visualisation](#data-visualisation)
-*   [recharts](#recharts)
-*   [design-patterns](#design-patterns)
-*   [interview](#interview)
-*   [interview-practice](#interview-practice)
-*   [interview-questions](#interview-questions)
-*   [system](#system)
+
+## cli
+
+*   [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
+
+*   [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is an open-source graph-vector database built from scratch in Rust.
+
+*   [restatedev/restate](https://github.com/restatedev/restate) - Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD.
+
+*   [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser
+
+*   [lukeed/mri](https://github.com/lukeed/mri) - Quickly scan for CLI flags and arguments
+
+*   [mmkal/trpc-cli](https://github.com/mmkal/trpc-cli) - Turn a tRPC router into a type-safe, fully-functional, documented CLI
+
+*   [AmanVarshney01/create-better-t-stack](https://github.com/AmanVarshney01/create-better-t-stack) - A modern CLI tool for scaffolding end-to-end type-safe TypeScript projects with best practices and customizable configurations
+
+*   [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
+
+*   [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+
+*   [roninoss/create-expo-stack](https://github.com/roninoss/create-expo-stack) - CLI tool to initialize a React Native application with Expo. Provides options to include Typescript, file-based routing via Expo Router, configuration based routing via pure React Navigation, styling via Nativewind, Restyle, Unistyles, StyleSheets, or Tamagui, and/or backend as a service such as Firebase and Supabase.
+
+*   [drager/wasm-pack](https://github.com/drager/wasm-pack) - 📦✨ your favorite rust -> wasm workflow tool!
+
+*   [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
+
+*   [TheR1D/shell\_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
+
+*   [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
+
+*   [inngest/inngest](https://github.com/inngest/inngest) - The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge.
+
+*   [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
+
+*   [bloomberg/stricli](https://github.com/bloomberg/stricli) - Build complex CLIs with type safety and no dependencies
+
+*   [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
+
+*   [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a secure dotenv–from the creator of `dotenv`
+
+*   [open-cli-tools/concurrently](https://github.com/open-cli-tools/concurrently) - Run commands concurrently. Like `npm run watch-js &amp; npm run watch-less` but better.
+
+*   [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
+
+*   [bombshell-dev/clack](https://github.com/bombshell-dev/clack) - Effortlessly build beautiful command-line apps
+
+*   [six-ddc/plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool that includes a real-time web UI and terminal display
+
+*   [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
+
+*   [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+
+*   [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 The cross-browser extension framework.
+
+*   [oclif/oclif](https://github.com/oclif/oclif) - CLI for generating, building, and releasing oclif CLIs. Built by Salesforce.
+
+*   [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+
+*   [google/zx](https://github.com/google/zx) - A tool for writing better scripts
+
+*   [plopjs/plop](https://github.com/plopjs/plop) - Consistency Made Simple
+
+*   [sindresorhus/np](https://github.com/sindresorhus/np) - A better `npm publish`
+
+*   [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
+
+*   [infinitered/ignite](https://github.com/infinitered/ignite) - Infinite Red's battle-tested React Native project boilerplate, along with a CLI, component/model generators, and more! 9 years of continuous development and counting.
+
+*   [nicoalbanese/kirimase](https://github.com/nicoalbanese/kirimase) - Build full-stack Next.js apps, incredibly fast
+
+*   [timothymiller/t4-app](https://github.com/timothymiller/t4-app) - Full stack meta-framework for building iOS, Android, and Progressive Web Apps with Tamagui and deploying to Cloudflare.
+
+*   [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
+
+*   [sandworm-hq/sandworm-audit](https://github.com/sandworm-hq/sandworm-audit) - Security & License Compliance For Your App's Dependencies 🪱
+
+*   [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
+
+## downloader
+
+*   [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
+
+*   [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
+
+## python
+
+*   [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
+
+*   [GibsonAI/Memori](https://github.com/GibsonAI/Memori) - Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems
+
+*   [yusufkaraaslan/Skill\_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
+
+*   [datapizza-labs/datapizza-ai](https://github.com/datapizza-labs/datapizza-ai) - Build reliable Gen AI solutions without overhead 🍕
+
+*   [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
+
+*   [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
+
+*   [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
+
+*   [luisfer/ubon](https://github.com/luisfer/ubon) - Peace of mind for vibe-coded apps
+
+*   [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
+
+*   [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
+
+*   [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+
+*   [polarsource/polar](https://github.com/polarsource/polar) - Turn your software into a business.
+
+*   [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
+
+*   [TheR1D/shell\_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
+
+*   [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
+
+*   [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
+
+*   [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS and Python based on Redis
+
+*   [Ackee-Blockchain/wake](https://github.com/Ackee-Blockchain/wake) - Wake is a Python-based Solidity development and fuzz testing framework with built-in vulnerability detectors for building secure Ethereum dApps.
+
+*   [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
+
+*   [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open source feature flagging and remote config service. Self-host or use our hosted version at https://app.flagsmith.com.
+
+*   [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
+
+*   [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
+
+*   [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
+
+*   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
+
+## sponsorblock
+
+*   [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
+
+## youtube-dl
+
+*   [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
+
+## youtube-downloader
+
+*   [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
+
+*   [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
+
+## yt-dlp
+
+*   [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 
 ## miscellaneous
+
+*   [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Skills
 
 *   [rit3zh/expo-linear-like-bottom-tabs](https://github.com/rit3zh/expo-linear-like-bottom-tabs) - 🎨 Clean and simple bottom tabs inspired by Linear. Easy gestures, smooth animations.
 
@@ -3201,7 +3350,369 @@
 
 *   [transmissions11/solmate](https://github.com/transmissions11/solmate) - Modern, opinionated, and gas optimized building blocks for smart contract development.
 
-*   [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
+## react
+
+*   [theKashey/react-remove-scroll](https://github.com/theKashey/react-remove-scroll) - Removes and disables 📜in a "React" way
+
+*   [aidenybai/bippy](https://github.com/aidenybai/bippy) - ⚠️ hack into react internals
+
+*   [thebuilder/react-intersection-observer](https://github.com/thebuilder/react-intersection-observer) - React implementation of the Intersection Observer API to tell you when an element enters or leaves the viewport.
+
+*   [generaltranslation/gt](https://github.com/generaltranslation/gt) - ⚛️ Automatic localization for devs 🌐
+
+*   [rari-build/rari](https://github.com/rari-build/rari) - Runtime Accelerated Rendering Infrastructure (Rari): High-performance React Server Components framework powered by a Rust runtime, delivering 12x faster P99 latency and 10.5x higher throughput than Next.js with zero-config setup and universal NPM support.
+
+*   [aidenybai/react-grab](https://github.com/aidenybai/react-grab) - Grab any element on in your app and give it to Cursor, Claude Code, etc
+
+*   [pmndrs/uikit](https://github.com/pmndrs/uikit) - 🎨 user interfaces for react-three-fiber
+
+*   [cossistantcom/cossistant](https://github.com/cossistantcom/cossistant) - Open-source, AI-native support system with fully customizable AI support agents — for developers shipping fast, beautiful SaaS.
+
+*   [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit) - A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid, Vue, Svelte).
+
+*   [TanStack/virtual](https://github.com/TanStack/virtual) - 🤖 Headless UI for Virtualizing Large Element Lists in JS/TS, React, Solid, Vue and Svelte
+
+*   [ncdai/react-wheel-picker](https://github.com/ncdai/react-wheel-picker) - iOS-like wheel picker for React with smooth inertia scrolling and infinite loop support. / Backed by ▲Vercel OSS Program
+
+*   [ariakit/ariakit](https://github.com/ariakit/ariakit) - Toolkit with accessible components, styles, and examples for your next web app
+
+*   [shadcnblocks/kibo](https://github.com/shadcnblocks/kibo) - A custom registry of composable, accessible and extensible components designed for use with shadcn/ui. Free and open source, forever.
+
+*   [imskyleen/bprogress](https://github.com/imskyleen/bprogress) - BProgress is a lightweight, customizable progress bar for better user experience.
+
+*   [TanStack/devtools](https://github.com/TanStack/devtools) - 🤖 Framework-agnostic devtools panel for handling TanStack libraries devtools and your custom devtool plugins
+
+*   [luisfer/ubon](https://github.com/luisfer/ubon) - Peace of mind for vibe-coded apps
+
+*   [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+
+*   [reshaped-ui/reshaped](https://github.com/reshaped-ui/reshaped) - Professionally crafted React & Figma components for building beautiful products or starting your own design system
+
+*   [pacocoursey/next-themes](https://github.com/pacocoursey/next-themes) - Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing
+
+*   [phamfoo/figma-squircle](https://github.com/phamfoo/figma-squircle) - Figma-flavored squircles for everyone
+
+*   [bring-shrubbery/squircle-js](https://github.com/bring-shrubbery/squircle-js) - A squircle element for your favourite frontend framework!
+
+*   [toss/use-funnel](https://github.com/toss/use-funnel) - A powerful and safe step-by-step state management library at React
+
+*   [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
+
+*   [paper-design/shaders](https://github.com/paper-design/shaders) - Zero-dependency canvas shaders that can be installed from npm or designed in Paper
+
+*   [keenthemes/reui](https://github.com/keenthemes/reui) - Open-source collection of UI components and animated effects built with React, Typescript, Tailwind CSS, and Motion. Pairs beautifully with shadcn/ui.
+
+*   [ibelick/prompt-kit](https://github.com/ibelick/prompt-kit) - Core building blocks for AI apps.  High-quality, accessible, and customizable components for AI interfaces.
+
+*   [TanStack/form](https://github.com/TanStack/form) - 🤖 Headless, performant, and type-safe form state management for TS/JS, React, Vue, Angular, Solid, and Lit.
+
+*   [garden-co/jazz](https://github.com/garden-co/jazz) - A new kind of database that's distributed across your frontend, containers, serverless functions and its own storage cloud.
+
+*   [rizkimuhammada/cosmic-ui](https://github.com/rizkimuhammada/cosmic-ui) - A collection of Sci-Fi themed components and futuristic design elements for modern web applications.
+
+*   [basementstudio/scrollytelling](https://github.com/basementstudio/scrollytelling) - A library for creating Scrollytelling animations, powered by React & GSAP.
+
+*   [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
+
+*   [TanayK07/expo-react-native-cicd](https://github.com/TanayK07/expo-react-native-cicd) - 🚀 Free alternative to Expo EAS builds! Complete CI/CD pipeline for React Native & Expo apps using GitHub Actions. Save $100s monthly with unlimited builds, automated testing, and flexible deployment options.
+
+*   [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered search engine with a generative UI
+
+*   [sadmann7/diceui](https://github.com/sadmann7/diceui) - Accessible shadcn/ui components built with React, TypeScript, and Tailwind CSS. Copy-paste ready, and customizable.
+
+*   [imskyleen/animate-ui](https://github.com/imskyleen/animate-ui) - Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.
+
+*   [LovesWorking/rn-better-dev-tools](https://github.com/LovesWorking/rn-better-dev-tools) - Beautiful macOS app for debugging React Query in ANY React-based application (Mobile, Web, TV, VR). Monitor queries across devices in real-time with a gorgeous native interface. Features device management, query visualization, state simulation, and automatic production safety. Works with React Native, Web, Next.js, Expo, and any JS based platform
+
+*   [Nozbe/WatermelonDB](https://github.com/Nozbe/WatermelonDB) - 🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️
+
+*   [react-native-elements/react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross-Platform React Native UI Toolkit
+
+*   [ixahmedxi/unverceled-nextjs](https://github.com/ixahmedxi/unverceled-nextjs) - A Next.js 15 Starter Kit Deployed to Cloudflare
+
+*   [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle) - A React-based library for creating sleek presentations using JSX syntax that gives you the ability to live demo your code.
+
+*   [Shopify/react-native-skia](https://github.com/Shopify/react-native-skia) - High-performance React Native Graphics using Skia
+
+*   [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks) - The best apps in the AI era aren’t solo experiences—they’re collaborative. Liveblocks provides customizable pre‑built features to make your product multiplayer, engaging, and AI‑ready. All without derailing your roadmap.
+
+*   [liveblocks/frimousse](https://github.com/liveblocks/frimousse) - A lightweight, unstyled, and composable emoji picker for React.
+
+*   [darkroomengineering/hamo](https://github.com/darkroomengineering/hamo) - Hamo means hook, do the math.
+
+*   [infinite-table/infinite-react](https://github.com/infinite-table/infinite-react) - The modern React DataGrid for building apps — faster
+
+*   [unnoq/orpc](https://github.com/unnoq/orpc) - Typesafe APIs Made Simple 🪄
+
+*   [JohannesKlauss/react-hotkeys-hook](https://github.com/JohannesKlauss/react-hotkeys-hook) - React hook for using keyboard shortcuts in components.
+
+*   [klis87/normy](https://github.com/klis87/normy) - Automatic normalization and data updates for data fetching libraries (react-query, vue-query, trpc, swr, rtk-query and more)
+
+*   [unplugin/unplugin-icons](https://github.com/unplugin/unplugin-icons) - 🤹 Access thousands of icons as components on-demand universally.
+
+*   [vgulerianb/react-exe](https://github.com/vgulerianb/react-exe) - A powerful React component executor that renders code with external dependencies and custom styling
+
+*   [ekmas/neobrutalism-components](https://github.com/ekmas/neobrutalism-components) - A collection of neobrutalism-styled Tailwind components.
+
+*   [inokawa/edix](https://github.com/inokawa/edix) - An experimental, framework agnostic, small (4kB+) contenteditable state manager.
+
+*   [FormidableLabs/use-editable](https://github.com/FormidableLabs/use-editable) - A small React hook to turn elements into fully renderable & editable content surfaces, like code editors, using contenteditable (and magic)
+
+*   [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building memorable websites.
+
+*   [openstatusHQ/data-table-filters](https://github.com/openstatusHQ/data-table-filters) - A playground for tanstack-table
+
+*   [web-infra-dev/modern.js](https://github.com/web-infra-dev/modern.js) - A progressive web framework based on React and Rsbuild.
+
+*   [emotion-js/emotion](https://github.com/emotion-js/emotion) - 👩‍🎤 CSS-in-JS library designed for high performance style composition
+
+*   [yairEO/tagify](https://github.com/yairEO/tagify) - 🔖 lightweight, efficient Tags input component in Vanilla JS / React / Angular / Vue
+
+*   [internet-development/www-sacred](https://github.com/internet-development/www-sacred) - SRCL is an open-source React component and style repository that helps you build web applications, desktop applications, and static websites with terminal aesthetics.
+
+*   [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) - Visual builder for React. Build apps, websites, and content. Integrate with your codebase.
+
+*   [pmndrs/use-gesture](https://github.com/pmndrs/use-gesture) - 👇Bread n butter utility for component-tied mouse/touch gestures in React and Vanilla Javascript.
+
+*   [martiserra99/formity](https://github.com/martiserra99/formity) - Formity - A highly customizable React library for creating advanced multi-step forms (https://www.formity.app/).
+
+*   [serafimcloud/21st](https://github.com/serafimcloud/21st) - npm for design engineers: largest marketplace of shadcn/ui-based React Tailwind components, blocks and hooks
+
+*   [cosscom/coss](https://github.com/cosscom/coss) - coss.com is the new holding company of cal.com, the pioneers of open source scheduling infrastructure and cal.com continues to be the 'google search' of our alphabet.
+
+*   [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.
+
+*   [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) - Data framework for your LLM applications. Focus on server side solution
+
+*   [mui/base-ui](https://github.com/mui/base-ui) - Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI.
+
+*   [polarsource/polar](https://github.com/polarsource/polar) - Turn your software into a business.
+
+*   [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
+
+*   [typehero/typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers
+
+*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
+
+*   [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
+
+*   [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
+
+*   [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech\_balloon: :gem:
+
+*   [jpudysz/react-native-unistyles](https://github.com/jpudysz/react-native-unistyles) - Level up your React Native StyleSheet
+
+*   [mrousavy/nitro](https://github.com/mrousavy/nitro) - 🔥 Insanely fast native C++, Swift or Kotlin modules with a statically compiled binding layer to JSI
+
+*   [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
+
+*   [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
+
+*   [chakra-ui/zag](https://github.com/chakra-ui/zag) - Build your design system in React, Solid, Vue or Svelte. Powered by finite state machines
+
+*   [vercel/next-forge](https://github.com/vercel/next-forge) - Production-grade Turborepo template for Next.js apps.
+
+*   [tolgee/tolgee-platform](https://github.com/tolgee/tolgee-platform) - Developer & translator friendly web-based localization platform
+
+*   [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
+
+*   [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
+
+*   [BetterTyped/react-zoom-pan-pinch](https://github.com/BetterTyped/react-zoom-pan-pinch) - 🖼 React library to support easy zoom, pan, pinch on various html dom elements like \<img> and \<div>
+
+*   [mrousavy/react-native-mmkv](https://github.com/mrousavy/react-native-mmkv) - ⚡️ The fastest key/value storage for React Native. ~30x faster than AsyncStorage!
+
+*   [barvian/number-flow](https://github.com/barvian/number-flow) - An animated number component for React, Vue, Svelte, and TS/JS.
+
+*   [joshuawootonn/react-components-from-scratch](https://github.com/joshuawootonn/react-components-from-scratch) - Accessible and animated components
+
+*   [chakra-ui/ark](https://github.com/chakra-ui/ark) - Build scalable design systems with React, Vue, Solid, and Svelte.
+
+*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
+
+*   [onejs/one](https://github.com/onejs/one) - ❶ One is a new React framework - target web and native with a single Vite plugin and fully shared code, so you can ship cross-platform nearly as easy as single-platform.
+
+*   [FormidableLabs/react-live](https://github.com/FormidableLabs/react-live) - A flexible playground for live editing React components
+
+*   [stormkit-io/www-stormkit-io](https://github.com/stormkit-io/www-stormkit-io) - Stormkit is a self-hostable, highly performant and scalable PaaS for modern web applications.
+
+*   [uixmat/onborda](https://github.com/uixmat/onborda) - An onboarding wizard flow / product tour for Next.js animated by framer motion
+
+*   [unadlib/mutative](https://github.com/unadlib/mutative) - Efficient immutable updates, 2-6x faster than naive handcrafted reducer, and more than 10x faster than Immer.
+
+*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
+
+*   [sdorra/content-collections](https://github.com/sdorra/content-collections) - Transform your content into type-safe data collections
+
+*   [souporserious/renoun](https://github.com/souporserious/renoun) - The Documentation Toolkit for React
+
+*   [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open source feature flagging and remote config service. Self-host or use our hosted version at https://app.flagsmith.com.
+
+*   [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
+
+*   [hello-pangea/dnd](https://github.com/hello-pangea/dnd) - 💅 Beautiful and accessible drag and drop for lists with React. ⭐️ Star to support our work!
+
+*   [nomcopter/react-mosaic](https://github.com/nomcopter/react-mosaic) - A React tiling window manager
+
+*   [mathuo/dockview](https://github.com/mathuo/dockview) - Zero dependency Docking Layout Manager. Supports Vanilla TypeScript, React and Vue.
+
+*   [eBay/nice-modal-react](https://github.com/eBay/nice-modal-react) - A modal state manager for React.
+
+*   [damianricobelli/stepperize](https://github.com/damianricobelli/stepperize) - A type safe library for building step-by-steps workflows
+
+*   [vikejs/vike](https://github.com/vikejs/vike) - \[Next.js/Nuxt alternative] 🔨 The composable framework — build advanced applications with stability and flexibility.
+
+*   [gluestack/gluestack-ui](https://github.com/gluestack/gluestack-ui) - React & React Native Components & Patterns (copy-paste components & patterns crafted with Tailwind CSS (NativeWind))
+
+*   [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
+
+*   [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.
+
+*   [TheSGJ/nextjs-toploader](https://github.com/TheSGJ/nextjs-toploader) - A Next.js Top Loading Bar component made using nprogress, works with Next.js 15 , Next.js 14 and React.
+
+*   [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
+
+*   [elrumordelaluz/reactour](https://github.com/elrumordelaluz/reactour) - Tourist Guide into your React Components
+
+*   [gilbarbara/react-joyride](https://github.com/gilbarbara/react-joyride) - Create guided tours in your apps
+
+*   [callstack/linaria](https://github.com/callstack/linaria) - Zero-runtime CSS in JS library
+
+*   [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
+
+*   [mehdibha/dotUI](https://github.com/mehdibha/dotUI) - Build your design system within seconds.
+
+*   [edmundhung/conform](https://github.com/edmundhung/conform) - Progressively enhance HTML forms with React. Build resilient, type-safe forms with no hassle using web standards.
+
+*   [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.
+
+*   [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
+
+*   [aidenybai/million](https://github.com/aidenybai/million) - Optimizing compiler for React
+
+*   [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev) - ⚡ Lingo.dev - open-source, AI-powered i18n toolkit for instant localization with LLMs. Bring your own LLM or use Lingo.dev Localization Engine. Join discord:
+
+*   [TheEdoRan/next-safe-action](https://github.com/TheEdoRan/next-safe-action) - Type safe and validated Server Actions in your Next.js project.
+
+*   [nkzw-tech/athena-crisis](https://github.com/nkzw-tech/athena-crisis) - Athena Crisis is a modern-retro turn-based tactical strategy game. Athena Crisis is open core technology.
+
+*   [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 The cross-browser extension framework.
+
+*   [teambit/bit](https://github.com/teambit/bit) - AI-powered development workspaces with reusable components, architectural clarity and zero overhead.
+
+*   [47ng/nuqs](https://github.com/47ng/nuqs) - Type-safe search params state manager for React frameworks - Like useState, but stored in the URL query string.
+
+*   [pmndrs/drei](https://github.com/pmndrs/drei) - 🥉 useful helpers for react-three-fiber
+
+*   [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven.
+
+*   [huozhi/bunchee](https://github.com/huozhi/bunchee) - Zero config bundler for npm packages
+
+*   [pmndrs/valtio](https://github.com/pmndrs/valtio) - 🧙 Valtio makes proxy-state simple  for React and Vanilla
+
+*   [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
+
+*   [wevm/vocs](https://github.com/wevm/vocs) - Minimal Documentation Framework, powered by React + Vite.
+
+*   [TanStack/store](https://github.com/TanStack/store) - 🤖 Framework agnostic, type-safe store w/ reactive framework adapters
+
+*   [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
+
+*   [rcbyr/keen-slider](https://github.com/rcbyr/keen-slider) - The HTML touch slider carousel with the most native feeling you will get.
+
+*   [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
+
+*   [lokalise/i18n-ally](https://github.com/lokalise/i18n-ally) - 🌍 All in one i18n extension for VS Code
+
+*   [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with AI, MCP, and shadcn/ui
+
+*   [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel) - A lightweight carousel library with fluid motion and great swipe precision.
+
+*   [TanStack/router](https://github.com/TanStack/router) - 🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (React and more).
+
+*   [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
+
+*   [Doist/typist](https://github.com/Doist/typist) - The mighty Tiptap-based rich-text editor that powers Doist products.
+
+*   [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
+
+*   [nanxiaobei/react-live-island](https://github.com/nanxiaobei/react-live-island) - 🏝 Dynamic Island for React
+
+*   [family/connectkit](https://github.com/family/connectkit) - Connecting a wallet, made simple.
+
+*   [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2025)
+
+*   [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - The No-GraphQL Client for TypeScript
+
+*   [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.
+
+*   [toss/suspensive](https://github.com/toss/suspensive) - All in one for React Suspense
+
+*   [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - Smooth scroll at it should be
+
+*   [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
+
+*   [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
+
+*   [justin-chu/react-fast-marquee](https://github.com/justin-chu/react-fast-marquee) - A lightweight React component that harnesses the power of CSS animations to create silky smooth marquees.
+
+*   [emilkowalski/sonner](https://github.com/emilkowalski/sonner) - An opinionated toast component for React.
+
+*   [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+
+*   [react-grid-layout/react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints, for React.
+
+*   [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - A reactive data store & sync engine.
+
+*   [timothymiller/t4-app](https://github.com/timothymiller/t4-app) - Full stack meta-framework for building iOS, Android, and Progressive Web Apps with Tamagui and deploying to Cloudflare.
+
+*   [aanckar/react-pdf-tailwind](https://github.com/aanckar/react-pdf-tailwind) - Use Tailwind CSS to style PDFs created with react-pdf
+
+*   [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
+
+*   [nativewind/nativewind](https://github.com/nativewind/nativewind) - The utility-first workflow you love from Tailwind CSS in your React Native applications.
+
+*   [akhila-ariyachandra/akhilaariyachandra.com](https://github.com/akhila-ariyachandra/akhilaariyachandra.com) - ✨ My portfolio built with Next.js, Tailwind, Content Collections, Prisma, Prisma Postgres, and Vercel.
+
+*   [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
+
+*   [module-federation/core](https://github.com/module-federation/core) - Module Federation is a concept that allows developers to share code and resources across multiple JavaScript applications
+
+*   [emilkowalski/vaul](https://github.com/emilkowalski/vaul) - A drawer component for React.
+
+*   [inokawa/virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list (and grid) component for React, Vue, Solid and Svelte.
+
+*   [suren-atoyan/monaco-react](https://github.com/suren-atoyan/monaco-react) - Monaco Editor for React - use the monaco-editor in any React application without needing to use webpack (or rollup/parcel/etc) configuration files / plugins
+
+*   [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
+
+*   [alovajs/alova](https://github.com/alovajs/alova) - The Request Toolkit For Ultimate Efficiency
+
+*   [sanity-io/sanity](https://github.com/sanity-io/sanity) - Sanity Studio – Rapidly configure content workspaces powered by structured content
+
+*   [magicpatterns/catalog](https://github.com/magicpatterns/catalog) - The Magic Patterns Catalog is an open-source website that lists the most popular React component libraries, helping you find the perfect component.
+
+*   [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js
+
+*   [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
+
+*   [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
+
+*   [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
+
+*   [stevenpetryk/mafs](https://github.com/stevenpetryk/mafs) - React components for interactive math
+
+*   [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
+
+## scroll
+
+*   [theKashey/react-remove-scroll](https://github.com/theKashey/react-remove-scroll) - Removes and disables 📜in a "React" way
+
+*   [pmndrs/use-gesture](https://github.com/pmndrs/use-gesture) - 👇Bread n butter utility for component-tied mouse/touch gestures in React and Vanilla Javascript.
+
+*   [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) - Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!
+
+*   [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - Smooth scroll at it should be
 
 ## classic-macos
 
@@ -3274,8 +3785,6 @@
 *   [gluestack/gluestack-ui](https://github.com/gluestack/gluestack-ui) - React & React Native Components & Patterns (copy-paste components & patterns crafted with Tailwind CSS (NativeWind))
 
 *   [magicpatterns/catalog](https://github.com/magicpatterns/catalog) - The Magic Patterns Catalog is an open-source website that lists the most popular React component libraries, helping you find the perfect component.
-
-*   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 
 ## hacktoberfest
 
@@ -3563,82 +4072,6 @@
 
 *   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 
-## cli
-
-*   [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is an open-source graph-vector database built from scratch in Rust.
-
-*   [restatedev/restate](https://github.com/restatedev/restate) - Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD.
-
-*   [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser
-
-*   [lukeed/mri](https://github.com/lukeed/mri) - Quickly scan for CLI flags and arguments
-
-*   [mmkal/trpc-cli](https://github.com/mmkal/trpc-cli) - Turn a tRPC router into a type-safe, fully-functional, documented CLI
-
-*   [AmanVarshney01/create-better-t-stack](https://github.com/AmanVarshney01/create-better-t-stack) - A modern CLI tool for scaffolding end-to-end type-safe TypeScript projects with best practices and customizable configurations
-
-*   [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
-
-*   [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-
-*   [roninoss/create-expo-stack](https://github.com/roninoss/create-expo-stack) - CLI tool to initialize a React Native application with Expo. Provides options to include Typescript, file-based routing via Expo Router, configuration based routing via pure React Navigation, styling via Nativewind, Restyle, Unistyles, StyleSheets, or Tamagui, and/or backend as a service such as Firebase and Supabase.
-
-*   [drager/wasm-pack](https://github.com/drager/wasm-pack) - 📦✨ your favorite rust -> wasm workflow tool!
-
-*   [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
-
-*   [TheR1D/shell\_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
-
-*   [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
-
-*   [inngest/inngest](https://github.com/inngest/inngest) - The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge.
-
-*   [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
-
-*   [bloomberg/stricli](https://github.com/bloomberg/stricli) - Build complex CLIs with type safety and no dependencies
-
-*   [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
-
-*   [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a secure dotenv–from the creator of `dotenv`
-
-*   [open-cli-tools/concurrently](https://github.com/open-cli-tools/concurrently) - Run commands concurrently. Like `npm run watch-js &amp; npm run watch-less` but better.
-
-*   [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
-
-*   [bombshell-dev/clack](https://github.com/bombshell-dev/clack) - Effortlessly build beautiful command-line apps
-
-*   [six-ddc/plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool that includes a real-time web UI and terminal display
-
-*   [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
-
-*   [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
-
-*   [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 The cross-browser extension framework.
-
-*   [oclif/oclif](https://github.com/oclif/oclif) - CLI for generating, building, and releasing oclif CLIs. Built by Salesforce.
-
-*   [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-
-*   [google/zx](https://github.com/google/zx) - A tool for writing better scripts
-
-*   [plopjs/plop](https://github.com/plopjs/plop) - Consistency Made Simple
-
-*   [sindresorhus/np](https://github.com/sindresorhus/np) - A better `npm publish`
-
-*   [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
-
-*   [infinitered/ignite](https://github.com/infinitered/ignite) - Infinite Red's battle-tested React Native project boilerplate, along with a CLI, component/model generators, and more! 9 years of continuous development and counting.
-
-*   [nicoalbanese/kirimase](https://github.com/nicoalbanese/kirimase) - Build full-stack Next.js apps, incredibly fast
-
-*   [timothymiller/t4-app](https://github.com/timothymiller/t4-app) - Full stack meta-framework for building iOS, Android, and Progressive Web Apps with Tamagui and deploying to Cloudflare.
-
-*   [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
-
-*   [sandworm-hq/sandworm-audit](https://github.com/sandworm-hq/sandworm-audit) - Security & License Compliance For Your App's Dependencies 🪱
-
-*   [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
-
 ## database
 
 *   [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is an open-source graph-vector database built from scratch in Rust.
@@ -3846,8 +4279,6 @@
 *   [haydenbleasel/npm.bet](https://github.com/haydenbleasel/npm.bet) - an npm trends visualizer
 
 *   [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
-
-*   [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 
 ## npm
 
@@ -4100,56 +4531,6 @@
 ## memory-management
 
 *   [GibsonAI/Memori](https://github.com/GibsonAI/Memori) - Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems
-
-## python
-
-*   [GibsonAI/Memori](https://github.com/GibsonAI/Memori) - Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems
-
-*   [yusufkaraaslan/Skill\_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
-
-*   [datapizza-labs/datapizza-ai](https://github.com/datapizza-labs/datapizza-ai) - Build reliable Gen AI solutions without overhead 🍕
-
-*   [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
-
-*   [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
-
-*   [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
-
-*   [luisfer/ubon](https://github.com/luisfer/ubon) - Peace of mind for vibe-coded apps
-
-*   [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
-
-*   [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
-
-*   [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
-
-*   [polarsource/polar](https://github.com/polarsource/polar) - Turn your software into a business.
-
-*   [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
-
-*   [TheR1D/shell\_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
-
-*   [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
-
-*   [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
-
-*   [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS and Python based on Redis
-
-*   [Ackee-Blockchain/wake](https://github.com/Ackee-Blockchain/wake) - Wake is a Python-based Solidity development and fuzz testing framework with built-in vulnerability detectors for building secure Ethereum dApps.
-
-*   [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
-
-*   [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open source feature flagging and remote config service. Self-host or use our hosted version at https://app.flagsmith.com.
-
-*   [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
-
-*   [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
-
-*   [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
-
-*   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
-
-*   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 
 ## state-management
 
@@ -4789,7 +5170,7 @@
 
 *   [module-federation/core](https://github.com/module-federation/core) - Module Federation is a concept that allows developers to share code and resources across multiple JavaScript applications
 
-*   [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data 🤖
+*   [open-circle/valibot](https://github.com/open-circle/valibot) - The modular and type safe schema library for validating structural data 🤖
 
 *   [AnswerOverflow/AnswerOverflow](https://github.com/AnswerOverflow/AnswerOverflow) - Powering Discord content discovery by making web pages from threads for some of the largest servers, including Valorant, Cloudflare, C#, and Nuxt.
 
@@ -4812,8 +5193,6 @@
 *   [mattpocock/ts-reset](https://github.com/mattpocock/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
 
 *   [remeda/remeda](https://github.com/remeda/remeda) - A utility library for JavaScript and TypeScript.
-
-*   [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 
 ## agents
 
@@ -5084,360 +5463,6 @@
 ## internal
 
 *   [aidenybai/bippy](https://github.com/aidenybai/bippy) - ⚠️ hack into react internals
-
-## react
-
-*   [aidenybai/bippy](https://github.com/aidenybai/bippy) - ⚠️ hack into react internals
-
-*   [thebuilder/react-intersection-observer](https://github.com/thebuilder/react-intersection-observer) - React implementation of the Intersection Observer API to tell you when an element enters or leaves the viewport.
-
-*   [generaltranslation/gt](https://github.com/generaltranslation/gt) - ⚛️ Automatic localization for devs 🌐
-
-*   [rari-build/rari](https://github.com/rari-build/rari) - Runtime Accelerated Rendering Infrastructure (Rari): High-performance React Server Components framework powered by a Rust runtime, delivering 12x faster P99 latency and 10.5x higher throughput than Next.js with zero-config setup and universal NPM support.
-
-*   [aidenybai/react-grab](https://github.com/aidenybai/react-grab) - Grab any element on in your app and give it to Cursor, Claude Code, etc
-
-*   [pmndrs/uikit](https://github.com/pmndrs/uikit) - 🎨 user interfaces for react-three-fiber
-
-*   [cossistantcom/cossistant](https://github.com/cossistantcom/cossistant) - Open-source, AI-native support system with fully customizable AI support agents — for developers shipping fast, beautiful SaaS.
-
-*   [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit) - A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid, Vue, Svelte).
-
-*   [TanStack/virtual](https://github.com/TanStack/virtual) - 🤖 Headless UI for Virtualizing Large Element Lists in JS/TS, React, Solid, Vue and Svelte
-
-*   [ncdai/react-wheel-picker](https://github.com/ncdai/react-wheel-picker) - iOS-like wheel picker for React with smooth inertia scrolling and infinite loop support. / Backed by ▲Vercel OSS Program
-
-*   [ariakit/ariakit](https://github.com/ariakit/ariakit) - Toolkit with accessible components, styles, and examples for your next web app
-
-*   [shadcnblocks/kibo](https://github.com/shadcnblocks/kibo) - A custom registry of composable, accessible and extensible components designed for use with shadcn/ui. Free and open source, forever.
-
-*   [imskyleen/bprogress](https://github.com/imskyleen/bprogress) - BProgress is a lightweight, customizable progress bar for better user experience.
-
-*   [TanStack/devtools](https://github.com/TanStack/devtools) - 🤖 Framework-agnostic devtools panel for handling TanStack libraries devtools and your custom devtool plugins
-
-*   [luisfer/ubon](https://github.com/luisfer/ubon) - Peace of mind for vibe-coded apps
-
-*   [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
-
-*   [reshaped-ui/reshaped](https://github.com/reshaped-ui/reshaped) - Professionally crafted React & Figma components for building beautiful products or starting your own design system
-
-*   [pacocoursey/next-themes](https://github.com/pacocoursey/next-themes) - Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing
-
-*   [phamfoo/figma-squircle](https://github.com/phamfoo/figma-squircle) - Figma-flavored squircles for everyone
-
-*   [bring-shrubbery/squircle-js](https://github.com/bring-shrubbery/squircle-js) - A squircle element for your favourite frontend framework!
-
-*   [toss/use-funnel](https://github.com/toss/use-funnel) - A powerful and safe step-by-step state management library at React
-
-*   [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
-
-*   [paper-design/shaders](https://github.com/paper-design/shaders) - Zero-dependency canvas shaders that can be installed from npm or designed in Paper
-
-*   [keenthemes/reui](https://github.com/keenthemes/reui) - Open-source collection of UI components and animated effects built with React, Typescript, Tailwind CSS, and Motion. Pairs beautifully with shadcn/ui.
-
-*   [ibelick/prompt-kit](https://github.com/ibelick/prompt-kit) - Core building blocks for AI apps.  High-quality, accessible, and customizable components for AI interfaces.
-
-*   [TanStack/form](https://github.com/TanStack/form) - 🤖 Headless, performant, and type-safe form state management for TS/JS, React, Vue, Angular, Solid, and Lit.
-
-*   [garden-co/jazz](https://github.com/garden-co/jazz) - A new kind of database that's distributed across your frontend, containers, serverless functions and its own storage cloud.
-
-*   [rizkimuhammada/cosmic-ui](https://github.com/rizkimuhammada/cosmic-ui) - A collection of Sci-Fi themed components and futuristic design elements for modern web applications.
-
-*   [basementstudio/scrollytelling](https://github.com/basementstudio/scrollytelling) - A library for creating Scrollytelling animations, powered by React & GSAP.
-
-*   [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
-
-*   [TanayK07/expo-react-native-cicd](https://github.com/TanayK07/expo-react-native-cicd) - 🚀 Free alternative to Expo EAS builds! Complete CI/CD pipeline for React Native & Expo apps using GitHub Actions. Save $100s monthly with unlimited builds, automated testing, and flexible deployment options.
-
-*   [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered search engine with a generative UI
-
-*   [sadmann7/diceui](https://github.com/sadmann7/diceui) - Accessible shadcn/ui components built with React, TypeScript, and Tailwind CSS. Copy-paste ready, and customizable.
-
-*   [imskyleen/animate-ui](https://github.com/imskyleen/animate-ui) - Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.
-
-*   [LovesWorking/rn-better-dev-tools](https://github.com/LovesWorking/rn-better-dev-tools) - Beautiful macOS app for debugging React Query in ANY React-based application (Mobile, Web, TV, VR). Monitor queries across devices in real-time with a gorgeous native interface. Features device management, query visualization, state simulation, and automatic production safety. Works with React Native, Web, Next.js, Expo, and any JS based platform
-
-*   [Nozbe/WatermelonDB](https://github.com/Nozbe/WatermelonDB) - 🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️
-
-*   [react-native-elements/react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross-Platform React Native UI Toolkit
-
-*   [ixahmedxi/unverceled-nextjs](https://github.com/ixahmedxi/unverceled-nextjs) - A Next.js 15 Starter Kit Deployed to Cloudflare
-
-*   [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle) - A React-based library for creating sleek presentations using JSX syntax that gives you the ability to live demo your code.
-
-*   [Shopify/react-native-skia](https://github.com/Shopify/react-native-skia) - High-performance React Native Graphics using Skia
-
-*   [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks) - The best apps in the AI era aren’t solo experiences—they’re collaborative. Liveblocks provides customizable pre‑built features to make your product multiplayer, engaging, and AI‑ready. All without derailing your roadmap.
-
-*   [liveblocks/frimousse](https://github.com/liveblocks/frimousse) - A lightweight, unstyled, and composable emoji picker for React.
-
-*   [darkroomengineering/hamo](https://github.com/darkroomengineering/hamo) - Hamo means hook, do the math.
-
-*   [infinite-table/infinite-react](https://github.com/infinite-table/infinite-react) - The modern React DataGrid for building apps — faster
-
-*   [unnoq/orpc](https://github.com/unnoq/orpc) - Typesafe APIs Made Simple 🪄
-
-*   [JohannesKlauss/react-hotkeys-hook](https://github.com/JohannesKlauss/react-hotkeys-hook) - React hook for using keyboard shortcuts in components.
-
-*   [klis87/normy](https://github.com/klis87/normy) - Automatic normalization and data updates for data fetching libraries (react-query, vue-query, trpc, swr, rtk-query and more)
-
-*   [unplugin/unplugin-icons](https://github.com/unplugin/unplugin-icons) - 🤹 Access thousands of icons as components on-demand universally.
-
-*   [vgulerianb/react-exe](https://github.com/vgulerianb/react-exe) - A powerful React component executor that renders code with external dependencies and custom styling
-
-*   [ekmas/neobrutalism-components](https://github.com/ekmas/neobrutalism-components) - A collection of neobrutalism-styled Tailwind components.
-
-*   [inokawa/edix](https://github.com/inokawa/edix) - An experimental, framework agnostic, small (4kB+) contenteditable state manager.
-
-*   [FormidableLabs/use-editable](https://github.com/FormidableLabs/use-editable) - A small React hook to turn elements into fully renderable & editable content surfaces, like code editors, using contenteditable (and magic)
-
-*   [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building memorable websites.
-
-*   [openstatusHQ/data-table-filters](https://github.com/openstatusHQ/data-table-filters) - A playground for tanstack-table
-
-*   [web-infra-dev/modern.js](https://github.com/web-infra-dev/modern.js) - A progressive web framework based on React and Rsbuild.
-
-*   [emotion-js/emotion](https://github.com/emotion-js/emotion) - 👩‍🎤 CSS-in-JS library designed for high performance style composition
-
-*   [yairEO/tagify](https://github.com/yairEO/tagify) - 🔖 lightweight, efficient Tags input component in Vanilla JS / React / Angular / Vue
-
-*   [internet-development/www-sacred](https://github.com/internet-development/www-sacred) - SRCL is an open-source React component and style repository that helps you build web applications, desktop applications, and static websites with terminal aesthetics.
-
-*   [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) - Visual builder for React. Build apps, websites, and content. Integrate with your codebase.
-
-*   [pmndrs/use-gesture](https://github.com/pmndrs/use-gesture) - 👇Bread n butter utility for component-tied mouse/touch gestures in React and Vanilla Javascript.
-
-*   [martiserra99/formity](https://github.com/martiserra99/formity) - Formity - A highly customizable React library for creating advanced multi-step forms (https://www.formity.app/).
-
-*   [serafimcloud/21st](https://github.com/serafimcloud/21st) - npm for design engineers: largest marketplace of shadcn/ui-based React Tailwind components, blocks and hooks
-
-*   [cosscom/coss](https://github.com/cosscom/coss) - coss.com is the new holding company of cal.com, the pioneers of open source scheduling infrastructure and cal.com continues to be the 'google search' of our alphabet.
-
-*   [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.
-
-*   [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) - Data framework for your LLM applications. Focus on server side solution
-
-*   [mui/base-ui](https://github.com/mui/base-ui) - Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI.
-
-*   [polarsource/polar](https://github.com/polarsource/polar) - Turn your software into a business.
-
-*   [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
-
-*   [typehero/typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers
-
-*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
-
-*   [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
-
-*   [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
-
-*   [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech\_balloon: :gem:
-
-*   [jpudysz/react-native-unistyles](https://github.com/jpudysz/react-native-unistyles) - Level up your React Native StyleSheet
-
-*   [mrousavy/nitro](https://github.com/mrousavy/nitro) - 🔥 Insanely fast native C++, Swift or Kotlin modules with a statically compiled binding layer to JSI
-
-*   [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
-
-*   [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
-
-*   [chakra-ui/zag](https://github.com/chakra-ui/zag) - Build your design system in React, Solid, Vue or Svelte. Powered by finite state machines
-
-*   [vercel/next-forge](https://github.com/vercel/next-forge) - Production-grade Turborepo template for Next.js apps.
-
-*   [tolgee/tolgee-platform](https://github.com/tolgee/tolgee-platform) - Developer & translator friendly web-based localization platform
-
-*   [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
-
-*   [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
-
-*   [BetterTyped/react-zoom-pan-pinch](https://github.com/BetterTyped/react-zoom-pan-pinch) - 🖼 React library to support easy zoom, pan, pinch on various html dom elements like \<img> and \<div>
-
-*   [mrousavy/react-native-mmkv](https://github.com/mrousavy/react-native-mmkv) - ⚡️ The fastest key/value storage for React Native. ~30x faster than AsyncStorage!
-
-*   [barvian/number-flow](https://github.com/barvian/number-flow) - An animated number component for React, Vue, Svelte, and TS/JS.
-
-*   [joshuawootonn/react-components-from-scratch](https://github.com/joshuawootonn/react-components-from-scratch) - Accessible and animated components
-
-*   [chakra-ui/ark](https://github.com/chakra-ui/ark) - Build scalable design systems with React, Vue, Solid, and Svelte.
-
-*   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
-
-*   [onejs/one](https://github.com/onejs/one) - ❶ One is a new React framework - target web and native with a single Vite plugin and fully shared code, so you can ship cross-platform nearly as easy as single-platform.
-
-*   [FormidableLabs/react-live](https://github.com/FormidableLabs/react-live) - A flexible playground for live editing React components
-
-*   [stormkit-io/www-stormkit-io](https://github.com/stormkit-io/www-stormkit-io) - Stormkit is a self-hostable, highly performant and scalable PaaS for modern web applications.
-
-*   [uixmat/onborda](https://github.com/uixmat/onborda) - An onboarding wizard flow / product tour for Next.js animated by framer motion
-
-*   [unadlib/mutative](https://github.com/unadlib/mutative) - Efficient immutable updates, 2-6x faster than naive handcrafted reducer, and more than 10x faster than Immer.
-
-*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
-
-*   [sdorra/content-collections](https://github.com/sdorra/content-collections) - Transform your content into type-safe data collections
-
-*   [souporserious/renoun](https://github.com/souporserious/renoun) - The Documentation Toolkit for React
-
-*   [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open source feature flagging and remote config service. Self-host or use our hosted version at https://app.flagsmith.com.
-
-*   [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
-
-*   [hello-pangea/dnd](https://github.com/hello-pangea/dnd) - 💅 Beautiful and accessible drag and drop for lists with React. ⭐️ Star to support our work!
-
-*   [nomcopter/react-mosaic](https://github.com/nomcopter/react-mosaic) - A React tiling window manager
-
-*   [mathuo/dockview](https://github.com/mathuo/dockview) - Zero dependency Docking Layout Manager. Supports Vanilla TypeScript, React and Vue.
-
-*   [eBay/nice-modal-react](https://github.com/eBay/nice-modal-react) - A modal state manager for React.
-
-*   [damianricobelli/stepperize](https://github.com/damianricobelli/stepperize) - A type safe library for building step-by-steps workflows
-
-*   [vikejs/vike](https://github.com/vikejs/vike) - \[Next.js/Nuxt alternative] 🔨 The composable framework — build advanced applications with stability and flexibility.
-
-*   [gluestack/gluestack-ui](https://github.com/gluestack/gluestack-ui) - React & React Native Components & Patterns (copy-paste components & patterns crafted with Tailwind CSS (NativeWind))
-
-*   [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
-
-*   [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.
-
-*   [TheSGJ/nextjs-toploader](https://github.com/TheSGJ/nextjs-toploader) - A Next.js Top Loading Bar component made using nprogress, works with Next.js 15 , Next.js 14 and React.
-
-*   [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
-
-*   [elrumordelaluz/reactour](https://github.com/elrumordelaluz/reactour) - Tourist Guide into your React Components
-
-*   [gilbarbara/react-joyride](https://github.com/gilbarbara/react-joyride) - Create guided tours in your apps
-
-*   [callstack/linaria](https://github.com/callstack/linaria) - Zero-runtime CSS in JS library
-
-*   [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
-
-*   [mehdibha/dotUI](https://github.com/mehdibha/dotUI) - Build your design system within seconds.
-
-*   [edmundhung/conform](https://github.com/edmundhung/conform) - Progressively enhance HTML forms with React. Build resilient, type-safe forms with no hassle using web standards.
-
-*   [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.
-
-*   [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
-
-*   [aidenybai/million](https://github.com/aidenybai/million) - Optimizing compiler for React
-
-*   [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev) - ⚡ Lingo.dev - open-source, AI-powered i18n toolkit for instant localization with LLMs. Bring your own LLM or use Lingo.dev Localization Engine. Join discord:
-
-*   [TheEdoRan/next-safe-action](https://github.com/TheEdoRan/next-safe-action) - Type safe and validated Server Actions in your Next.js project.
-
-*   [nkzw-tech/athena-crisis](https://github.com/nkzw-tech/athena-crisis) - Athena Crisis is a modern-retro turn-based tactical strategy game. Athena Crisis is open core technology.
-
-*   [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 The cross-browser extension framework.
-
-*   [teambit/bit](https://github.com/teambit/bit) - AI-powered development workspaces with reusable components, architectural clarity and zero overhead.
-
-*   [47ng/nuqs](https://github.com/47ng/nuqs) - Type-safe search params state manager for React frameworks - Like useState, but stored in the URL query string.
-
-*   [pmndrs/drei](https://github.com/pmndrs/drei) - 🥉 useful helpers for react-three-fiber
-
-*   [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven.
-
-*   [huozhi/bunchee](https://github.com/huozhi/bunchee) - Zero config bundler for npm packages
-
-*   [pmndrs/valtio](https://github.com/pmndrs/valtio) - 🧙 Valtio makes proxy-state simple  for React and Vanilla
-
-*   [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
-
-*   [wevm/vocs](https://github.com/wevm/vocs) - Minimal Documentation Framework, powered by React + Vite.
-
-*   [TanStack/store](https://github.com/TanStack/store) - 🤖 Framework agnostic, type-safe store w/ reactive framework adapters
-
-*   [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
-
-*   [rcbyr/keen-slider](https://github.com/rcbyr/keen-slider) - The HTML touch slider carousel with the most native feeling you will get.
-
-*   [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
-
-*   [lokalise/i18n-ally](https://github.com/lokalise/i18n-ally) - 🌍 All in one i18n extension for VS Code
-
-*   [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with AI, MCP, and shadcn/ui
-
-*   [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel) - A lightweight carousel library with fluid motion and great swipe precision.
-
-*   [TanStack/router](https://github.com/TanStack/router) - 🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (React and more).
-
-*   [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
-
-*   [Doist/typist](https://github.com/Doist/typist) - The mighty Tiptap-based rich-text editor that powers Doist products.
-
-*   [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
-
-*   [nanxiaobei/react-live-island](https://github.com/nanxiaobei/react-live-island) - 🏝 Dynamic Island for React
-
-*   [family/connectkit](https://github.com/family/connectkit) - Connecting a wallet, made simple.
-
-*   [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2025)
-
-*   [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - The No-GraphQL Client for TypeScript
-
-*   [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.
-
-*   [toss/suspensive](https://github.com/toss/suspensive) - All in one for React Suspense
-
-*   [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - Smooth scroll at it should be
-
-*   [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
-
-*   [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
-
-*   [justin-chu/react-fast-marquee](https://github.com/justin-chu/react-fast-marquee) - A lightweight React component that harnesses the power of CSS animations to create silky smooth marquees.
-
-*   [emilkowalski/sonner](https://github.com/emilkowalski/sonner) - An opinionated toast component for React.
-
-*   [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-
-*   [react-grid-layout/react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints, for React.
-
-*   [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - A reactive data store & sync engine.
-
-*   [timothymiller/t4-app](https://github.com/timothymiller/t4-app) - Full stack meta-framework for building iOS, Android, and Progressive Web Apps with Tamagui and deploying to Cloudflare.
-
-*   [aanckar/react-pdf-tailwind](https://github.com/aanckar/react-pdf-tailwind) - Use Tailwind CSS to style PDFs created with react-pdf
-
-*   [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
-
-*   [nativewind/nativewind](https://github.com/nativewind/nativewind) - The utility-first workflow you love from Tailwind CSS in your React Native applications.
-
-*   [akhila-ariyachandra/akhilaariyachandra.com](https://github.com/akhila-ariyachandra/akhilaariyachandra.com) - ✨ My portfolio built with Next.js, Tailwind, Content Collections, Prisma, Prisma Postgres, and Vercel.
-
-*   [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
-
-*   [module-federation/core](https://github.com/module-federation/core) - Module Federation is a concept that allows developers to share code and resources across multiple JavaScript applications
-
-*   [emilkowalski/vaul](https://github.com/emilkowalski/vaul) - A drawer component for React.
-
-*   [inokawa/virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list (and grid) component for React, Vue, Solid and Svelte.
-
-*   [suren-atoyan/monaco-react](https://github.com/suren-atoyan/monaco-react) - Monaco Editor for React - use the monaco-editor in any React application without needing to use webpack (or rollup/parcel/etc) configuration files / plugins
-
-*   [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
-
-*   [alovajs/alova](https://github.com/alovajs/alova) - The Request Toolkit For Ultimate Efficiency
-
-*   [sanity-io/sanity](https://github.com/sanity-io/sanity) - Sanity Studio – Rapidly configure content workspaces powered by structured content
-
-*   [magicpatterns/catalog](https://github.com/magicpatterns/catalog) - The Magic Patterns Catalog is an open-source website that lists the most popular React component libraries, helping you find the perfect component.
-
-*   [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js
-
-*   [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
-
-*   [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
-
-*   [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
-
-*   [stevenpetryk/mafs](https://github.com/stevenpetryk/mafs) - React components for interactive math
-
-*   [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
-
-*   [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 
 ## reconciler
 
@@ -6024,8 +6049,6 @@
 *   [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 
 *   [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript
-
-*   [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 
 ## typesafe
 
@@ -7309,7 +7332,7 @@
 
 *   [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
 
-*   [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data 🤖
+*   [open-circle/valibot](https://github.com/open-circle/valibot) - The modular and type safe schema library for validating structural data 🤖
 
 ## background-jobs
 
@@ -7814,8 +7837,6 @@
 *   [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
 
 *   [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
-
-*   [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 
 ## elevenlabs
 
@@ -8601,8 +8622,6 @@
 
 *   [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-generation full-text search library for Browser and Node.js
 
-*   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-
 ## web-performance
 
 *   [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based JavaScript bundler with webpack-compatible API 🦀️
@@ -8724,8 +8743,6 @@
 *   [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 
 *   [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
-
-*   [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 
 ## ui-design
 
@@ -9971,8 +9988,6 @@
 
 *   [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 
-*   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-
 ## engineering
 
 *   [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
@@ -10597,8 +10612,6 @@
 
 *   [shadowwalker/next-pwa](https://github.com/shadowwalker/next-pwa) - Zero config PWA plugin for Next.js, with workbox 🧰
 
-*   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-
 ## base-ui
 
 *   [SameerJS6/lina](https://github.com/SameerJS6/lina) - Drop-in shadcn/ui ScrollArea replacement (Radix/Base UI) with native touch, adaptive masks, and polished interactions.
@@ -11199,7 +11212,7 @@
 
 *   [47ng/nuqs](https://github.com/47ng/nuqs) - Type-safe search params state manager for React frameworks - Like useState, but stored in the URL query string.
 
-*   [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data 🤖
+*   [open-circle/valibot](https://github.com/open-circle/valibot) - The modular and type safe schema library for validating structural data 🤖
 
 *   [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
 
@@ -12693,10 +12706,6 @@
 
 *   [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
 
-## downloader
-
-*   [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
-
 ## music
 
 *   [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
@@ -12720,10 +12729,6 @@
 *   [sampotts/plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
 
 ## vk
-
-*   [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
-
-## youtube-downloader
 
 *   [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 
@@ -12962,8 +12967,6 @@
 *   [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 
 *   [magicpatterns/catalog](https://github.com/magicpatterns/catalog) - The Magic Patterns Catalog is an open-source website that lists the most popular React component libraries, helping you find the perfect component.
-
-*   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 
 ## react-three-fiber
 
@@ -13285,7 +13288,7 @@
 
 *   [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
 
-*   [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data 🤖
+*   [open-circle/valibot](https://github.com/open-circle/valibot) - The modular and type safe schema library for validating structural data 🤖
 
 ## detector
 
@@ -13573,7 +13576,7 @@
 
 *   [arktypeio/arktype](https://github.com/arktypeio/arktype) - TypeScript's 1:1 validator, optimized from editor to runtime
 
-*   [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data 🤖
+*   [open-circle/valibot](https://github.com/open-circle/valibot) - The modular and type safe schema library for validating structural data 🤖
 
 ## peg
 
@@ -13961,14 +13964,6 @@
 
 *   [BetterTyped/react-zoom-pan-pinch](https://github.com/BetterTyped/react-zoom-pan-pinch) - 🖼 React library to support easy zoom, pan, pinch on various html dom elements like \<img> and \<div>
 
-## scroll
-
-*   [pmndrs/use-gesture](https://github.com/pmndrs/use-gesture) - 👇Bread n butter utility for component-tied mouse/touch gestures in React and Vanilla Javascript.
-
-*   [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) - Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!
-
-*   [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - Smooth scroll at it should be
-
 ## wheel
 
 *   [pmndrs/use-gesture](https://github.com/pmndrs/use-gesture) - 👇Bread n butter utility for component-tied mouse/touch gestures in React and Vanilla Javascript.
@@ -14245,7 +14240,7 @@
 
 *   [sindresorhus/ow](https://github.com/sindresorhus/ow) - Function argument validation for humans
 
-*   [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data 🤖
+*   [open-circle/valibot](https://github.com/open-circle/valibot) - The modular and type safe schema library for validating structural data 🤖
 
 ## create-llama
 
@@ -16547,8 +16542,6 @@
 
 *   [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 
-*   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-
 ## cd
 
 *   [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open source feature flagging and remote config service. Self-host or use our hosted version at https://app.flagsmith.com.
@@ -17923,8 +17916,6 @@
 
 *   [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 
-*   [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
-
 ## data-visualization
 
 *   [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
@@ -18572,8 +18563,6 @@
 *   [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
 *   [remeda/remeda](https://github.com/remeda/remeda) - A utility library for JavaScript and TypeScript.
-
-*   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 
 ## tutorial-code
 
@@ -20437,11 +20426,11 @@
 
 ## bundle-size
 
-*   [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data 🤖
+*   [open-circle/valibot](https://github.com/open-circle/valibot) - The modular and type safe schema library for validating structural data 🤖
 
 ## modular
 
-*   [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data 🤖
+*   [open-circle/valibot](https://github.com/open-circle/valibot) - The modular and type safe schema library for validating structural data 🤖
 
 ## dialog
 
@@ -21068,35 +21057,3 @@
 ## inheritance
 
 *   [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript
-
-## charting-library
-
-*   [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
-
-## data-visualisation
-
-*   [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
-
-## recharts
-
-*   [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
-
-## design-patterns
-
-*   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-
-## interview
-
-*   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-
-## interview-practice
-
-*   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-
-## interview-questions
-
-*   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-
-## system
-
-*   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
