@@ -2639,7 +2639,6 @@
 *   [exhaustive](#exhaustive)
 *   [type-inference](#type-inference)
 *   [portfolio](#portfolio)
-*   [prisma-postgres](#prisma-postgres)
 *   [build](#build)
 *   [mod](#mod)
 *   [vendetta](#vendetta)
@@ -2802,6 +2801,8 @@
 *   [static-site-building](#static-site-building)
 
 ## miscellaneous
+
+*   [facebook/yoga](https://github.com/facebook/yoga) - Yoga is an embeddable layout engine targeting web standards.
 
 *   [mixedbread-ai/mgrep](https://github.com/mixedbread-ai/mgrep) - A calm, CLI-native way to semantically grep everything, like code, images, pdfs and more.
 
@@ -3725,7 +3726,7 @@
 
 *   [nativewind/nativewind](https://github.com/nativewind/nativewind) - The utility-first workflow you love from Tailwind CSS in your React Native applications.
 
-*   [akhila-ariyachandra/akhilaariyachandra.com](https://github.com/akhila-ariyachandra/akhilaariyachandra.com) - ✨ My portfolio built with Next.js, Tailwind, Content Collections, Prisma, Prisma Postgres, and Vercel.
+*   [akhila-ariyachandra/akhilaariyachandra.com](https://github.com/akhila-ariyachandra/akhilaariyachandra.com) - ✨ My portfolio built with Next.js, Tailwind, Content Collections, PostgreSQL, Drizzle ORM, and Vercel.
 
 *   [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
 
@@ -3750,8 +3751,6 @@
 *   [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 
 *   [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
-
-*   [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 
 ## iptv
 
@@ -5075,7 +5074,7 @@
 
 *   [timothymiller/t4-app](https://github.com/timothymiller/t4-app) - Full stack meta-framework for building iOS, Android, and Progressive Web Apps with Tamagui and deploying to Cloudflare.
 
-*   [akhila-ariyachandra/akhilaariyachandra.com](https://github.com/akhila-ariyachandra/akhilaariyachandra.com) - ✨ My portfolio built with Next.js, Tailwind, Content Collections, Prisma, Prisma Postgres, and Vercel.
+*   [akhila-ariyachandra/akhilaariyachandra.com](https://github.com/akhila-ariyachandra/akhilaariyachandra.com) - ✨ My portfolio built with Next.js, Tailwind, Content Collections, PostgreSQL, Drizzle ORM, and Vercel.
 
 *   [module-federation/core](https://github.com/module-federation/core) - Module Federation is a concept that allows developers to share code and resources across multiple JavaScript applications
 
@@ -5088,8 +5087,6 @@
 *   [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js
 
 *   [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
-
-*   [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 
 ## shadcn-ui
 
@@ -5463,7 +5460,7 @@
 
 *   [gvergnaud/ts-pattern](https://github.com/gvergnaud/ts-pattern) - 🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.
 
-*   [akhila-ariyachandra/akhilaariyachandra.com](https://github.com/akhila-ariyachandra/akhilaariyachandra.com) - ✨ My portfolio built with Next.js, Tailwind, Content Collections, Prisma, Prisma Postgres, and Vercel.
+*   [akhila-ariyachandra/akhilaariyachandra.com](https://github.com/akhila-ariyachandra/akhilaariyachandra.com) - ✨ My portfolio built with Next.js, Tailwind, Content Collections, PostgreSQL, Drizzle ORM, and Vercel.
 
 *   [electron/forge](https://github.com/electron/forge) - :electron: A complete tool for building and publishing Electron applications
 
@@ -5911,7 +5908,7 @@
 
 *   [tremorlabs/tremor-npm](https://github.com/tremorlabs/tremor-npm) - React components to build charts and dashboards
 
-*   [akhila-ariyachandra/akhilaariyachandra.com](https://github.com/akhila-ariyachandra/akhilaariyachandra.com) - ✨ My portfolio built with Next.js, Tailwind, Content Collections, Prisma, Prisma Postgres, and Vercel.
+*   [akhila-ariyachandra/akhilaariyachandra.com](https://github.com/akhila-ariyachandra/akhilaariyachandra.com) - ✨ My portfolio built with Next.js, Tailwind, Content Collections, PostgreSQL, Drizzle ORM, and Vercel.
 
 *   [mkosir/typescript-style-guide](https://github.com/mkosir/typescript-style-guide) - ⚙️ TypeScript Style Guide. A concise set of conventions and best practices for creating consistent, maintainable code.
 
@@ -6431,7 +6428,7 @@
 
 *   [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 
-*   [akhila-ariyachandra/akhilaariyachandra.com](https://github.com/akhila-ariyachandra/akhilaariyachandra.com) - ✨ My portfolio built with Next.js, Tailwind, Content Collections, Prisma, Prisma Postgres, and Vercel.
+*   [akhila-ariyachandra/akhilaariyachandra.com](https://github.com/akhila-ariyachandra/akhilaariyachandra.com) - ✨ My portfolio built with Next.js, Tailwind, Content Collections, PostgreSQL, Drizzle ORM, and Vercel.
 
 *   [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
 
@@ -7463,8 +7460,6 @@
 
 *   [nicoalbanese/kirimase](https://github.com/nicoalbanese/kirimase) - Build full-stack Next.js apps, incredibly fast
 
-*   [akhila-ariyachandra/akhilaariyachandra.com](https://github.com/akhila-ariyachandra/akhilaariyachandra.com) - ✨ My portfolio built with Next.js, Tailwind, Content Collections, Prisma, Prisma Postgres, and Vercel.
-
 *   [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js
 
 ## rbac
@@ -7555,7 +7550,7 @@
 
 *   [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 
-*   [akhila-ariyachandra/akhilaariyachandra.com](https://github.com/akhila-ariyachandra/akhilaariyachandra.com) - ✨ My portfolio built with Next.js, Tailwind, Content Collections, Prisma, Prisma Postgres, and Vercel.
+*   [akhila-ariyachandra/akhilaariyachandra.com](https://github.com/akhila-ariyachandra/akhilaariyachandra.com) - ✨ My portfolio built with Next.js, Tailwind, Content Collections, PostgreSQL, Drizzle ORM, and Vercel.
 
 ## stream
 
@@ -7997,8 +7992,6 @@
 
 *   [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
 
-*   [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
-
 ## elevenlabs
 
 *   [elevenlabs/ui](https://github.com/elevenlabs/ui) - ElevenLabs UI is a component library and custom registry built on top of shadcn/ui to help you build multimodal agents faster.
@@ -8169,13 +8162,11 @@
 
 *   [tremorlabs/tremor-npm](https://github.com/tremorlabs/tremor-npm) - React components to build charts and dashboards
 
-*   [akhila-ariyachandra/akhilaariyachandra.com](https://github.com/akhila-ariyachandra/akhilaariyachandra.com) - ✨ My portfolio built with Next.js, Tailwind, Content Collections, Prisma, Prisma Postgres, and Vercel.
+*   [akhila-ariyachandra/akhilaariyachandra.com](https://github.com/akhila-ariyachandra/akhilaariyachandra.com) - ✨ My portfolio built with Next.js, Tailwind, Content Collections, PostgreSQL, Drizzle ORM, and Vercel.
 
 *   [animotionjs/animotion](https://github.com/animotionjs/animotion) - 🪄 Create beautiful presentations with Svelte
 
 *   [joe-bell/plaiceholder](https://github.com/joe-bell/plaiceholder) - Beautiful image placeholders, without the hassle.
-
-*   [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 
 ## wai-aria
 
@@ -8871,8 +8862,6 @@
 
 *   [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 
-*   [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
-
 ## ui-design
 
 *   [jqueryscript/awesome-neumorphism](https://github.com/jqueryscript/awesome-neumorphism) - A curated list of awesome Neumorphism resources.
@@ -9133,7 +9122,7 @@
 
 *   [nativewind/nativewind](https://github.com/nativewind/nativewind) - The utility-first workflow you love from Tailwind CSS in your React Native applications.
 
-*   [akhila-ariyachandra/akhilaariyachandra.com](https://github.com/akhila-ariyachandra/akhilaariyachandra.com) - ✨ My portfolio built with Next.js, Tailwind, Content Collections, Prisma, Prisma Postgres, and Vercel.
+*   [akhila-ariyachandra/akhilaariyachandra.com](https://github.com/akhila-ariyachandra/akhilaariyachandra.com) - ✨ My portfolio built with Next.js, Tailwind, Content Collections, PostgreSQL, Drizzle ORM, and Vercel.
 
 ## asr
 
@@ -10247,6 +10236,8 @@
 
 *   [ekmas/neobrutalism-components](https://github.com/ekmas/neobrutalism-components) - A collection of neobrutalism-styled Tailwind components.
 
+*   [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building memorable websites.
+
 *   [mui/base-ui](https://github.com/mui/base-ui) - Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI.
 
 *   [elrumordelaluz/reactour](https://github.com/elrumordelaluz/reactour) - Tourist Guide into your React Components
@@ -10725,8 +10716,6 @@
 
 *   [workos/authkit](https://github.com/workos/authkit) - The world's best login box powered by WorkOS and Radix.
 
-*   [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
-
 ## shadcn
 
 *   [SameerJS6/lina](https://github.com/SameerJS6/lina) - Drop-in shadcn/ui ScrollArea replacement (Radix/Base UI) with native touch, adaptive masks, and polished interactions.
@@ -10758,8 +10747,6 @@
 *   [mehdibha/dotUI](https://github.com/mehdibha/dotUI) - Build your design system within seconds.
 
 *   [nicoalbanese/kirimase](https://github.com/nicoalbanese/kirimase) - Build full-stack Next.js apps, incredibly fast
-
-*   [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 
 ## firefox
 
@@ -10959,7 +10946,7 @@
 
 *   [wevm/vocs](https://github.com/wevm/vocs) - Minimal Documentation Framework, powered by React + Vite.
 
-*   [akhila-ariyachandra/akhilaariyachandra.com](https://github.com/akhila-ariyachandra/akhilaariyachandra.com) - ✨ My portfolio built with Next.js, Tailwind, Content Collections, Prisma, Prisma Postgres, and Vercel.
+*   [akhila-ariyachandra/akhilaariyachandra.com](https://github.com/akhila-ariyachandra/akhilaariyachandra.com) - ✨ My portfolio built with Next.js, Tailwind, Content Collections, PostgreSQL, Drizzle ORM, and Vercel.
 
 *   [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 
@@ -11034,6 +11021,8 @@
 *   [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
 
 *   [smakosh/roll-your-own-auth](https://github.com/smakosh/roll-your-own-auth) - Copy & paste code to roll your own auth easily and for free
+
+*   [akhila-ariyachandra/akhilaariyachandra.com](https://github.com/akhila-ariyachandra/akhilaariyachandra.com) - ✨ My portfolio built with Next.js, Tailwind, Content Collections, PostgreSQL, Drizzle ORM, and Vercel.
 
 ## prisma-orm
 
@@ -11961,7 +11950,7 @@
 
 *   [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 
-*   [akhila-ariyachandra/akhilaariyachandra.com](https://github.com/akhila-ariyachandra/akhilaariyachandra.com) - ✨ My portfolio built with Next.js, Tailwind, Content Collections, Prisma, Prisma Postgres, and Vercel.
+*   [akhila-ariyachandra/akhilaariyachandra.com](https://github.com/akhila-ariyachandra/akhilaariyachandra.com) - ✨ My portfolio built with Next.js, Tailwind, Content Collections, PostgreSQL, Drizzle ORM, and Vercel.
 
 *   [divriots/jampack](https://github.com/divriots/jampack) - Optimizes static websites for best user experience and best Core Web Vitals scores.
 
@@ -12093,7 +12082,7 @@
 
 *   [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
 
-*   [akhila-ariyachandra/akhilaariyachandra.com](https://github.com/akhila-ariyachandra/akhilaariyachandra.com) - ✨ My portfolio built with Next.js, Tailwind, Content Collections, Prisma, Prisma Postgres, and Vercel.
+*   [akhila-ariyachandra/akhilaariyachandra.com](https://github.com/akhila-ariyachandra/akhilaariyachandra.com) - ✨ My portfolio built with Next.js, Tailwind, Content Collections, PostgreSQL, Drizzle ORM, and Vercel.
 
 ## vercel-ai-sdk
 
@@ -15037,6 +15026,8 @@
 
 *   [timothymiller/t4-app](https://github.com/timothymiller/t4-app) - Full stack meta-framework for building iOS, Android, and Progressive Web Apps with Tamagui and deploying to Cloudflare.
 
+*   [akhila-ariyachandra/akhilaariyachandra.com](https://github.com/akhila-ariyachandra/akhilaariyachandra.com) - ✨ My portfolio built with Next.js, Tailwind, Content Collections, PostgreSQL, Drizzle ORM, and Vercel.
+
 ## drizzle-kit
 
 *   [rphlmr/drizzle-lab](https://github.com/rphlmr/drizzle-lab) - Play with Drizzle everywhere
@@ -16375,7 +16366,7 @@
 
 *   [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful & flexible React.js docs framework.
 
-*   [akhila-ariyachandra/akhilaariyachandra.com](https://github.com/akhila-ariyachandra/akhilaariyachandra.com) - ✨ My portfolio built with Next.js, Tailwind, Content Collections, Prisma, Prisma Postgres, and Vercel.
+*   [akhila-ariyachandra/akhilaariyachandra.com](https://github.com/akhila-ariyachandra/akhilaariyachandra.com) - ✨ My portfolio built with Next.js, Tailwind, Content Collections, PostgreSQL, Drizzle ORM, and Vercel.
 
 ## contentlayer
 
@@ -16411,7 +16402,7 @@
 
 *   [huozhi/bunchee](https://github.com/huozhi/bunchee) - Zero config bundler for npm packages
 
-*   [akhila-ariyachandra/akhilaariyachandra.com](https://github.com/akhila-ariyachandra/akhilaariyachandra.com) - ✨ My portfolio built with Next.js, Tailwind, Content Collections, Prisma, Prisma Postgres, and Vercel.
+*   [akhila-ariyachandra/akhilaariyachandra.com](https://github.com/akhila-ariyachandra/akhilaariyachandra.com) - ✨ My portfolio built with Next.js, Tailwind, Content Collections, PostgreSQL, Drizzle ORM, and Vercel.
 
 ## zero-config
 
@@ -20355,11 +20346,7 @@
 
 ## portfolio
 
-*   [akhila-ariyachandra/akhilaariyachandra.com](https://github.com/akhila-ariyachandra/akhilaariyachandra.com) - ✨ My portfolio built with Next.js, Tailwind, Content Collections, Prisma, Prisma Postgres, and Vercel.
-
-## prisma-postgres
-
-*   [akhila-ariyachandra/akhilaariyachandra.com](https://github.com/akhila-ariyachandra/akhilaariyachandra.com) - ✨ My portfolio built with Next.js, Tailwind, Content Collections, Prisma, Prisma Postgres, and Vercel.
+*   [akhila-ariyachandra/akhilaariyachandra.com](https://github.com/akhila-ariyachandra/akhilaariyachandra.com) - ✨ My portfolio built with Next.js, Tailwind, Content Collections, PostgreSQL, Drizzle ORM, and Vercel.
 
 ## build
 

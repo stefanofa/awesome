@@ -2,13 +2,13 @@
 
 ## Table of Contents
 
+*   [C++](#c)
 *   [TypeScript](#typescript)
 *   [Python](#python)
 *   [Java](#java)
 *   [CSS](#css)
 *   [Rust](#rust)
 *   [miscellaneous](#miscellaneous)
-*   [C++](#c)
 *   [Clojure](#clojure)
 *   [Go](#go)
 *   [JavaScript](#javascript)
@@ -33,6 +33,24 @@
 *   [Ruby](#ruby)
 *   [Lua](#lua)
 *   [Jinja](#jinja)
+
+## C++
+
+*   [facebook/yoga](https://github.com/facebook/yoga) - Yoga is an embeddable layout engine targeting web standards.
+
+*   [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
+
+*   [livegrep/livegrep](https://github.com/livegrep/livegrep) - Interactively grep source code. Source for http://livegrep.com/
+
+*   [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
+
+*   [mrousavy/nitro](https://github.com/mrousavy/nitro) - 🔥 Insanely fast native C++, Swift or Kotlin modules with a statically compiled binding layer to JSI
+
+*   [laverdet/isolated-vm](https://github.com/laverdet/isolated-vm) - Secure & isolated JS environments for nodejs
+
+*   [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
+
+*   [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 
 ## TypeScript
 
@@ -1100,7 +1118,7 @@
 
 *   [gvergnaud/ts-pattern](https://github.com/gvergnaud/ts-pattern) - 🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.
 
-*   [akhila-ariyachandra/akhilaariyachandra.com](https://github.com/akhila-ariyachandra/akhilaariyachandra.com) - ✨ My portfolio built with Next.js, Tailwind, Content Collections, Prisma, Prisma Postgres, and Vercel.
+*   [akhila-ariyachandra/akhilaariyachandra.com](https://github.com/akhila-ariyachandra/akhilaariyachandra.com) - ✨ My portfolio built with Next.js, Tailwind, Content Collections, PostgreSQL, Drizzle ORM, and Vercel.
 
 *   [electron/forge](https://github.com/electron/forge) - :electron: A complete tool for building and publishing Electron applications
 
@@ -1187,8 +1205,6 @@
 *   [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system.
 
 *   [divriots/jampack](https://github.com/divriots/jampack) - Optimizes static websites for best user experience and best Core Web Vitals scores.
-
-*   [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 
 ## Python
 
@@ -1441,22 +1457,6 @@
 *   [privatenumber/pkg-size.dev](https://github.com/privatenumber/pkg-size.dev) - 📦🔍 Find the true size of an npm package
 
 *   [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-
-## C++
-
-*   [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
-
-*   [livegrep/livegrep](https://github.com/livegrep/livegrep) - Interactively grep source code. Source for http://livegrep.com/
-
-*   [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
-
-*   [mrousavy/nitro](https://github.com/mrousavy/nitro) - 🔥 Insanely fast native C++, Swift or Kotlin modules with a statically compiled binding layer to JSI
-
-*   [laverdet/isolated-vm](https://github.com/laverdet/isolated-vm) - Secure & isolated JS environments for nodejs
-
-*   [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
-
-*   [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 
 ## Clojure
 
