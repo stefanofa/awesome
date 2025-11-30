@@ -36,13 +36,15 @@
 
 ## TypeScript
 
+*   [andremichelle/openDAW](https://github.com/andremichelle/openDAW) - openDAW is a next-generation web-based Digital Audio Workstation (DAW)
+
 *   [kirillzyusko/react-native-keyboard-controller](https://github.com/kirillzyusko/react-native-keyboard-controller) - ⌨️ Keyboard manager which works in identical way on both iOS and Android
 
 *   [software-mansion-labs/react-native-rag](https://github.com/software-mansion-labs/react-native-rag) - Private, local RAGs. Supercharge LLMs with your own knowledge base.
 
 *   [Ademking/use-nemo](https://github.com/Ademking/use-nemo) - Custom React directives
 
-*   [vercel-labs/workflow-builder-template](https://github.com/vercel-labs/workflow-builder-template) -
+*   [vercel-labs/workflow-builder-template](https://github.com/vercel-labs/workflow-builder-template) - Visual AI workflow automation platform
 
 *   [LegendApp/legend-music](https://github.com/LegendApp/legend-music) -
 
@@ -1179,8 +1181,6 @@
 *   [remeda/remeda](https://github.com/remeda/remeda) - A utility library for JavaScript and TypeScript.
 
 *   [QwikDev/partytown](https://github.com/QwikDev/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
-
-*   [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 
 ## Objective-C++
 
