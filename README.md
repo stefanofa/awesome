@@ -3,12 +3,12 @@
 ## Table of Contents
 
 *   [TypeScript](#typescript)
+*   [Swift](#swift)
 *   [JavaScript](#javascript)
 *   [Python](#python)
 *   [Dart](#dart)
 *   [miscellaneous](#miscellaneous)
 *   [Rust](#rust)
-*   [Swift](#swift)
 *   [Objective-C++](#objective-c)
 *   [C++](#c)
 *   [Java](#java)
@@ -38,6 +38,8 @@
 *   [C#](#c-2)
 
 ## TypeScript
+
+*   [google/A2UI](https://github.com/google/A2UI) -
 
 *   [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation) - Routing and navigation for React Native and Web apps
 
@@ -1297,7 +1299,27 @@
 
 *   [lightshiftdev/starknet-bootcamp](https://github.com/lightshiftdev/starknet-bootcamp) - Official repo for the Amsterdam Starknet bootcamp
 
-*   [Folks-Finance/algorand-js-sdk](https://github.com/Folks-Finance/algorand-js-sdk) - The official JavaScript SDK for the Folks Finance Algorand Protocol
+## Swift
+
+*   [productdevbook/port-killer](https://github.com/productdevbook/port-killer) - Native macOS menu bar app for finding and killing processes on open ports. Perfect for developers.
+
+*   [KeyboardKit/KeyboardKit](https://github.com/KeyboardKit/KeyboardKit) - Create amazing custom iOS keyboards with Swift & SwiftUI.
+
+*   [Dimillian/RetroDiffusionApp](https://github.com/Dimillian/RetroDiffusionApp) - iOS app for https://retrodiffusion.ai/app/devtools
+
+*   [the-ora/browser](https://github.com/the-ora/browser) - Less noise, more browsing.
+
+*   [mocki-toki/barik](https://github.com/mocki-toki/barik) - macOS menu bar replacement, with yabai and AeroSpace support
+
+*   [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
+
+*   [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch) - TheBoringNotch: Not so boring notch That Rocks 🎸🎶
+
+*   [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
+
+*   [evanw/thumbhash](https://github.com/evanw/thumbhash) - A very compact representation of an image placeholder
+
+*   [alexwidua/prototypes](https://github.com/alexwidua/prototypes) - little monorepo of swiftui prototypes
 
 ## JavaScript
 
@@ -1503,10 +1525,6 @@
 
 *   [wagerfield/parallax](https://github.com/wagerfield/parallax) - Parallax Engine that reacts to the orientation of a smart device
 
-*   [yusefnapora/minty](https://github.com/yusefnapora/minty) - a minimal NFT minting platform using IPFS
-
-*   [protofire/solhint](https://github.com/protofire/solhint) - Solhint is an open-source project to provide a linting utility for Solidity code.
-
 ## Python
 
 *   [Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image) -
@@ -1519,7 +1537,7 @@
 
 *   [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 
-*   [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Skills
+*   [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 
 *   [simonw/shot-scraper](https://github.com/simonw/shot-scraper) - A command-line utility for taking automated screenshots of websites
 
@@ -1725,7 +1743,7 @@
 
 *   [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 
-*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 一键打包网页生成轻量桌面应用
+*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 
 *   [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
 
@@ -1772,24 +1790,6 @@
 *   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 
 *   [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
-
-## Swift
-
-*   [Dimillian/RetroDiffusionApp](https://github.com/Dimillian/RetroDiffusionApp) - iOS app for https://retrodiffusion.ai/app/devtools
-
-*   [the-ora/browser](https://github.com/the-ora/browser) - Less noise, more browsing.
-
-*   [mocki-toki/barik](https://github.com/mocki-toki/barik) - macOS menu bar replacement, with yabai and AeroSpace support
-
-*   [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
-
-*   [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch) - TheBoringNotch: Not so boring notch That Rocks 🎸🎶
-
-*   [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
-
-*   [evanw/thumbhash](https://github.com/evanw/thumbhash) - A very compact representation of an image placeholder
-
-*   [alexwidua/prototypes](https://github.com/alexwidua/prototypes) - little monorepo of swiftui prototypes
 
 ## Objective-C++
 
