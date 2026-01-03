@@ -3,9 +3,9 @@
 ## Table of Contents
 
 *   [JavaScript](#javascript)
+*   [TypeScript](#typescript)
 *   [Swift](#swift)
 *   [HTML](#html)
-*   [TypeScript](#typescript)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
 *   [Rust](#rust)
@@ -37,6 +37,8 @@
 *   [Jinja](#jinja)
 
 ## JavaScript
+
+*   [cameroncooke/XcodeBuildMCP](https://github.com/cameroncooke/XcodeBuildMCP) - A Model Context Protocol (MCP) server that provides Xcode-related tools for integration with AI assistants and other MCP clients.
 
 *   [expo/testflight](https://github.com/expo/testflight) - Deploy apps directly to TestFlight from the command line using EAS Build and Submit.
 
@@ -236,57 +238,13 @@
 
 *   [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript
 
-*   [smeijer/spin-delay](https://github.com/smeijer/spin-delay) - Smart spinner helper for React, to manage the duration of loading states.
-
-## Swift
-
-*   [sozercan/kaset](https://github.com/sozercan/kaset) - 📻 The missing YouTube Music macOS app
-
-*   [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
-
-*   [launchtodayhq/react-native-keyboard-composer](https://github.com/launchtodayhq/react-native-keyboard-composer) - A native keyboard-aware composer for React Native chat applications.
-
-*   [dinoki-ai/osaurus](https://github.com/dinoki-ai/osaurus) - The missing macOS LLM server. Run local or cloud models with OpenAI & Anthropic compatible APIs. MCP server for Cursor & Claude Desktop, menu bar chat, plugins, and dev tools. Native Apple Silicon.
-
-*   [productdevbook/port-killer](https://github.com/productdevbook/port-killer) - A powerful cross-platform port management tool for developers. Monitor ports, manage Kubernetes port forwards, integrate Cloudflare Tunnels, and kill processes with one click.
-
-*   [KeyboardKit/KeyboardKit](https://github.com/KeyboardKit/KeyboardKit) - Create amazing custom iOS keyboards with Swift & SwiftUI.
-
-*   [Dimillian/RetroDiffusionApp](https://github.com/Dimillian/RetroDiffusionApp) - iOS app for https://retrodiffusion.ai/app/devtools
-
-*   [the-ora/browser](https://github.com/the-ora/browser) - Less noise, more browsing.
-
-*   [mocki-toki/barik](https://github.com/mocki-toki/barik) - macOS menu bar replacement, with yabai and AeroSpace support
-
-*   [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
-
-*   [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch) - TheBoringNotch: Not so boring notch That Rocks 🎸🎶
-
-*   [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
-
-*   [evanw/thumbhash](https://github.com/evanw/thumbhash) - A very compact representation of an image placeholder
-
-*   [alexwidua/prototypes](https://github.com/alexwidua/prototypes) - little monorepo of swiftui prototypes
-
-## HTML
-
-*   [nisrulz/app-privacy-policy-generator](https://github.com/nisrulz/app-privacy-policy-generator) - Generate a customized Privacy Policy and Terms of Use document for your mobile apps
-
-*   [rebane2001/css-clicker](https://github.com/rebane2001/css-clicker) - a pure-CSS idle game where you build your own website
-
-*   [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy) - The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind.
-
-*   [WICG/import-maps](https://github.com/WICG/import-maps) - Former home of import maps (now merged into HTML)
-
-*   [yairEO/tagify](https://github.com/yairEO/tagify) - 🔖 lightweight, efficient Tags input component in Vanilla JS / React / Angular / Vue
-
-*   [microlinkhq/metascraper](https://github.com/microlinkhq/metascraper) - Get unified metadata from websites using Open Graph, Microdata, RDFa, Twitter Cards, JSON-LD, HTML, and more.
-
-*   [LangbaseInc/langui](https://github.com/LangbaseInc/langui) - UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects.
-
-*   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-
 ## TypeScript
+
+*   [sweetpad-dev/sweetpad](https://github.com/sweetpad-dev/sweetpad) - Develop Swift/iOS projects using VSCode
+
+*   [AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn) - Beautiful map components. 100% Free, Zero config, one command setup.
+
+*   [itshover/itshover](https://github.com/itshover/itshover) - Icons that move with intent
 
 *   [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 
@@ -300,9 +258,9 @@
 
 *   [aymericzip/intlayer](https://github.com/aymericzip/intlayer) - Per-component Internationalisation solution for JS application focusing on scalability. Type-Safe. Translate with AI. Edit Visually.
 
-*   [adnxy/rnsec](https://github.com/adnxy/rnsec) - Lightweight Security Scanner for React Native & Expo
+*   [adnxy/rnsec](https://github.com/adnxy/rnsec) - Lightweight & Fast Security Scanner for React Native & Expo
 
-*   [sst/models.dev](https://github.com/sst/models.dev) - An open-source database of AI models.
+*   [anomalyco/models.dev](https://github.com/anomalyco/models.dev) - An open-source database of AI models.
 
 *   [ecrindigital/facetpack](https://github.com/ecrindigital/facetpack) - ⚡ 36x faster Metro transforms for React Native. Rust-powered (OXC). Drop-in Babel replacement.
 
@@ -310,11 +268,11 @@
 
 *   [dolanmiu/docx](https://github.com/dolanmiu/docx) - Easily generate and modify .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser.
 
-*   [Monokai/monoco-react](https://github.com/Monokai/monoco-react) - Custom (suircle) corners and borders for React components
+*   [Monokai/monoco-react](https://github.com/Monokai/monoco-react) - Custom (squircle) corners and borders for React components
 
-*   [Monokai/monoco](https://github.com/Monokai/monoco) - Monoco - custom corners for html elements
+*   [Monokai/monoco](https://github.com/Monokai/monoco) - Custom (squircle) corners and borders for HTML elements
 
-*   [sst/opentui](https://github.com/sst/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
+*   [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
 
 *   [tstyche/tstyche](https://github.com/tstyche/tstyche) - Everything You Need for Type Testing.
 
@@ -696,7 +654,7 @@
 
 *   [sadmann7/tablecn](https://github.com/sadmann7/tablecn) - Shadcn table with server-side sorting, filtering, and pagination.
 
-*   [sst/opencode](https://github.com/sst/opencode) - The open source coding agent.
+*   [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 
 *   [florian-lefebvre/astro-integration-kit](https://github.com/florian-lefebvre/astro-integration-kit) - A package that contains utilities to help you build Astro integrations.
 
@@ -938,11 +896,11 @@
 
 *   [LegendApp/legend-list](https://github.com/LegendApp/legend-list) - A high-performance list component for React Native
 
-*   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
+*   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
 
 *   [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
 
-*   [sst/openauth](https://github.com/sst/openauth) - ▦ Universal, standards-based auth provider.
+*   [anomalyco/openauth](https://github.com/anomalyco/openauth) - ▦ Universal, standards-based auth provider.
 
 *   [rphlmr/drizzle-lab](https://github.com/rphlmr/drizzle-lab) - Play with Drizzle everywhere
 
@@ -1490,7 +1448,7 @@
 
 *   [lukemorales/exhaustive](https://github.com/lukemorales/exhaustive) - Exhaustiveness checking in TypeScript
 
-*   [sst/sst](https://github.com/sst/sst) - Build full-stack apps on your own infrastructure.
+*   [anomalyco/sst](https://github.com/anomalyco/sst) - Build full-stack apps on your own infrastructure.
 
 *   [iamhosseindhv/notistack](https://github.com/iamhosseindhv/notistack) - Highly customizable notification snackbars (toasts) that can be stacked on top of each other
 
@@ -1554,9 +1512,53 @@
 
 *   [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 
-*   [brimdata/react-arborist](https://github.com/brimdata/react-arborist) - The complete tree view component for React
+## Swift
 
-*   [vercel/on-demand-isr](https://github.com/vercel/on-demand-isr) -
+*   [sozercan/kaset](https://github.com/sozercan/kaset) - 📻 The missing YouTube Music macOS app
+
+*   [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
+
+*   [launchtodayhq/react-native-keyboard-composer](https://github.com/launchtodayhq/react-native-keyboard-composer) - A native keyboard-aware composer for React Native chat applications.
+
+*   [dinoki-ai/osaurus](https://github.com/dinoki-ai/osaurus) - The missing macOS LLM server. Run local or cloud models with OpenAI & Anthropic compatible APIs. MCP server for Cursor & Claude Desktop, menu bar chat, plugins, and dev tools. Native Apple Silicon.
+
+*   [productdevbook/port-killer](https://github.com/productdevbook/port-killer) - A powerful cross-platform port management tool for developers. Monitor ports, manage Kubernetes port forwards, integrate Cloudflare Tunnels, and kill processes with one click.
+
+*   [KeyboardKit/KeyboardKit](https://github.com/KeyboardKit/KeyboardKit) - Create amazing custom iOS keyboards with Swift & SwiftUI.
+
+*   [Dimillian/RetroDiffusionApp](https://github.com/Dimillian/RetroDiffusionApp) - iOS app for https://retrodiffusion.ai/app/devtools
+
+*   [the-ora/browser](https://github.com/the-ora/browser) - Less noise, more browsing.
+
+*   [mocki-toki/barik](https://github.com/mocki-toki/barik) - macOS menu bar replacement, with yabai and AeroSpace support
+
+*   [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
+
+*   [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch) - TheBoringNotch: Not so boring notch That Rocks 🎸🎶
+
+*   [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
+
+*   [evanw/thumbhash](https://github.com/evanw/thumbhash) - A very compact representation of an image placeholder
+
+*   [alexwidua/prototypes](https://github.com/alexwidua/prototypes) - little monorepo of swiftui prototypes
+
+## HTML
+
+*   [nisrulz/app-privacy-policy-generator](https://github.com/nisrulz/app-privacy-policy-generator) - Generate a customized Privacy Policy and Terms of Use document for your mobile apps
+
+*   [rebane2001/css-clicker](https://github.com/rebane2001/css-clicker) - a pure-CSS idle game where you build your own website
+
+*   [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy) - The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind.
+
+*   [WICG/import-maps](https://github.com/WICG/import-maps) - Former home of import maps (now merged into HTML)
+
+*   [yairEO/tagify](https://github.com/yairEO/tagify) - 🔖 lightweight, efficient Tags input component in Vanilla JS / React / Angular / Vue
+
+*   [microlinkhq/metascraper](https://github.com/microlinkhq/metascraper) - Get unified metadata from websites using Open Graph, Microdata, RDFa, Twitter Cards, JSON-LD, HTML, and more.
+
+*   [LangbaseInc/langui](https://github.com/LangbaseInc/langui) - UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects.
+
+*   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
 ## Python
 
@@ -1993,8 +1995,6 @@
 *   [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 
 *   [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
-
-*   [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 
 ## Elixir
 

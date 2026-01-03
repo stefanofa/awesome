@@ -2,7 +2,22 @@
 
 ## Table of Contents
 
+*   [mcp](#mcp)
+*   [mcp-server](#mcp-server)
+*   [model-context-protocol](#model-context-protocol)
+*   [model-context-protocol-servers](#model-context-protocol-servers)
+*   [xcode](#xcode)
+*   [xcodebuild](#xcodebuild)
+*   [ios-development](#ios-development)
+*   [ios-swift](#ios-swift)
+*   [vscode-extension](#vscode-extension)
 *   [miscellaneous](#miscellaneous)
+*   [animation](#animation)
+*   [icons](#icons)
+*   [motion](#motion)
+*   [shadcn](#shadcn)
+*   [shadcn-ui](#shadcn-ui)
+*   [svg](#svg)
 *   [apple-music](#apple-music)
 *   [liquid-glass](#liquid-glass)
 *   [macos](#macos)
@@ -51,8 +66,6 @@
 *   [claude-skills](#claude-skills)
 *   [docs](#docs)
 *   [documentation](#documentation)
-*   [mcp](#mcp)
-*   [mcp-server](#mcp-server)
 *   [postgres](#postgres)
 *   [postgresql](#postgresql)
 *   [skills](#skills)
@@ -84,6 +97,9 @@
 *   [node](#node)
 *   [react-native](#react-native)
 *   [vitejs](#vitejs)
+*   [expo](#expo)
+*   [reactnative](#reactnative)
+*   [security](#security)
 *   [containers](#containers)
 *   [devcontainers](#devcontainers)
 *   [c](#c)
@@ -97,7 +113,6 @@
 *   [build-tools](#build-tools)
 *   [bundler](#bundler)
 *   [developer-tools](#developer-tools)
-*   [expo](#expo)
 *   [metro](#metro)
 *   [napi-rs](#napi-rs)
 *   [oxc](#oxc)
@@ -147,6 +162,9 @@
 *   [sensei](#sensei)
 *   [shell](#shell)
 *   [uninstall](#uninstall)
+*   [shape](#shape)
+*   [smooth](#smooth)
+*   [squircle](#squircle)
 *   [tables](#tables)
 *   [expect](#expect)
 *   [test](#test)
@@ -214,7 +232,6 @@
 *   [better-auth](#better-auth)
 *   [billing](#billing)
 *   [payments](#payments)
-*   [shadcn-ui](#shadcn-ui)
 *   [subscriptions](#subscriptions)
 *   [subscriptions-and-payments](#subscriptions-and-payments)
 *   [triggerdev](#triggerdev)
@@ -263,11 +280,9 @@
 *   [components](#components)
 *   [design](#design)
 *   [framer-motion](#framer-motion)
-*   [motion](#motion)
 *   [next](#next)
 *   [radix-ui](#radix-ui)
 *   [seraui](#seraui)
-*   [shadcn](#shadcn)
 *   [tailwind](#tailwind)
 *   [tailwindcss](#tailwindcss)
 *   [ui](#ui)
@@ -288,7 +303,6 @@
 *   [online](#online)
 *   [production](#production)
 *   [studio](#studio)
-*   [animation](#animation)
 *   [avoiding-view](#avoiding-view)
 *   [extend-keyboard](#extend-keyboard)
 *   [focused-input](#focused-input)
@@ -545,7 +559,6 @@
 *   [jetbrains](#jetbrains)
 *   [sonnet](#sonnet)
 *   [vscode](#vscode)
-*   [vscode-extension](#vscode-extension)
 *   [effect](#effect)
 *   [examples](#examples)
 *   [tutorial](#tutorial)
@@ -730,7 +743,6 @@
 *   [man-in-the-middle](#man-in-the-middle)
 *   [mitmproxy](#mitmproxy)
 *   [proxy](#proxy)
-*   [security](#security)
 *   [ssl](#ssl)
 *   [tls](#tls)
 *   [client-library](#client-library)
@@ -868,7 +880,6 @@
 *   [dependencies](#dependencies)
 *   [infrastructure](#infrastructure)
 *   [metadata](#metadata)
-*   [squircle](#squircle)
 *   [squircle-button](#squircle-button)
 *   [bilibili](#bilibili)
 *   [douban](#douban)
@@ -949,7 +960,6 @@
 *   [mcp-servers](#mcp-servers)
 *   [mcp-tools](#mcp-tools)
 *   [mcp-ui](#mcp-ui)
-*   [model-context-protocol](#model-context-protocol)
 *   [modelcontextprotocol](#modelcontextprotocol)
 *   [rolldown](#rolldown)
 *   [cli-tool](#cli-tool)
@@ -963,7 +973,6 @@
 *   [html-to-image](#html-to-image)
 *   [html2canvas](#html2canvas)
 *   [modern-screenshot](#modern-screenshot)
-*   [svg](#svg)
 *   [tailwindcss-plugin](#tailwindcss-plugin)
 *   [authentication](#authentication)
 *   [rest-api](#rest-api)
@@ -1133,7 +1142,6 @@
 *   [react-query](#react-query)
 *   [react-query-devtools](#react-query-devtools)
 *   [react-query-external-dev-tools](#react-query-external-dev-tools)
-*   [reactnative](#reactnative)
 *   [reactquery](#reactquery)
 *   [tools](#tools)
 *   [persistence](#persistence)
@@ -1309,7 +1317,6 @@
 *   [swr](#swr)
 *   [vue-query](#vue-query)
 *   [iconify](#iconify)
-*   [icons](#icons)
 *   [unplugin](#unplugin)
 *   [3d-browser](#3d-browser)
 *   [3d-games](#3d-games)
@@ -2708,7 +2715,6 @@
 *   [commitizen](#commitizen)
 *   [commitizen-adapter](#commitizen-adapter)
 *   [semantic-versioning](#semantic-versioning)
-*   [smooth](#smooth)
 *   [smooth-scroll](#smooth-scroll)
 *   [command-palette](#command-palette)
 *   [shortcuts](#shortcuts)
@@ -2952,29 +2958,128 @@
 *   [interview-practice](#interview-practice)
 *   [interview-questions](#interview-questions)
 *   [system](#system)
-*   [spinner](#spinner)
-*   [arborist](#arborist)
-*   [tree](#tree)
-*   [treeview](#treeview)
-*   [treeview-component](#treeview-component)
+
+## mcp
+
+*   [cameroncooke/XcodeBuildMCP](https://github.com/cameroncooke/XcodeBuildMCP) - A Model Context Protocol (MCP) server that provides Xcode-related tools for integration with AI assistants and other MCP clients.
+
+*   [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
+
+*   [dinoki-ai/osaurus](https://github.com/dinoki-ai/osaurus) - The missing macOS LLM server. Run local or cloud models with OpenAI & Anthropic compatible APIs. MCP server for Cursor & Claude Desktop, menu bar chat, plugins, and dev tools. Native Apple Silicon.
+
+*   [remorses/playwriter](https://github.com/remorses/playwriter) - The better playwright MCP: works as a browser extension. No context bloat. More capable.
+
+*   [yusufkaraaslan/Skill\_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
+
+*   [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
+
+*   [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
+
+*   [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
+
+*   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+
+*   [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
+
+*   [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - Open Source TypeScript AI Agent Framework with built-in LLM Observability
+
+*   [basementstudio/xmcp](https://github.com/basementstudio/xmcp) - The TypeScript MCP framework
+
+*   [haydenbleasel/ultracite](https://github.com/haydenbleasel/ultracite) - A highly opinionated, zero-configuration linter and formatter.
+
+*   [mariocandela/beelzebub](https://github.com/mariocandela/beelzebub) - A secure low code honeypot framework, leveraging AI for System Virtualization.
+
+*   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
+
+*   [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
+
+*   [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
+
+*   [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+
+*   [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with AI, MCP, and shadcn/ui
+
+*   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.
+
+## mcp-server
+
+*   [cameroncooke/XcodeBuildMCP](https://github.com/cameroncooke/XcodeBuildMCP) - A Model Context Protocol (MCP) server that provides Xcode-related tools for integration with AI assistants and other MCP clients.
+
+*   [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
+
+*   [dinoki-ai/osaurus](https://github.com/dinoki-ai/osaurus) - The missing macOS LLM server. Run local or cloud models with OpenAI & Anthropic compatible APIs. MCP server for Cursor & Claude Desktop, menu bar chat, plugins, and dev tools. Native Apple Silicon.
+
+*   [yusufkaraaslan/Skill\_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
+
+*   [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
+
+*   [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
+
+*   [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
+
+*   [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
+
+*   [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
+
+*   [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+
+## model-context-protocol
+
+*   [cameroncooke/XcodeBuildMCP](https://github.com/cameroncooke/XcodeBuildMCP) - A Model Context Protocol (MCP) server that provides Xcode-related tools for integration with AI assistants and other MCP clients.
+
+*   [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
+
+## model-context-protocol-servers
+
+*   [cameroncooke/XcodeBuildMCP](https://github.com/cameroncooke/XcodeBuildMCP) - A Model Context Protocol (MCP) server that provides Xcode-related tools for integration with AI assistants and other MCP clients.
+
+## xcode
+
+*   [cameroncooke/XcodeBuildMCP](https://github.com/cameroncooke/XcodeBuildMCP) - A Model Context Protocol (MCP) server that provides Xcode-related tools for integration with AI assistants and other MCP clients.
+
+## xcodebuild
+
+*   [cameroncooke/XcodeBuildMCP](https://github.com/cameroncooke/XcodeBuildMCP) - A Model Context Protocol (MCP) server that provides Xcode-related tools for integration with AI assistants and other MCP clients.
+
+## ios-development
+
+*   [sweetpad-dev/sweetpad](https://github.com/sweetpad-dev/sweetpad) - Develop Swift/iOS projects using VSCode
+
+## ios-swift
+
+*   [sweetpad-dev/sweetpad](https://github.com/sweetpad-dev/sweetpad) - Develop Swift/iOS projects using VSCode
+
+## vscode-extension
+
+*   [sweetpad-dev/sweetpad](https://github.com/sweetpad-dev/sweetpad) - Develop Swift/iOS projects using VSCode
+
+*   [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter. 750k+ Kilo Coders. 6.1 trillion tokens/month.
+
+*   [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
+
+*   [voideditor/void](https://github.com/voideditor/void) -
+
+*   [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise) - stagewise is the first frontend coding agent for existing production-grade web apps 🪄  -- Lives inside your browser 💻 -- Makes changes in local codebase 🤓 -- Compatible with all kinds of frameworks and setups 💪
+
+*   [rphlmr/drizzle-lab](https://github.com/rphlmr/drizzle-lab) - Play with Drizzle everywhere
+
+*   [lokalise/i18n-ally](https://github.com/lokalise/i18n-ally) - 🌍 All in one i18n extension for VS Code
+
+*   [illixion/vscode-vibrancy-continued](https://github.com/illixion/vscode-vibrancy-continued) - Enable Acrylic/Glass effect for your VS Code.
 
 ## miscellaneous
+
+*   [AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn) - Beautiful map components. 100% Free, Zero config, one command setup.
 
 *   [expo/testflight](https://github.com/expo/testflight) - Deploy apps directly to TestFlight from the command line using EAS Build and Submit.
 
 *   [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 
-*   [adnxy/rnsec](https://github.com/adnxy/rnsec) - Lightweight Security Scanner for React Native & Expo
-
-*   [sst/models.dev](https://github.com/sst/models.dev) - An open-source database of AI models.
+*   [anomalyco/models.dev](https://github.com/anomalyco/models.dev) - An open-source database of AI models.
 
 *   [replicate/hype](https://github.com/replicate/hype) - A feed of trending repos/models from GitHub, Replicate, HuggingFace, and Reddit.
 
-*   [Monokai/monoco-react](https://github.com/Monokai/monoco-react) - Custom (suircle) corners and borders for React components
-
-*   [Monokai/monoco](https://github.com/Monokai/monoco) - Monoco - custom corners for html elements
-
-*   [sst/opentui](https://github.com/sst/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
+*   [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
 
 *   [keycastr/keycastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer
 
@@ -3150,7 +3255,7 @@
 
 *   [unjs/unctx](https://github.com/unjs/unctx) - 🍦 Composables in vanilla JS
 
-*   [sst/opencode](https://github.com/sst/opencode) - The open source coding agent.
+*   [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 
 *   [webtui/webtui](https://github.com/webtui/webtui) -
 
@@ -3270,7 +3375,7 @@
 
 *   [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 
-*   [sst/openauth](https://github.com/sst/openauth) - ▦ Universal, standards-based auth provider.
+*   [anomalyco/openauth](https://github.com/anomalyco/openauth) - ▦ Universal, standards-based auth provider.
 
 *   [Nutlope/llama-ocr](https://github.com/Nutlope/llama-ocr) - Document to Markdown OCR library with Llama 3.2 vision
 
@@ -3410,7 +3515,7 @@
 
 *   [developit/redaxios](https://github.com/developit/redaxios) - The Axios API, as an 800 byte Fetch wrapper.
 
-*   [sst/sst](https://github.com/sst/sst) - Build full-stack apps on your own infrastructure.
+*   [anomalyco/sst](https://github.com/anomalyco/sst) - Build full-stack apps on your own infrastructure.
 
 *   [ProseMirror/prosemirror](https://github.com/ProseMirror/prosemirror) - The ProseMirror WYSIWYM editor
 
@@ -3424,7 +3529,179 @@
 
 *   [asmvik/yabai](https://github.com/asmvik/yabai) - A tiling window manager for macOS based on binary space partitioning
 
-*   [vercel/on-demand-isr](https://github.com/vercel/on-demand-isr) -
+## animation
+
+*   [itshover/itshover](https://github.com/itshover/itshover) - Icons that move with intent
+
+*   [kirillzyusko/react-native-keyboard-controller](https://github.com/kirillzyusko/react-native-keyboard-controller) - ⌨️ Keyboard manager which works in identical way on both iOS and Android
+
+*   [software-mansion/react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) - React Native's Animated library reimplemented
+
+*   [danielpetho/fancy](https://github.com/danielpetho/fancy) -
+
+*   [KevinGrajeda/tailwindcss-spring](https://github.com/KevinGrajeda/tailwindcss-spring) - A plugin for Tailwind CSS that adds spring animations using linear(), define just two parameters and let the plugin do the rest.
+
+*   [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
+
+*   [barvian/number-flow](https://github.com/barvian/number-flow) - An animated number component for React, Vue, Svelte, and TS/JS.
+
+*   [ibelick/motion-primitives](https://github.com/ibelick/motion-primitives) - UI kit to make beautiful, animated interfaces, faster. Customizable. Open Source.
+
+*   [joshuawootonn/react-components-from-scratch](https://github.com/joshuawootonn/react-components-from-scratch) - Accessible and animated components
+
+*   [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) - tailwindcss-motion is a Tailwind CSS Plugin made at RomboHQ. It’s a simple, yet powerful, animation library with a simple syntax.
+
+*   [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
+
+*   [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
+
+*   [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code
+
+## icons
+
+*   [itshover/itshover](https://github.com/itshover/itshover) - Icons that move with intent
+
+*   [unplugin/unplugin-icons](https://github.com/unplugin/unplugin-icons) - 🤹 Access thousands of icons as components on-demand universally.
+
+## motion
+
+*   [itshover/itshover](https://github.com/itshover/itshover) - Icons that move with intent
+
+*   [seraui/seraui](https://github.com/seraui/seraui) - UI component library for React, Next.js, and other JSX frameworks. Built with Tailwind CSS, it makes creating beautiful, interactive and responsive interfaces fast and easy.
+
+*   [keenthemes/reui](https://github.com/keenthemes/reui) - Open-source collection of UI components and animated effects built with React, Typescript, Tailwind CSS, and Motion. Pairs beautifully with shadcn/ui.
+
+*   [imskyleen/animate-ui](https://github.com/imskyleen/animate-ui) - Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.
+
+*   [danielpetho/fancy](https://github.com/danielpetho/fancy) -
+
+*   [ibelick/motion-primitives](https://github.com/ibelick/motion-primitives) - UI kit to make beautiful, animated interfaces, faster. Customizable. Open Source.
+
+*   [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) - tailwindcss-motion is a Tailwind CSS Plugin made at RomboHQ. It’s a simple, yet powerful, animation library with a simple syntax.
+
+## shadcn
+
+*   [itshover/itshover](https://github.com/itshover/itshover) - Icons that move with intent
+
+*   [seraui/seraui](https://github.com/seraui/seraui) - UI component library for React, Next.js, and other JSX frameworks. Built with Tailwind CSS, it makes creating beautiful, interactive and responsive interfaces fast and easy.
+
+*   [SameerJS6/lina](https://github.com/SameerJS6/lina) - Drop-in shadcn/ui ScrollArea replacement (Radix/Base UI) with native touch, adaptive masks, and polished interactions.
+
+*   [ibelick/prompt-kit](https://github.com/ibelick/prompt-kit) - Core building blocks for AI apps.  High-quality, accessible, and customizable components for AI interfaces.
+
+*   [Chainlift/liftkit](https://github.com/Chainlift/liftkit) - Components from design to production
+
+*   [Logging-Studio/RetroUI](https://github.com/Logging-Studio/RetroUI) - A NeoBrutalism styled React + TailwindCSS UI library for building bold, modern web apps.
+
+*   [founded-labs/react-native-reusables](https://github.com/founded-labs/react-native-reusables) - Bringing shadcn/ui to React Native. Beautifully crafted components with Nativewind, open source, and almost as easy to use.
+
+*   [jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn) - A visual no-code theme editor for shadcn/ui components
+
+*   [ekmas/neobrutalism-components](https://github.com/ekmas/neobrutalism-components) - A collection of neobrutalism-styled Tailwind components.
+
+*   [openstatusHQ/data-table-filters](https://github.com/openstatusHQ/data-table-filters) - A playground for tanstack-table
+
+*   [htmujahid/shadcn-editor](https://github.com/htmujahid/shadcn-editor) - Lexical base rich text editor using shadcn/ui components
+
+*   [serafimcloud/21st](https://github.com/serafimcloud/21st) - npm for design engineers: largest marketplace of shadcn/ui-based React Tailwind components, blocks and hooks
+
+*   [cosscom/coss](https://github.com/cosscom/coss) - coss.com is the new holding company of cal.com, the pioneers of open source scheduling infrastructure and cal.com continues to be the 'google search' of our alphabet.
+
+*   [midday-ai/v1](https://github.com/midday-ai/v1) - An open-source starter kit based on Midday.
+
+*   [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui.
+
+*   [mehdibha/dotUI](https://github.com/mehdibha/dotUI) - Build your design system within seconds.
+
+*   [nicoalbanese/kirimase](https://github.com/nicoalbanese/kirimase) - Build full-stack Next.js apps, incredibly fast
+
+*   [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
+
+## shadcn-ui
+
+*   [itshover/itshover](https://github.com/itshover/itshover) - Icons that move with intent
+
+*   [flowglad/flowglad](https://github.com/flowglad/flowglad) - Open source, zero webhooks payment provider
+
+*   [KartikLabhshetwar/stage](https://github.com/KartikLabhshetwar/stage) - Create stunning visual designs with Stage A modern canvas editor that brings your ideas to life. Add images, text, backgrounds, and export your creations in high quality. Built for designers and creators.
+
+*   [elevenlabs/ui](https://github.com/elevenlabs/ui) - ElevenLabs UI is a component library and custom registry built on top of shadcn/ui to help you build multimodal agents faster.
+
+*   [ln-dev7/circle](https://github.com/ln-dev7/circle) - UI - Project management interface inspired by Linear. Built with Next.js and shadcn/ui, this application allows tracking of issues, projects and teams.
+
+*   [shadcnblocks/kibo](https://github.com/shadcnblocks/kibo) - A custom registry of composable, accessible and extensible components designed for use with shadcn/ui. Free and open source, forever.
+
+*   [vercel/ai-elements](https://github.com/vercel/ai-elements) - AI Elements is a component library and custom registry built on top of shadcn/ui to help you build AI-native applications faster.
+
+*   [SameerJS6/lina](https://github.com/SameerJS6/lina) - Drop-in shadcn/ui ScrollArea replacement (Radix/Base UI) with native touch, adaptive masks, and polished interactions.
+
+*   [ibelick/prompt-kit](https://github.com/ibelick/prompt-kit) - Core building blocks for AI apps.  High-quality, accessible, and customizable components for AI interfaces.
+
+*   [AmanVarshney01/create-better-t-stack](https://github.com/AmanVarshney01/create-better-t-stack) - A modern CLI tool for scaffolding end-to-end type-safe TypeScript projects with best practices and customizable configurations
+
+*   [ibelick/zola](https://github.com/ibelick/zola) - Open chat interface for all your models.
+
+*   [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered search engine with a generative UI
+
+*   [sadmann7/tablecn](https://github.com/sadmann7/tablecn) - Shadcn table with server-side sorting, filtering, and pagination.
+
+*   [imskyleen/animate-ui](https://github.com/imskyleen/animate-ui) - Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.
+
+*   [founded-labs/react-native-reusables](https://github.com/founded-labs/react-native-reusables) - Bringing shadcn/ui to React Native. Beautifully crafted components with Nativewind, open source, and almost as easy to use.
+
+*   [jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn) - A visual no-code theme editor for shadcn/ui components
+
+*   [lakshaybhushan/vecto3d](https://github.com/lakshaybhushan/vecto3d) - A super simple tool to convert your SVG's to 3D models.
+
+*   [ekmas/neobrutalism-components](https://github.com/ekmas/neobrutalism-components) - A collection of neobrutalism-styled Tailwind components.
+
+*   [nextjs/saas-starter](https://github.com/nextjs/saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
+
+*   [serafimcloud/21st](https://github.com/serafimcloud/21st) - npm for design engineers: largest marketplace of shadcn/ui-based React Tailwind components, blocks and hooks
+
+*   [JaleelB/emblor](https://github.com/JaleelB/emblor) - A fully-featured tag input component built with shadcn/ui
+
+*   [cosscom/coss](https://github.com/cosscom/coss) - coss.com is the new holding company of cal.com, the pioneers of open source scheduling infrastructure and cal.com continues to be the 'google search' of our alphabet.
+
+*   [Codehagen/Prismui](https://github.com/Codehagen/Prismui) - A fully customizable component library built on top of shadcn/ui. Beautiful, accessible, and ready for production.
+
+*   [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui.
+
+*   [damianricobelli/stepperize](https://github.com/damianricobelli/stepperize) - A type safe library for building step-by-steps workflows
+
+*   [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
+
+*   [mehdibha/dotUI](https://github.com/mehdibha/dotUI) - Build your design system within seconds.
+
+*   [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with AI, MCP, and shadcn/ui
+
+*   [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
+
+*   [nicoalbanese/kirimase](https://github.com/nicoalbanese/kirimase) - Build full-stack Next.js apps, incredibly fast
+
+## svg
+
+*   [itshover/itshover](https://github.com/itshover/itshover) - Icons that move with intent
+
+*   [qq15725/modern-screenshot](https://github.com/qq15725/modern-screenshot) - 📸 Quickly generate image from DOM node using HTML5 canvas and SVG.
+
+*   [linebender/resvg](https://github.com/linebender/resvg) - An SVG rendering library.
+
+*   [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
+
+*   [BetterTyped/react-zoom-pan-pinch](https://github.com/BetterTyped/react-zoom-pan-pinch) - 🖼 React library to support easy zoom, pan, pinch on various html dom elements like \<img> and \<div>
+
+*   [fpapado/svg-use](https://github.com/fpapado/svg-use) - Tools and bundler plugins, to ergonomically load SVG files via use\[href]
+
+*   [thx/resvg-js](https://github.com/thx/resvg-js) - A high-performance SVG renderer and toolkit, powered by Rust based resvg and napi-rs.
+
+*   [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
+
+*   [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
+
+*   [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
+
+*   [Yqnn/svg-path-editor](https://github.com/Yqnn/svg-path-editor) - Online editor to create and manipulate SVG paths
 
 ## apple-music
 
@@ -3766,7 +4043,7 @@
 
 *   [sindresorhus/slugify](https://github.com/sindresorhus/slugify) - Slugify a string
 
-*   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
+*   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
 
 *   [paulmillr/chokidar](https://github.com/paulmillr/chokidar) - Minimal and efficient cross-platform file watching library
 
@@ -3990,7 +4267,7 @@
 
 *   [jpudysz/react-native-unistyles](https://github.com/jpudysz/react-native-unistyles) - Level up your React Native StyleSheet
 
-*   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
+*   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
 
 *   [vercel/next-forge](https://github.com/vercel/next-forge) - Production-grade Turborepo template for Next.js apps.
 
@@ -4328,7 +4605,7 @@
 
 *   [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
 
-*   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
+*   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
 
 *   [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
 
@@ -4570,66 +4847,6 @@
 
 *   [codesandbox/sandpack](https://github.com/codesandbox/sandpack) - A component toolkit for creating live-running code editing experiences, using the power of CodeSandbox.
 
-## mcp
-
-*   [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
-
-*   [dinoki-ai/osaurus](https://github.com/dinoki-ai/osaurus) - The missing macOS LLM server. Run local or cloud models with OpenAI & Anthropic compatible APIs. MCP server for Cursor & Claude Desktop, menu bar chat, plugins, and dev tools. Native Apple Silicon.
-
-*   [remorses/playwriter](https://github.com/remorses/playwriter) - The better playwright MCP: works as a browser extension. No context bloat. More capable.
-
-*   [yusufkaraaslan/Skill\_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
-
-*   [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
-
-*   [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
-
-*   [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
-
-*   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-
-*   [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
-
-*   [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - Open Source TypeScript AI Agent Framework with built-in LLM Observability
-
-*   [basementstudio/xmcp](https://github.com/basementstudio/xmcp) - The TypeScript MCP framework
-
-*   [haydenbleasel/ultracite](https://github.com/haydenbleasel/ultracite) - A highly opinionated, zero-configuration linter and formatter.
-
-*   [mariocandela/beelzebub](https://github.com/mariocandela/beelzebub) - A secure low code honeypot framework, leveraging AI for System Virtualization.
-
-*   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
-
-*   [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
-
-*   [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
-
-*   [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-
-*   [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with AI, MCP, and shadcn/ui
-
-*   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.
-
-## mcp-server
-
-*   [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
-
-*   [dinoki-ai/osaurus](https://github.com/dinoki-ai/osaurus) - The missing macOS LLM server. Run local or cloud models with OpenAI & Anthropic compatible APIs. MCP server for Cursor & Claude Desktop, menu bar chat, plugins, and dev tools. Native Apple Silicon.
-
-*   [yusufkaraaslan/Skill\_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
-
-*   [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
-
-*   [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
-
-*   [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
-
-*   [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
-
-*   [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
-
-*   [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-
 ## postgres
 
 *   [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
@@ -4766,7 +4983,7 @@
 
 *   [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech\_balloon: :gem:
 
-*   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
+*   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
 
 *   [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
 
@@ -5172,8 +5389,6 @@
 
 *   [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
 
-*   [smeijer/spin-delay](https://github.com/smeijer/spin-delay) - Smart spinner helper for React, to manage the duration of loading states.
-
 ## i18n
 
 *   [aymericzip/intlayer](https://github.com/aymericzip/intlayer) - Per-component Internationalisation solution for JS application focusing on scalability. Type-Safe. Translate with AI. Edit Visually.
@@ -5302,7 +5517,7 @@
 
 *   [modernweb-dev/web](https://github.com/modernweb-dev/web) - Guides, tools and libraries for modern web development.
 
-*   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
+*   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
 
 *   [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 
@@ -5578,7 +5793,7 @@
 
 *   [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech\_balloon: :gem:
 
-*   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
+*   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
 
 *   [vercel/next-forge](https://github.com/vercel/next-forge) - Production-grade Turborepo template for Next.js apps.
 
@@ -5822,6 +6037,74 @@
 
 *   [vikejs/vike](https://github.com/vikejs/vike) - (Replaces Next.js/Nuxt) 🔨 The composable framework to build advanced applications with stability and flexibility.
 
+## expo
+
+*   [adnxy/rnsec](https://github.com/adnxy/rnsec) - Lightweight & Fast Security Scanner for React Native & Expo
+
+*   [ecrindigital/facetpack](https://github.com/ecrindigital/facetpack) - ⚡ 36x faster Metro transforms for React Native. Rust-powered (OXC). Drop-in Babel replacement.
+
+*   [software-mansion/radon-ide](https://github.com/software-mansion/radon-ide) - VSCode/Cursor extension that turns your editor into a full featured IDE for React Native and Expo.
+
+*   [darkresearch/generative-ui](https://github.com/darkresearch/generative-ui) - Tools and templates for building generative UI applications. Mobile-first, optimized for Expo.
+
+*   [enzomanuelmangano/demos](https://github.com/enzomanuelmangano/demos) - An ongoing collection of React Native animations crafted with Reanimated, Gesture Handler, and Skia.
+
+*   [heroui-inc/heroui-native](https://github.com/heroui-inc/heroui-native) - 📱Beautiful, fast and modern React Native UI library
+
+*   [AmanVarshney01/create-better-t-stack](https://github.com/AmanVarshney01/create-better-t-stack) - A modern CLI tool for scaffolding end-to-end type-safe TypeScript projects with best practices and customizable configurations
+
+*   [TanayK07/expo-react-native-cicd](https://github.com/TanayK07/expo-react-native-cicd) - 🚀 Free alternative to Expo EAS builds! Complete CI/CD pipeline for React Native & Expo apps using GitHub Actions. Save $100s monthly with unlimited builds, automated testing, and flexible deployment options.
+
+*   [roninoss/create-expo-stack](https://github.com/roninoss/create-expo-stack) - CLI tool to initialize a React Native application with Expo. Provides options to include Typescript, file-based routing via Expo Router, configuration based routing via pure React Navigation, styling via Nativewind, Restyle, Unistyles, StyleSheets, or Tamagui, and/or backend as a service such as Firebase and Supabase.
+
+*   [pioner92/react-native-auto-skeleton](https://github.com/pioner92/react-native-auto-skeleton) - 🚀  Automatically generates skeleton based on your existing UI layout without manual configuration.
+
+*   [founded-labs/react-native-reusables](https://github.com/founded-labs/react-native-reusables) - Bringing shadcn/ui to React Native. Beautifully crafted components with Nativewind, open source, and almost as easy to use.
+
+*   [jpudysz/react-native-unistyles](https://github.com/jpudysz/react-native-unistyles) - Level up your React Native StyleSheet
+
+*   [infinitered/ignite](https://github.com/infinitered/ignite) - Infinite Red's battle-tested React Native project boilerplate, along with a CLI, component/model generators, and more! 9 years of continuous development and counting.
+
+## reactnative
+
+*   [adnxy/rnsec](https://github.com/adnxy/rnsec) - Lightweight & Fast Security Scanner for React Native & Expo
+
+*   [LovesWorking/rn-better-dev-tools](https://github.com/LovesWorking/rn-better-dev-tools) - Beautiful macOS app for debugging React Query in ANY React-based application (Mobile, Web, TV, VR). Monitor queries across devices in real-time with a gorgeous native interface. Features device management, query visualization, state simulation, and automatic production safety. Works with React Native, Web, Next.js, Expo, and any JS based platform
+
+*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
+
+## security
+
+*   [adnxy/rnsec](https://github.com/adnxy/rnsec) - Lightweight & Fast Security Scanner for React Native & Expo
+
+*   [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
+
+*   [luisfer/ubon](https://github.com/luisfer/ubon) - Peace of mind for vibe-coded apps
+
+*   [arcjet/arcjet-js](https://github.com/arcjet/arcjet-js) - Arcjet JS SDKs. Bot detection, rate limiting, email validation, attack protection, data redaction for Node.js, Next.js, Deno, Bun, Remix, SvelteKit, NestJS.
+
+*   [mariocandela/beelzebub](https://github.com/mariocandela/beelzebub) - A secure low code honeypot framework, leveraging AI for System Virtualization.
+
+*   [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
+
+*   [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+
+*   [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
+
+*   [trezy/next-safe](https://github.com/trezy/next-safe) -
+
+*   [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
+
+*   [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
+
+*   [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️  – Pull Requests welcome!
+
+*   [sandworm-hq/sandworm-audit](https://github.com/sandworm-hq/sandworm-audit) - Security & License Compliance For Your App's Dependencies 🪱
+
+*   [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
+
+*   [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+
 ## containers
 
 *   [devcontainers/spec](https://github.com/devcontainers/spec) - Development Containers: Use a container as a full-featured development environment.
@@ -6035,32 +6318,6 @@
 *   [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 
 *   [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
-
-## expo
-
-*   [ecrindigital/facetpack](https://github.com/ecrindigital/facetpack) - ⚡ 36x faster Metro transforms for React Native. Rust-powered (OXC). Drop-in Babel replacement.
-
-*   [software-mansion/radon-ide](https://github.com/software-mansion/radon-ide) - VSCode/Cursor extension that turns your editor into a full featured IDE for React Native and Expo.
-
-*   [darkresearch/generative-ui](https://github.com/darkresearch/generative-ui) - Tools and templates for building generative UI applications. Mobile-first, optimized for Expo.
-
-*   [enzomanuelmangano/demos](https://github.com/enzomanuelmangano/demos) - An ongoing collection of React Native animations crafted with Reanimated, Gesture Handler, and Skia.
-
-*   [heroui-inc/heroui-native](https://github.com/heroui-inc/heroui-native) - 📱Beautiful, fast and modern React Native UI library
-
-*   [AmanVarshney01/create-better-t-stack](https://github.com/AmanVarshney01/create-better-t-stack) - A modern CLI tool for scaffolding end-to-end type-safe TypeScript projects with best practices and customizable configurations
-
-*   [TanayK07/expo-react-native-cicd](https://github.com/TanayK07/expo-react-native-cicd) - 🚀 Free alternative to Expo EAS builds! Complete CI/CD pipeline for React Native & Expo apps using GitHub Actions. Save $100s monthly with unlimited builds, automated testing, and flexible deployment options.
-
-*   [roninoss/create-expo-stack](https://github.com/roninoss/create-expo-stack) - CLI tool to initialize a React Native application with Expo. Provides options to include Typescript, file-based routing via Expo Router, configuration based routing via pure React Navigation, styling via Nativewind, Restyle, Unistyles, StyleSheets, or Tamagui, and/or backend as a service such as Firebase and Supabase.
-
-*   [pioner92/react-native-auto-skeleton](https://github.com/pioner92/react-native-auto-skeleton) - 🚀  Automatically generates skeleton based on your existing UI layout without manual configuration.
-
-*   [founded-labs/react-native-reusables](https://github.com/founded-labs/react-native-reusables) - Bringing shadcn/ui to React Native. Beautifully crafted components with Nativewind, open source, and almost as easy to use.
-
-*   [jpudysz/react-native-unistyles](https://github.com/jpudysz/react-native-unistyles) - Level up your React Native StyleSheet
-
-*   [infinitered/ignite](https://github.com/infinitered/ignite) - Infinite Red's battle-tested React Native project boilerplate, along with a CLI, component/model generators, and more! 9 years of continuous development and counting.
 
 ## metro
 
@@ -6311,6 +6568,8 @@
 ## react
 
 *   [dolanmiu/docx](https://github.com/dolanmiu/docx) - Easily generate and modify .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser.
+
+*   [Monokai/monoco-react](https://github.com/Monokai/monoco-react) - Custom (squircle) corners and borders for React components
 
 *   [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation) - Routing and navigation for React Native and Web apps
 
@@ -6682,10 +6941,6 @@
 
 *   [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 
-*   [smeijer/spin-delay](https://github.com/smeijer/spin-delay) - Smart spinner helper for React, to manage the duration of loading states.
-
-*   [brimdata/react-arborist](https://github.com/brimdata/react-arborist) - The complete tree view component for React
-
 ## vuejs
 
 *   [dolanmiu/docx](https://github.com/dolanmiu/docx) - Easily generate and modify .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser.
@@ -6767,8 +7022,6 @@
 *   [six-ddc/plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool that includes a real-time web UI and terminal display
 
 *   [sanity-io/sanity](https://github.com/sanity-io/sanity) - Sanity Studio – Rapidly configure content workspaces powered by structured content
-
-*   [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 
 ## serverless
 
@@ -6895,6 +7148,30 @@
 ## uninstall
 
 *   [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
+
+## shape
+
+*   [Monokai/monoco-react](https://github.com/Monokai/monoco-react) - Custom (squircle) corners and borders for React components
+
+*   [Monokai/monoco](https://github.com/Monokai/monoco) - Custom (squircle) corners and borders for HTML elements
+
+## smooth
+
+*   [Monokai/monoco-react](https://github.com/Monokai/monoco-react) - Custom (squircle) corners and borders for React components
+
+*   [Monokai/monoco](https://github.com/Monokai/monoco) - Custom (squircle) corners and borders for HTML elements
+
+*   [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - Smooth scroll at it should be
+
+## squircle
+
+*   [Monokai/monoco-react](https://github.com/Monokai/monoco-react) - Custom (squircle) corners and borders for React components
+
+*   [Monokai/monoco](https://github.com/Monokai/monoco) - Custom (squircle) corners and borders for HTML elements
+
+*   [phamfoo/figma-squircle](https://github.com/phamfoo/figma-squircle) - Figma-flavored squircles for everyone
+
+*   [bring-shrubbery/squircle-js](https://github.com/bring-shrubbery/squircle-js) - A squircle element for your favourite frontend framework!
 
 ## tables
 
@@ -7086,7 +7363,7 @@
 
 *   [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
 
-*   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
+*   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
 
 *   [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
 
@@ -7578,66 +7855,6 @@
 
 *   [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
 
-## shadcn-ui
-
-*   [flowglad/flowglad](https://github.com/flowglad/flowglad) - Open source, zero webhooks payment provider
-
-*   [KartikLabhshetwar/stage](https://github.com/KartikLabhshetwar/stage) - Create stunning visual designs with Stage A modern canvas editor that brings your ideas to life. Add images, text, backgrounds, and export your creations in high quality. Built for designers and creators.
-
-*   [elevenlabs/ui](https://github.com/elevenlabs/ui) - ElevenLabs UI is a component library and custom registry built on top of shadcn/ui to help you build multimodal agents faster.
-
-*   [ln-dev7/circle](https://github.com/ln-dev7/circle) - UI - Project management interface inspired by Linear. Built with Next.js and shadcn/ui, this application allows tracking of issues, projects and teams.
-
-*   [shadcnblocks/kibo](https://github.com/shadcnblocks/kibo) - A custom registry of composable, accessible and extensible components designed for use with shadcn/ui. Free and open source, forever.
-
-*   [vercel/ai-elements](https://github.com/vercel/ai-elements) - AI Elements is a component library and custom registry built on top of shadcn/ui to help you build AI-native applications faster.
-
-*   [SameerJS6/lina](https://github.com/SameerJS6/lina) - Drop-in shadcn/ui ScrollArea replacement (Radix/Base UI) with native touch, adaptive masks, and polished interactions.
-
-*   [ibelick/prompt-kit](https://github.com/ibelick/prompt-kit) - Core building blocks for AI apps.  High-quality, accessible, and customizable components for AI interfaces.
-
-*   [AmanVarshney01/create-better-t-stack](https://github.com/AmanVarshney01/create-better-t-stack) - A modern CLI tool for scaffolding end-to-end type-safe TypeScript projects with best practices and customizable configurations
-
-*   [ibelick/zola](https://github.com/ibelick/zola) - Open chat interface for all your models.
-
-*   [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered search engine with a generative UI
-
-*   [sadmann7/tablecn](https://github.com/sadmann7/tablecn) - Shadcn table with server-side sorting, filtering, and pagination.
-
-*   [imskyleen/animate-ui](https://github.com/imskyleen/animate-ui) - Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.
-
-*   [founded-labs/react-native-reusables](https://github.com/founded-labs/react-native-reusables) - Bringing shadcn/ui to React Native. Beautifully crafted components with Nativewind, open source, and almost as easy to use.
-
-*   [jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn) - A visual no-code theme editor for shadcn/ui components
-
-*   [lakshaybhushan/vecto3d](https://github.com/lakshaybhushan/vecto3d) - A super simple tool to convert your SVG's to 3D models.
-
-*   [ekmas/neobrutalism-components](https://github.com/ekmas/neobrutalism-components) - A collection of neobrutalism-styled Tailwind components.
-
-*   [nextjs/saas-starter](https://github.com/nextjs/saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
-
-*   [serafimcloud/21st](https://github.com/serafimcloud/21st) - npm for design engineers: largest marketplace of shadcn/ui-based React Tailwind components, blocks and hooks
-
-*   [JaleelB/emblor](https://github.com/JaleelB/emblor) - A fully-featured tag input component built with shadcn/ui
-
-*   [cosscom/coss](https://github.com/cosscom/coss) - coss.com is the new holding company of cal.com, the pioneers of open source scheduling infrastructure and cal.com continues to be the 'google search' of our alphabet.
-
-*   [Codehagen/Prismui](https://github.com/Codehagen/Prismui) - A fully customizable component library built on top of shadcn/ui. Beautiful, accessible, and ready for production.
-
-*   [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui.
-
-*   [damianricobelli/stepperize](https://github.com/damianricobelli/stepperize) - A type safe library for building step-by-steps workflows
-
-*   [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
-
-*   [mehdibha/dotUI](https://github.com/mehdibha/dotUI) - Build your design system within seconds.
-
-*   [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with AI, MCP, and shadcn/ui
-
-*   [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
-
-*   [nicoalbanese/kirimase](https://github.com/nicoalbanese/kirimase) - Build full-stack Next.js apps, incredibly fast
-
 ## subscriptions
 
 *   [flowglad/flowglad](https://github.com/flowglad/flowglad) - Open source, zero webhooks payment provider
@@ -8066,20 +8283,6 @@
 
 *   [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
 
-## motion
-
-*   [seraui/seraui](https://github.com/seraui/seraui) - UI component library for React, Next.js, and other JSX frameworks. Built with Tailwind CSS, it makes creating beautiful, interactive and responsive interfaces fast and easy.
-
-*   [keenthemes/reui](https://github.com/keenthemes/reui) - Open-source collection of UI components and animated effects built with React, Typescript, Tailwind CSS, and Motion. Pairs beautifully with shadcn/ui.
-
-*   [imskyleen/animate-ui](https://github.com/imskyleen/animate-ui) - Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.
-
-*   [danielpetho/fancy](https://github.com/danielpetho/fancy) -
-
-*   [ibelick/motion-primitives](https://github.com/ibelick/motion-primitives) - UI kit to make beautiful, animated interfaces, faster. Customizable. Open Source.
-
-*   [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) - tailwindcss-motion is a Tailwind CSS Plugin made at RomboHQ. It’s a simple, yet powerful, animation library with a simple syntax.
-
 ## next
 
 *   [seraui/seraui](https://github.com/seraui/seraui) - UI component library for React, Next.js, and other JSX frameworks. Built with Tailwind CSS, it makes creating beautiful, interactive and responsive interfaces fast and easy.
@@ -8115,42 +8318,6 @@
 ## seraui
 
 *   [seraui/seraui](https://github.com/seraui/seraui) - UI component library for React, Next.js, and other JSX frameworks. Built with Tailwind CSS, it makes creating beautiful, interactive and responsive interfaces fast and easy.
-
-## shadcn
-
-*   [seraui/seraui](https://github.com/seraui/seraui) - UI component library for React, Next.js, and other JSX frameworks. Built with Tailwind CSS, it makes creating beautiful, interactive and responsive interfaces fast and easy.
-
-*   [SameerJS6/lina](https://github.com/SameerJS6/lina) - Drop-in shadcn/ui ScrollArea replacement (Radix/Base UI) with native touch, adaptive masks, and polished interactions.
-
-*   [ibelick/prompt-kit](https://github.com/ibelick/prompt-kit) - Core building blocks for AI apps.  High-quality, accessible, and customizable components for AI interfaces.
-
-*   [Chainlift/liftkit](https://github.com/Chainlift/liftkit) - Components from design to production
-
-*   [Logging-Studio/RetroUI](https://github.com/Logging-Studio/RetroUI) - A NeoBrutalism styled React + TailwindCSS UI library for building bold, modern web apps.
-
-*   [founded-labs/react-native-reusables](https://github.com/founded-labs/react-native-reusables) - Bringing shadcn/ui to React Native. Beautifully crafted components with Nativewind, open source, and almost as easy to use.
-
-*   [jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn) - A visual no-code theme editor for shadcn/ui components
-
-*   [ekmas/neobrutalism-components](https://github.com/ekmas/neobrutalism-components) - A collection of neobrutalism-styled Tailwind components.
-
-*   [openstatusHQ/data-table-filters](https://github.com/openstatusHQ/data-table-filters) - A playground for tanstack-table
-
-*   [htmujahid/shadcn-editor](https://github.com/htmujahid/shadcn-editor) - Lexical base rich text editor using shadcn/ui components
-
-*   [serafimcloud/21st](https://github.com/serafimcloud/21st) - npm for design engineers: largest marketplace of shadcn/ui-based React Tailwind components, blocks and hooks
-
-*   [cosscom/coss](https://github.com/cosscom/coss) - coss.com is the new holding company of cal.com, the pioneers of open source scheduling infrastructure and cal.com continues to be the 'google search' of our alphabet.
-
-*   [midday-ai/v1](https://github.com/midday-ai/v1) - An open-source starter kit based on Midday.
-
-*   [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui.
-
-*   [mehdibha/dotUI](https://github.com/mehdibha/dotUI) - Build your design system within seconds.
-
-*   [nicoalbanese/kirimase](https://github.com/nicoalbanese/kirimase) - Build full-stack Next.js apps, incredibly fast
-
-*   [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 
 ## tailwind
 
@@ -8494,32 +8661,6 @@
 
 *   [andremichelle/openDAW](https://github.com/andremichelle/openDAW) - openDAW is a next-generation web-based Digital Audio Workstation (DAW)
 
-## animation
-
-*   [kirillzyusko/react-native-keyboard-controller](https://github.com/kirillzyusko/react-native-keyboard-controller) - ⌨️ Keyboard manager which works in identical way on both iOS and Android
-
-*   [software-mansion/react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) - React Native's Animated library reimplemented
-
-*   [danielpetho/fancy](https://github.com/danielpetho/fancy) -
-
-*   [KevinGrajeda/tailwindcss-spring](https://github.com/KevinGrajeda/tailwindcss-spring) - A plugin for Tailwind CSS that adds spring animations using linear(), define just two parameters and let the plugin do the rest.
-
-*   [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
-
-*   [barvian/number-flow](https://github.com/barvian/number-flow) - An animated number component for React, Vue, Svelte, and TS/JS.
-
-*   [ibelick/motion-primitives](https://github.com/ibelick/motion-primitives) - UI kit to make beautiful, animated interfaces, faster. Customizable. Open Source.
-
-*   [joshuawootonn/react-components-from-scratch](https://github.com/joshuawootonn/react-components-from-scratch) - Accessible and animated components
-
-*   [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) - tailwindcss-motion is a Tailwind CSS Plugin made at RomboHQ. It’s a simple, yet powerful, animation library with a simple syntax.
-
-*   [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
-
-*   [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
-
-*   [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code
-
 ## avoiding-view
 
 *   [kirillzyusko/react-native-keyboard-controller](https://github.com/kirillzyusko/react-native-keyboard-controller) - ⌨️ Keyboard manager which works in identical way on both iOS and Android
@@ -8608,7 +8749,7 @@
 
 *   [callstackincubator/flows-ai](https://github.com/callstackincubator/flows-ai) - Run AI workflows with TypeScript & Vercel AI SDK
 
-*   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
+*   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
 
 *   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic Frontend 🪁
 
@@ -8624,7 +8765,7 @@
 
 *   [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
 
-*   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
+*   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
 
 *   [inngest/inngest](https://github.com/inngest/inngest) - The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge.
 
@@ -10476,22 +10617,6 @@
 
 *   [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 
-## vscode-extension
-
-*   [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter. 750k+ Kilo Coders. 6.1 trillion tokens/month.
-
-*   [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
-
-*   [voideditor/void](https://github.com/voideditor/void) -
-
-*   [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise) - stagewise is the first frontend coding agent for existing production-grade web apps 🪄  -- Lives inside your browser 💻 -- Makes changes in local codebase 🤓 -- Compatible with all kinds of frameworks and setups 💪
-
-*   [rphlmr/drizzle-lab](https://github.com/rphlmr/drizzle-lab) - Play with Drizzle everywhere
-
-*   [lokalise/i18n-ally](https://github.com/lokalise/i18n-ally) - 🌍 All in one i18n extension for VS Code
-
-*   [illixion/vscode-vibrancy-continued](https://github.com/illixion/vscode-vibrancy-continued) - Enable Acrylic/Glass effect for your VS Code.
-
 ## effect
 
 *   [kitlangton/visual-effect](https://github.com/kitlangton/visual-effect) - Interactive Effect Visualizations
@@ -10989,8 +11114,6 @@
 *   [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 
 *   [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
-
-*   [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 
 ## hnsw
 
@@ -11568,7 +11691,7 @@
 
 *   [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - Open Source TypeScript AI Agent Framework with built-in LLM Observability
 
-*   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
+*   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
 
 ## vocoder
 
@@ -11753,36 +11876,6 @@
 *   [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - The best-in-class HTTP Debugger for macOS. Capture HTTP/HTTPS from macOS, iOS, Android with a few clicks ✅
 
 *   [pmndrs/valtio](https://github.com/pmndrs/valtio) - 🧙 Valtio makes proxy-state simple  for React and Vanilla
-
-## security
-
-*   [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
-
-*   [luisfer/ubon](https://github.com/luisfer/ubon) - Peace of mind for vibe-coded apps
-
-*   [arcjet/arcjet-js](https://github.com/arcjet/arcjet-js) - Arcjet JS SDKs. Bot detection, rate limiting, email validation, attack protection, data redaction for Node.js, Next.js, Deno, Bun, Remix, SvelteKit, NestJS.
-
-*   [mariocandela/beelzebub](https://github.com/mariocandela/beelzebub) - A secure low code honeypot framework, leveraging AI for System Virtualization.
-
-*   [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
-
-*   [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-
-*   [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
-
-*   [trezy/next-safe](https://github.com/trezy/next-safe) -
-
-*   [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
-
-*   [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
-
-*   [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️  – Pull Requests welcome!
-
-*   [sandworm-hq/sandworm-audit](https://github.com/sandworm-hq/sandworm-audit) - Security & License Compliance For Your App's Dependencies 🪱
-
-*   [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
-
-*   [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 
 ## ssl
 
@@ -12620,12 +12713,6 @@
 
 *   [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 
-## squircle
-
-*   [phamfoo/figma-squircle](https://github.com/phamfoo/figma-squircle) - Figma-flavored squircles for everyone
-
-*   [bring-shrubbery/squircle-js](https://github.com/bring-shrubbery/squircle-js) - A squircle element for your favourite frontend framework!
-
 ## squircle-button
 
 *   [bring-shrubbery/squircle-js](https://github.com/bring-shrubbery/squircle-js) - A squircle element for your favourite frontend framework!
@@ -13066,10 +13153,6 @@
 
 *   [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
 
-## model-context-protocol
-
-*   [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
-
 ## modelcontextprotocol
 
 *   [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
@@ -13138,28 +13221,6 @@
 
 *   [qq15725/modern-screenshot](https://github.com/qq15725/modern-screenshot) - 📸 Quickly generate image from DOM node using HTML5 canvas and SVG.
 
-## svg
-
-*   [qq15725/modern-screenshot](https://github.com/qq15725/modern-screenshot) - 📸 Quickly generate image from DOM node using HTML5 canvas and SVG.
-
-*   [linebender/resvg](https://github.com/linebender/resvg) - An SVG rendering library.
-
-*   [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
-
-*   [BetterTyped/react-zoom-pan-pinch](https://github.com/BetterTyped/react-zoom-pan-pinch) - 🖼 React library to support easy zoom, pan, pinch on various html dom elements like \<img> and \<div>
-
-*   [fpapado/svg-use](https://github.com/fpapado/svg-use) - Tools and bundler plugins, to ergonomically load SVG files via use\[href]
-
-*   [thx/resvg-js](https://github.com/thx/resvg-js) - A high-performance SVG renderer and toolkit, powered by Rust based resvg and napi-rs.
-
-*   [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
-
-*   [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
-
-*   [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
-
-*   [Yqnn/svg-path-editor](https://github.com/Yqnn/svg-path-editor) - Online editor to create and manipulate SVG paths
-
 ## tailwindcss-plugin
 
 *   [toolwind/signals](https://github.com/toolwind/signals) - Signals for Tailwind CSS simplifies styling based on ancestor state via style queries. Its declarative API for signaling states eliminates complex selectors, resulting in cleaner, more maintainable code.
@@ -13185,8 +13246,6 @@
 *   [smakosh/roll-your-own-auth](https://github.com/smakosh/roll-your-own-auth) - Copy & paste code to roll your own auth easily and for free
 
 *   [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven.
-
-*   [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 
 ## rest-api
 
@@ -13512,7 +13571,7 @@
 
 *   [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - Open Source TypeScript AI Agent Framework with built-in LLM Observability
 
-*   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
+*   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
 
 ## llm-observability
 
@@ -14215,12 +14274,6 @@
 ## react-query-external-dev-tools
 
 *   [LovesWorking/rn-better-dev-tools](https://github.com/LovesWorking/rn-better-dev-tools) - Beautiful macOS app for debugging React Query in ANY React-based application (Mobile, Web, TV, VR). Monitor queries across devices in real-time with a gorgeous native interface. Features device management, query visualization, state simulation, and automatic production safety. Works with React Native, Web, Next.js, Expo, and any JS based platform
-
-## reactnative
-
-*   [LovesWorking/rn-better-dev-tools](https://github.com/LovesWorking/rn-better-dev-tools) - Beautiful macOS app for debugging React Query in ANY React-based application (Mobile, Web, TV, VR). Monitor queries across devices in real-time with a gorgeous native interface. Features device management, query visualization, state simulation, and automatic production safety. Works with React Native, Web, Next.js, Expo, and any JS based platform
-
-*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
 
 ## reactquery
 
@@ -15065,10 +15118,6 @@
 *   [klis87/normy](https://github.com/klis87/normy) - Automatic normalization and data updates for data fetching libraries (react-query, vue-query, trpc, swr, rtk-query and more)
 
 ## iconify
-
-*   [unplugin/unplugin-icons](https://github.com/unplugin/unplugin-icons) - 🤹 Access thousands of icons as components on-demand universally.
-
-## icons
 
 *   [unplugin/unplugin-icons](https://github.com/unplugin/unplugin-icons) - 🤹 Access thousands of icons as components on-demand universally.
 
@@ -16114,7 +16163,7 @@
 
 *   [mattpocock/evalite](https://github.com/mattpocock/evalite) - Evaluate your LLM-powered apps with TypeScript
 
-*   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
+*   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
 
 ## prettier
 
@@ -16187,8 +16236,6 @@
 *   [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
 
 *   [FrigadeHQ/remote-storage](https://github.com/FrigadeHQ/remote-storage) - remoteStorage is a simple library that combines the localStorage API with a remote server to persist data across sessions, devices, and browsers. It works as a simple key value database store and backend with support for React, Next.js, Vue, Node, or any Javascript stack
-
-*   [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 
 ## backend-as-a-service
 
@@ -21562,10 +21609,6 @@
 
 *   [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
 
-## smooth
-
-*   [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - Smooth scroll at it should be
-
 ## smooth-scroll
 
 *   [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - Smooth scroll at it should be
@@ -22545,23 +22588,3 @@
 ## system
 
 *   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-
-## spinner
-
-*   [smeijer/spin-delay](https://github.com/smeijer/spin-delay) - Smart spinner helper for React, to manage the duration of loading states.
-
-## arborist
-
-*   [brimdata/react-arborist](https://github.com/brimdata/react-arborist) - The complete tree view component for React
-
-## tree
-
-*   [brimdata/react-arborist](https://github.com/brimdata/react-arborist) - The complete tree view component for React
-
-## treeview
-
-*   [brimdata/react-arborist](https://github.com/brimdata/react-arborist) - The complete tree view component for React
-
-## treeview-component
-
-*   [brimdata/react-arborist](https://github.com/brimdata/react-arborist) - The complete tree view component for React
