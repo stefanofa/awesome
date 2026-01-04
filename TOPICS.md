@@ -2958,6 +2958,7 @@
 *   [interview-practice](#interview-practice)
 *   [interview-questions](#interview-questions)
 *   [system](#system)
+*   [spinner](#spinner)
 
 ## mcp
 
@@ -3104,8 +3105,6 @@
 *   [marcellosso/better-auth-localization](https://github.com/marcellosso/better-auth-localization) - A localization plugin for Better Auth that automatically translates error messages.
 
 *   [Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image) -
-
-*   [best-trading-indicator-tools/stoppr-public](https://github.com/best-trading-indicator-tools/stoppr-public) - STOPPR PUBLIC
 
 *   [brunosimon/folio-2025](https://github.com/brunosimon/folio-2025) -
 
@@ -5389,6 +5388,8 @@
 
 *   [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
 
+*   [smeijer/spin-delay](https://github.com/smeijer/spin-delay) - Smart spinner helper for React, to manage the duration of loading states.
+
 ## i18n
 
 *   [aymericzip/intlayer](https://github.com/aymericzip/intlayer) - Per-component Internationalisation solution for JS application focusing on scalability. Type-Safe. Translate with AI. Edit Visually.
@@ -5397,7 +5398,7 @@
 
 *   [tolgee/tolgee-platform](https://github.com/tolgee/tolgee-platform) - Developer & translator friendly web-based localization platform
 
-*   [opral/inlang](https://github.com/opral/inlang) - lix (change control system) && inlang (globalization ecosystem for software built on lix)
+*   [opral/inlang](https://github.com/opral/inlang) - open file format for localizing software (i18n)
 
 *   [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev) - ⚡ Lingo.dev - open-source, AI-powered i18n toolkit for instant localization with LLMs. Bring your own LLM or use Lingo.dev Localization Engine. Join discord:
 
@@ -5701,7 +5702,7 @@
 
 *   [tolgee/tolgee-platform](https://github.com/tolgee/tolgee-platform) - Developer & translator friendly web-based localization platform
 
-*   [opral/inlang](https://github.com/opral/inlang) - lix (change control system) && inlang (globalization ecosystem for software built on lix)
+*   [opral/inlang](https://github.com/opral/inlang) - open file format for localizing software (i18n)
 
 ## multilingual
 
@@ -5947,7 +5948,7 @@
 
 *   [aymericzip/intlayer](https://github.com/aymericzip/intlayer) - Per-component Internationalisation solution for JS application focusing on scalability. Type-Safe. Translate with AI. Edit Visually.
 
-*   [ecrindigital/facetpack](https://github.com/ecrindigital/facetpack) - ⚡ 36x faster Metro transforms for React Native. Rust-powered (OXC). Drop-in Babel replacement.
+*   [ecrindigital/facetpack](https://github.com/ecrindigital/facetpack) - The missing toolkit for React Native. Rust-powered performance & developer experience.
 
 *   [software-mansion/radon-ide](https://github.com/software-mansion/radon-ide) - VSCode/Cursor extension that turns your editor into a full featured IDE for React Native and Expo.
 
@@ -6041,7 +6042,7 @@
 
 *   [adnxy/rnsec](https://github.com/adnxy/rnsec) - Lightweight & Fast Security Scanner for React Native & Expo
 
-*   [ecrindigital/facetpack](https://github.com/ecrindigital/facetpack) - ⚡ 36x faster Metro transforms for React Native. Rust-powered (OXC). Drop-in Babel replacement.
+*   [ecrindigital/facetpack](https://github.com/ecrindigital/facetpack) - The missing toolkit for React Native. Rust-powered performance & developer experience.
 
 *   [software-mansion/radon-ide](https://github.com/software-mansion/radon-ide) - VSCode/Cursor extension that turns your editor into a full featured IDE for React Native and Expo.
 
@@ -6161,7 +6162,7 @@
 
 *   [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 
-*   [ecrindigital/facetpack](https://github.com/ecrindigital/facetpack) - ⚡ 36x faster Metro transforms for React Native. Rust-powered (OXC). Drop-in Babel replacement.
+*   [ecrindigital/facetpack](https://github.com/ecrindigital/facetpack) - The missing toolkit for React Native. Rust-powered performance & developer experience.
 
 *   [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - Rivet Actors are long-lived, in-memory processes. It's what you reach for when you hit the limitations of HTTP, databases, or queues.
 
@@ -6257,15 +6258,15 @@
 
 ## babel
 
-*   [ecrindigital/facetpack](https://github.com/ecrindigital/facetpack) - ⚡ 36x faster Metro transforms for React Native. Rust-powered (OXC). Drop-in Babel replacement.
+*   [ecrindigital/facetpack](https://github.com/ecrindigital/facetpack) - The missing toolkit for React Native. Rust-powered performance & developer experience.
 
 ## build-tools
 
-*   [ecrindigital/facetpack](https://github.com/ecrindigital/facetpack) - ⚡ 36x faster Metro transforms for React Native. Rust-powered (OXC). Drop-in Babel replacement.
+*   [ecrindigital/facetpack](https://github.com/ecrindigital/facetpack) - The missing toolkit for React Native. Rust-powered performance & developer experience.
 
 ## bundler
 
-*   [ecrindigital/facetpack](https://github.com/ecrindigital/facetpack) - ⚡ 36x faster Metro transforms for React Native. Rust-powered (OXC). Drop-in Babel replacement.
+*   [ecrindigital/facetpack](https://github.com/ecrindigital/facetpack) - The missing toolkit for React Native. Rust-powered performance & developer experience.
 
 *   [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based JavaScript bundler with webpack-compatible API 🦀️
 
@@ -6285,7 +6286,7 @@
 
 ## developer-tools
 
-*   [ecrindigital/facetpack](https://github.com/ecrindigital/facetpack) - ⚡ 36x faster Metro transforms for React Native. Rust-powered (OXC). Drop-in Babel replacement.
+*   [ecrindigital/facetpack](https://github.com/ecrindigital/facetpack) - The missing toolkit for React Native. Rust-powered performance & developer experience.
 
 *   [tstyche/tstyche](https://github.com/tstyche/tstyche) - Everything You Need for Type Testing.
 
@@ -6321,21 +6322,21 @@
 
 ## metro
 
-*   [ecrindigital/facetpack](https://github.com/ecrindigital/facetpack) - ⚡ 36x faster Metro transforms for React Native. Rust-powered (OXC). Drop-in Babel replacement.
+*   [ecrindigital/facetpack](https://github.com/ecrindigital/facetpack) - The missing toolkit for React Native. Rust-powered performance & developer experience.
 
 ## napi-rs
 
-*   [ecrindigital/facetpack](https://github.com/ecrindigital/facetpack) - ⚡ 36x faster Metro transforms for React Native. Rust-powered (OXC). Drop-in Babel replacement.
+*   [ecrindigital/facetpack](https://github.com/ecrindigital/facetpack) - The missing toolkit for React Native. Rust-powered performance & developer experience.
 
 ## oxc
 
-*   [ecrindigital/facetpack](https://github.com/ecrindigital/facetpack) - ⚡ 36x faster Metro transforms for React Native. Rust-powered (OXC). Drop-in Babel replacement.
+*   [ecrindigital/facetpack](https://github.com/ecrindigital/facetpack) - The missing toolkit for React Native. Rust-powered performance & developer experience.
 
 *   [rolldown/tsdown](https://github.com/rolldown/tsdown) - The elegant bundler for libraries powered by Rolldown
 
 ## performance
 
-*   [ecrindigital/facetpack](https://github.com/ecrindigital/facetpack) - ⚡ 36x faster Metro transforms for React Native. Rust-powered (OXC). Drop-in Babel replacement.
+*   [ecrindigital/facetpack](https://github.com/ecrindigital/facetpack) - The missing toolkit for React Native. Rust-powered performance & developer experience.
 
 *   [JoaoPauloCMarra/react-native-nitro-markdown](https://github.com/JoaoPauloCMarra/react-native-nitro-markdown) - High-performance Markdown parser for React Native using Nitro Modules and md4c
 
@@ -6369,7 +6370,7 @@
 
 ## swc
 
-*   [ecrindigital/facetpack](https://github.com/ecrindigital/facetpack) - ⚡ 36x faster Metro transforms for React Native. Rust-powered (OXC). Drop-in Babel replacement.
+*   [ecrindigital/facetpack](https://github.com/ecrindigital/facetpack) - The missing toolkit for React Native. Rust-powered performance & developer experience.
 
 ## config
 
@@ -6940,6 +6941,8 @@
 *   [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 
 *   [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
+
+*   [smeijer/spin-delay](https://github.com/smeijer/spin-delay) - Smart spinner helper for React, to manage the duration of loading states.
 
 ## vuejs
 
@@ -10609,7 +10612,7 @@
 
 *   [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
 
-*   [opral/inlang](https://github.com/opral/inlang) - lix (change control system) && inlang (globalization ecosystem for software built on lix)
+*   [opral/inlang](https://github.com/opral/inlang) - open file format for localizing software (i18n)
 
 *   [lokalise/i18n-ally](https://github.com/lokalise/i18n-ally) - 🌍 All in one i18n extension for VS Code
 
@@ -18613,11 +18616,11 @@
 
 ## globalization
 
-*   [opral/inlang](https://github.com/opral/inlang) - lix (change control system) && inlang (globalization ecosystem for software built on lix)
+*   [opral/inlang](https://github.com/opral/inlang) - open file format for localizing software (i18n)
 
 ## localisation
 
-*   [opral/inlang](https://github.com/opral/inlang) - lix (change control system) && inlang (globalization ecosystem for software built on lix)
+*   [opral/inlang](https://github.com/opral/inlang) - open file format for localizing software (i18n)
 
 ## customizable-components
 
@@ -22588,3 +22591,7 @@
 ## system
 
 *   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+
+## spinner
+
+*   [smeijer/spin-delay](https://github.com/smeijer/spin-delay) - Smart spinner helper for React, to manage the duration of loading states.

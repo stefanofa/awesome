@@ -15,7 +15,6 @@
 *   [C#](#c)
 *   [C](#c-1)
 *   [C++](#c-2)
-*   [Dart](#dart)
 *   [Objective-C++](#objective-c-1)
 *   [Java](#java)
 *   [CSS](#css)
@@ -238,6 +237,8 @@
 
 *   [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript
 
+*   [smeijer/spin-delay](https://github.com/smeijer/spin-delay) - Smart spinner helper for React, to manage the duration of loading states.
+
 ## TypeScript
 
 *   [sweetpad-dev/sweetpad](https://github.com/sweetpad-dev/sweetpad) - Develop Swift/iOS projects using VSCode
@@ -262,7 +263,7 @@
 
 *   [anomalyco/models.dev](https://github.com/anomalyco/models.dev) - An open-source database of AI models.
 
-*   [ecrindigital/facetpack](https://github.com/ecrindigital/facetpack) - ⚡ 36x faster Metro transforms for React Native. Rust-powered (OXC). Drop-in Babel replacement.
+*   [ecrindigital/facetpack](https://github.com/ecrindigital/facetpack) - The missing toolkit for React Native. Rust-powered performance & developer experience.
 
 *   [replicate/hype](https://github.com/replicate/hype) - A feed of trending repos/models from GitHub, Replicate, HuggingFace, and Reddit.
 
@@ -1088,7 +1089,7 @@
 
 *   [vikejs/vike](https://github.com/vikejs/vike) - (Replaces Next.js/Nuxt) 🔨 The composable framework to build advanced applications with stability and flexibility.
 
-*   [opral/inlang](https://github.com/opral/inlang) - lix (change control system) && inlang (globalization ecosystem for software built on lix)
+*   [opral/inlang](https://github.com/opral/inlang) - open file format for localizing software (i18n)
 
 *   [GriffinJohnston/ldrs](https://github.com/GriffinJohnston/ldrs) - Modern, minimalist loaders & spinners. Made with CSS, HTML and SVG. https://uiball.com/ldrs
 
@@ -1885,10 +1886,6 @@
 *   [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 
 *   [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
-
-## Dart
-
-*   [best-trading-indicator-tools/stoppr-public](https://github.com/best-trading-indicator-tools/stoppr-public) - STOPPR PUBLIC
 
 ## Objective-C++
 
