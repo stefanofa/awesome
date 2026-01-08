@@ -2,11 +2,11 @@
 
 ## Table of Contents
 
+*   [Python](#python)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [Swift](#swift)
 *   [HTML](#html)
-*   [Python](#python)
 *   [miscellaneous](#miscellaneous)
 *   [Rust](#rust)
 *   [Svelte](#svelte)
@@ -35,7 +35,105 @@
 *   [Lua](#lua)
 *   [Jinja](#jinja)
 
+## Python
+
+*   [nibzard/awesome-agentic-patterns](https://github.com/nibzard/awesome-agentic-patterns) - A curated catalogue of awesome agentic AI patterns
+
+*   [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
+
+*   [QwenLM/Qwen-Image-Layered](https://github.com/QwenLM/Qwen-Image-Layered) - Qwen-Image-Layered: Layered Decomposition for Inherent Editablity
+
+*   [Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image) -
+
+*   [Alibaba-Quark/LiveAvatar](https://github.com/Alibaba-Quark/LiveAvatar) - Implementation of "Live Avatar: Streaming Real-time Audio-Driven Avatar Generation with Infinite Length"
+
+*   [nari-labs/dia2](https://github.com/nari-labs/dia2) - TTS model capable of streaming conversational audio in realtime.
+
+*   [facebookresearch/sam-3d-objects](https://github.com/facebookresearch/sam-3d-objects) - SAM 3D Objects
+
+*   [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
+
+*   [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
+
+*   [simonw/shot-scraper](https://github.com/simonw/shot-scraper) - A command-line utility for taking automated screenshots of websites
+
+*   [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori) - SQL Native Memory Layer for LLMs, AI Agents & Multi-Agent Systems
+
+*   [yusufkaraaslan/Skill\_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
+
+*   [dedalus-labs/dedalus-sdk-python](https://github.com/dedalus-labs/dedalus-sdk-python) - Official Python SDK for the Dedalus API
+
+*   [datapizza-labs/datapizza-ai](https://github.com/datapizza-labs/datapizza-ai) - Build reliable Gen AI solutions without overhead 🍕
+
+*   [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
+
+*   [undercasetype/Fraunces](https://github.com/undercasetype/Fraunces) - Git Repository for Fraunces Font Family
+
+*   [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - Easy-to-use Speech Toolkit including Self-Supervised Learning model, SOTA/Streaming ASR with punctuation, Streaming TTS with text frontend, Speaker Verification System, End-to-End Speech Translation and Keyword Spotting. Won NAACL2022 Best Demo Award.
+
+*   [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
+
+*   [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
+
+*   [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
+
+*   [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma, TTS 2x faster with 70% less VRAM.
+
+*   [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+
+*   [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS
+
+*   [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
+
+*   [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
+
+*   [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
+
+*   [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) -
+
+*   [google/dotprompt](https://github.com/google/dotprompt) - Executable GenAI prompt templates
+
+*   [bytedance/monolith](https://github.com/bytedance/monolith) - A Lightweight Recommendation System
+
+*   [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) - Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase
+
+*   [polarsource/polar](https://github.com/polarsource/polar) - Turn your software into a business.
+
+*   [TheR1D/shell\_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
+
+*   [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
+
+*   [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
+
+*   [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
+
+*   [hyperknot/openfreemap](https://github.com/hyperknot/openfreemap) - Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data
+
+*   [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
+
+*   [Ackee-Blockchain/wake](https://github.com/Ackee-Blockchain/wake) - Wake is a Python-based Solidity development and fuzz testing framework with built-in vulnerability detectors for building secure Ethereum dApps.
+
+*   [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
+
+*   [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open source feature flagging and remote config service. Self-host or use our hosted version at https://app.flagsmith.com.
+
+*   [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
+
+*   [yadm-dev/yadm](https://github.com/yadm-dev/yadm) - Yet Another Dotfiles Manager
+
+*   [ytisf/theZoo](https://github.com/ytisf/theZoo) - A repository of LIVE malwares for your own joy and pleasure. theZoo is a project created to make the possibility of malware analysis open and available to the public.
+
+*   [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
+
+*   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
+
 ## TypeScript
+
+*   [glifxyz/glif-mcp-server](https://github.com/glifxyz/glif-mcp-server) - Easily run glif.app AI workflows inside your LLM: image generators, memes, selfies, and more. Glif supports all major multimedia AI models inside one app
+
+*   [oktaysenkan/monicon](https://github.com/oktaysenkan/monicon) - Universal Icon Library
+
+*   [software-mansion/react-native-svg](https://github.com/software-mansion/react-native-svg) - SVG library for React Native, React Native Web, and plain React web projects.
 
 *   [10play/10tap-editor](https://github.com/10play/10tap-editor) - React Native Rich Text Editor
 
@@ -835,7 +933,7 @@
 
 *   [zce/velite](https://github.com/zce/velite) - Turns Markdown / MDX, YAML, JSON, or others into app's data layer with Zod schema.
 
-*   [souporserious/renoun](https://github.com/souporserious/renoun) - Query Structured Data from Your Codebase
+*   [souporserious/renoun](https://github.com/souporserious/renoun) - Query and Render Your Codebase
 
 *   [stryker-mutator/stryker-js](https://github.com/stryker-mutator/stryker-js) - Mutation testing for JavaScript and friends
 
@@ -843,7 +941,7 @@
 
 *   [fpapado/svg-use](https://github.com/fpapado/svg-use) - Tools and bundler plugins, to ergonomically load SVG files via use\[href]
 
-*   [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Progressive Web Framework.
+*   [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Full-Stack Vue Framework.
 
 *   [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 
@@ -1163,7 +1261,7 @@
 
 *   [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
 
-*   [finom/vovk](https://github.com/finom/vovk) - 🐺 Structured API Layer for Next.js
+*   [finom/vovk](https://github.com/finom/vovk) - 🐺 Back-end Framework for Next.js App Router
 
 *   [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
 
@@ -1314,8 +1412,6 @@
 *   [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
 
 *   [stevenpetryk/mafs](https://github.com/stevenpetryk/mafs) - React components for interactive math
-
-*   [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 
 ## JavaScript
 
@@ -1511,12 +1607,6 @@
 
 *   [publint/publint](https://github.com/publint/publint) - Lint packaging errors
 
-*   [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-generation full-text search library for Browser and Node.js
-
-*   [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
-
-*   [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript
-
 ## Swift
 
 *   [sozercan/kaset](https://github.com/sozercan/kaset) - 📻 The missing YouTube Music macOS app
@@ -1564,96 +1654,6 @@
 *   [CommandCodeAI/langui](https://github.com/CommandCodeAI/langui) - UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects.
 
 *   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-
-## Python
-
-*   [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
-
-*   [QwenLM/Qwen-Image-Layered](https://github.com/QwenLM/Qwen-Image-Layered) - Qwen-Image-Layered: Layered Decomposition for Inherent Editablity
-
-*   [Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image) -
-
-*   [Alibaba-Quark/LiveAvatar](https://github.com/Alibaba-Quark/LiveAvatar) - Implementation of "Live Avatar: Streaming Real-time Audio-Driven Avatar Generation with Infinite Length"
-
-*   [nari-labs/dia2](https://github.com/nari-labs/dia2) - TTS model capable of streaming conversational audio in realtime.
-
-*   [facebookresearch/sam-3d-objects](https://github.com/facebookresearch/sam-3d-objects) - SAM 3D Objects
-
-*   [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
-
-*   [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
-
-*   [simonw/shot-scraper](https://github.com/simonw/shot-scraper) - A command-line utility for taking automated screenshots of websites
-
-*   [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori) - SQL Native Memory Layer for LLMs, AI Agents & Multi-Agent Systems
-
-*   [yusufkaraaslan/Skill\_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
-
-*   [dedalus-labs/dedalus-sdk-python](https://github.com/dedalus-labs/dedalus-sdk-python) - Official Python SDK for the Dedalus API
-
-*   [datapizza-labs/datapizza-ai](https://github.com/datapizza-labs/datapizza-ai) - Build reliable Gen AI solutions without overhead 🍕
-
-*   [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
-
-*   [undercasetype/Fraunces](https://github.com/undercasetype/Fraunces) - Git Repository for Fraunces Font Family
-
-*   [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - Easy-to-use Speech Toolkit including Self-Supervised Learning model, SOTA/Streaming ASR with punctuation, Streaming TTS with text frontend, Speaker Verification System, End-to-End Speech Translation and Keyword Spotting. Won NAACL2022 Best Demo Award.
-
-*   [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
-
-*   [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
-
-*   [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
-
-*   [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma, TTS 2x faster with 70% less VRAM.
-
-*   [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
-
-*   [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS
-
-*   [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
-
-*   [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
-
-*   [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
-
-*   [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) -
-
-*   [google/dotprompt](https://github.com/google/dotprompt) - Executable GenAI prompt templates
-
-*   [bytedance/monolith](https://github.com/bytedance/monolith) - A Lightweight Recommendation System
-
-*   [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) - Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase
-
-*   [polarsource/polar](https://github.com/polarsource/polar) - Turn your software into a business.
-
-*   [TheR1D/shell\_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
-
-*   [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
-
-*   [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
-
-*   [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
-
-*   [hyperknot/openfreemap](https://github.com/hyperknot/openfreemap) - Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data
-
-*   [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
-
-*   [Ackee-Blockchain/wake](https://github.com/Ackee-Blockchain/wake) - Wake is a Python-based Solidity development and fuzz testing framework with built-in vulnerability detectors for building secure Ethereum dApps.
-
-*   [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
-
-*   [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open source feature flagging and remote config service. Self-host or use our hosted version at https://app.flagsmith.com.
-
-*   [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
-
-*   [yadm-dev/yadm](https://github.com/yadm-dev/yadm) - Yet Another Dotfiles Manager
-
-*   [ytisf/theZoo](https://github.com/ytisf/theZoo) - A repository of LIVE malwares for your own joy and pleasure. theZoo is a project created to make the possibility of malware analysis open and available to the public.
-
-*   [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
-
-*   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 
 ## miscellaneous
 
