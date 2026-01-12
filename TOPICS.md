@@ -3867,7 +3867,7 @@
 
 *   [Shopify/react-native-skia](https://github.com/Shopify/react-native-skia) - High-performance React Native Graphics using Skia
 
-*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
+*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 
 *   [jpudysz/react-native-unistyles](https://github.com/jpudysz/react-native-unistyles) - Level up your React Native StyleSheet
 
@@ -4209,7 +4209,7 @@
 
 *   [typehero/typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers
 
-*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
+*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 
 *   [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech\_balloon: :gem:
 
@@ -4477,7 +4477,7 @@
 
 *   [typehero/typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers
 
-*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
+*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 
 *   [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 
@@ -4841,7 +4841,7 @@
 
 *   [superwall/react-native-superwall](https://github.com/superwall/react-native-superwall) - Remotely configure every aspect of your paywall and double your revenue.
 
-*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
+*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 
 *   [callstack/react-native-bottom-tabs](https://github.com/callstack/react-native-bottom-tabs) - Native Bottom Tabs for React Native
 
@@ -4919,7 +4919,7 @@
 
 *   [superwall/react-native-superwall](https://github.com/superwall/react-native-superwall) - Remotely configure every aspect of your paywall and double your revenue.
 
-*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
+*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 
 *   [callstack/react-native-bottom-tabs](https://github.com/callstack/react-native-bottom-tabs) - Native Bottom Tabs for React Native
 
@@ -5415,7 +5415,7 @@
 
 *   [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 
-*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
+*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 
 *   [mrousavy/nitro](https://github.com/mrousavy/nitro) - 🔥 Insanely fast native C++, Swift or Kotlin modules with a statically compiled binding layer to JSI
 
@@ -6809,7 +6809,7 @@
 
 *   [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 
-*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
+*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 
 *   [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech\_balloon: :gem:
 
@@ -7063,7 +7063,7 @@
 
 *   [Buoy-gg/Buoy-Desktop](https://github.com/Buoy-gg/Buoy-Desktop) - Beautiful macOS app for debugging React Query in ANY React-based application (Mobile, Web, TV, VR). Monitor queries across devices in real-time with a gorgeous native interface. Features device management, query visualization, state simulation, and automatic production safety. Works with React Native, Web, Next.js, Expo, and any JS based platform
 
-*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
+*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 
 ## security
 
@@ -7557,7 +7557,7 @@
 
 *   [arcjet/arcjet-js](https://github.com/arcjet/arcjet-js) - Arcjet JS SDKs. Bot detection, rate limiting, email validation, attack protection, data redaction for Node.js, Next.js, Deno, Bun, Remix, SvelteKit, NestJS.
 
-*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
+*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 
 *   [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 
@@ -10169,7 +10169,7 @@
 
 *   [roninoss/create-expo-stack](https://github.com/roninoss/create-expo-stack) - CLI tool to initialize a React Native application with Expo. Provides options to include Typescript, file-based routing via Expo Router, configuration based routing via pure React Navigation, styling via Nativewind, Restyle, Unistyles, StyleSheets, or Tamagui, and/or backend as a service such as Firebase and Supabase.
 
-*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
+*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 
 ## firestore
 
@@ -10237,7 +10237,7 @@
 
 *   [roninoss/create-expo-stack](https://github.com/roninoss/create-expo-stack) - CLI tool to initialize a React Native application with Expo. Provides options to include Typescript, file-based routing via Expo Router, configuration based routing via pure React Navigation, styling via Nativewind, Restyle, Unistyles, StyleSheets, or Tamagui, and/or backend as a service such as Firebase and Supabase.
 
-*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
+*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 
 *   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
 
@@ -11131,7 +11131,7 @@
 
 *   [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 
-*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
+*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 
 ## google-photos
 
@@ -11177,7 +11177,7 @@
 
 *   [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app
 
-*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
+*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 
 *   [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
 
@@ -11531,7 +11531,7 @@
 
 *   [web-infra-dev/modern.js](https://github.com/web-infra-dev/modern.js) - A progressive web framework based on React and Rsbuild.
 
-*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
+*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 
 *   [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 
@@ -12609,7 +12609,7 @@
 
 *   [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
 
-*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
+*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 
 *   [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 
@@ -13095,7 +13095,7 @@
 
 *   [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 
-*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
+*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 
 *   [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
 
@@ -16359,11 +16359,11 @@
 
 ## appwrite
 
-*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
+*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 
 ## backend
 
-*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
+*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 
 *   [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
 
@@ -16371,11 +16371,11 @@
 
 ## backend-as-a-service
 
-*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
+*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 
 ## hosting
 
-*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
+*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 
 *   [stormkit-io/www-stormkit-io](https://github.com/stormkit-io/www-stormkit-io) - Stormkit is a self-hostable, highly performant and scalable PaaS for modern web applications.
 

@@ -127,8 +127,6 @@
 
 *   [ajayyy/DeArrow](https://github.com/ajayyy/DeArrow) - Crowdsourcing better titles and thumbnails on YouTube
 
-*   [remorses/playwriter](https://github.com/remorses/playwriter) - The better playwright MCP: works as a browser extension. No context bloat. More capable.
-
 *   [dlemstra/magick-wasm](https://github.com/dlemstra/magick-wasm) - The WASM library for ImageMagick
 
 *   [marcellosso/better-auth-localization](https://github.com/marcellosso/better-auth-localization) - A localization plugin for Better Auth that automatically translates error messages.
@@ -685,7 +683,7 @@
 
 *   [bvaughn/react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
 
-*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
+*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 
 *   [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 
@@ -1642,6 +1640,8 @@
 ## HTML
 
 *   [nisrulz/app-privacy-policy-generator](https://github.com/nisrulz/app-privacy-policy-generator) - Generate a customized Privacy Policy and Terms of Use document for your mobile apps
+
+*   [remorses/playwriter](https://github.com/remorses/playwriter) - The better playwright MCP: works as a browser extension. No context bloat. More capable.
 
 *   [rebane2001/css-clicker](https://github.com/rebane2001/css-clicker) - a pure-CSS idle game where you build your own website
 
