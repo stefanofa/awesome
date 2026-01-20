@@ -2,10 +2,10 @@
 
 ## Table of Contents
 
+*   [miscellaneous](#miscellaneous)
 *   [state-management](#state-management)
 *   [ui-state-management](#ui-state-management)
 *   [zero-runtime](#zero-runtime)
-*   [miscellaneous](#miscellaneous)
 *   [ahap](#ahap)
 *   [haptics](#haptics)
 *   [ios](#ios)
@@ -2711,10 +2711,7 @@
 *   [phaser-development](#phaser-development)
 *   [phaserjs](#phaserjs)
 *   [youtube-playables](#youtube-playables)
-*   [controller](#controller)
 *   [decorators](#decorators)
-*   [rpc-framework](#rpc-framework)
-*   [service](#service)
 *   [supports-dot-config](#supports-dot-config)
 *   [http-request](#http-request)
 *   [request](#request)
@@ -2941,37 +2938,9 @@
 *   [octokit](#octokit)
 *   [octokit-js](#octokit-js)
 
-## state-management
-
-*   [react-zero-ui/core](https://github.com/react-zero-ui/core) - Instant global UI state with ZERO re-renders, ZERO runtime, ZERO pain.
-
-*   [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori) - SQL Native Memory Layer for LLMs, AI Agents & Multi-Agent Systems
-
-*   [garden-co/jazz](https://github.com/garden-co/jazz) - A new kind of database that's distributed across your frontend, containers, serverless functions and its own storage cloud.
-
-*   [livestorejs/livestore](https://github.com/livestorejs/livestore) - LiveStore is a next-generation state management framework based on reactive SQLite and built-in sync engine.
-
-*   [effector/effector](https://github.com/effector/effector) - Business logic with ease ☄️
-
-*   [unadlib/mutative](https://github.com/unadlib/mutative) - Efficient immutable updates, 2-6x faster than naive handcrafted reducer, and more than 10x faster than Immer.
-
-*   [47ng/nuqs](https://github.com/47ng/nuqs) - Type-safe search params state manager for React frameworks - Like useState, but stored in the URL query string.
-
-*   [TanStack/store](https://github.com/TanStack/store) - 🤖 Framework agnostic, type-safe store w/ reactive framework adapters
-
-*   [TanStack/router](https://github.com/TanStack/router) - 🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (React and more).
-
-*   [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
-
-## ui-state-management
-
-*   [react-zero-ui/core](https://github.com/react-zero-ui/core) - Instant global UI state with ZERO re-renders, ZERO runtime, ZERO pain.
-
-## zero-runtime
-
-*   [react-zero-ui/core](https://github.com/react-zero-ui/core) - Instant global UI state with ZERO re-renders, ZERO runtime, ZERO pain.
-
 ## miscellaneous
+
+*   [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 
 *   [vercel-labs/add-skill](https://github.com/vercel-labs/add-skill) -
 
@@ -3447,7 +3416,35 @@
 
 *   [arethetypeswrong/arethetypeswrong.github.io](https://github.com/arethetypeswrong/arethetypeswrong.github.io) - Tool for analyzing TypeScript types of npm packages
 
-*   [transmissions11/solmate](https://github.com/transmissions11/solmate) - Modern, opinionated, and gas optimized building blocks for smart contract development.
+## state-management
+
+*   [react-zero-ui/core](https://github.com/react-zero-ui/core) - Instant global UI state with ZERO re-renders, ZERO runtime, ZERO pain.
+
+*   [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori) - SQL Native Memory Layer for LLMs, AI Agents & Multi-Agent Systems
+
+*   [garden-co/jazz](https://github.com/garden-co/jazz) - A new kind of database that's distributed across your frontend, containers, serverless functions and its own storage cloud.
+
+*   [livestorejs/livestore](https://github.com/livestorejs/livestore) - LiveStore is a next-generation state management framework based on reactive SQLite and built-in sync engine.
+
+*   [effector/effector](https://github.com/effector/effector) - Business logic with ease ☄️
+
+*   [unadlib/mutative](https://github.com/unadlib/mutative) - Efficient immutable updates, 2-6x faster than naive handcrafted reducer, and more than 10x faster than Immer.
+
+*   [47ng/nuqs](https://github.com/47ng/nuqs) - Type-safe search params state manager for React frameworks - Like useState, but stored in the URL query string.
+
+*   [TanStack/store](https://github.com/TanStack/store) - 🤖 Framework agnostic, type-safe store w/ reactive framework adapters
+
+*   [TanStack/router](https://github.com/TanStack/router) - 🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (React and more).
+
+*   [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
+
+## ui-state-management
+
+*   [react-zero-ui/core](https://github.com/react-zero-ui/core) - Instant global UI state with ZERO re-renders, ZERO runtime, ZERO pain.
+
+## zero-runtime
+
+*   [react-zero-ui/core](https://github.com/react-zero-ui/core) - Instant global UI state with ZERO re-renders, ZERO runtime, ZERO pain.
 
 ## ahap
 
@@ -4227,7 +4224,7 @@
 
 *   [KartikLabhshetwar/stage](https://github.com/KartikLabhshetwar/stage) - Create stunning visual designs with Stage A modern canvas editor that brings your ideas to life. Add images, text, backgrounds, and export your creations in high quality. Built for designers and creators.
 
-*   [generaltranslation/gt](https://github.com/generaltranslation/gt) - ⚛️ Automatic localization for devs 🌐
+*   [generaltranslation/gt](https://github.com/generaltranslation/gt) - Automated i18n for developers
 
 *   [cossistantcom/cossistant](https://github.com/cossistantcom/cossistant) - Open-source, AI-native support system with fully customizable AI support agents — for developers shipping fast, beautiful SaaS.
 
@@ -4427,7 +4424,7 @@
 
 *   [thebuilder/react-intersection-observer](https://github.com/thebuilder/react-intersection-observer) - React implementation of the Intersection Observer API to tell you when an element enters or leaves the viewport.
 
-*   [generaltranslation/gt](https://github.com/generaltranslation/gt) - ⚛️ Automatic localization for devs 🌐
+*   [generaltranslation/gt](https://github.com/generaltranslation/gt) - Automated i18n for developers
 
 *   [rari-build/rari](https://github.com/rari-build/rari) - Rari: High-performance React Server Components framework powered by a Rust runtime, delivering 14x faster P99 latency (< 2ms vs 28ms) and 12x higher throughput (21,263 vs 1,760 req/sec) than Next.js with zero-config setup.
 
@@ -6231,7 +6228,7 @@
 
 *   [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 
-*   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+*   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 
 *   [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 
@@ -6635,7 +6632,7 @@
 
 *   [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech\_balloon: :gem:
 
-*   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+*   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 
 *   [modernweb-dev/web](https://github.com/modernweb-dev/web) - Guides, tools and libraries for modern web development.
 
@@ -6723,7 +6720,7 @@
 
 *   [aymericzip/intlayer](https://github.com/aymericzip/intlayer) - Per-component Internationalisation solution for JS application. Type-Safe. Translate with AI. Edit Visually.
 
-*   [generaltranslation/gt](https://github.com/generaltranslation/gt) - ⚛️ Automatic localization for devs 🌐
+*   [generaltranslation/gt](https://github.com/generaltranslation/gt) - Automated i18n for developers
 
 *   [tolgee/tolgee-platform](https://github.com/tolgee/tolgee-platform) - Developer & translator friendly web-based localization platform
 
@@ -6751,7 +6748,7 @@
 
 *   [software-mansion/TypeGPU](https://github.com/software-mansion/TypeGPU) - A modular and open-ended toolkit for WebGPU, with advanced type inference and the ability to write shaders in TypeScript
 
-*   [generaltranslation/gt](https://github.com/generaltranslation/gt) - ⚛️ Automatic localization for devs 🌐
+*   [generaltranslation/gt](https://github.com/generaltranslation/gt) - Automated i18n for developers
 
 *   [evanwashere/mitata](https://github.com/evanwashere/mitata) - benchmark tooling that loves you ❤️
 
@@ -7009,7 +7006,7 @@
 
 *   [aymericzip/intlayer](https://github.com/aymericzip/intlayer) - Per-component Internationalisation solution for JS application. Type-Safe. Translate with AI. Edit Visually.
 
-*   [generaltranslation/gt](https://github.com/generaltranslation/gt) - ⚛️ Automatic localization for devs 🌐
+*   [generaltranslation/gt](https://github.com/generaltranslation/gt) - Automated i18n for developers
 
 *   [tolgee/tolgee-platform](https://github.com/tolgee/tolgee-platform) - Developer & translator friendly web-based localization platform
 
@@ -7017,7 +7014,7 @@
 
 *   [aymericzip/intlayer](https://github.com/aymericzip/intlayer) - Per-component Internationalisation solution for JS application. Type-Safe. Translate with AI. Edit Visually.
 
-*   [generaltranslation/gt](https://github.com/generaltranslation/gt) - ⚛️ Automatic localization for devs 🌐
+*   [generaltranslation/gt](https://github.com/generaltranslation/gt) - Automated i18n for developers
 
 *   [tolgee/tolgee-platform](https://github.com/tolgee/tolgee-platform) - Developer & translator friendly web-based localization platform
 
@@ -9875,13 +9872,13 @@
 
 ## internationalization
 
-*   [generaltranslation/gt](https://github.com/generaltranslation/gt) - ⚛️ Automatic localization for devs 🌐
+*   [generaltranslation/gt](https://github.com/generaltranslation/gt) - Automated i18n for developers
 
 *   [tolgee/tolgee-platform](https://github.com/tolgee/tolgee-platform) - Developer & translator friendly web-based localization platform
 
 ## translation
 
-*   [generaltranslation/gt](https://github.com/generaltranslation/gt) - ⚛️ Automatic localization for devs 🌐
+*   [generaltranslation/gt](https://github.com/generaltranslation/gt) - Automated i18n for developers
 
 *   [tolgee/tolgee-platform](https://github.com/tolgee/tolgee-platform) - Developer & translator friendly web-based localization platform
 
@@ -9889,7 +9886,7 @@
 
 ## translations
 
-*   [generaltranslation/gt](https://github.com/generaltranslation/gt) - ⚛️ Automatic localization for devs 🌐
+*   [generaltranslation/gt](https://github.com/generaltranslation/gt) - Automated i18n for developers
 
 *   [tolgee/tolgee-platform](https://github.com/tolgee/tolgee-platform) - Developer & translator friendly web-based localization platform
 
@@ -10207,7 +10204,7 @@
 
 *   [livestorejs/livestore](https://github.com/livestorejs/livestore) - LiveStore is a next-generation state management framework based on reactive SQLite and built-in sync engine.
 
-*   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+*   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 
 *   [rphlmr/drizzle-lab](https://github.com/rphlmr/drizzle-lab) - Play with Drizzle everywhere
 
@@ -11136,8 +11133,6 @@
 *   [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 
 *   [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
-
-*   [finom/vovk](https://github.com/finom/vovk) - 🐺 Back-end Framework for Next.js App Router
 
 *   [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 
@@ -13403,7 +13398,7 @@
 
 *   [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 
-*   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+*   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 
 *   [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 
@@ -16695,19 +16690,19 @@
 
 ## airtable
 
-*   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+*   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 
 ## airtable-alternative
 
-*   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+*   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 
 ## automatic-api
 
-*   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+*   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 
 ## low-code
 
-*   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+*   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 
 *   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
 
@@ -16717,7 +16712,7 @@
 
 ## no-code
 
-*   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+*   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 
 *   [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 
@@ -16725,25 +16720,25 @@
 
 ## no-code-database
 
-*   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+*   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 
 ## no-code-platform
 
-*   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+*   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 
 ## restful-api
 
-*   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+*   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 
 *   [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 
 ## spreadsheet
 
-*   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+*   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 
 ## swagger
 
-*   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+*   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 
 *   [HiDeoo/starlight-openapi](https://github.com/HiDeoo/starlight-openapi) - Starlight plugin to generate documentation from OpenAPI/Swagger specifications
 
@@ -21517,19 +21512,7 @@
 
 *   [phaserjs/phaser](https://github.com/phaserjs/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 
-## controller
-
-*   [finom/vovk](https://github.com/finom/vovk) - 🐺 Back-end Framework for Next.js App Router
-
 ## decorators
-
-*   [finom/vovk](https://github.com/finom/vovk) - 🐺 Back-end Framework for Next.js App Router
-
-## rpc-framework
-
-*   [finom/vovk](https://github.com/finom/vovk) - 🐺 Back-end Framework for Next.js App Router
-
-## service
 
 *   [finom/vovk](https://github.com/finom/vovk) - 🐺 Back-end Framework for Next.js App Router
 
