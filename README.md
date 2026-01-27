@@ -38,6 +38,8 @@
 
 ## TypeScript
 
+*   [opral/lix](https://github.com/opral/lix) - The version control system for AI agents.
+
 *   [augiwan/tanstack-theme-kit](https://github.com/augiwan/tanstack-theme-kit) - Perfect Dark mode support for TanStack Start
 
 *   [SaviruFr/better-themes](https://github.com/SaviruFr/better-themes) - A theme provider for React
@@ -84,7 +86,7 @@
 
 *   [react-zero-ui/core](https://github.com/react-zero-ui/core) - Instant global UI state with ZERO re-renders, ZERO runtime, ZERO pain.
 
-*   [vercel-labs/add-skill](https://github.com/vercel-labs/add-skill) - The open agent skills tool
+*   [vercel-labs/skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills
 
 *   [mahdidavoodi7/expo-camera-masked-blur](https://github.com/mahdidavoodi7/expo-camera-masked-blur) - Frosted camera cutout UI demo built with Expo Camera, MaskedView, and BlurView
 
@@ -1200,7 +1202,7 @@
 
 *   [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 
-*   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.
+*   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - :exploding\_head: LobeHub - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.
 
 *   [mswjs/msw](https://github.com/mswjs/msw) - Industry standard API mocking for JavaScript.
 
@@ -1456,7 +1458,7 @@
 
 *   [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is an open-source graph-vector database built from scratch in Rust.
 
-*   [rari-build/rari](https://github.com/rari-build/rari) - rari: High-performance React Server Components framework powered by a Rust runtime, delivering 14x faster P99 latency (< 2ms vs 28ms) and 12x higher throughput (21,263 vs 1,760 req/sec) than Next.js with zero-config setup.
+*   [rari-build/rari](https://github.com/rari-build/rari) - rari: High-performance React Server Components framework powered by a Rust runtime, delivering 7.5x faster response times (0.35ms vs 2.64ms) and 8.7x higher throughput (14,085 vs 1,624 req/sec) than Next.js with zero-config setup.
 
 *   [restatedev/restate](https://github.com/restatedev/restate) - Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD.
 
@@ -1730,8 +1732,6 @@
 
 *   [smartcontractkit/starter-kits](https://github.com/smartcontractkit/starter-kits) - A repo of starter kits for working with various languages and frameworks across the smart contract ecosystem.
 
-*   [crytic/awesome-ethereum-security](https://github.com/crytic/awesome-ethereum-security) - A curated list of awesome Ethereum security references
-
 ## JavaScript
 
 *   [marudy/react-native-responsive-screen](https://github.com/marudy/react-native-responsive-screen) - Make React Native views responsive for all devices with the use of 2 simple methods
@@ -1996,7 +1996,7 @@
 
 *   [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback
 
-*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 
 *   [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A no-build JavaScript CDN for modern web development.
 
