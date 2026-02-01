@@ -37,6 +37,8 @@
 *   [data-analytics](#data-analytics)
 *   [data-visualization](#data-visualization)
 *   [data-visualization-tools](#data-visualization-tools)
+*   [data-viz](#data-viz)
+*   [gpu](#gpu)
 *   [npm](#npm)
 *   [npm-package](#npm-package)
 *   [open-source](#open-source)
@@ -573,7 +575,6 @@
 *   [viewport](#viewport)
 *   [visibility](#visibility)
 *   [gpgpu](#gpgpu)
-*   [gpu](#gpu)
 *   [gpu-computing](#gpu-computing)
 *   [gpu-programming](#gpu-programming)
 *   [graphics](#graphics)
@@ -3082,7 +3083,6 @@
 *   [statecharts](#statecharts)
 *   [visualizer](#visualizer)
 *   [apache](#apache)
-*   [data-viz](#data-viz)
 *   [echarts](#echarts)
 *   [image-generation](#image-generation)
 *   [image-generator](#image-generator)
@@ -3182,7 +3182,7 @@
 
 *   [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
 
-*   [opral/lix](https://github.com/opral/lix) - Embeddable version control system for AI agents and applications
+*   [opral/lix](https://github.com/opral/lix) - Embeddable version control system
 
 *   [agno-agi/agno](https://github.com/agno-agi/agno) - Build multi-agent systems that learn and improve with every interaction.
 
@@ -5068,7 +5068,7 @@
 
 *   [MotiaDev/motia](https://github.com/MotiaDev/motia) - Multi-Language Backend Framework that unifies APIs, background jobs, queues, workflows, streams, and AI agents with a single core primitive with built-in observability and state management.
 
-*   [opral/lix](https://github.com/opral/lix) - Embeddable version control system for AI agents and applications
+*   [opral/lix](https://github.com/opral/lix) - Embeddable version control system
 
 *   [vercel-labs/opensrc](https://github.com/vercel-labs/opensrc) - Fetch source code for npm packages to give AI coding agents deeper context
 
@@ -5228,7 +5228,7 @@
 
 *   [browserbase/stagehand](https://github.com/browserbase/stagehand) - The AI Browser Automation Framework
 
-*   [remorses/playwriter](https://github.com/remorses/playwriter) - MCP to control your Chrome window via extension. Runs Playwright code in a stateful sandbox.
+*   [remorses/playwriter](https://github.com/remorses/playwriter) - Chrome extension to let agents control your browser. Runs Playwright snippets in a stateful sandbox. Available as CLI or MCP
 
 *   [simonw/shot-scraper](https://github.com/simonw/shot-scraper) - A command-line utility for taking automated screenshots of websites
 
@@ -5788,6 +5788,18 @@
 
 *   [ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU) - Beautiful, open source, WebGPU-based charting library
 
+## data-viz
+
+*   [ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU) - Beautiful, open source, WebGPU-based charting library
+
+*   [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
+
+## gpu
+
+*   [ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU) - Beautiful, open source, WebGPU-based charting library
+
+*   [software-mansion/TypeGPU](https://github.com/software-mansion/TypeGPU) - A modular and open-ended toolkit for WebGPU, with advanced type inference and the ability to write shaders in TypeScript
+
 ## npm
 
 *   [ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU) - Beautiful, open source, WebGPU-based charting library
@@ -5960,11 +5972,11 @@
 
 ## change-detection
 
-*   [opral/lix](https://github.com/opral/lix) - Embeddable version control system for AI agents and applications
+*   [opral/lix](https://github.com/opral/lix) - Embeddable version control system
 
 ## version-control
 
-*   [opral/lix](https://github.com/opral/lix) - Embeddable version control system for AI agents and applications
+*   [opral/lix](https://github.com/opral/lix) - Embeddable version control system
 
 ## better-themes
 
@@ -7728,7 +7740,7 @@
 
 *   [dinoki-ai/osaurus](https://github.com/dinoki-ai/osaurus) - AI edge infrastructure for macOS. Run local or cloud models, share tools across apps via MCP, and power AI workflows with a native, always-on runtime.
 
-*   [remorses/playwriter](https://github.com/remorses/playwriter) - MCP to control your Chrome window via extension. Runs Playwright code in a stateful sandbox.
+*   [remorses/playwriter](https://github.com/remorses/playwriter) - Chrome extension to let agents control your browser. Runs Playwright snippets in a stateful sandbox. Available as CLI or MCP
 
 *   [yusufkaraaslan/Skill\_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 
@@ -11433,10 +11445,6 @@
 *   [thebuilder/react-intersection-observer](https://github.com/thebuilder/react-intersection-observer) - React implementation of the Intersection Observer API to tell you when an element enters or leaves the viewport.
 
 ## gpgpu
-
-*   [software-mansion/TypeGPU](https://github.com/software-mansion/TypeGPU) - A modular and open-ended toolkit for WebGPU, with advanced type inference and the ability to write shaders in TypeScript
-
-## gpu
 
 *   [software-mansion/TypeGPU](https://github.com/software-mansion/TypeGPU) - A modular and open-ended toolkit for WebGPU, with advanced type inference and the ability to write shaders in TypeScript
 
@@ -24123,10 +24131,6 @@
 *   [statelyai/xstate](https://github.com/statelyai/xstate) - Actor-based state management & orchestration for complex app logic.
 
 ## apache
-
-*   [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
-
-## data-viz
 
 *   [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 
