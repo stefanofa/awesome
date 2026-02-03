@@ -2,6 +2,9 @@
 
 ## Table of Contents
 
+*   [background-removal](#background-removal)
+*   [image-processing](#image-processing)
+*   [python](#python)
 *   [agent](#agent)
 *   [agentic-ai](#agentic-ai)
 *   [ai](#ai)
@@ -56,7 +59,6 @@
 *   [framework](#framework)
 *   [genai](#genai)
 *   [javascript](#javascript)
-*   [python](#python)
 *   [candlestick-chart](#candlestick-chart)
 *   [chart](#chart)
 *   [chart-library](#chart-library)
@@ -1066,7 +1068,6 @@
 *   [convolution](#convolution)
 *   [image](#image)
 *   [image-analysis](#image-analysis)
-*   [image-processing](#image-processing)
 *   [roi](#roi)
 *   [groupable](#groupable)
 *   [movable](#movable)
@@ -3141,10 +3142,82 @@
 *   [ai-analytics](#ai-analytics)
 *   [cdp](#cdp)
 *   [data-warehouse](#data-warehouse)
-*   [beautiful](#beautiful)
-*   [beautiful-docs](#beautiful-docs)
-*   [doc](#doc)
-*   [documentations](#documentations)
+
+## background-removal
+
+*   [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
+
+## image-processing
+
+*   [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
+
+*   [image-js/image-js](https://github.com/image-js/image-js) - Image processing and manipulation in JavaScript
+
+*   [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing, processing, and converting images on the fly
+
+## python
+
+*   [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
+
+*   [MotiaDev/motia](https://github.com/MotiaDev/motia) - Multi-Language Backend Framework that unifies APIs, background jobs, queues, workflows, streams, and AI agents with a single core primitive with built-in observability and state management.
+
+*   [agno-agi/agno](https://github.com/agno-agi/agno) - Build multi-agent systems that learn and improve with every interaction.
+
+*   [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
+
+*   [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori) - SQL Native Memory Layer for LLMs, AI Agents & Multi-Agent Systems
+
+*   [yusufkaraaslan/Skill\_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
+
+*   [datapizza-labs/datapizza-ai](https://github.com/datapizza-labs/datapizza-ai) - Build reliable Gen AI solutions without overhead 🍕
+
+*   [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
+
+*   [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
+
+*   [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
+
+*   [luisfer/ubon](https://github.com/luisfer/ubon) - Peace of mind for vibe-coded apps
+
+*   [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
+
+*   [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
+
+*   [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+
+*   [polarsource/polar](https://github.com/polarsource/polar) - Turn your software into a business.
+
+*   [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
+
+*   [TheR1D/shell\_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-5, will help you accomplish your tasks faster and more efficiently.
+
+*   [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
+
+*   [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
+
+*   [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS, Python, Elixir and PHP based on Redis
+
+*   [Ackee-Blockchain/wake](https://github.com/Ackee-Blockchain/wake) - Wake is a Python-based Solidity development and fuzz testing framework with built-in vulnerability detectors for building secure Ethereum dApps.
+
+*   [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
+
+*   [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open source feature flagging and remote config service. Self-host or use our hosted version at https://app.flagsmith.com.
+
+*   [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
+
+*   [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
+
+*   [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
+
+*   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
+
+*   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+
+*   [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
+
+*   [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
+
+*   [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.
 
 ## agent
 
@@ -3212,7 +3285,7 @@
 
 *   [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
 
-*   [FranciscoMoretti/sparka](https://github.com/FranciscoMoretti/sparka) - Production-ready AI chat template built with Next.js, Vercel AI SDK. Launch AI apps 10x faster.
+*   [FranciscoMoretti/chatjs](https://github.com/FranciscoMoretti/chatjs) - Production-ready AI chat template built with Next.js, Vercel AI SDK. Launch AI apps 10x faster.
 
 *   [vercel-labs/workflow-builder-template](https://github.com/vercel-labs/workflow-builder-template) - Visual AI workflow automation platform
 
@@ -3340,7 +3413,7 @@
 
 *   [dinoki-ai/osaurus](https://github.com/dinoki-ai/osaurus) - AI edge infrastructure for macOS. Run local or cloud models, share tools across apps via MCP, and power AI workflows with a native, always-on runtime.
 
-*   [FranciscoMoretti/sparka](https://github.com/FranciscoMoretti/sparka) - Production-ready AI chat template built with Next.js, Vercel AI SDK. Launch AI apps 10x faster.
+*   [FranciscoMoretti/chatjs](https://github.com/FranciscoMoretti/chatjs) - Production-ready AI chat template built with Next.js, Vercel AI SDK. Launch AI apps 10x faster.
 
 *   [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori) - SQL Native Memory Layer for LLMs, AI Agents & Multi-Agent Systems
 
@@ -4028,7 +4101,7 @@
 
 *   [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases
 
-*   [FranciscoMoretti/sparka](https://github.com/FranciscoMoretti/sparka) - Production-ready AI chat template built with Next.js, Vercel AI SDK. Launch AI apps 10x faster.
+*   [FranciscoMoretti/chatjs](https://github.com/FranciscoMoretti/chatjs) - Production-ready AI chat template built with Next.js, Vercel AI SDK. Launch AI apps 10x faster.
 
 *   [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 
@@ -6224,68 +6297,6 @@
 
 *   [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.
 
-## python
-
-*   [MotiaDev/motia](https://github.com/MotiaDev/motia) - Multi-Language Backend Framework that unifies APIs, background jobs, queues, workflows, streams, and AI agents with a single core primitive with built-in observability and state management.
-
-*   [agno-agi/agno](https://github.com/agno-agi/agno) - Build multi-agent systems that learn and improve with every interaction.
-
-*   [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
-
-*   [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori) - SQL Native Memory Layer for LLMs, AI Agents & Multi-Agent Systems
-
-*   [yusufkaraaslan/Skill\_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
-
-*   [datapizza-labs/datapizza-ai](https://github.com/datapizza-labs/datapizza-ai) - Build reliable Gen AI solutions without overhead 🍕
-
-*   [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
-
-*   [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
-
-*   [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
-
-*   [luisfer/ubon](https://github.com/luisfer/ubon) - Peace of mind for vibe-coded apps
-
-*   [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
-
-*   [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
-
-*   [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
-
-*   [polarsource/polar](https://github.com/polarsource/polar) - Turn your software into a business.
-
-*   [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
-
-*   [TheR1D/shell\_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-5, will help you accomplish your tasks faster and more efficiently.
-
-*   [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
-
-*   [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
-
-*   [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS, Python, Elixir and PHP based on Redis
-
-*   [Ackee-Blockchain/wake](https://github.com/Ackee-Blockchain/wake) - Wake is a Python-based Solidity development and fuzz testing framework with built-in vulnerability detectors for building secure Ethereum dApps.
-
-*   [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
-
-*   [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open source feature flagging and remote config service. Self-host or use our hosted version at https://app.flagsmith.com.
-
-*   [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
-
-*   [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
-
-*   [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
-
-*   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
-
-*   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-
-*   [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
-
-*   [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
-
-*   [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.
-
 ## candlestick-chart
 
 *   [ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU) - Beautiful, open source, WebGPU-based charting library
@@ -7514,8 +7525,6 @@
 
 *   [dubinc/oss-gallery](https://github.com/dubinc/oss-gallery) - A crowdsourced list of the best open-source projects on the internet. Built with the Dub TypeScript SDK.
 
-*   [matheusfelipeog/beautiful-docs](https://github.com/matheusfelipeog/beautiful-docs) - Pointers to useful, well-written, and otherwise beautiful documentation.
-
 ## tree
 
 *   [warper-org/warper](https://github.com/warper-org/warper) - Ultra-fast React virtualization library powered by Rust and WebAssembly
@@ -7786,7 +7795,7 @@
 
 *   [dinoki-ai/osaurus](https://github.com/dinoki-ai/osaurus) - AI edge infrastructure for macOS. Run local or cloud models, share tools across apps via MCP, and power AI workflows with a native, always-on runtime.
 
-*   [FranciscoMoretti/sparka](https://github.com/FranciscoMoretti/sparka) - Production-ready AI chat template built with Next.js, Vercel AI SDK. Launch AI apps 10x faster.
+*   [FranciscoMoretti/chatjs](https://github.com/FranciscoMoretti/chatjs) - Production-ready AI chat template built with Next.js, Vercel AI SDK. Launch AI apps 10x faster.
 
 *   [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
 
@@ -8586,8 +8595,6 @@
 
 *   [wevm/vocs](https://github.com/wevm/vocs) - Minimal Documentation Framework, powered by React + Vite.
 
-*   [matheusfelipeog/beautiful-docs](https://github.com/matheusfelipeog/beautiful-docs) - Pointers to useful, well-written, and otherwise beautiful documentation.
-
 ## documentation
 
 *   [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
@@ -8609,8 +8616,6 @@
 *   [codesandbox/sandpack](https://github.com/codesandbox/sandpack) - A component toolkit for creating live-running code editing experiences, using the power of CodeSandbox.
 
 *   [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
-
-*   [matheusfelipeog/beautiful-docs](https://github.com/matheusfelipeog/beautiful-docs) - Pointers to useful, well-written, and otherwise beautiful documentation.
 
 ## skills
 
@@ -8736,7 +8741,7 @@
 
 *   [dinoki-ai/osaurus](https://github.com/dinoki-ai/osaurus) - AI edge infrastructure for macOS. Run local or cloud models, share tools across apps via MCP, and power AI workflows with a native, always-on runtime.
 
-*   [FranciscoMoretti/sparka](https://github.com/FranciscoMoretti/sparka) - Production-ready AI chat template built with Next.js, Vercel AI SDK. Launch AI apps 10x faster.
+*   [FranciscoMoretti/chatjs](https://github.com/FranciscoMoretti/chatjs) - Production-ready AI chat template built with Next.js, Vercel AI SDK. Launch AI apps 10x faster.
 
 *   [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 
@@ -8754,7 +8759,7 @@
 
 *   [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
 
-*   [FranciscoMoretti/sparka](https://github.com/FranciscoMoretti/sparka) - Production-ready AI chat template built with Next.js, Vercel AI SDK. Launch AI apps 10x faster.
+*   [FranciscoMoretti/chatjs](https://github.com/FranciscoMoretti/chatjs) - Production-ready AI chat template built with Next.js, Vercel AI SDK. Launch AI apps 10x faster.
 
 *   [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori) - SQL Native Memory Layer for LLMs, AI Agents & Multi-Agent Systems
 
@@ -8818,7 +8823,7 @@
 
 *   [gemini-cli-extensions/conductor](https://github.com/gemini-cli-extensions/conductor) - Conductor is a Gemini CLI extension that allows you to specify, plan, and implement software features.
 
-*   [FranciscoMoretti/sparka](https://github.com/FranciscoMoretti/sparka) - Production-ready AI chat template built with Next.js, Vercel AI SDK. Launch AI apps 10x faster.
+*   [FranciscoMoretti/chatjs](https://github.com/FranciscoMoretti/chatjs) - Production-ready AI chat template built with Next.js, Vercel AI SDK. Launch AI apps 10x faster.
 
 *   [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter. 750k+ Kilo Coders. 6.1 trillion tokens/month.
 
@@ -10712,7 +10717,7 @@
 
 ## chat
 
-*   [FranciscoMoretti/sparka](https://github.com/FranciscoMoretti/sparka) - Production-ready AI chat template built with Next.js, Vercel AI SDK. Launch AI apps 10x faster.
+*   [FranciscoMoretti/chatjs](https://github.com/FranciscoMoretti/chatjs) - Production-ready AI chat template built with Next.js, Vercel AI SDK. Launch AI apps 10x faster.
 
 *   [ibelick/zola](https://github.com/ibelick/zola) - Open chat interface for all your models.
 
@@ -10720,7 +10725,7 @@
 
 ## chatbot
 
-*   [FranciscoMoretti/sparka](https://github.com/FranciscoMoretti/sparka) - Production-ready AI chat template built with Next.js, Vercel AI SDK. Launch AI apps 10x faster.
+*   [FranciscoMoretti/chatjs](https://github.com/FranciscoMoretti/chatjs) - Production-ready AI chat template built with Next.js, Vercel AI SDK. Launch AI apps 10x faster.
 
 *   [darkresearch/generative-ui](https://github.com/darkresearch/generative-ui) - Tools and templates for building generative UI applications. Mobile-first, optimized for Expo.
 
@@ -10732,19 +10737,19 @@
 
 ## gemini-ai
 
-*   [FranciscoMoretti/sparka](https://github.com/FranciscoMoretti/sparka) - Production-ready AI chat template built with Next.js, Vercel AI SDK. Launch AI apps 10x faster.
+*   [FranciscoMoretti/chatjs](https://github.com/FranciscoMoretti/chatjs) - Production-ready AI chat template built with Next.js, Vercel AI SDK. Launch AI apps 10x faster.
 
 ## grok
 
-*   [FranciscoMoretti/sparka](https://github.com/FranciscoMoretti/sparka) - Production-ready AI chat template built with Next.js, Vercel AI SDK. Launch AI apps 10x faster.
+*   [FranciscoMoretti/chatjs](https://github.com/FranciscoMoretti/chatjs) - Production-ready AI chat template built with Next.js, Vercel AI SDK. Launch AI apps 10x faster.
 
 ## multiprovider
 
-*   [FranciscoMoretti/sparka](https://github.com/FranciscoMoretti/sparka) - Production-ready AI chat template built with Next.js, Vercel AI SDK. Launch AI apps 10x faster.
+*   [FranciscoMoretti/chatjs](https://github.com/FranciscoMoretti/chatjs) - Production-ready AI chat template built with Next.js, Vercel AI SDK. Launch AI apps 10x faster.
 
 ## xai
 
-*   [FranciscoMoretti/sparka](https://github.com/FranciscoMoretti/sparka) - Production-ready AI chat template built with Next.js, Vercel AI SDK. Launch AI apps 10x faster.
+*   [FranciscoMoretti/chatjs](https://github.com/FranciscoMoretti/chatjs) - Production-ready AI chat template built with Next.js, Vercel AI SDK. Launch AI apps 10x faster.
 
 ## relay
 
@@ -13236,13 +13241,9 @@
 
 *   [Buoy-gg/Buoy-Desktop](https://github.com/Buoy-gg/Buoy-Desktop) - Beautiful macOS app for debugging React Query in ANY React-based application (Mobile, Web, TV, VR). Monitor queries across devices in real-time with a gorgeous native interface. Features device management, query visualization, state simulation, and automatic production safety. Works with React Native, Web, Next.js, Expo, and any JS based platform
 
-*   [matheusfelipeog/beautiful-docs](https://github.com/matheusfelipeog/beautiful-docs) - Pointers to useful, well-written, and otherwise beautiful documentation.
-
 ## developer
 
 *   [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain.
-
-*   [matheusfelipeog/beautiful-docs](https://github.com/matheusfelipeog/beautiful-docs) - Pointers to useful, well-written, and otherwise beautiful documentation.
 
 ## dns
 
@@ -14551,12 +14552,6 @@
 ## image-analysis
 
 *   [image-js/image-js](https://github.com/image-js/image-js) - Image processing and manipulation in JavaScript
-
-## image-processing
-
-*   [image-js/image-js](https://github.com/image-js/image-js) - Image processing and manipulation in JavaScript
-
-*   [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing, processing, and converting images on the fly
 
 ## roi
 
@@ -24333,19 +24328,3 @@
 ## data-warehouse
 
 *   [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.
-
-## beautiful
-
-*   [matheusfelipeog/beautiful-docs](https://github.com/matheusfelipeog/beautiful-docs) - Pointers to useful, well-written, and otherwise beautiful documentation.
-
-## beautiful-docs
-
-*   [matheusfelipeog/beautiful-docs](https://github.com/matheusfelipeog/beautiful-docs) - Pointers to useful, well-written, and otherwise beautiful documentation.
-
-## doc
-
-*   [matheusfelipeog/beautiful-docs](https://github.com/matheusfelipeog/beautiful-docs) - Pointers to useful, well-written, and otherwise beautiful documentation.
-
-## documentations
-
-*   [matheusfelipeog/beautiful-docs](https://github.com/matheusfelipeog/beautiful-docs) - Pointers to useful, well-written, and otherwise beautiful documentation.
