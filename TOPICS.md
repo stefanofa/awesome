@@ -2,6 +2,12 @@
 
 ## Table of Contents
 
+*   [cdn](#cdn)
+*   [city](#city)
+*   [geoip](#geoip)
+*   [ip](#ip)
+*   [location](#location)
+*   [maxmind](#maxmind)
 *   [miscellaneous](#miscellaneous)
 *   [npm](#npm)
 *   [npmjs](#npmjs)
@@ -1843,7 +1849,6 @@
 *   [fsevents](#fsevents)
 *   [watch-files](#watch-files)
 *   [watcher](#watcher)
-*   [geoip](#geoip)
 *   [geoip-api](#geoip-api)
 *   [geoip-location](#geoip-location)
 *   [geoip-lookup](#geoip-lookup)
@@ -2131,7 +2136,6 @@
 *   [magic-code](#magic-code)
 *   [sso-authentication](#sso-authentication)
 *   [user-management](#user-management)
-*   [cdn](#cdn)
 *   [resize](#resize)
 *   [sharp](#sharp)
 *   [blurhash](#blurhash)
@@ -3097,9 +3101,42 @@
 *   [interview-practice](#interview-practice)
 *   [interview-questions](#interview-questions)
 *   [system](#system)
-*   [spinner](#spinner)
+
+## cdn
+
+*   [wp-statistics/GeoLite2-City](https://github.com/wp-statistics/GeoLite2-City) - Free MaxMind GeoLite2-City database for IP geolocation. Auto-updated, served via jsDelivr CDN. No API keys required.
+
+*   [unjs/ipx](https://github.com/unjs/ipx) - 🖼️ High performance, secure and easy-to-use image optimizer.
+
+*   [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A no-build JavaScript CDN for modern web development.
+
+*   [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
+
+## city
+
+*   [wp-statistics/GeoLite2-City](https://github.com/wp-statistics/GeoLite2-City) - Free MaxMind GeoLite2-City database for IP geolocation. Auto-updated, served via jsDelivr CDN. No API keys required.
+
+## geoip
+
+*   [wp-statistics/GeoLite2-City](https://github.com/wp-statistics/GeoLite2-City) - Free MaxMind GeoLite2-City database for IP geolocation. Auto-updated, served via jsDelivr CDN. No API keys required.
+
+*   [observabilitystack/geoip-api](https://github.com/observabilitystack/geoip-api) - A JSON REST API for Maxmind GeoIP databases
+
+## ip
+
+*   [wp-statistics/GeoLite2-City](https://github.com/wp-statistics/GeoLite2-City) - Free MaxMind GeoLite2-City database for IP geolocation. Auto-updated, served via jsDelivr CDN. No API keys required.
+
+## location
+
+*   [wp-statistics/GeoLite2-City](https://github.com/wp-statistics/GeoLite2-City) - Free MaxMind GeoLite2-City database for IP geolocation. Auto-updated, served via jsDelivr CDN. No API keys required.
+
+## maxmind
+
+*   [wp-statistics/GeoLite2-City](https://github.com/wp-statistics/GeoLite2-City) - Free MaxMind GeoLite2-City database for IP geolocation. Auto-updated, served via jsDelivr CDN. No API keys required.
 
 ## miscellaneous
+
+*   [mitchellh/vouch](https://github.com/mitchellh/vouch) - A community trust management system based on explicit vouches to participate.
 
 *   [TheOrcDev/warcraftcn-ui](https://github.com/TheOrcDev/warcraftcn-ui) - A collection of accessible, retro-inspired UI components drawing from classic real-time strategy aesthetics. Built for modern web/apps. Fully open source – copy, paste, customize.
 
@@ -3630,8 +3667,6 @@
 *   [arethetypeswrong/arethetypeswrong.github.io](https://github.com/arethetypeswrong/arethetypeswrong.github.io) - Tool for analyzing TypeScript types of npm packages
 
 *   [transmissions11/solmate](https://github.com/transmissions11/solmate) - Modern, opinionated, and gas optimized building blocks for smart contract development.
-
-*   [asmvik/yabai](https://github.com/asmvik/yabai) - A tiling window manager for macOS based on binary space partitioning
 
 ## npm
 
@@ -4501,8 +4536,6 @@
 
 *   [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 
-*   [smeijer/spin-delay](https://github.com/smeijer/spin-delay) - Smart spinner helper for React, to manage the duration of loading states.
-
 ## ajv
 
 *   [ajv-validator/ajv](https://github.com/ajv-validator/ajv) - The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927)
@@ -4547,7 +4580,7 @@
 
 *   [steipete/summarize](https://github.com/steipete/summarize) - Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
 
-*   [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
+*   [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - the best agent harness
 
 *   [aymericzip/intlayer](https://github.com/aymericzip/intlayer) - Per-component Internationalisation solution for JS application. Type-Safe. Translate with AI. Edit Visually.
 
@@ -5095,7 +5128,7 @@
 
 *   [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
 
-*   [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
+*   [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - the best agent harness
 
 *   [FranciscoMoretti/chatjs](https://github.com/FranciscoMoretti/chatjs) - Production-ready AI chat template. Start here and make it your own. Formerly Sparka AI
 
@@ -5221,7 +5254,7 @@
 
 *   [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
 
-*   [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
+*   [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - the best agent harness
 
 *   [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 
@@ -5245,7 +5278,7 @@
 
 *   [intellectronica/ruler](https://github.com/intellectronica/ruler) - Ruler — apply the same rules to all coding agents
 
-*   [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
+*   [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - the best agent harness
 
 *   [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
 
@@ -6263,8 +6296,6 @@
 
 *   [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
 
-*   [smeijer/spin-delay](https://github.com/smeijer/spin-delay) - Smart spinner helper for React, to manage the duration of loading states.
-
 ## lstm
 
 *   [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
@@ -6305,7 +6336,7 @@
 
 *   [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
 
-*   [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
+*   [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - the best agent harness
 
 *   [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 
@@ -6487,7 +6518,7 @@
 
 *   [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 
-*   [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
+*   [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - the best agent harness
 
 *   [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases
 
@@ -6537,7 +6568,7 @@
 
 *   [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
 
-*   [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
+*   [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - the best agent harness
 
 *   [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases
 
@@ -8251,7 +8282,7 @@
 
 *   [betomoedano/snapai](https://github.com/betomoedano/snapai) - AI-powered icon generation CLI for React Native & Expo developers. Generate stunning app icons in seconds using OpenAI's latest models.
 
-*   [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
+*   [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - the best agent harness
 
 *   [dinoki-ai/osaurus](https://github.com/dinoki-ai/osaurus) - AI edge infrastructure for macOS. Run local or cloud models, share tools across apps via MCP, and power AI workflows with a native, always-on runtime.
 
@@ -9035,11 +9066,11 @@
 
 ## amp
 
-*   [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
+*   [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - the best agent harness
 
 ## anthropic
 
-*   [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
+*   [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - the best agent harness
 
 *   [dinoki-ai/osaurus](https://github.com/dinoki-ai/osaurus) - AI edge infrastructure for macOS. Run local or cloud models, share tools across apps via MCP, and power AI workflows with a native, always-on runtime.
 
@@ -9059,7 +9090,7 @@
 
 ## chatgpt
 
-*   [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
+*   [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - the best agent harness
 
 *   [FranciscoMoretti/chatjs](https://github.com/FranciscoMoretti/chatjs) - Production-ready AI chat template. Start here and make it your own. Formerly Sparka AI
 
@@ -9101,7 +9132,7 @@
 
 ## gemini
 
-*   [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
+*   [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - the best agent harness
 
 *   [gemini-cli-extensions/conductor](https://github.com/gemini-cli-extensions/conductor) - Conductor is a Gemini CLI extension that allows you to specify, plan, and implement software features.
 
@@ -9127,7 +9158,7 @@
 
 ## ide
 
-*   [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
+*   [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - the best agent harness
 
 *   [athasdev/athas](https://github.com/athasdev/athas) - A lightweight, cross-platform code editor, built with Tauri (Rust and React) with Git support, AI agents, vim keybindings.
 
@@ -9145,13 +9176,13 @@
 
 ## opencode
 
-*   [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
+*   [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - the best agent harness
 
 *   [theopenco/llmgateway](https://github.com/theopenco/llmgateway) - Route, manage, and analyze your LLM requests across multiple providers with a unified API interface.
 
 ## orchestration
 
-*   [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
+*   [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - the best agent harness
 
 *   [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 
@@ -9161,7 +9192,7 @@
 
 ## tui
 
-*   [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
+*   [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - the best agent harness
 
 *   [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 
@@ -18463,10 +18494,6 @@
 
 *   [paulmillr/chokidar](https://github.com/paulmillr/chokidar) - Minimal and efficient cross-platform file watching library
 
-## geoip
-
-*   [observabilitystack/geoip-api](https://github.com/observabilitystack/geoip-api) - A JSON REST API for Maxmind GeoIP databases
-
 ## geoip-api
 
 *   [observabilitystack/geoip-api](https://github.com/observabilitystack/geoip-api) - A JSON REST API for Maxmind GeoIP databases
@@ -19816,14 +19843,6 @@
 ## user-management
 
 *   [workos/authkit](https://github.com/workos/authkit) - The world's best login box powered by WorkOS and Radix.
-
-## cdn
-
-*   [unjs/ipx](https://github.com/unjs/ipx) - 🖼️ High performance, secure and easy-to-use image optimizer.
-
-*   [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A no-build JavaScript CDN for modern web development.
-
-*   [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 
 ## resize
 
@@ -23950,7 +23969,3 @@
 ## system
 
 *   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-
-## spinner
-
-*   [smeijer/spin-delay](https://github.com/smeijer/spin-delay) - Smart spinner helper for React, to manage the duration of loading states.
