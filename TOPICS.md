@@ -2,6 +2,9 @@
 
 ## Table of Contents
 
+*   [documentation-generator](#documentation-generator)
+*   [nuxt](#nuxt)
+*   [nuxt-theme](#nuxt-theme)
 *   [diffs](#diffs)
 *   [memescale](#memescale)
 *   [ai-agents](#ai-agents)
@@ -198,7 +201,6 @@
 *   [location](#location)
 *   [maxmind](#maxmind)
 *   [npmjs](#npmjs)
-*   [nuxt](#nuxt)
 *   [flexbox](#flexbox)
 *   [interactive](#interactive)
 *   [ajv](#ajv)
@@ -262,10 +264,17 @@
 *   [android](#android)
 *   [share-extension](#share-extension)
 *   [share-intent](#share-intent)
-*   [agentskills](#agentskills)
-*   [claude](#claude)
-*   [claudeskills](#claudeskills)
-*   [nanobananapro](#nanobananapro)
+*   [ai-agent](#ai-agent)
+*   [ai-image](#ai-image)
+*   [claude-code-skill](#claude-code-skill)
+*   [clawhub](#clawhub)
+*   [content-creation](#content-creation)
+*   [image-generation](#image-generation)
+*   [nano-banana](#nano-banana)
+*   [openclaw](#openclaw)
+*   [openclaw-skill](#openclaw-skill)
+*   [prompt-engineering](#prompt-engineering)
+*   [prompt-library](#prompt-library)
 *   [kanban](#kanban)
 *   [management](#management)
 *   [task-manager](#task-manager)
@@ -378,6 +387,7 @@
 *   [go](#go)
 *   [llama](#llama)
 *   [llama-cpp](#llama-cpp)
+*   [claude](#claude)
 *   [marketing](#marketing)
 *   [react-native-component](#react-native-component)
 *   [svg](#svg)
@@ -453,7 +463,6 @@
 *   [ws](#ws)
 *   [crustacean](#crustacean)
 *   [molty](#molty)
-*   [openclaw](#openclaw)
 *   [own-your-data](#own-your-data)
 *   [personal](#personal)
 *   [summarize](#summarize)
@@ -831,7 +840,6 @@
 *   [ast-parser](#ast-parser)
 *   [code-analysis](#code-analysis)
 *   [conflict-detection](#conflict-detection)
-*   [documentation-generator](#documentation-generator)
 *   [github-scraper](#github-scraper)
 *   [multi-source](#multi-source)
 *   [pdf](#pdf)
@@ -1349,7 +1357,6 @@
 *   [neovim](#neovim)
 *   [desktop](#desktop)
 *   [keyboard-sounds](#keyboard-sounds)
-*   [ai-agent](#ai-agent)
 *   [code-interpreter](#code-interpreter)
 *   [gpt](#gpt)
 *   [gpt-4](#gpt-4)
@@ -1739,7 +1746,6 @@
 *   [xyz](#xyz)
 *   [zero-dependency](#zero-dependency)
 *   [prompt](#prompt)
-*   [prompt-engineering](#prompt-engineering)
 *   [prompt-generator](#prompt-generator)
 *   [prompt-toolkit](#prompt-toolkit)
 *   [developer-tool](#developer-tool)
@@ -3193,7 +3199,6 @@
 *   [apache](#apache)
 *   [data-viz](#data-viz)
 *   [echarts](#echarts)
-*   [image-generation](#image-generation)
 *   [image-generator](#image-generator)
 *   [opengraph-images](#opengraph-images)
 *   [satori](#satori)
@@ -3275,10 +3280,30 @@
 *   [uniswap](#uniswap)
 *   [security-scanner](#security-scanner)
 *   [solhint](#solhint)
-*   [dapps](#dapps)
-*   [prod](#prod)
-*   [team-appkit](#team-appkit)
-*   [wallet](#wallet)
+
+## documentation-generator
+
+*   [nuxt-content/docus](https://github.com/nuxt-content/docus) - Write beautiful documentations with Nuxt and Markdown.
+
+*   [yusufkaraaslan/Skill\_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
+
+## nuxt
+
+*   [nuxt-content/docus](https://github.com/nuxt-content/docus) - Write beautiful documentations with Nuxt and Markdown.
+
+*   [npmx-dev/npmx.dev](https://github.com/npmx-dev/npmx.dev) - a fast, modern browser for the npm registry
+
+*   [supabase/supabase-js](https://github.com/supabase/supabase-js) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
+
+*   [unplugin/unplugin-icons](https://github.com/unplugin/unplugin-icons) - 🤹 Access thousands of icons as components on-demand universally.
+
+*   [serwist/serwist](https://github.com/serwist/serwist) - A Swiss Army knife for service workers.
+
+*   [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Full-Stack Vue Framework.
+
+## nuxt-theme
+
+*   [nuxt-content/docus](https://github.com/nuxt-content/docus) - Write beautiful documentations with Nuxt and Markdown.
 
 ## diffs
 
@@ -3784,7 +3809,7 @@
 
 *   [smithery-ai/cli](https://github.com/smithery-ai/cli) - Install, manage and develop MCP servers and skills for agents
 
-*   [mui/pigment-css](https://github.com/mui/pigment-css) - Pigment CSS is a zero-runtime CSS-in-JS library that extracts the colocated styles to their own CSS files at build time.
+*   [mui/pigment-css](https://github.com/mui/pigment-css) - ⚠️ 𝐀𝐥𝐩𝐡𝐚 𝐩𝐡𝐚𝐬𝐞. Pigment CSS is a zero-runtime CSS-in-JS library that extracts the colocated styles to their own CSS files at build time.
 
 *   [google/wireit](https://github.com/google/wireit) - Wireit upgrades your npm/pnpm/yarn scripts to make them smarter and more efficient.
 
@@ -4676,7 +4701,7 @@
 
 *   [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.
 
-*   [slashbase/slashbase-go](https://github.com/slashbase/slashbase-go) - Modern database IDE for your dev & data workflows. Supports MySQL, PostgreSQL & MongoDB.
+*   [slashbase/slashbaseide](https://github.com/slashbase/slashbaseide) - Modern database IDE for your dev & data workflows. Supports MySQL, PostgreSQL & MongoDB.
 
 *   [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 
@@ -5267,8 +5292,6 @@
 *   [tambo-ai/tambo](https://github.com/tambo-ai/tambo) - Generative UI SDK for React
 
 *   [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
-
-*   [YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill) - Claude Code / Cursor skill to recommend from 7000+ Nano Banana Pro image prompts.
 
 *   [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
 
@@ -6884,11 +6907,11 @@
 
 ## official
 
-*   [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
+*   [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI assistant Operating System — deploy anywhere, swap anything 🦀
 
 ## official-website
 
-*   [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
+*   [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI assistant Operating System — deploy anywhere, swap anything 🦀
 
 ## notifications
 
@@ -7326,8 +7349,6 @@
 
 *   [rainbow-me/rainbowkit](https://github.com/rainbow-me/rainbowkit) - The best way to connect a wallet 🌈 🧰
 
-*   [reown-com/appkit](https://github.com/reown-com/appkit) - The full stack toolkit to build onchain app UX
-
 ## toast
 
 *   [hiaaryan/sileo](https://github.com/hiaaryan/sileo) - An opinionated, physics-based toast component for React.
@@ -7609,6 +7630,8 @@
 ## gemini
 
 *   [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
+
+*   [YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill) - AI skill for OpenClaw & Claude Code — recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use case, content remix, sample images.
 
 *   [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - the best agent harness
 
@@ -8346,18 +8369,6 @@
 
 *   [npmx-dev/npmx.dev](https://github.com/npmx-dev/npmx.dev) - a fast, modern browser for the npm registry
 
-## nuxt
-
-*   [npmx-dev/npmx.dev](https://github.com/npmx-dev/npmx.dev) - a fast, modern browser for the npm registry
-
-*   [supabase/supabase-js](https://github.com/supabase/supabase-js) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
-
-*   [unplugin/unplugin-icons](https://github.com/unplugin/unplugin-icons) - 🤹 Access thousands of icons as components on-demand universally.
-
-*   [serwist/serwist](https://github.com/serwist/serwist) - A Swiss Army knife for service workers.
-
-*   [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Full-Stack Vue Framework.
-
 ## flexbox
 
 *   [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
@@ -8996,55 +9007,65 @@
 
 *   [achorein/expo-share-intent](https://github.com/achorein/expo-share-intent) - 🚀 Simple share intent in an Expo Native Module
 
-## agentskills
+## ai-agent
 
-*   [YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill) - Claude Code / Cursor skill to recommend from 7000+ Nano Banana Pro image prompts.
+*   [YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill) - AI skill for OpenClaw & Claude Code — recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use case, content remix, sample images.
 
-## claude
+*   [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
 
-*   [YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill) - Claude Code / Cursor skill to recommend from 7000+ Nano Banana Pro image prompts.
+*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend for Agents & Generative UI. React + Angular
 
-*   [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
+## ai-image
 
-*   [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - the best agent harness
+*   [YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill) - AI skill for OpenClaw & Claude Code — recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use case, content remix, sample images.
 
-*   [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases
+## claude-code-skill
 
-*   [FranciscoMoretti/chat-js](https://github.com/FranciscoMoretti/chat-js) - Production-ready AI chat. Start here and make it your own. Formerly Sparka AI
+*   [YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill) - AI skill for OpenClaw & Claude Code — recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use case, content remix, sample images.
 
-*   [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
+## clawhub
 
-*   [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter. 1.5M+ Kilo Coders. 25T+ tokens processed
+*   [YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill) - AI skill for OpenClaw & Claude Code — recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use case, content remix, sample images.
 
-*   [stackblitz-labs/use-stick-to-bottom](https://github.com/stackblitz-labs/use-stick-to-bottom) - A lightweight React Hook intended mainly for AI chat applications, for smoothly sticking to bottom of messages
+## content-creation
 
-*   [voideditor/void](https://github.com/voideditor/void) -
+*   [YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill) - AI skill for OpenClaw & Claude Code — recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use case, content remix, sample images.
 
-*   [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
+## image-generation
 
-*   [theopenco/llmgateway](https://github.com/theopenco/llmgateway) - Route, manage, and analyze your LLM requests across multiple providers with a unified API interface.
+*   [YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill) - AI skill for OpenClaw & Claude Code — recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use case, content remix, sample images.
 
-*   [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
+*   [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
 
-*   [vgulerianb/react-exe](https://github.com/vgulerianb/react-exe) - A powerful React component executor that renders code with external dependencies and custom styling
+## nano-banana
+
+*   [YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill) - AI skill for OpenClaw & Claude Code — recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use case, content remix, sample images.
+
+## openclaw
+
+*   [YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill) - AI skill for OpenClaw & Claude Code — recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use case, content remix, sample images.
+
+*   [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+
+*   [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
+
+*   [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run OpenClaw, store your files and photos, run a Bitcoin node, and do more with over 300 apps in the Umbrel App Store.
+
+## openclaw-skill
+
+*   [YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill) - AI skill for OpenClaw & Claude Code — recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use case, content remix, sample images.
+
+## prompt-engineering
+
+*   [YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill) - AI skill for OpenClaw & Claude Code — recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use case, content remix, sample images.
 
 *   [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 
-*   [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
-
-*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
-
-*   [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.
-
 *   [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
-## claudeskills
+## prompt-library
 
-*   [YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill) - Claude Code / Cursor skill to recommend from 7000+ Nano Banana Pro image prompts.
-
-## nanobananapro
-
-*   [YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill) - Claude Code / Cursor skill to recommend from 7000+ Nano Banana Pro image prompts.
+*   [YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill) - AI skill for OpenClaw & Claude Code — recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use case, content remix, sample images.
 
 ## kanban
 
@@ -9562,7 +9583,7 @@
 
 *   [dexie/Dexie.js](https://github.com/dexie/Dexie.js) - A Minimalistic Wrapper for IndexedDB
 
-*   [slashbase/slashbase-go](https://github.com/slashbase/slashbase-go) - Modern database IDE for your dev & data workflows. Supports MySQL, PostgreSQL & MongoDB.
+*   [slashbase/slashbaseide](https://github.com/slashbase/slashbaseide) - Modern database IDE for your dev & data workflows. Supports MySQL, PostgreSQL & MongoDB.
 
 *   [FrigadeHQ/remote-storage](https://github.com/FrigadeHQ/remote-storage) - remoteStorage is a simple library that combines the localStorage API with a remote server to persist data across sessions, devices, and browsers. It works as a simple key value database store and backend with support for React, Next.js, Vue, Node, or any Javascript stack
 
@@ -9606,7 +9627,7 @@
 
 *   [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
 
-*   [slashbase/slashbase-go](https://github.com/slashbase/slashbase-go) - Modern database IDE for your dev & data workflows. Supports MySQL, PostgreSQL & MongoDB.
+*   [slashbase/slashbaseide](https://github.com/slashbase/slashbaseide) - Modern database IDE for your dev & data workflows. Supports MySQL, PostgreSQL & MongoDB.
 
 *   [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 
@@ -9638,7 +9659,7 @@
 
 *   [electric-sql/electric](https://github.com/electric-sql/electric) - Read-path sync engine for Postgres that handles partial replication, data delivery and fan-out.
 
-*   [slashbase/slashbase-go](https://github.com/slashbase/slashbase-go) - Modern database IDE for your dev & data workflows. Supports MySQL, PostgreSQL & MongoDB.
+*   [slashbase/slashbaseide](https://github.com/slashbase/slashbaseide) - Modern database IDE for your dev & data workflows. Supports MySQL, PostgreSQL & MongoDB.
 
 *   [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
 
@@ -10196,7 +10217,7 @@
 
 *   [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 
-*   [slashbase/slashbase-go](https://github.com/slashbase/slashbase-go) - Modern database IDE for your dev & data workflows. Supports MySQL, PostgreSQL & MongoDB.
+*   [slashbase/slashbaseide](https://github.com/slashbase/slashbaseide) - Modern database IDE for your dev & data workflows. Supports MySQL, PostgreSQL & MongoDB.
 
 *   [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
 
@@ -10223,6 +10244,42 @@
 ## llama-cpp
 
 *   [mybigday/llama.rn](https://github.com/mybigday/llama.rn) - React Native binding of llama.cpp
+
+## claude
+
+*   [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
+
+*   [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - the best agent harness
+
+*   [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases
+
+*   [FranciscoMoretti/chat-js](https://github.com/FranciscoMoretti/chat-js) - Production-ready AI chat. Start here and make it your own. Formerly Sparka AI
+
+*   [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
+
+*   [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter. 1.5M+ Kilo Coders. 25T+ tokens processed
+
+*   [stackblitz-labs/use-stick-to-bottom](https://github.com/stackblitz-labs/use-stick-to-bottom) - A lightweight React Hook intended mainly for AI chat applications, for smoothly sticking to bottom of messages
+
+*   [voideditor/void](https://github.com/voideditor/void) -
+
+*   [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
+
+*   [theopenco/llmgateway](https://github.com/theopenco/llmgateway) - Route, manage, and analyze your LLM requests across multiple providers with a unified API interface.
+
+*   [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
+
+*   [vgulerianb/react-exe](https://github.com/vgulerianb/react-exe) - A powerful React component executor that renders code with external dependencies and custom styling
+
+*   [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
+
+*   [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
+
+*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
+
+*   [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.
+
+*   [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## marketing
 
@@ -10842,14 +10899,6 @@
 
 *   [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 
-## openclaw
-
-*   [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
-
-*   [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
-
-*   [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run OpenClaw, store your files and photos, run a Bitcoin node, and do more with over 300 apps in the Umbrel App Store.
-
 ## own-your-data
 
 *   [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
@@ -11018,7 +11067,7 @@
 
 *   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
 
-*   [slashbase/slashbase-go](https://github.com/slashbase/slashbase-go) - Modern database IDE for your dev & data workflows. Supports MySQL, PostgreSQL & MongoDB.
+*   [slashbase/slashbaseide](https://github.com/slashbase/slashbaseide) - Modern database IDE for your dev & data workflows. Supports MySQL, PostgreSQL & MongoDB.
 
 *   [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
 
@@ -12882,7 +12931,7 @@
 
 *   [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is an open-source graph-vector database built from scratch in Rust.
 
-*   [slashbase/slashbase-go](https://github.com/slashbase/slashbase-go) - Modern database IDE for your dev & data workflows. Supports MySQL, PostgreSQL & MongoDB.
+*   [slashbase/slashbaseide](https://github.com/slashbase/slashbaseide) - Modern database IDE for your dev & data workflows. Supports MySQL, PostgreSQL & MongoDB.
 
 *   [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 
@@ -13010,9 +13059,13 @@
 
 *   [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori) - SQL Native Memory Layer for LLMs, AI Agents & Multi-Agent Systems
 
+*   [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
+
 ## ai-memory
 
 *   [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori) - SQL Native Memory Layer for LLMs, AI Agents & Multi-Agent Systems
+
+*   [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
 
 ## aiagent
 
@@ -13031,6 +13084,8 @@
 ## memory
 
 *   [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori) - SQL Native Memory Layer for LLMs, AI Agents & Multi-Agent Systems
+
+*   [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
 
 *   [facebook/memlab](https://github.com/facebook/memlab) - A framework for finding JavaScript memory leaks and analyzing heap snapshots
 
@@ -13661,10 +13716,6 @@
 *   [yusufkaraaslan/Skill\_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 
 ## conflict-detection
-
-*   [yusufkaraaslan/Skill\_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
-
-## documentation-generator
 
 *   [yusufkaraaslan/Skill\_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 
@@ -14508,7 +14559,7 @@
 
 *   [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 
-*   [slashbase/slashbase-go](https://github.com/slashbase/slashbase-go) - Modern database IDE for your dev & data workflows. Supports MySQL, PostgreSQL & MongoDB.
+*   [slashbase/slashbaseide](https://github.com/slashbase/slashbaseide) - Modern database IDE for your dev & data workflows. Supports MySQL, PostgreSQL & MongoDB.
 
 *   [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
 
@@ -16826,12 +16877,6 @@
 
 *   [ZacharyL2/KeyEcho](https://github.com/ZacharyL2/KeyEcho) - Listen to Mechanical Keyboard Sounds with Every Keystroke - It's Fast
 
-## ai-agent
-
-*   [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
-
-*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend for Agents & Generative UI. React + Angular
-
 ## code-interpreter
 
 *   [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
@@ -18012,8 +18057,6 @@
 
 *   [HiDeoo/starlight-openapi](https://github.com/HiDeoo/starlight-openapi) - Starlight plugin to generate documentation from OpenAPI/Swagger specifications
 
-*   [reown-com/appkit](https://github.com/reown-com/appkit) - The full stack toolkit to build onchain app UX
-
 ## tao
 
 *   [tauri-apps/window-vibrancy](https://github.com/tauri-apps/window-vibrancy) - Make your windows vibrant.
@@ -18828,12 +18871,6 @@
 
 *   [bombshell-dev/clack](https://github.com/bombshell-dev/clack) - Effortlessly build beautiful command-line apps
 
-## prompt-engineering
-
-*   [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
-
-*   [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
-
 ## prompt-generator
 
 *   [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
@@ -19343,8 +19380,6 @@
 ## widget
 
 *   [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech\_balloon: :gem:
-
-*   [reown-com/appkit](https://github.com/reown-com/appkit) - The full stack toolkit to build onchain app UX
 
 ## json-parser
 
@@ -20774,8 +20809,6 @@
 
 *   [protofire/solhint](https://github.com/protofire/solhint) - Solhint is an open-source project to provide a linting utility for Solidity code.
 
-*   [reown-com/appkit](https://github.com/reown-com/appkit) - The full stack toolkit to build onchain app UX
-
 ## factory-contract
 
 *   [pcaversaccio/createx](https://github.com/pcaversaccio/createx) - Factory smart contract to make easier and safer usage of the `CREATE` and `CREATE2` EVM opcodes as well as of `CREATE3`-based (i.e. without an initcode factor) contract creations.
@@ -21866,8 +21899,6 @@
 
 *   [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management platform
 
-*   [reown-com/appkit](https://github.com/reown-com/appkit) - The full stack toolkit to build onchain app UX
-
 ## platform-engineering
 
 *   [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management platform
@@ -22294,7 +22325,7 @@
 
 *   [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.
 
-*   [slashbase/slashbase-go](https://github.com/slashbase/slashbase-go) - Modern database IDE for your dev & data workflows. Supports MySQL, PostgreSQL & MongoDB.
+*   [slashbase/slashbaseide](https://github.com/slashbase/slashbaseide) - Modern database IDE for your dev & data workflows. Supports MySQL, PostgreSQL & MongoDB.
 
 ## payload
 
@@ -22906,7 +22937,7 @@
 
 *   [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
 
-*   [slashbase/slashbase-go](https://github.com/slashbase/slashbase-go) - Modern database IDE for your dev & data workflows. Supports MySQL, PostgreSQL & MongoDB.
+*   [slashbase/slashbaseide](https://github.com/slashbase/slashbaseide) - Modern database IDE for your dev & data workflows. Supports MySQL, PostgreSQL & MongoDB.
 
 *   [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️  – Pull Requests welcome!
 
@@ -23070,43 +23101,43 @@
 
 ## database-client
 
-*   [slashbase/slashbase-go](https://github.com/slashbase/slashbase-go) - Modern database IDE for your dev & data workflows. Supports MySQL, PostgreSQL & MongoDB.
+*   [slashbase/slashbaseide](https://github.com/slashbase/slashbaseide) - Modern database IDE for your dev & data workflows. Supports MySQL, PostgreSQL & MongoDB.
 
 ## database-management
 
-*   [slashbase/slashbase-go](https://github.com/slashbase/slashbase-go) - Modern database IDE for your dev & data workflows. Supports MySQL, PostgreSQL & MongoDB.
+*   [slashbase/slashbaseide](https://github.com/slashbase/slashbaseide) - Modern database IDE for your dev & data workflows. Supports MySQL, PostgreSQL & MongoDB.
 
 ## mongo
 
-*   [slashbase/slashbase-go](https://github.com/slashbase/slashbase-go) - Modern database IDE for your dev & data workflows. Supports MySQL, PostgreSQL & MongoDB.
+*   [slashbase/slashbaseide](https://github.com/slashbase/slashbaseide) - Modern database IDE for your dev & data workflows. Supports MySQL, PostgreSQL & MongoDB.
 
 ## mongo-db
 
-*   [slashbase/slashbase-go](https://github.com/slashbase/slashbase-go) - Modern database IDE for your dev & data workflows. Supports MySQL, PostgreSQL & MongoDB.
+*   [slashbase/slashbaseide](https://github.com/slashbase/slashbaseide) - Modern database IDE for your dev & data workflows. Supports MySQL, PostgreSQL & MongoDB.
 
 ## mongosh
 
-*   [slashbase/slashbase-go](https://github.com/slashbase/slashbase-go) - Modern database IDE for your dev & data workflows. Supports MySQL, PostgreSQL & MongoDB.
+*   [slashbase/slashbaseide](https://github.com/slashbase/slashbaseide) - Modern database IDE for your dev & data workflows. Supports MySQL, PostgreSQL & MongoDB.
 
 ## mysql-client
 
-*   [slashbase/slashbase-go](https://github.com/slashbase/slashbase-go) - Modern database IDE for your dev & data workflows. Supports MySQL, PostgreSQL & MongoDB.
+*   [slashbase/slashbaseide](https://github.com/slashbase/slashbaseide) - Modern database IDE for your dev & data workflows. Supports MySQL, PostgreSQL & MongoDB.
 
 ## mysql-workbench
 
-*   [slashbase/slashbase-go](https://github.com/slashbase/slashbase-go) - Modern database IDE for your dev & data workflows. Supports MySQL, PostgreSQL & MongoDB.
+*   [slashbase/slashbaseide](https://github.com/slashbase/slashbaseide) - Modern database IDE for your dev & data workflows. Supports MySQL, PostgreSQL & MongoDB.
 
 ## pgadmin
 
-*   [slashbase/slashbase-go](https://github.com/slashbase/slashbase-go) - Modern database IDE for your dev & data workflows. Supports MySQL, PostgreSQL & MongoDB.
+*   [slashbase/slashbaseide](https://github.com/slashbase/slashbaseide) - Modern database IDE for your dev & data workflows. Supports MySQL, PostgreSQL & MongoDB.
 
 ## phpmyadmin
 
-*   [slashbase/slashbase-go](https://github.com/slashbase/slashbase-go) - Modern database IDE for your dev & data workflows. Supports MySQL, PostgreSQL & MongoDB.
+*   [slashbase/slashbaseide](https://github.com/slashbase/slashbaseide) - Modern database IDE for your dev & data workflows. Supports MySQL, PostgreSQL & MongoDB.
 
 ## sql-editor
 
-*   [slashbase/slashbase-go](https://github.com/slashbase/slashbase-go) - Modern database IDE for your dev & data workflows. Supports MySQL, PostgreSQL & MongoDB.
+*   [slashbase/slashbaseide](https://github.com/slashbase/slashbaseide) - Modern database IDE for your dev & data workflows. Supports MySQL, PostgreSQL & MongoDB.
 
 ## clean-architecture
 
@@ -24055,8 +24086,6 @@
 ## walletconnect
 
 *   [family/connectkit](https://github.com/family/connectkit) - Connecting a wallet, made simple.
-
-*   [reown-com/appkit](https://github.com/reown-com/appkit) - The full stack toolkit to build onchain app UX
 
 ## web3
 
@@ -25404,10 +25433,6 @@
 
 *   [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 
-## image-generation
-
-*   [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
-
 ## image-generator
 
 *   [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
@@ -25733,19 +25758,3 @@
 ## solhint
 
 *   [protofire/solhint](https://github.com/protofire/solhint) - Solhint is an open-source project to provide a linting utility for Solidity code.
-
-## dapps
-
-*   [reown-com/appkit](https://github.com/reown-com/appkit) - The full stack toolkit to build onchain app UX
-
-## prod
-
-*   [reown-com/appkit](https://github.com/reown-com/appkit) - The full stack toolkit to build onchain app UX
-
-## team-appkit
-
-*   [reown-com/appkit](https://github.com/reown-com/appkit) - The full stack toolkit to build onchain app UX
-
-## wallet
-
-*   [reown-com/appkit](https://github.com/reown-com/appkit) - The full stack toolkit to build onchain app UX

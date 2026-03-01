@@ -39,6 +39,8 @@
 
 ## TypeScript
 
+*   [nuxt-content/docus](https://github.com/nuxt-content/docus) - Write beautiful documentations with Nuxt and Markdown.
+
 *   [pierrecomputer/pierre](https://github.com/pierrecomputer/pierre) - pierre’s open source code
 
 *   [vercel/chat](https://github.com/vercel/chat) - A unified TypeScript SDK for building chat bots across Slack, Microsoft Teams, Google Chat, Discord, and more.
@@ -129,7 +131,7 @@
 
 *   [achorein/expo-share-intent](https://github.com/achorein/expo-share-intent) - 🚀 Simple share intent in an Expo Native Module
 
-*   [YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill) - Claude Code / Cursor skill to recommend from 7000+ Nano Banana Pro image prompts.
+*   [YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill) - AI skill for OpenClaw & Claude Code — recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use case, content remix, sample images.
 
 *   [garmeeh/next-seo](https://github.com/garmeeh/next-seo) - Next SEO is a plug in that makes managing your SEO easier in Next.js projects.
 
@@ -707,7 +709,7 @@
 
 *   [JohannesKlauss/react-hotkeys-hook](https://github.com/JohannesKlauss/react-hotkeys-hook) - React hook for using keyboard shortcuts in components.
 
-*   [mui/pigment-css](https://github.com/mui/pigment-css) - Pigment CSS is a zero-runtime CSS-in-JS library that extracts the colocated styles to their own CSS files at build time.
+*   [mui/pigment-css](https://github.com/mui/pigment-css) - ⚠️ 𝐀𝐥𝐩𝐡𝐚 𝐩𝐡𝐚𝐬𝐞. Pigment CSS is a zero-runtime CSS-in-JS library that extracts the colocated styles to their own CSS files at build time.
 
 *   [google/wireit](https://github.com/google/wireit) - Wireit upgrades your npm/pnpm/yarn scripts to make them smarter and more efficient.
 
@@ -1225,7 +1227,7 @@
 
 *   [formkit/tempo](https://github.com/formkit/tempo) - 📆 Parse, format, manipulate, and internationalize dates and times in JavaScript and TypeScript.
 
-*   [slashbase/slashbase-go](https://github.com/slashbase/slashbase-go) - Modern database IDE for your dev & data workflows. Supports MySQL, PostgreSQL & MongoDB.
+*   [slashbase/slashbaseide](https://github.com/slashbase/slashbaseide) - Modern database IDE for your dev & data workflows. Supports MySQL, PostgreSQL & MongoDB.
 
 *   [labs42io/clean-code-typescript](https://github.com/labs42io/clean-code-typescript) - Clean Code concepts adapted for TypeScript
 
@@ -1539,8 +1541,6 @@
 
 *   [tsconfig/bases](https://github.com/tsconfig/bases) - Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
 
-*   [reown-com/appkit](https://github.com/reown-com/appkit) - The full stack toolkit to build onchain app UX
-
 ## Python
 
 *   [danilop/semstash](https://github.com/danilop/semstash) - Unlimited semantic storage for humans and AI agents
@@ -1759,7 +1759,7 @@
 
 *   [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 
-*   [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
+*   [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI assistant Operating System — deploy anywhere, swap anything 🦀
 
 *   [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
 
