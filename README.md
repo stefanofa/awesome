@@ -70,7 +70,7 @@
 
 *   [millionco/react-doctor](https://github.com/millionco/react-doctor) - Let coding agents diagnose and fix your React code
 
-*   [B1u3B01t/design-playground](https://github.com/B1u3B01t/design-playground) -
+*   [B1u3B01t/design-playground](https://github.com/B1u3B01t/design-playground) - Drag components onto a canvas and generate AI-powered layout and style variations — right inside your Next.js project.
 
 *   [tigerabrodi/fude](https://github.com/tigerabrodi/fude) - A React component for rich text input with @ mentions and AI autocomplete.
 
@@ -1240,7 +1240,7 @@
 
 *   [kwhitley/itty-router](https://github.com/kwhitley/itty-router) - A little router.
 
-*   [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 The cross-browser extension framework
+*   [extension-js/extension.js](https://github.com/extension-js/extension.js) - Create, develop, build, and preview browser extensions for Chrome, Firefox, Edge, and Safari.
 
 *   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 
@@ -1796,7 +1796,7 @@
 
 *   [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
 
-*   [prime-ui/primeui](https://github.com/prime-ui/primeui) - AI-powered, open-source platform to launch and manage marketing sites.
+*   [prime-ui/primeui](https://github.com/prime-ui/primeui) - Build sites fast.
 
 *   [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 
