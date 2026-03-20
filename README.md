@@ -3,8 +3,8 @@
 ## Table of Contents
 
 *   [TypeScript](#typescript)
-*   [Swift](#swift)
 *   [Python](#python)
+*   [Swift](#swift)
 *   [JavaScript](#javascript)
 *   [Go](#go)
 *   [miscellaneous](#miscellaneous)
@@ -38,6 +38,12 @@
 
 ## TypeScript
 
+*   [agentified/agentified](https://github.com/agentified/agentified) - Main SDK
+
+*   [margelo/react-native-graph](https://github.com/margelo/react-native-graph) - 📈 Beautiful, high-performance Graphs and Charts for React Native built with Skia
+
+*   [margelo/react-native-nitro-fetch](https://github.com/margelo/react-native-nitro-fetch) - A super-fast network fetching library for React Native with prefetching support
+
 *   [raphaelsalaja/userinterface-wiki](https://github.com/raphaelsalaja/userinterface-wiki) - A Living Manual for Better Interfaces
 
 *   [entropyconquers/react-native-reanimated-dnd](https://github.com/entropyconquers/react-native-reanimated-dnd) - A powerful, performant drag-and-drop library for React Native built on Reanimated 4 and Gesture Handler. Smooth 60fps animations, sortable lists & grids, collision detection, and full TypeScript support.
@@ -50,7 +56,7 @@
 
 *   [openstory-so/openstory](https://github.com/openstory-so/openstory) -
 
-*   [webadderall/Recordly](https://github.com/webadderall/Recordly) - A free, open-source Screen Studio alternative that adds auto-zoom, cursor animations and more to your screen recordings.
+*   [webadderall/Recordly](https://github.com/webadderall/Recordly) - The open-source screen recorder and editor for creating polished walkthroughs, demos, tutorials, and product videos. Add auto-zoom, webcam overlays, cursor animations and more to your screen recordings. An alternative to Screen Studio.
 
 *   [AppAndFlow/react-native-ease](https://github.com/AppAndFlow/react-native-ease) - 🍃 Lightweight declarative animations powered by platform APIs
 
@@ -1566,61 +1572,9 @@
 
 *   [stevenpetryk/mafs](https://github.com/stevenpetryk/mafs) - React components for interactive math
 
-## Swift
-
-*   [yazinsai/OpenOats](https://github.com/yazinsai/OpenOats) - A meeting note-taker that talks back.
-
-*   [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) - A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
-
-*   [argmaxinc/WhisperKit](https://github.com/argmaxinc/WhisperKit) - On-device Speech Recognition for Apple Silicon
-
-*   [FluidInference/FluidAudio](https://github.com/FluidInference/FluidAudio) - Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.
-
-*   [kitlangton/Hex](https://github.com/kitlangton/Hex) - VOICE → WORDS
-
-*   [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences.
-
-*   [newmaterialco/chowder-iOS](https://github.com/newmaterialco/chowder-iOS) -
-
-*   [juanjovn/craion-onboarding](https://github.com/juanjovn/craion-onboarding) - Animated onboarding in SwiftUI from my app crAion
-
-*   [cameroncooke/AXe](https://github.com/cameroncooke/AXe) - AXe is a CLI tool for interacting with Simulators using Apple's Private Accessibility APIs.
-
-*   [bahattinkoc/ipaverse](https://github.com/bahattinkoc/ipaverse) - A modern macOS app for downloading and managing iOS apps from the App Store
-
-*   [nandorojo/galeria](https://github.com/nandorojo/galeria) - The React (Native) Image Viewer. 📷
-
-*   [Any-Distance/any-distance-ios](https://github.com/Any-Distance/any-distance-ios) -
-
-*   [sozercan/kaset](https://github.com/sozercan/kaset) - 📻 The missing YouTube Music macOS app
-
-*   [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
-
-*   [launchtodayhq/react-native-keyboard-composer](https://github.com/launchtodayhq/react-native-keyboard-composer) - A native keyboard-aware composer for React Native chat applications.
-
-*   [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.
-
-*   [productdevbook/port-killer](https://github.com/productdevbook/port-killer) - A powerful cross-platform port management tool for developers. Monitor ports, manage Kubernetes port forwards, integrate Cloudflare Tunnels, and kill processes with one click.
-
-*   [KeyboardKit/KeyboardKit](https://github.com/KeyboardKit/KeyboardKit) - Create amazing custom iOS keyboards with Swift & SwiftUI.
-
-*   [Dimillian/RetroDiffusionApp](https://github.com/Dimillian/RetroDiffusionApp) - iOS app for https://retrodiffusion.ai/app/devtools
-
-*   [the-ora/browser](https://github.com/the-ora/browser) - Less noise, more browsing.
-
-*   [mocki-toki/barik](https://github.com/mocki-toki/barik) - macOS menu bar replacement, with yabai and AeroSpace support
-
-*   [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
-
-*   [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch) - TheBoringNotch: Not so boring notch That Rocks 🎸🎶
-
-*   [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
-
-*   [evanw/thumbhash](https://github.com/evanw/thumbhash) - A very compact representation of an image placeholder
-
-*   [alexwidua/prototypes](https://github.com/alexwidua/prototypes) - little monorepo of swiftui prototypes
-
 ## Python
+
+*   [mosaico-labs/mosaico](https://github.com/mosaico-labs/mosaico) - Mosaico - The data platform for Physical AI
 
 *   [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) - MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.
 
@@ -1739,6 +1693,60 @@
 *   [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 
 *   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
+
+## Swift
+
+*   [yazinsai/OpenOats](https://github.com/yazinsai/OpenOats) - A meeting note-taker that talks back.
+
+*   [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) - A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
+
+*   [argmaxinc/WhisperKit](https://github.com/argmaxinc/WhisperKit) - On-device Speech Recognition for Apple Silicon
+
+*   [FluidInference/FluidAudio](https://github.com/FluidInference/FluidAudio) - Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.
+
+*   [kitlangton/Hex](https://github.com/kitlangton/Hex) - VOICE → WORDS
+
+*   [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences.
+
+*   [newmaterialco/chowder-iOS](https://github.com/newmaterialco/chowder-iOS) -
+
+*   [juanjovn/craion-onboarding](https://github.com/juanjovn/craion-onboarding) - Animated onboarding in SwiftUI from my app crAion
+
+*   [cameroncooke/AXe](https://github.com/cameroncooke/AXe) - AXe is a CLI tool for interacting with Simulators using Apple's Private Accessibility APIs.
+
+*   [bahattinkoc/ipaverse](https://github.com/bahattinkoc/ipaverse) - A modern macOS app for downloading and managing iOS apps from the App Store
+
+*   [nandorojo/galeria](https://github.com/nandorojo/galeria) - The React (Native) Image Viewer. 📷
+
+*   [Any-Distance/any-distance-ios](https://github.com/Any-Distance/any-distance-ios) -
+
+*   [sozercan/kaset](https://github.com/sozercan/kaset) - 📻 The missing YouTube Music macOS app
+
+*   [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
+
+*   [launchtodayhq/react-native-keyboard-composer](https://github.com/launchtodayhq/react-native-keyboard-composer) - A native keyboard-aware composer for React Native chat applications.
+
+*   [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.
+
+*   [productdevbook/port-killer](https://github.com/productdevbook/port-killer) - A powerful cross-platform port management tool for developers. Monitor ports, manage Kubernetes port forwards, integrate Cloudflare Tunnels, and kill processes with one click.
+
+*   [KeyboardKit/KeyboardKit](https://github.com/KeyboardKit/KeyboardKit) - Create amazing custom iOS keyboards with Swift & SwiftUI.
+
+*   [Dimillian/RetroDiffusionApp](https://github.com/Dimillian/RetroDiffusionApp) - iOS app for https://retrodiffusion.ai/app/devtools
+
+*   [the-ora/browser](https://github.com/the-ora/browser) - Less noise, more browsing.
+
+*   [mocki-toki/barik](https://github.com/mocki-toki/barik) - macOS menu bar replacement, with yabai and AeroSpace support
+
+*   [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
+
+*   [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch) - TheBoringNotch: Not so boring notch That Rocks 🎸🎶
+
+*   [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
+
+*   [evanw/thumbhash](https://github.com/evanw/thumbhash) - A very compact representation of an image placeholder
+
+*   [alexwidua/prototypes](https://github.com/alexwidua/prototypes) - little monorepo of swiftui prototypes
 
 ## JavaScript
 
@@ -1958,12 +1966,6 @@
 
 *   [publint/publint](https://github.com/publint/publint) - Lint packaging errors
 
-*   [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-generation full-text search library for Browser and Node.js
-
-*   [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
-
-*   [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript
-
 ## Go
 
 *   [rudrankriyam/App-Store-Connect-CLI](https://github.com/rudrankriyam/App-Store-Connect-CLI) - Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more. JSON-first, no interactive prompts
@@ -1996,7 +1998,7 @@
 
 *   [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 
-*   [mariocandela/beelzebub](https://github.com/mariocandela/beelzebub) - A secure low code honeypot framework, leveraging AI for System Virtualization.
+*   [beelzebub-labs/beelzebub](https://github.com/beelzebub-labs/beelzebub) - A secure low code honeypot framework, leveraging AI for System Virtualization.
 
 *   [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
 
@@ -2144,7 +2146,7 @@
 
 *   [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 
-*   [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
+*   [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀
 
 *   [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 
@@ -2485,8 +2487,6 @@
 *   [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
 
 *   [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
-
-*   [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 
 ## Clojure
 
