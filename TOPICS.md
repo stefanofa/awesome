@@ -646,6 +646,11 @@
 *   [navigation-bar](#navigation-bar)
 *   [status-bar](#status-bar)
 *   [animations](#animations)
+*   [collapsible](#collapsible)
+*   [collapsible-header](#collapsible-header)
+*   [collapsible-tab-view](#collapsible-tab-view)
+*   [gesture-handler](#gesture-handler)
+*   [gestures](#gestures)
 *   [header](#header)
 *   [navigation](#navigation)
 *   [reanimated](#reanimated)
@@ -998,7 +1003,6 @@
 *   [internal](#internal)
 *   [reconciler](#reconciler)
 *   [esbuild](#esbuild)
-*   [gesture-handler](#gesture-handler)
 *   [hook](#hook)
 *   [hooks](#hooks)
 *   [intersection-observer](#intersection-observer)
@@ -1929,7 +1933,6 @@
 *   [stripe](#stripe)
 *   [flows](#flows)
 *   [drag](#drag)
-*   [gestures](#gestures)
 *   [pinch](#pinch)
 *   [wheel](#wheel)
 *   [zoom](#zoom)
@@ -4057,7 +4060,7 @@
 
 *   [joshpuckett/dialkit](https://github.com/joshpuckett/dialkit) - A library to help you dial in interface parameters of any kind
 
-*   [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
+*   [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 
 *   [piyushzingade/motionwind](https://github.com/piyushzingade/motionwind) - Write Framer Motion animations as Tailwind-style utility classes – Motionwind transforms animate-\* classes into motion props at build time with zero imports and zero boilerplate.
 
@@ -12215,6 +12218,8 @@
 
 *   [MatiPl01/react-native-sortables](https://github.com/MatiPl01/react-native-sortables) - 🚀 Powerful Sortable Components for Flexible Content Reordering in React Native
 
+*   [pawicao/react-native-header-motion](https://github.com/pawicao/react-native-header-motion) - High-level APIs for orchestrating header motion driven by scroll — built on top of React Native Reanimated.
+
 *   [daybrush/moveable](https://github.com/daybrush/moveable) - Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable!
 
 *   [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern toolkit for building drag and drop interfaces
@@ -12300,6 +12305,30 @@
 *   [basementstudio/scrollytelling](https://github.com/basementstudio/scrollytelling) - A library for creating Scrollytelling animations, powered by React & GSAP.
 
 *   [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building memorable websites.
+
+## collapsible
+
+*   [pawicao/react-native-header-motion](https://github.com/pawicao/react-native-header-motion) - High-level APIs for orchestrating header motion driven by scroll — built on top of React Native Reanimated.
+
+## collapsible-header
+
+*   [pawicao/react-native-header-motion](https://github.com/pawicao/react-native-header-motion) - High-level APIs for orchestrating header motion driven by scroll — built on top of React Native Reanimated.
+
+## collapsible-tab-view
+
+*   [pawicao/react-native-header-motion](https://github.com/pawicao/react-native-header-motion) - High-level APIs for orchestrating header motion driven by scroll — built on top of React Native Reanimated.
+
+## gesture-handler
+
+*   [pawicao/react-native-header-motion](https://github.com/pawicao/react-native-header-motion) - High-level APIs for orchestrating header motion driven by scroll — built on top of React Native Reanimated.
+
+*   [enzomanuelmangano/demos](https://github.com/enzomanuelmangano/demos) - An ongoing collection of React Native animations crafted with Reanimated, Gesture Handler, and Skia.
+
+## gestures
+
+*   [pawicao/react-native-header-motion](https://github.com/pawicao/react-native-header-motion) - High-level APIs for orchestrating header motion driven by scroll — built on top of React Native Reanimated.
+
+*   [pmndrs/use-gesture](https://github.com/pmndrs/use-gesture) - 👇Bread n butter utility for component-tied mouse/touch gestures in React and Vanilla Javascript.
 
 ## header
 
@@ -14626,10 +14655,6 @@
 *   [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
 
 *   [unjs/unplugin](https://github.com/unjs/unplugin) - Unified plugin system for Vite, Rollup, Webpack, esbuild, Rolldown, and more
-
-## gesture-handler
-
-*   [enzomanuelmangano/demos](https://github.com/enzomanuelmangano/demos) - An ongoing collection of React Native animations crafted with Reanimated, Gesture Handler, and Skia.
 
 ## hook
 
@@ -19702,10 +19727,6 @@
 *   [hello-pangea/dnd](https://github.com/hello-pangea/dnd) - 💅 Beautiful and accessible drag and drop for lists with React. ⭐️ Star to support our work!
 
 *   [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern toolkit for building drag and drop interfaces
-
-## gestures
-
-*   [pmndrs/use-gesture](https://github.com/pmndrs/use-gesture) - 👇Bread n butter utility for component-tied mouse/touch gestures in React and Vanilla Javascript.
 
 ## pinch
 

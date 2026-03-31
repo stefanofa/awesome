@@ -393,7 +393,7 @@
 
 *   [joshpuckett/dialkit](https://github.com/joshpuckett/dialkit) - A library to help you dial in interface parameters of any kind
 
-*   [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
+*   [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 
 *   [piyushzingade/motionwind](https://github.com/piyushzingade/motionwind) - Write Framer Motion animations as Tailwind-style utility classes – Motionwind transforms animate-\* classes into motion props at build time with zero imports and zero boilerplate.
 
