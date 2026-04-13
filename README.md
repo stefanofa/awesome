@@ -2,9 +2,9 @@
 
 ## Table of Contents
 
-*   [Kotlin](#kotlin)
 *   [Swift](#swift)
 *   [TypeScript](#typescript)
+*   [Kotlin](#kotlin)
 *   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
 *   [Rust](#rust)
@@ -37,23 +37,11 @@
 *   [Jinja](#jinja)
 *   [SCSS](#scss)
 
-## Kotlin
-
-*   [software-mansion/pulsar](https://github.com/software-mansion/pulsar) - ✨ Pulsar: Rich and ready-to-use haptics library
-
-*   [oblador/react-native-keychain](https://github.com/oblador/react-native-keychain) - :key: Keychain Access for React Native
-
-*   [software-mansion-labs/react-native-enriched-markdown](https://github.com/software-mansion-labs/react-native-enriched-markdown) - Markdown Input & Text for React Native
-
-*   [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro) - Painless E2E Automation for Mobile and Web
-
-*   [pioner92/react-native-auto-skeleton](https://github.com/pioner92/react-native-auto-skeleton) - 🚀  Automatically generates skeleton based on your existing UI layout without manual configuration.
-
-*   [ethereum-lists/chains](https://github.com/ethereum-lists/chains) - provides metadata for chains
-
 ## Swift
 
-*   [shobhit99/SuperIsland](https://github.com/shobhit99/SuperIsland) - Dynamic Island for MacOS — with Super Powers
+*   [xmtplabs/convos-ios](https://github.com/xmtplabs/convos-ios) - Everyday private chat  for the AI era
+
+*   [shobhit99/SuperIsland](https://github.com/shobhit99/SuperIsland) - Dynamic Island for MacOS — with Extensions
 
 *   [arunabhverma/expo-paste-input](https://github.com/arunabhverma/expo-paste-input) - Cross-platform native paste handling for React Native.
 
@@ -115,6 +103,8 @@
 
 ## TypeScript
 
+*   [millionco/isolet](https://github.com/millionco/isolet) - Package any component into a self-contained, isolated widget
+
 *   [SuperCmdLabs/SuperCmd](https://github.com/SuperCmdLabs/SuperCmd) - Powerful MacOS Launcher
 
 *   [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
@@ -125,7 +115,7 @@
 
 *   [0xGF/boneyard](https://github.com/0xGF/boneyard) - Auto generated skeleton loading framework
 
-*   [darula-hpp/shimmer-from-structure](https://github.com/darula-hpp/shimmer-from-structure) - A structure-aware skeleton loader that mirrors your rendered UI at runtime. Zero layout duplication. Built for modern frameworks.
+*   [darula-hpp/shimmer-from-structure](https://github.com/darula-hpp/shimmer-from-structure) - A structure-aware skeleton loader generator that mirrors your rendered UI at runtime. Zero layout duplication. Built for modern frameworks.
 
 *   [wesbos/JSON-Alexander](https://github.com/wesbos/JSON-Alexander) - A really good JSON viewer browser Extension
 
@@ -183,7 +173,7 @@
 
 *   [openstory-so/openstory](https://github.com/openstory-so/openstory) - Open-source AI-powered video sequence platform built with TanStack Start
 
-*   [webadderall/Recordly](https://github.com/webadderall/Recordly) - Create polished screen recordings for free. An open-source screen recorder for Mac/Windows/Linux that adds auto-zooms, animated cursors, auto-captions and more to your videos.
+*   [webadderall/Recordly](https://github.com/webadderall/Recordly) - Create polished screen recordings for free. An open-source alternative to Screen Studio.
 
 *   [AppAndFlow/react-native-ease](https://github.com/AppAndFlow/react-native-ease) - 🍃 Lightweight declarative animations powered by platform APIs
 
@@ -1741,6 +1731,20 @@
 
 *   [duckdegen/apebot](https://github.com/duckdegen/apebot) - Binance listing sniping bot built to purchase onchain as fast as possible
 
+## Kotlin
+
+*   [software-mansion/pulsar](https://github.com/software-mansion/pulsar) - ✨ Pulsar: Rich and ready-to-use haptics library
+
+*   [oblador/react-native-keychain](https://github.com/oblador/react-native-keychain) - :key: Keychain Access for React Native
+
+*   [software-mansion-labs/react-native-enriched-markdown](https://github.com/software-mansion-labs/react-native-enriched-markdown) - Markdown Input & Text for React Native
+
+*   [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro) - Painless E2E Automation for Mobile and Web
+
+*   [pioner92/react-native-auto-skeleton](https://github.com/pioner92/react-native-auto-skeleton) - 🚀  Automatically generates skeleton based on your existing UI layout without manual configuration.
+
+*   [ethereum-lists/chains](https://github.com/ethereum-lists/chains) - provides metadata for chains
+
 ## JavaScript
 
 *   [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
@@ -1761,7 +1765,7 @@
 
 *   [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 
-*   [Anil-matcha/Open-Higgsfield-AI](https://github.com/Anil-matcha/Open-Higgsfield-AI) - Open-source alternative to Higgsfield AI — Free AI image generation & cinema studio with 20+ models (Flux, SDXL, Midjourney, Ideogram). Self-hosted, customizable, MIT licensed.
+*   [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Open-source alternative to Higgsfield AI, Freepik, Krea, Openart AI — Free AI image generation & cinema studio with 20+ models (Flux, SDXL, Midjourney, Ideogram). Self-hosted, customizable, MIT licensed.
 
 *   [aralroca/next-translate](https://github.com/aralroca/next-translate) - Next.js plugin + i18n API for Next.js 🌍  -  Load page translations and use them in an easy way!
 
@@ -2327,8 +2331,6 @@
 
 *   [starkware-libs/cairo-lang](https://github.com/starkware-libs/cairo-lang) -
 
-*   [crytic/slither](https://github.com/crytic/slither) - Static Analyzer for Solidity and Vyper
-
 ## Java
 
 *   [nandorojo/burnt](https://github.com/nandorojo/burnt) - Crunchy toasts for React Native. 🍞
@@ -2574,8 +2576,6 @@
 *   [smakosh/roll-your-own-auth](https://github.com/smakosh/roll-your-own-auth) - Copy & paste code to roll your own auth easily and for free
 
 *   [mkosir/typescript-style-guide](https://github.com/mkosir/typescript-style-guide) - ⚙️ TypeScript Style Guide. A concise set of conventions and best practices for creating consistent, maintainable code.
-
-*   [rainbow-me/rainbowkit](https://github.com/rainbow-me/rainbowkit) - The best way to connect a wallet 🌈 🧰
 
 ## Objective-C
 
