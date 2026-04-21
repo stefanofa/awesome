@@ -2,6 +2,8 @@
 
 ## Table of Contents
 
+*   [Swift](#swift)
+*   [Ruby](#ruby)
 *   [HTML](#html)
 *   [TypeScript](#typescript)
 *   [Go](#go)
@@ -9,7 +11,6 @@
 *   [Assembly](#assembly)
 *   [miscellaneous](#miscellaneous)
 *   [Rust](#rust)
-*   [Swift](#swift)
 *   [Kotlin](#kotlin)
 *   [JavaScript](#javascript)
 *   [Java](#java)
@@ -32,11 +33,86 @@
 *   [PHP](#php)
 *   [Solidity](#solidity)
 *   [Markdown](#markdown)
-*   [Ruby](#ruby)
 *   [Clojure](#clojure)
 *   [Lua](#lua)
 *   [Jinja](#jinja)
 *   [SCSS](#scss)
+
+## Swift
+
+*   [10x-app-builder/10x](https://github.com/10x-app-builder/10x) - Open-source SwiftUI app builder.
+
+*   [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
+
+*   [shobhit99/SuperIsland](https://github.com/shobhit99/SuperIsland) - Dynamic Island for MacOS — with Extensions
+
+*   [arunabhverma/expo-paste-input](https://github.com/arunabhverma/expo-paste-input) - Cross-platform native paste handling for React Native.
+
+*   [Emanuele-web04/remodex](https://github.com/Emanuele-web04/remodex) - Remote Control for Codex.
+
+*   [Shubham0812/SwiftUI-Animations](https://github.com/Shubham0812/SwiftUI-Animations) - A repository containing a variety of animations and Animated components created in SwiftUI that you can use in your own projects.
+
+*   [yazinsai/OpenOats](https://github.com/yazinsai/OpenOats) - A meeting note-taker that talks back.
+
+*   [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) - A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
+
+*   [argmaxinc/argmax-oss-swift](https://github.com/argmaxinc/argmax-oss-swift) - On-device Speech AI for Apple Silicon
+
+*   [FluidInference/FluidAudio](https://github.com/FluidInference/FluidAudio) - Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.
+
+*   [kitlangton/Hex](https://github.com/kitlangton/Hex) - VOICE → WORDS
+
+*   [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences.
+
+*   [newmaterialco/chowder-iOS](https://github.com/newmaterialco/chowder-iOS) -
+
+*   [juanjovn/craion-onboarding](https://github.com/juanjovn/craion-onboarding) - Animated onboarding in SwiftUI from my app crAion
+
+*   [cameroncooke/AXe](https://github.com/cameroncooke/AXe) - AXe is a CLI tool for interacting with Simulators using Apple's Private Accessibility APIs.
+
+*   [bahattinkoc/ipaverse](https://github.com/bahattinkoc/ipaverse) - A modern macOS app for downloading and managing iOS apps from the App Store
+
+*   [nandorojo/galeria](https://github.com/nandorojo/galeria) - The React (Native) Image Viewer. 📷
+
+*   [Any-Distance/any-distance-ios](https://github.com/Any-Distance/any-distance-ios) -
+
+*   [sozercan/kaset](https://github.com/sozercan/kaset) - 📻 The missing YouTube Music macOS app
+
+*   [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
+
+*   [launchtodayhq/react-native-keyboard-composer](https://github.com/launchtodayhq/react-native-keyboard-composer) - A native keyboard-aware composer for React Native chat applications.
+
+*   [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.
+
+*   [productdevbook/port-killer](https://github.com/productdevbook/port-killer) - A powerful cross-platform port management tool for developers. Monitor ports, manage Kubernetes port forwards, integrate Cloudflare Tunnels, and kill processes with one click.
+
+*   [KeyboardKit/KeyboardKit](https://github.com/KeyboardKit/KeyboardKit) - Create amazing custom iOS keyboards with Swift & SwiftUI.
+
+*   [Dimillian/RetroDiffusionApp](https://github.com/Dimillian/RetroDiffusionApp) - iOS app for https://retrodiffusion.ai/app/devtools
+
+*   [the-ora/browser](https://github.com/the-ora/browser) - Less noise, more browsing.
+
+*   [mocki-toki/barik](https://github.com/mocki-toki/barik) - macOS menu bar replacement, with yabai and AeroSpace support
+
+*   [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
+
+*   [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch) - TheBoringNotch: Not so boring notch That Rocks 🎸🎶
+
+*   [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
+
+*   [evanw/thumbhash](https://github.com/evanw/thumbhash) - A very compact representation of an image placeholder
+
+*   [alexwidua/prototypes](https://github.com/alexwidua/prototypes) - little monorepo of swiftui prototypes
+
+## Ruby
+
+*   [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
+
+*   [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
+
+*   [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
+
+*   [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 
 ## HTML
 
@@ -1874,7 +1950,7 @@
 
 *   [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 
-*   [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.
+*   [unslothai/unsloth](https://github.com/unslothai/unsloth) - Web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.
 
 *   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
@@ -2022,7 +2098,7 @@
 
 *   [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
 
-*   [iii-hq/iii](https://github.com/iii-hq/iii) - iii (pronounced “three eye”) unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
+*   [iii-hq/iii](https://github.com/iii-hq/iii) - iii unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
 
 *   [vercel-labs/opensrc](https://github.com/vercel-labs/opensrc) - Fetch source code for npm packages to give AI coding agents deeper context
 
@@ -2133,70 +2209,6 @@
 *   [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
 
 *   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
-
-## Swift
-
-*   [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
-
-*   [shobhit99/SuperIsland](https://github.com/shobhit99/SuperIsland) - Dynamic Island for MacOS — with Extensions
-
-*   [arunabhverma/expo-paste-input](https://github.com/arunabhverma/expo-paste-input) - Cross-platform native paste handling for React Native.
-
-*   [Emanuele-web04/remodex](https://github.com/Emanuele-web04/remodex) - Remote Control for Codex.
-
-*   [Shubham0812/SwiftUI-Animations](https://github.com/Shubham0812/SwiftUI-Animations) - A repository containing a variety of animations and Animated components created in SwiftUI that you can use in your own projects.
-
-*   [yazinsai/OpenOats](https://github.com/yazinsai/OpenOats) - A meeting note-taker that talks back.
-
-*   [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) - A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
-
-*   [argmaxinc/argmax-oss-swift](https://github.com/argmaxinc/argmax-oss-swift) - On-device Speech AI for Apple Silicon
-
-*   [FluidInference/FluidAudio](https://github.com/FluidInference/FluidAudio) - Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.
-
-*   [kitlangton/Hex](https://github.com/kitlangton/Hex) - VOICE → WORDS
-
-*   [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences.
-
-*   [newmaterialco/chowder-iOS](https://github.com/newmaterialco/chowder-iOS) -
-
-*   [juanjovn/craion-onboarding](https://github.com/juanjovn/craion-onboarding) - Animated onboarding in SwiftUI from my app crAion
-
-*   [cameroncooke/AXe](https://github.com/cameroncooke/AXe) - AXe is a CLI tool for interacting with Simulators using Apple's Private Accessibility APIs.
-
-*   [bahattinkoc/ipaverse](https://github.com/bahattinkoc/ipaverse) - A modern macOS app for downloading and managing iOS apps from the App Store
-
-*   [nandorojo/galeria](https://github.com/nandorojo/galeria) - The React (Native) Image Viewer. 📷
-
-*   [Any-Distance/any-distance-ios](https://github.com/Any-Distance/any-distance-ios) -
-
-*   [sozercan/kaset](https://github.com/sozercan/kaset) - 📻 The missing YouTube Music macOS app
-
-*   [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
-
-*   [launchtodayhq/react-native-keyboard-composer](https://github.com/launchtodayhq/react-native-keyboard-composer) - A native keyboard-aware composer for React Native chat applications.
-
-*   [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.
-
-*   [productdevbook/port-killer](https://github.com/productdevbook/port-killer) - A powerful cross-platform port management tool for developers. Monitor ports, manage Kubernetes port forwards, integrate Cloudflare Tunnels, and kill processes with one click.
-
-*   [KeyboardKit/KeyboardKit](https://github.com/KeyboardKit/KeyboardKit) - Create amazing custom iOS keyboards with Swift & SwiftUI.
-
-*   [Dimillian/RetroDiffusionApp](https://github.com/Dimillian/RetroDiffusionApp) - iOS app for https://retrodiffusion.ai/app/devtools
-
-*   [the-ora/browser](https://github.com/the-ora/browser) - Less noise, more browsing.
-
-*   [mocki-toki/barik](https://github.com/mocki-toki/barik) - macOS menu bar replacement, with yabai and AeroSpace support
-
-*   [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
-
-*   [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch) - TheBoringNotch: Not so boring notch That Rocks 🎸🎶
-
-*   [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
-
-*   [evanw/thumbhash](https://github.com/evanw/thumbhash) - A very compact representation of an image placeholder
-
-*   [alexwidua/prototypes](https://github.com/alexwidua/prototypes) - little monorepo of swiftui prototypes
 
 ## Kotlin
 
@@ -2452,10 +2464,6 @@
 
 *   [smeijer/spin-delay](https://github.com/smeijer/spin-delay) - Smart spinner helper for React, to manage the duration of loading states.
 
-*   [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
-
-*   [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
-
 ## Java
 
 *   [nandorojo/burnt](https://github.com/nandorojo/burnt) - Crunchy toasts for React Native. 🍞
@@ -2681,14 +2689,6 @@
 *   [badges/awesome-badges](https://github.com/badges/awesome-badges) - A curated collection of awesome things related to status badges
 
 *   [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
-
-## Ruby
-
-*   [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
-
-*   [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
-
-*   [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 
 ## Clojure
 

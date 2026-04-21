@@ -3,6 +3,16 @@
 ## Table of Contents
 
 *   [miscellaneous](#miscellaneous)
+*   [android](#android)
+*   [apps](#apps)
+*   [automation](#automation)
+*   [deployment](#deployment)
+*   [fastlane](#fastlane)
+*   [hacktoberfest](#hacktoberfest)
+*   [ios](#ios)
+*   [mobile](#mobile)
+*   [ruby](#ruby)
+*   [screenshots](#screenshots)
 *   [ai](#ai)
 *   [animation](#animation)
 *   [ffmpeg](#ffmpeg)
@@ -47,17 +57,13 @@
 *   [guideline](#guideline)
 *   [agc](#agc)
 *   [apollo](#apollo)
-*   [hacktoberfest](#hacktoberfest)
 *   [nasa](#nasa)
 *   [ai-chat](#ai-chat)
-*   [android](#android)
 *   [cross-platform](#cross-platform)
 *   [expo](#expo)
 *   [expo-modules](#expo-modules)
 *   [flashlist](#flashlist)
-*   [ios](#ios)
 *   [line-breaking](#line-breaking)
-*   [mobile](#mobile)
 *   [pretext](#pretext)
 *   [react-native](#react-native)
 *   [reanimated](#reanimated)
@@ -135,7 +141,6 @@
 *   [self-hosted-ai](#self-hosted-ai)
 *   [vane](#vane)
 *   [ai-agent](#ai-agent)
-*   [automation](#automation)
 *   [career](#career)
 *   [cli](#cli)
 *   [golang](#golang)
@@ -556,10 +561,12 @@
 *   [lowcode](#lowcode)
 *   [nocode](#nocode)
 *   [vibecoding](#vibecoding)
-*   [ann-search](#ann-search)
-*   [embedded-database](#embedded-database)
-*   [local](#local)
-*   [vectordb](#vectordb)
+*   [agent-skills](#agent-skills)
+*   [embedded](#embedded)
+*   [faiss](#faiss)
+*   [hnsw](#hnsw)
+*   [llm-memory](#llm-memory)
+*   [similarity-search](#similarity-search)
 *   [animated-numbers](#animated-numbers)
 *   [counter](#counter)
 *   [currency](#currency)
@@ -751,7 +758,6 @@
 *   [privacy](#privacy)
 *   [web-analytics](#web-analytics)
 *   [kotlin](#kotlin)
-*   [agent-skills](#agent-skills)
 *   [codex-skills](#codex-skills)
 *   [boilerplate](#boilerplate)
 *   [chrome-extension](#chrome-extension)
@@ -1101,7 +1107,6 @@
 *   [visual-editor](#visual-editor)
 *   [playwright-python](#playwright-python)
 *   [screenshot-utility](#screenshot-utility)
-*   [screenshots](#screenshots)
 *   [ai-memory](#ai-memory)
 *   [aiagent](#aiagent)
 *   [long-short-term-memory](#long-short-term-memory)
@@ -1303,8 +1308,6 @@
 *   [embedding-database](#embedding-database)
 *   [embedding-similarity](#embedding-similarity)
 *   [embedding-store](#embedding-store)
-*   [faiss](#faiss)
-*   [hnsw](#hnsw)
 *   [image-search](#image-search)
 *   [nearest-neighbor-search](#nearest-neighbor-search)
 *   [vector-similarity](#vector-similarity)
@@ -1609,6 +1612,7 @@
 *   [updates](#updates)
 *   [fastjs](#fastjs)
 *   [fastjs-next](#fastjs-next)
+*   [embedded-database](#embedded-database)
 *   [sqlite3](#sqlite3)
 *   [dom-to-image](#dom-to-image)
 *   [html-to-image](#html-to-image)
@@ -2203,7 +2207,6 @@
 *   [java](#java)
 *   [ocaml](#ocaml)
 *   [plugin-system](#plugin-system)
-*   [ruby](#ruby)
 *   [zig](#zig)
 *   [anime](#anime)
 *   [react-dom](#react-dom)
@@ -2272,7 +2275,6 @@
 *   [typeform](#typeform)
 *   [xm](#xm)
 *   [api-keys](#api-keys)
-*   [deployment](#deployment)
 *   [rate-limiter](#rate-limiter)
 *   [bottom-sheet](#bottom-sheet)
 *   [modal-sheet](#modal-sheet)
@@ -3333,7 +3335,6 @@
 *   [temporary-credentials](#temporary-credentials)
 *   [big-data](#big-data)
 *   [dbms](#dbms)
-*   [embedded](#embedded)
 *   [lakehouse](#lakehouse)
 *   [mpp](#mpp)
 *   [olap](#olap)
@@ -3481,11 +3482,10 @@
 *   [create-t3-app](#create-t3-app)
 *   [npx](#npx)
 *   [t3](#t3)
-*   [compression](#compression)
-*   [data-manipulation](#data-manipulation)
-*   [hashing](#hashing)
 
 ## miscellaneous
+
+*   [10x-app-builder/10x](https://github.com/10x-app-builder/10x) - Open-source SwiftUI app builder.
 
 *   [mfranzon/render](https://github.com/mfranzon/render) - Render is a skill to create beautiful 3D models directly from coding agents.
 
@@ -4161,7 +4161,389 @@
 
 *   [vercel/on-demand-isr](https://github.com/vercel/on-demand-isr) -
 
-*   [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
+## android
+
+*   [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
+
+*   [JubaKitiashvili/expo-pretext](https://github.com/JubaKitiashvili/expo-pretext) - Predict React Native text heights before rendering. Native TextKit/TextPaint measurement + ~0.0002ms JS layout. FlashList, streaming AI chat, typewriter, pinch-to-zoom, obstacle reflow, Dynamic Type, Expo Web. 386 tests. MIT.
+
+*   [oblador/react-native-keychain](https://github.com/oblador/react-native-keychain) - :key: Keychain Access for React Native
+
+*   [margelo/react-native-graph](https://github.com/margelo/react-native-graph) - 📈 Beautiful, high-performance Graphs and Charts for React Native built with Skia
+
+*   [achorein/expo-share-intent](https://github.com/achorein/expo-share-intent) - 🚀 Simple share intent in an Expo Native Module
+
+*   [marudy/react-native-responsive-screen](https://github.com/marudy/react-native-responsive-screen) - Make React Native views responsive for all devices with the use of 2 simple methods
+
+*   [mybigday/llama.rn](https://github.com/mybigday/llama.rn) - React Native binding of llama.cpp
+
+*   [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+
+*   [uni-stack/uniwind](https://github.com/uni-stack/uniwind) - From the creators of Unistyles: The fastest Tailwind bindings for React Native
+
+*   [nisrulz/app-privacy-policy-generator](https://github.com/nisrulz/app-privacy-policy-generator) - Generate a customized Privacy Policy and Terms of Use document for your mobile apps
+
+*   [kirillzyusko/react-native-keyboard-controller](https://github.com/kirillzyusko/react-native-keyboard-controller) - ⌨️ Keyboard manager which works in identical way on both iOS and Android
+
+*   [OutlineFoundation/outline-apps](https://github.com/OutlineFoundation/outline-apps) - Outline Client and Manager, developed by Jigsaw. Outline Manager makes it easy to create your own VPN server. Outline Client lets you share access to your VPN with anyone in your network, giving them access to the free and open internet.
+
+*   [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
+
+*   [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro) - Painless E2E Automation for Mobile and Web
+
+*   [heroui-inc/heroui-native](https://github.com/heroui-inc/heroui-native) - 📱Beautiful, fast and modern React Native UI library
+
+*   [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+
+*   [dohooo/react-native-reanimated-carousel](https://github.com/dohooo/react-native-reanimated-carousel) - 🎠 React Native swiper/carousel component, fully implemented using reanimated v2, support to iOS/Android/Web.  (Swiper/Carousel)
+
+*   [callstack/react-native-pager-view](https://github.com/callstack/react-native-pager-view) - React Native wrapper for the Android ViewPager and iOS UIPageViewController.
+
+*   [react-native-elements/react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross-Platform React Native UI Toolkit
+
+*   [superwall/react-native-superwall](https://github.com/superwall/react-native-superwall) - Remotely configure every aspect of your paywall and double your revenue.
+
+*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
+
+*   [callstack/react-native-bottom-tabs](https://github.com/callstack/react-native-bottom-tabs) - Native Bottom Tabs for React Native
+
+*   [lodev09/react-native-true-sheet](https://github.com/lodev09/react-native-true-sheet) - The true native bottom sheet experience 💩
+
+*   [mrousavy/react-native-mmkv](https://github.com/mrousavy/react-native-mmkv) - ⚡️ The fastest key/value storage for React Native. ~30x faster than AsyncStorage!
+
+*   [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
+
+## apps
+
+*   [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
+
+## automation
+
+*   [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
+
+*   [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
+
+*   [rorkai/App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI) - Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more. JSON-first, no interactive prompts
+
+*   [Kaliiiiiiiiii-Vinyzu/patchright-nodejs](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright-nodejs) - Undetected NodeJS version of the Playwright testing and automation library.
+
+*   [Kaliiiiiiiiii-Vinyzu/patchright](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright) - Undetected version of the Playwright testing and automation library.
+
+*   [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
+
+*   [callstackincubator/agent-device](https://github.com/callstackincubator/agent-device) - CLI to control iOS and Android devices for AI agents
+
+*   [rokpiy/auto-commenter](https://github.com/rokpiy/auto-commenter) - A Claude skill that automatically posts personalized, authentic comments in your target communities.
+
+*   [steipete/poltergeist](https://github.com/steipete/poltergeist) - The ghost that keeps your builds fresh - Universal hot reload, file watcher and build automation for any language.
+
+*   [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
+
+*   [yusufkaraaslan/Skill\_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
+
+*   [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation.
+
+*   [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
+
+*   [microlinkhq/browserless](https://github.com/microlinkhq/browserless) - The headless Chrome/Chromium driver on top of Puppeteer. Take screenshots, generate PDFs, extract text and HTML with a production-ready API.
+
+*   [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
+
+*   [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
+
+*   [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
+
+*   [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+
+*   [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
+
+## deployment
+
+*   [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
+
+*   [unkeyed/unkey](https://github.com/unkeyed/unkey) - The Developer Platform for Modern APIs
+
+*   [Ackee-Blockchain/wake](https://github.com/Ackee-Blockchain/wake) - Wake is a Python-based Solidity development and fuzz testing framework with built-in vulnerability detectors for building secure Ethereum dApps.
+
+*   [pcaversaccio/createx](https://github.com/pcaversaccio/createx) - Factory smart contract to make easier and safer usage of the `CREATE` and `CREATE2` EVM opcodes as well as of `CREATE3`-based (i.e. without an initcode factor) contract creations.
+
+*   [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
+
+## fastlane
+
+*   [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
+
+## hacktoberfest
+
+*   [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
+
+*   [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
+
+*   [mrousavy/react-native-fast-tflite](https://github.com/mrousavy/react-native-fast-tflite) - 🧬 High-performance TensorFlow Lite library for React Native with GPU acceleration
+
+*   [aralroca/next-translate](https://github.com/aralroca/next-translate) - Next.js plugin + i18n API for Next.js 🌍  -  Load page translations and use them in an easy way!
+
+*   [dexidp/dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
+
+*   [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
+
+*   [garmeeh/next-seo](https://github.com/garmeeh/next-seo) - Next SEO is a plug in that makes managing your SEO easier in Next.js projects.
+
+*   [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
+
+*   [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
+
+*   [aymericzip/intlayer](https://github.com/aymericzip/intlayer) - Per-component Internationalisation solution for JS application. Type-Safe. Translate with AI. Edit Visually.
+
+*   [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation) - Routing and navigation for React Native and Web apps
+
+*   [dlemstra/magick-wasm](https://github.com/dlemstra/magick-wasm) - The WASM library for ImageMagick
+
+*   [seraui/seraui](https://github.com/seraui/seraui) - UI component library for React, Next.js, and other JSX frameworks. Built with Tailwind CSS, it makes creating beautiful, interactive and responsive interfaces fast and easy.
+
+*   [sakofchit/system.css](https://github.com/sakofchit/system.css) - A design system for building retro Apple interfaces
+
+*   [mattermost/mattermost-mobile](https://github.com/mattermost/mattermost-mobile) - Next generation iOS and Android apps for Mattermost in React Native
+
+*   [Sparticuz/chromium](https://github.com/Sparticuz/chromium) - Chromium for Serverless Platforms
+
+*   [svix/svix-webhooks](https://github.com/svix/svix-webhooks) - The open source and enterprise-ready webhooks service 🦀
+
+*   [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
+
+*   [requestly/requestly](https://github.com/requestly/requestly) - Free and open-source API Client & Interceptor.
+
+*   [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
+
+*   [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
+
+*   [Jean-Tinland/simple-bar](https://github.com/Jean-Tinland/simple-bar) - A yabai and AeroSpace status bar widget for Übersicht
+
+*   [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+
+*   [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
+
+*   [usesend/useSend](https://github.com/usesend/useSend) - Open source alternative to Resend, Sendgrid, Postmark etc.
+
+*   [TanStack/form](https://github.com/TanStack/form) - 🤖 Headless, performant, and type-safe form state management for TS/JS, React, Vue, Angular, Solid, and Lit.
+
+*   [unjs/magic-regexp](https://github.com/unjs/magic-regexp) - A compiled-away, type-safe, readable RegExp alternative
+
+*   [jonahsnider/convert](https://github.com/jonahsnider/convert) - The smallest & fastest library for really easy, totally type-safe unit conversions in TypeScript & JavaScript.
+
+*   [dohooo/react-native-reanimated-carousel](https://github.com/dohooo/react-native-reanimated-carousel) - 🎠 React Native swiper/carousel component, fully implemented using reanimated v2, support to iOS/Android/Web.  (Swiper/Carousel)
+
+*   [callstack/react-native-pager-view](https://github.com/callstack/react-native-pager-view) - React Native wrapper for the Android ViewPager and iOS UIPageViewController.
+
+*   [Nozbe/WatermelonDB](https://github.com/Nozbe/WatermelonDB) - 🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️
+
+*   [react-native-elements/react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross-Platform React Native UI Toolkit
+
+*   [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript
+
+*   [omgovich/colord](https://github.com/omgovich/colord) - 👑 A tiny yet powerful tool for high-performance color manipulations and conversions
+
+*   [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
+
+*   [typehero/typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers
+
+*   [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech\_balloon: :gem:
+
+*   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
+
+*   [modernweb-dev/web](https://github.com/modernweb-dev/web) - Guides, tools and libraries for modern web development.
+
+*   [tolgee/tolgee-platform](https://github.com/tolgee/tolgee-platform) - Developer & translator friendly web-based localization platform
+
+*   [callstack/react-native-bottom-tabs](https://github.com/callstack/react-native-bottom-tabs) - Native Bottom Tabs for React Native
+
+*   [tinylibs/tinybench](https://github.com/tinylibs/tinybench) - 🔎 A simple, tiny and lightweight benchmarking library!
+
+*   [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
+
+*   [logchimp/logchimp](https://github.com/logchimp/logchimp) - 🔥 🔥 🔥 Open Source Canny, ProductBoard, UserJot Alternative. Track your customers feedback to build better products with LogChimp. ⭐️ Star to support our work!
+
+*   [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
+
+*   [stryker-mutator/stryker-js](https://github.com/stryker-mutator/stryker-js) - Mutation testing for JavaScript and friends
+
+*   [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
+
+*   [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Full-Stack Vue Framework.
+
+*   [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open source feature flagging and remote config service. Self-host or use our hosted version at https://app.flagsmith.com.
+
+*   [tinylibs/tinypool](https://github.com/tinylibs/tinypool) - 🧵 A minimal and tiny Node.js Worker Thread Pool implementation (38KB)
+
+*   [elrumordelaluz/reactour](https://github.com/elrumordelaluz/reactour) - Tourist Guide into your React Components
+
+*   [shipshapecode/shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
+
+*   [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
+
+*   [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The Secure CommsOS™ for mission-critical operations
+
+*   [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management platform
+
+*   [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
+
+*   [trezy/next-safe](https://github.com/trezy/next-safe) -
+
+*   [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
+
+*   [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
+
+*   [aidenybai/million](https://github.com/aidenybai/million) - Optimizing compiler for React
+
+*   [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+
+*   [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Background jobs, Landing page, Payments (Stripe, Polar.sh), Shadcn UI, S3 file upload. AI-ready with tailored AGENTS.md, skills, and Claude Code plugin. One cmd deploy. Powered by Wasp full-stack framework.
+
+*   [flightcontrolhq/superjson](https://github.com/flightcontrolhq/superjson) - Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more.
+
+*   [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
+
+*   [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
+
+*   [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️  – Pull Requests welcome!
+
+*   [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
+
+*   [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.
+
+*   [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
+
+*   [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
+
+*   [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - The No-GraphQL Client for TypeScript
+
+*   [ethereum-lists/chains](https://github.com/ethereum-lists/chains) - provides metadata for chains
+
+*   [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
+
+*   [electron/forge](https://github.com/electron/forge) - :electron: A complete tool for building and publishing Electron applications
+
+*   [Noovolari/leapp](https://github.com/Noovolari/leapp) - Leapp is the DevTool to access your cloud
+
+*   [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
+
+*   [octokit/octokit.js](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
+
+*   [codesandbox/sandpack](https://github.com/codesandbox/sandpack) - A component toolkit for creating live-running code editing experiences, using the power of CodeSandbox.
+
+*   [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
+
+*   [smeijer/spin-delay](https://github.com/smeijer/spin-delay) - Smart spinner helper for React, to manage the duration of loading states.
+
+*   [statelyai/xstate](https://github.com/statelyai/xstate) - State machines, statecharts, and actors for complex logic
+
+*   [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
+
+## ios
+
+*   [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
+
+*   [JubaKitiashvili/expo-pretext](https://github.com/JubaKitiashvili/expo-pretext) - Predict React Native text heights before rendering. Native TextKit/TextPaint measurement + ~0.0002ms JS layout. FlashList, streaming AI chat, typewriter, pinch-to-zoom, obstacle reflow, Dynamic Type, Expo Web. 386 tests. MIT.
+
+*   [oblador/react-native-keychain](https://github.com/oblador/react-native-keychain) - :key: Keychain Access for React Native
+
+*   [Shubham0812/SwiftUI-Animations](https://github.com/Shubham0812/SwiftUI-Animations) - A repository containing a variety of animations and Animated components created in SwiftUI that you can use in your own projects.
+
+*   [margelo/react-native-graph](https://github.com/margelo/react-native-graph) - 📈 Beautiful, high-performance Graphs and Charts for React Native built with Skia
+
+*   [rorkai/App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI) - Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more. JSON-first, no interactive prompts
+
+*   [ParthJadhav/app-store-screenshots](https://github.com/ParthJadhav/app-store-screenshots) - end to end app store screenshot creation using AI
+
+*   [argmaxinc/argmax-oss-swift](https://github.com/argmaxinc/argmax-oss-swift) - On-device Speech AI for Apple Silicon
+
+*   [FluidInference/FluidAudio](https://github.com/FluidInference/FluidAudio) - Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.
+
+*   [cameroncooke/AXe](https://github.com/cameroncooke/AXe) - AXe is a CLI tool for interacting with Simulators using Apple's Private Accessibility APIs.
+
+*   [achorein/expo-share-intent](https://github.com/achorein/expo-share-intent) - 🚀 Simple share intent in an Expo Native Module
+
+*   [marudy/react-native-responsive-screen](https://github.com/marudy/react-native-responsive-screen) - Make React Native views responsive for all devices with the use of 2 simple methods
+
+*   [mybigday/llama.rn](https://github.com/mybigday/llama.rn) - React Native binding of llama.cpp
+
+*   [Renegades-Studio/react-native-tickle](https://github.com/Renegades-Studio/react-native-tickle) - 🎯 AHAP-style haptics (transient + continuous) for React Native
+
+*   [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+
+*   [uni-stack/uniwind](https://github.com/uni-stack/uniwind) - From the creators of Unistyles: The fastest Tailwind bindings for React Native
+
+*   [nisrulz/app-privacy-policy-generator](https://github.com/nisrulz/app-privacy-policy-generator) - Generate a customized Privacy Policy and Terms of Use document for your mobile apps
+
+*   [KeyboardKit/KeyboardKit](https://github.com/KeyboardKit/KeyboardKit) - Create amazing custom iOS keyboards with Swift & SwiftUI.
+
+*   [kirillzyusko/react-native-keyboard-controller](https://github.com/kirillzyusko/react-native-keyboard-controller) - ⌨️ Keyboard manager which works in identical way on both iOS and Android
+
+*   [OutlineFoundation/outline-apps](https://github.com/OutlineFoundation/outline-apps) - Outline Client and Manager, developed by Jigsaw. Outline Manager makes it easy to create your own VPN server. Outline Client lets you share access to your VPN with anyone in your network, giving them access to the free and open internet.
+
+*   [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
+
+*   [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro) - Painless E2E Automation for Mobile and Web
+
+*   [heroui-inc/heroui-native](https://github.com/heroui-inc/heroui-native) - 📱Beautiful, fast and modern React Native UI library
+
+*   [dohooo/react-native-reanimated-carousel](https://github.com/dohooo/react-native-reanimated-carousel) - 🎠 React Native swiper/carousel component, fully implemented using reanimated v2, support to iOS/Android/Web.  (Swiper/Carousel)
+
+*   [callstack/react-native-pager-view](https://github.com/callstack/react-native-pager-view) - React Native wrapper for the Android ViewPager and iOS UIPageViewController.
+
+*   [react-native-elements/react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross-Platform React Native UI Toolkit
+
+*   [superwall/react-native-superwall](https://github.com/superwall/react-native-superwall) - Remotely configure every aspect of your paywall and double your revenue.
+
+*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
+
+*   [callstack/react-native-bottom-tabs](https://github.com/callstack/react-native-bottom-tabs) - Native Bottom Tabs for React Native
+
+*   [lodev09/react-native-true-sheet](https://github.com/lodev09/react-native-true-sheet) - The true native bottom sheet experience 💩
+
+*   [mrousavy/react-native-mmkv](https://github.com/mrousavy/react-native-mmkv) - ⚡️ The fastest key/value storage for React Native. ~30x faster than AsyncStorage!
+
+*   [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - The best-in-class HTTP Debugger for macOS. Capture HTTP/HTTPS from macOS, iOS, Android with a few clicks ✅
+
+*   [nanxiaobei/react-live-island](https://github.com/nanxiaobei/react-live-island) - 🏝 Dynamic Island for React
+
+*   [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
+
+## mobile
+
+*   [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
+
+*   [JubaKitiashvili/expo-pretext](https://github.com/JubaKitiashvili/expo-pretext) - Predict React Native text heights before rendering. Native TextKit/TextPaint measurement + ~0.0002ms JS layout. FlashList, streaming AI chat, typewriter, pinch-to-zoom, obstacle reflow, Dynamic Type, Expo Web. 386 tests. MIT.
+
+*   [callstackincubator/agent-device](https://github.com/callstackincubator/agent-device) - CLI to control iOS and Android devices for AI agents
+
+*   [darkresearch/generative-ui](https://github.com/darkresearch/generative-ui) - Tools and templates for building generative UI applications. Mobile-first, optimized for Expo.
+
+*   [liriliri/eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
+
+*   [rcbyr/keen-slider](https://github.com/rcbyr/keen-slider) - The HTML touch slider carousel with the most native feeling you will get.
+
+*   [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️  – Pull Requests welcome!
+
+*   [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel) - A lightweight carousel library with fluid motion and great swipe precision.
+
+## ruby
+
+*   [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
+
+*   [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
+
+*   [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
+
+*   [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
+
+*   [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
+
+## screenshots
+
+*   [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
+
+*   [simonw/shot-scraper](https://github.com/simonw/shot-scraper) - A command-line utility for taking automated screenshots of websites
 
 ## ai
 
@@ -4209,7 +4591,7 @@
 
 *   [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK For Browser Agents
 
-*   [iii-hq/iii](https://github.com/iii-hq/iii) - iii (pronounced “three eye”) unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
+*   [iii-hq/iii](https://github.com/iii-hq/iii) - iii unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
 
 *   [opral/lix](https://github.com/opral/lix) - Version control system for AI agents
 
@@ -4393,7 +4775,7 @@
 
 *   [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 
-*   [iii-hq/iii](https://github.com/iii-hq/iii) - iii (pronounced “three eye”) unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
+*   [iii-hq/iii](https://github.com/iii-hq/iii) - iii unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
 
 *   [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 
@@ -4559,7 +4941,7 @@
 
 *   [garmeeh/next-seo](https://github.com/garmeeh/next-seo) - Next SEO is a plug in that makes managing your SEO easier in Next.js projects.
 
-*   [iii-hq/iii](https://github.com/iii-hq/iii) - iii (pronounced “three eye”) unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
+*   [iii-hq/iii](https://github.com/iii-hq/iii) - iii unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
 
 *   [ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU) - Beautiful, open source, WebGPU-based charting library
 
@@ -5179,7 +5561,7 @@
 
 *   [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 
-*   [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.
+*   [unslothai/unsloth](https://github.com/unslothai/unsloth) - Web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.
 
 *   [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
 
@@ -5439,7 +5821,7 @@
 
 *   [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
 
-*   [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.
+*   [unslothai/unsloth](https://github.com/unslothai/unsloth) - Web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.
 
 *   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
@@ -5487,11 +5869,9 @@
 
 *   [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
 
-*   [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
-
 *   [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
 
-*   [iii-hq/iii](https://github.com/iii-hq/iii) - iii (pronounced “three eye”) unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
+*   [iii-hq/iii](https://github.com/iii-hq/iii) - iii unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
 
 *   [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, manage agentic software at scale.
 
@@ -5563,7 +5943,7 @@
 
 *   [nari-labs/dia2](https://github.com/nari-labs/dia2) - TTS model capable of streaming conversational audio in realtime.
 
-*   [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.
+*   [unslothai/unsloth](https://github.com/unslothai/unsloth) - Web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.
 
 *   [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
 
@@ -5625,170 +6005,6 @@
 
 *   [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 
-## hacktoberfest
-
-*   [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
-
-*   [mrousavy/react-native-fast-tflite](https://github.com/mrousavy/react-native-fast-tflite) - 🧬 High-performance TensorFlow Lite library for React Native with GPU acceleration
-
-*   [aralroca/next-translate](https://github.com/aralroca/next-translate) - Next.js plugin + i18n API for Next.js 🌍  -  Load page translations and use them in an easy way!
-
-*   [dexidp/dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
-
-*   [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
-
-*   [garmeeh/next-seo](https://github.com/garmeeh/next-seo) - Next SEO is a plug in that makes managing your SEO easier in Next.js projects.
-
-*   [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
-
-*   [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
-
-*   [aymericzip/intlayer](https://github.com/aymericzip/intlayer) - Per-component Internationalisation solution for JS application. Type-Safe. Translate with AI. Edit Visually.
-
-*   [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation) - Routing and navigation for React Native and Web apps
-
-*   [dlemstra/magick-wasm](https://github.com/dlemstra/magick-wasm) - The WASM library for ImageMagick
-
-*   [seraui/seraui](https://github.com/seraui/seraui) - UI component library for React, Next.js, and other JSX frameworks. Built with Tailwind CSS, it makes creating beautiful, interactive and responsive interfaces fast and easy.
-
-*   [sakofchit/system.css](https://github.com/sakofchit/system.css) - A design system for building retro Apple interfaces
-
-*   [mattermost/mattermost-mobile](https://github.com/mattermost/mattermost-mobile) - Next generation iOS and Android apps for Mattermost in React Native
-
-*   [Sparticuz/chromium](https://github.com/Sparticuz/chromium) - Chromium for Serverless Platforms
-
-*   [svix/svix-webhooks](https://github.com/svix/svix-webhooks) - The open source and enterprise-ready webhooks service 🦀
-
-*   [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
-
-*   [requestly/requestly](https://github.com/requestly/requestly) - Free and open-source API Client & Interceptor.
-
-*   [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
-
-*   [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
-
-*   [Jean-Tinland/simple-bar](https://github.com/Jean-Tinland/simple-bar) - A yabai and AeroSpace status bar widget for Übersicht
-
-*   [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
-
-*   [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
-
-*   [usesend/useSend](https://github.com/usesend/useSend) - Open source alternative to Resend, Sendgrid, Postmark etc.
-
-*   [TanStack/form](https://github.com/TanStack/form) - 🤖 Headless, performant, and type-safe form state management for TS/JS, React, Vue, Angular, Solid, and Lit.
-
-*   [unjs/magic-regexp](https://github.com/unjs/magic-regexp) - A compiled-away, type-safe, readable RegExp alternative
-
-*   [jonahsnider/convert](https://github.com/jonahsnider/convert) - The smallest & fastest library for really easy, totally type-safe unit conversions in TypeScript & JavaScript.
-
-*   [dohooo/react-native-reanimated-carousel](https://github.com/dohooo/react-native-reanimated-carousel) - 🎠 React Native swiper/carousel component, fully implemented using reanimated v2, support to iOS/Android/Web.  (Swiper/Carousel)
-
-*   [callstack/react-native-pager-view](https://github.com/callstack/react-native-pager-view) - React Native wrapper for the Android ViewPager and iOS UIPageViewController.
-
-*   [Nozbe/WatermelonDB](https://github.com/Nozbe/WatermelonDB) - 🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️
-
-*   [react-native-elements/react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross-Platform React Native UI Toolkit
-
-*   [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript
-
-*   [omgovich/colord](https://github.com/omgovich/colord) - 👑 A tiny yet powerful tool for high-performance color manipulations and conversions
-
-*   [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
-
-*   [typehero/typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers
-
-*   [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech\_balloon: :gem:
-
-*   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
-
-*   [modernweb-dev/web](https://github.com/modernweb-dev/web) - Guides, tools and libraries for modern web development.
-
-*   [tolgee/tolgee-platform](https://github.com/tolgee/tolgee-platform) - Developer & translator friendly web-based localization platform
-
-*   [callstack/react-native-bottom-tabs](https://github.com/callstack/react-native-bottom-tabs) - Native Bottom Tabs for React Native
-
-*   [tinylibs/tinybench](https://github.com/tinylibs/tinybench) - 🔎 A simple, tiny and lightweight benchmarking library!
-
-*   [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
-
-*   [logchimp/logchimp](https://github.com/logchimp/logchimp) - 🔥 🔥 🔥 Open Source Canny, ProductBoard, UserJot Alternative. Track your customers feedback to build better products with LogChimp. ⭐️ Star to support our work!
-
-*   [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
-
-*   [stryker-mutator/stryker-js](https://github.com/stryker-mutator/stryker-js) - Mutation testing for JavaScript and friends
-
-*   [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
-
-*   [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Full-Stack Vue Framework.
-
-*   [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open source feature flagging and remote config service. Self-host or use our hosted version at https://app.flagsmith.com.
-
-*   [tinylibs/tinypool](https://github.com/tinylibs/tinypool) - 🧵 A minimal and tiny Node.js Worker Thread Pool implementation (38KB)
-
-*   [elrumordelaluz/reactour](https://github.com/elrumordelaluz/reactour) - Tourist Guide into your React Components
-
-*   [shipshapecode/shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
-
-*   [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
-
-*   [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The Secure CommsOS™ for mission-critical operations
-
-*   [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management platform
-
-*   [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
-
-*   [trezy/next-safe](https://github.com/trezy/next-safe) -
-
-*   [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
-
-*   [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
-
-*   [aidenybai/million](https://github.com/aidenybai/million) - Optimizing compiler for React
-
-*   [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
-
-*   [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Background jobs, Landing page, Payments (Stripe, Polar.sh), Shadcn UI, S3 file upload. AI-ready with tailored AGENTS.md, skills, and Claude Code plugin. One cmd deploy. Powered by Wasp full-stack framework.
-
-*   [flightcontrolhq/superjson](https://github.com/flightcontrolhq/superjson) - Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more.
-
-*   [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
-
-*   [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
-
-*   [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️  – Pull Requests welcome!
-
-*   [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
-
-*   [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.
-
-*   [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
-
-*   [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
-
-*   [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - The No-GraphQL Client for TypeScript
-
-*   [ethereum-lists/chains](https://github.com/ethereum-lists/chains) - provides metadata for chains
-
-*   [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
-
-*   [electron/forge](https://github.com/electron/forge) - :electron: A complete tool for building and publishing Electron applications
-
-*   [Noovolari/leapp](https://github.com/Noovolari/leapp) - Leapp is the DevTool to access your cloud
-
-*   [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
-
-*   [octokit/octokit.js](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
-
-*   [codesandbox/sandpack](https://github.com/codesandbox/sandpack) - A component toolkit for creating live-running code editing experiences, using the power of CodeSandbox.
-
-*   [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
-
-*   [smeijer/spin-delay](https://github.com/smeijer/spin-delay) - Smart spinner helper for React, to manage the duration of loading states.
-
-*   [statelyai/xstate](https://github.com/statelyai/xstate) - State machines, statecharts, and actors for complex logic
-
-*   [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
-
 ## nasa
 
 *   [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
@@ -5798,56 +6014,6 @@
 *   [JubaKitiashvili/expo-pretext](https://github.com/JubaKitiashvili/expo-pretext) - Predict React Native text heights before rendering. Native TextKit/TextPaint measurement + ~0.0002ms JS layout. FlashList, streaming AI chat, typewriter, pinch-to-zoom, obstacle reflow, Dynamic Type, Expo Web. 386 tests. MIT.
 
 *   [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
-
-## android
-
-*   [JubaKitiashvili/expo-pretext](https://github.com/JubaKitiashvili/expo-pretext) - Predict React Native text heights before rendering. Native TextKit/TextPaint measurement + ~0.0002ms JS layout. FlashList, streaming AI chat, typewriter, pinch-to-zoom, obstacle reflow, Dynamic Type, Expo Web. 386 tests. MIT.
-
-*   [oblador/react-native-keychain](https://github.com/oblador/react-native-keychain) - :key: Keychain Access for React Native
-
-*   [margelo/react-native-graph](https://github.com/margelo/react-native-graph) - 📈 Beautiful, high-performance Graphs and Charts for React Native built with Skia
-
-*   [achorein/expo-share-intent](https://github.com/achorein/expo-share-intent) - 🚀 Simple share intent in an Expo Native Module
-
-*   [marudy/react-native-responsive-screen](https://github.com/marudy/react-native-responsive-screen) - Make React Native views responsive for all devices with the use of 2 simple methods
-
-*   [mybigday/llama.rn](https://github.com/mybigday/llama.rn) - React Native binding of llama.cpp
-
-*   [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
-
-*   [uni-stack/uniwind](https://github.com/uni-stack/uniwind) - From the creators of Unistyles: The fastest Tailwind bindings for React Native
-
-*   [nisrulz/app-privacy-policy-generator](https://github.com/nisrulz/app-privacy-policy-generator) - Generate a customized Privacy Policy and Terms of Use document for your mobile apps
-
-*   [kirillzyusko/react-native-keyboard-controller](https://github.com/kirillzyusko/react-native-keyboard-controller) - ⌨️ Keyboard manager which works in identical way on both iOS and Android
-
-*   [OutlineFoundation/outline-apps](https://github.com/OutlineFoundation/outline-apps) - Outline Client and Manager, developed by Jigsaw. Outline Manager makes it easy to create your own VPN server. Outline Client lets you share access to your VPN with anyone in your network, giving them access to the free and open internet.
-
-*   [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
-
-*   [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro) - Painless E2E Automation for Mobile and Web
-
-*   [heroui-inc/heroui-native](https://github.com/heroui-inc/heroui-native) - 📱Beautiful, fast and modern React Native UI library
-
-*   [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-
-*   [dohooo/react-native-reanimated-carousel](https://github.com/dohooo/react-native-reanimated-carousel) - 🎠 React Native swiper/carousel component, fully implemented using reanimated v2, support to iOS/Android/Web.  (Swiper/Carousel)
-
-*   [callstack/react-native-pager-view](https://github.com/callstack/react-native-pager-view) - React Native wrapper for the Android ViewPager and iOS UIPageViewController.
-
-*   [react-native-elements/react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross-Platform React Native UI Toolkit
-
-*   [superwall/react-native-superwall](https://github.com/superwall/react-native-superwall) - Remotely configure every aspect of your paywall and double your revenue.
-
-*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
-
-*   [callstack/react-native-bottom-tabs](https://github.com/callstack/react-native-bottom-tabs) - Native Bottom Tabs for React Native
-
-*   [lodev09/react-native-true-sheet](https://github.com/lodev09/react-native-true-sheet) - The true native bottom sheet experience 💩
-
-*   [mrousavy/react-native-mmkv](https://github.com/mrousavy/react-native-mmkv) - ⚡️ The fastest key/value storage for React Native. ~30x faster than AsyncStorage!
-
-*   [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 
 ## cross-platform
 
@@ -5927,93 +6093,9 @@
 
 *   [JubaKitiashvili/expo-pretext](https://github.com/JubaKitiashvili/expo-pretext) - Predict React Native text heights before rendering. Native TextKit/TextPaint measurement + ~0.0002ms JS layout. FlashList, streaming AI chat, typewriter, pinch-to-zoom, obstacle reflow, Dynamic Type, Expo Web. 386 tests. MIT.
 
-## ios
-
-*   [JubaKitiashvili/expo-pretext](https://github.com/JubaKitiashvili/expo-pretext) - Predict React Native text heights before rendering. Native TextKit/TextPaint measurement + ~0.0002ms JS layout. FlashList, streaming AI chat, typewriter, pinch-to-zoom, obstacle reflow, Dynamic Type, Expo Web. 386 tests. MIT.
-
-*   [oblador/react-native-keychain](https://github.com/oblador/react-native-keychain) - :key: Keychain Access for React Native
-
-*   [Shubham0812/SwiftUI-Animations](https://github.com/Shubham0812/SwiftUI-Animations) - A repository containing a variety of animations and Animated components created in SwiftUI that you can use in your own projects.
-
-*   [margelo/react-native-graph](https://github.com/margelo/react-native-graph) - 📈 Beautiful, high-performance Graphs and Charts for React Native built with Skia
-
-*   [rorkai/App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI) - Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more. JSON-first, no interactive prompts
-
-*   [ParthJadhav/app-store-screenshots](https://github.com/ParthJadhav/app-store-screenshots) - end to end app store screenshot creation using AI
-
-*   [argmaxinc/argmax-oss-swift](https://github.com/argmaxinc/argmax-oss-swift) - On-device Speech AI for Apple Silicon
-
-*   [FluidInference/FluidAudio](https://github.com/FluidInference/FluidAudio) - Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.
-
-*   [cameroncooke/AXe](https://github.com/cameroncooke/AXe) - AXe is a CLI tool for interacting with Simulators using Apple's Private Accessibility APIs.
-
-*   [achorein/expo-share-intent](https://github.com/achorein/expo-share-intent) - 🚀 Simple share intent in an Expo Native Module
-
-*   [marudy/react-native-responsive-screen](https://github.com/marudy/react-native-responsive-screen) - Make React Native views responsive for all devices with the use of 2 simple methods
-
-*   [mybigday/llama.rn](https://github.com/mybigday/llama.rn) - React Native binding of llama.cpp
-
-*   [Renegades-Studio/react-native-tickle](https://github.com/Renegades-Studio/react-native-tickle) - 🎯 AHAP-style haptics (transient + continuous) for React Native
-
-*   [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
-
-*   [uni-stack/uniwind](https://github.com/uni-stack/uniwind) - From the creators of Unistyles: The fastest Tailwind bindings for React Native
-
-*   [nisrulz/app-privacy-policy-generator](https://github.com/nisrulz/app-privacy-policy-generator) - Generate a customized Privacy Policy and Terms of Use document for your mobile apps
-
-*   [KeyboardKit/KeyboardKit](https://github.com/KeyboardKit/KeyboardKit) - Create amazing custom iOS keyboards with Swift & SwiftUI.
-
-*   [kirillzyusko/react-native-keyboard-controller](https://github.com/kirillzyusko/react-native-keyboard-controller) - ⌨️ Keyboard manager which works in identical way on both iOS and Android
-
-*   [OutlineFoundation/outline-apps](https://github.com/OutlineFoundation/outline-apps) - Outline Client and Manager, developed by Jigsaw. Outline Manager makes it easy to create your own VPN server. Outline Client lets you share access to your VPN with anyone in your network, giving them access to the free and open internet.
-
-*   [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
-
-*   [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro) - Painless E2E Automation for Mobile and Web
-
-*   [heroui-inc/heroui-native](https://github.com/heroui-inc/heroui-native) - 📱Beautiful, fast and modern React Native UI library
-
-*   [dohooo/react-native-reanimated-carousel](https://github.com/dohooo/react-native-reanimated-carousel) - 🎠 React Native swiper/carousel component, fully implemented using reanimated v2, support to iOS/Android/Web.  (Swiper/Carousel)
-
-*   [callstack/react-native-pager-view](https://github.com/callstack/react-native-pager-view) - React Native wrapper for the Android ViewPager and iOS UIPageViewController.
-
-*   [react-native-elements/react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross-Platform React Native UI Toolkit
-
-*   [superwall/react-native-superwall](https://github.com/superwall/react-native-superwall) - Remotely configure every aspect of your paywall and double your revenue.
-
-*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
-
-*   [callstack/react-native-bottom-tabs](https://github.com/callstack/react-native-bottom-tabs) - Native Bottom Tabs for React Native
-
-*   [lodev09/react-native-true-sheet](https://github.com/lodev09/react-native-true-sheet) - The true native bottom sheet experience 💩
-
-*   [mrousavy/react-native-mmkv](https://github.com/mrousavy/react-native-mmkv) - ⚡️ The fastest key/value storage for React Native. ~30x faster than AsyncStorage!
-
-*   [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - The best-in-class HTTP Debugger for macOS. Capture HTTP/HTTPS from macOS, iOS, Android with a few clicks ✅
-
-*   [nanxiaobei/react-live-island](https://github.com/nanxiaobei/react-live-island) - 🏝 Dynamic Island for React
-
-*   [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
-
 ## line-breaking
 
 *   [JubaKitiashvili/expo-pretext](https://github.com/JubaKitiashvili/expo-pretext) - Predict React Native text heights before rendering. Native TextKit/TextPaint measurement + ~0.0002ms JS layout. FlashList, streaming AI chat, typewriter, pinch-to-zoom, obstacle reflow, Dynamic Type, Expo Web. 386 tests. MIT.
-
-## mobile
-
-*   [JubaKitiashvili/expo-pretext](https://github.com/JubaKitiashvili/expo-pretext) - Predict React Native text heights before rendering. Native TextKit/TextPaint measurement + ~0.0002ms JS layout. FlashList, streaming AI chat, typewriter, pinch-to-zoom, obstacle reflow, Dynamic Type, Expo Web. 386 tests. MIT.
-
-*   [callstackincubator/agent-device](https://github.com/callstackincubator/agent-device) - CLI to control iOS and Android devices for AI agents
-
-*   [darkresearch/generative-ui](https://github.com/darkresearch/generative-ui) - Tools and templates for building generative UI applications. Mobile-first, optimized for Expo.
-
-*   [liriliri/eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
-
-*   [rcbyr/keen-slider](https://github.com/rcbyr/keen-slider) - The HTML touch slider carousel with the most native feeling you will get.
-
-*   [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️  – Pull Requests welcome!
-
-*   [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel) - A lightweight carousel library with fluid motion and great swipe precision.
 
 ## pretext
 
@@ -6885,7 +6967,7 @@
 
 *   [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK For Browser Agents
 
-*   [iii-hq/iii](https://github.com/iii-hq/iii) - iii (pronounced “three eye”) unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
+*   [iii-hq/iii](https://github.com/iii-hq/iii) - iii unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
 
 *   [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, manage agentic software at scale.
 
@@ -6965,7 +7047,7 @@
 
 *   [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
 
-*   [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.
+*   [unslothai/unsloth](https://github.com/unslothai/unsloth) - Web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.
 
 *   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
@@ -7187,7 +7269,7 @@
 
 *   [mocki-toki/barik](https://github.com/mocki-toki/barik) - macOS menu bar replacement, with yabai and AeroSpace support
 
-*   [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.
+*   [unslothai/unsloth](https://github.com/unslothai/unsloth) - Web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.
 
 *   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
@@ -7535,6 +7617,8 @@
 
 *   [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
 
+*   [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
+
 *   [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK!
 
 *   [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-generation full-text search library for Browser and Node.js
@@ -7566,44 +7650,6 @@
 *   [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
 
 *   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol
-
-## automation
-
-*   [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
-
-*   [rorkai/App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI) - Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more. JSON-first, no interactive prompts
-
-*   [Kaliiiiiiiiii-Vinyzu/patchright-nodejs](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright-nodejs) - Undetected NodeJS version of the Playwright testing and automation library.
-
-*   [Kaliiiiiiiiii-Vinyzu/patchright](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright) - Undetected version of the Playwright testing and automation library.
-
-*   [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
-
-*   [callstackincubator/agent-device](https://github.com/callstackincubator/agent-device) - CLI to control iOS and Android devices for AI agents
-
-*   [rokpiy/auto-commenter](https://github.com/rokpiy/auto-commenter) - A Claude skill that automatically posts personalized, authentic comments in your target communities.
-
-*   [steipete/poltergeist](https://github.com/steipete/poltergeist) - The ghost that keeps your builds fresh - Universal hot reload, file watcher and build automation for any language.
-
-*   [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
-
-*   [yusufkaraaslan/Skill\_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
-
-*   [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation.
-
-*   [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
-
-*   [microlinkhq/browserless](https://github.com/microlinkhq/browserless) - The headless Chrome/Chromium driver on top of Puppeteer. Take screenshots, generate PDFs, extract text and HTML with a production-ready API.
-
-*   [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-
-*   [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
-
-*   [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
-
-*   [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-
-*   [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 
 ## career
 
@@ -8081,7 +8127,7 @@
 
 *   [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 
-*   [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.
+*   [unslothai/unsloth](https://github.com/unslothai/unsloth) - Web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.
 
 *   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
@@ -8124,8 +8170,6 @@
 ## vector-search
 
 *   [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
-
-*   [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
 
 *   [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
 
@@ -8545,6 +8589,8 @@
 
 *   [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences.
 
+*   [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
+
 *   [electric-sql/electric](https://github.com/electric-sql/electric) - Read-path sync engine for Postgres that handles partial replication, data delivery and fan-out.
 
 *   [garden-co/jazz](https://github.com/garden-co/jazz) - A new kind of database that's distributed across your frontend, containers, serverless functions and its own storage cloud.
@@ -8935,7 +8981,7 @@
 
 *   [xoidlabs/xoid](https://github.com/xoidlabs/xoid) - Framework-agnostic state management library designed for simplicity and scalability ⚛
 
-*   [iii-hq/iii](https://github.com/iii-hq/iii) - iii (pronounced “three eye”) unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
+*   [iii-hq/iii](https://github.com/iii-hq/iii) - iii unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
 
 *   [ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU) - Beautiful, open source, WebGPU-based charting library
 
@@ -9220,8 +9266,6 @@
 ## nodejs
 
 *   [harfbuzz/harfbuzzjs](https://github.com/harfbuzz/harfbuzzjs) - Providing HarfBuzz shaping library for client/server side JavaScript projects
-
-*   [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
 
 *   [vercel-labs/opensrc](https://github.com/vercel-labs/opensrc) - Fetch source code for npm packages to give AI coding agents deeper context
 
@@ -9623,7 +9667,7 @@
 
 *   [encoredev/encore](https://github.com/encoredev/encore) - Open source framework for building robust type-safe distributed systems with declarative infrastructure
 
-*   [iii-hq/iii](https://github.com/iii-hq/iii) - iii (pronounced “three eye”) unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
+*   [iii-hq/iii](https://github.com/iii-hq/iii) - iii unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
 
 *   [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Modern data layer for TypeScript apps - type-safe ORM, built-in access control, automatic query services
 
@@ -9665,7 +9709,7 @@
 
 *   [encoredev/encore](https://github.com/encoredev/encore) - Open source framework for building robust type-safe distributed systems with declarative infrastructure
 
-*   [iii-hq/iii](https://github.com/iii-hq/iii) - iii (pronounced “three eye”) unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
+*   [iii-hq/iii](https://github.com/iii-hq/iii) - iii unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
 
 *   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 
@@ -10769,7 +10813,7 @@
 
 *   [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) - Customize Claude Code's system prompts, create custom toolsets, input pattern highlighters, themes/thinking verbs/spinners, customize input box & user message styling, support AGENTS.md, unlock private/unreleased features, and much more.  Supports both native/npm installs on all platforms.
 
-*   [iii-hq/iii](https://github.com/iii-hq/iii) - iii (pronounced “three eye”) unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
+*   [iii-hq/iii](https://github.com/iii-hq/iii) - iii unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
 
 *   [vercel-labs/opensrc](https://github.com/vercel-labs/opensrc) - Fetch source code for npm packages to give AI coding agents deeper context
 
@@ -10889,8 +10933,6 @@
 
 *   [666ghj/MiroFish](https://github.com/666ghj/MiroFish) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
 
-*   [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
-
 *   [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori) - Memori is agent-native memory infrastructure. A LLM-agnostic layer that turns agent execution and conversation into structured, persistent state for production systems.
 
 *   [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
@@ -10917,7 +10959,7 @@
 
 *   [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK For Browser Agents
 
-*   [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.
+*   [unslothai/unsloth](https://github.com/unslothai/unsloth) - Web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.
 
 *   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
@@ -11717,7 +11759,7 @@
 
 *   [dmmulroy/better-result](https://github.com/dmmulroy/better-result) - Lightweight Result type for TypeScript with generator-based composition.
 
-*   [iii-hq/iii](https://github.com/iii-hq/iii) - iii (pronounced “three eye”) unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
+*   [iii-hq/iii](https://github.com/iii-hq/iii) - iii unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
 
 *   [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 
@@ -12001,11 +12043,15 @@
 
 *   [danilop/semstash](https://github.com/danilop/semstash) - Unlimited semantic storage for humans and AI agents
 
+*   [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
+
 *   [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
 
 ## vector-database
 
 *   [danilop/semstash](https://github.com/danilop/semstash) - Unlimited semantic storage for humans and AI agents
+
+*   [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
 
 *   [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
 
@@ -12445,23 +12491,37 @@
 
 *   [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
 
-## ann-search
+## agent-skills
 
 *   [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
 
-## embedded-database
+*   [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) -
+
+*   [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
+
+## embedded
 
 *   [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
 
-*   [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
+*   [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 
-*   [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
-
-## local
+## faiss
 
 *   [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
 
-## vectordb
+*   [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
+
+## hnsw
+
+*   [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
+
+*   [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
+
+## llm-memory
+
+*   [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
+
+## similarity-search
 
 *   [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
 
@@ -12835,7 +12895,7 @@
 
 *   [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
 
-*   [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.
+*   [unslothai/unsloth](https://github.com/unslothai/unsloth) - Web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.
 
 *   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 
@@ -12881,7 +12941,7 @@
 
 *   [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
 
-*   [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.
+*   [unslothai/unsloth](https://github.com/unslothai/unsloth) - Web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.
 
 *   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 
@@ -13517,7 +13577,7 @@
 
 ## genai
 
-*   [iii-hq/iii](https://github.com/iii-hq/iii) - iii (pronounced “three eye”) unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
+*   [iii-hq/iii](https://github.com/iii-hq/iii) - iii unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
 
 *   [datapizza-labs/datapizza-ai](https://github.com/datapizza-labs/datapizza-ai) - Build reliable Gen AI solutions without overhead 🍕
 
@@ -13525,7 +13585,7 @@
 
 ## primitives
 
-*   [iii-hq/iii](https://github.com/iii-hq/iii) - iii (pronounced “three eye”) unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
+*   [iii-hq/iii](https://github.com/iii-hq/iii) - iii unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
 
 *   [chakra-ui/zag](https://github.com/chakra-ui/zag) - Build your design system in React, Solid, Vue or Svelte. Powered by finite state machines
 
@@ -13552,8 +13612,6 @@
 *   [ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU) - Beautiful, open source, WebGPU-based charting library
 
 *   [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flags, Experimentation, and Product Analytics
-
-*   [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 
 ## data-visualization
 
@@ -13786,12 +13844,6 @@
 *   [EvanBacon/expo-quick-actions](https://github.com/EvanBacon/expo-quick-actions) - Add home screen quick actions / shortcuts and custom icons to your Expo app
 
 *   [mrousavy/nitro](https://github.com/mrousavy/nitro) - 🔥 Insanely fast native C++, Swift or Kotlin modules with a statically compiled binding layer to JSI
-
-## agent-skills
-
-*   [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) -
-
-*   [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 
 ## codex-skills
 
@@ -14159,7 +14211,7 @@
 
 *   [mybigday/llama.rn](https://github.com/mybigday/llama.rn) - React Native binding of llama.cpp
 
-*   [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.
+*   [unslothai/unsloth](https://github.com/unslothai/unsloth) - Web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.
 
 *   [beelzebub-labs/beelzebub](https://github.com/beelzebub-labs/beelzebub) - A secure low code honeypot framework, leveraging AI for System Virtualization.
 
@@ -14314,8 +14366,6 @@
 *   [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 
 *   [yadm-dev/yadm](https://github.com/yadm-dev/yadm) - Yet Another Dotfiles Manager
-
-*   [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 
 ## gomobile
 
@@ -14802,8 +14852,6 @@
 *   [arktypeio/arktype](https://github.com/arktypeio/arktype) - TypeScript's 1:1 validator, optimized from editor to runtime
 
 *   [open-circle/valibot](https://github.com/open-circle/valibot) - The modular and type safe schema library for validating structural data 🤖
-
-*   [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 
 ## tree-sitter
 
@@ -16099,10 +16147,6 @@
 
 *   [simonw/shot-scraper](https://github.com/simonw/shot-scraper) - A command-line utility for taking automated screenshots of websites
 
-## screenshots
-
-*   [simonw/shot-scraper](https://github.com/simonw/shot-scraper) - A command-line utility for taking automated screenshots of websites
-
 ## ai-memory
 
 *   [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori) - Memori is agent-native memory infrastructure. A LLM-agnostic layer that turns agent execution and conversation into structured, persistent state for production systems.
@@ -17301,14 +17345,6 @@
 
 *   [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
 
-## faiss
-
-*   [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
-
-## hnsw
-
-*   [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
-
 ## image-search
 
 *   [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
@@ -17781,7 +17817,7 @@
 
 *   [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - Easy-to-use Speech Toolkit including Self-Supervised Learning model, SOTA/Streaming ASR with punctuation, Streaming TTS with text frontend, Speaker Verification System, End-to-End Speech Translation and Keyword Spotting. Won NAACL2022 Best Demo Award.
 
-*   [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.
+*   [unslothai/unsloth](https://github.com/unslothai/unsloth) - Web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.
 
 *   [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework
 
@@ -18399,8 +18435,6 @@
 
 *   [Vanilagy/mediabunny](https://github.com/Vanilagy/mediabunny) - Pure TypeScript media toolkit for reading, writing, and converting video and audio files, directly in the browser.
 
-*   [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
-
 ## media
 
 *   [Vanilagy/mediabunny](https://github.com/Vanilagy/mediabunny) - Pure TypeScript media toolkit for reading, writing, and converting video and audio files, directly in the browser.
@@ -18467,29 +18501,29 @@
 
 ## fine-tuning
 
-*   [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.
+*   [unslothai/unsloth](https://github.com/unslothai/unsloth) - Web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.
 
 ## gemma
 
-*   [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.
+*   [unslothai/unsloth](https://github.com/unslothai/unsloth) - Web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.
 
 *   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 
 ## gemma3
 
-*   [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.
+*   [unslothai/unsloth](https://github.com/unslothai/unsloth) - Web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.
 
 *   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 
 ## gpt-oss
 
-*   [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.
+*   [unslothai/unsloth](https://github.com/unslothai/unsloth) - Web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.
 
 *   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 
 ## llama3
 
-*   [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.
+*   [unslothai/unsloth](https://github.com/unslothai/unsloth) - Web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.
 
 *   [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) - Data framework for your LLM applications. Focus on server side solution
 
@@ -18497,17 +18531,17 @@
 
 ## mistral
 
-*   [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.
+*   [unslothai/unsloth](https://github.com/unslothai/unsloth) - Web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.
 
 *   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 
 ## reinforcement-learning
 
-*   [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.
+*   [unslothai/unsloth](https://github.com/unslothai/unsloth) - Web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.
 
 ## unsloth
 
-*   [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.
+*   [unslothai/unsloth](https://github.com/unslothai/unsloth) - Web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.
 
 ## heroui
 
@@ -18986,6 +19020,12 @@
 ## fastjs-next
 
 *   [fastjs-team/core](https://github.com/fastjs-team/core) - Fastjs is a useful, lightweight JavaScript library for any types of project.
+
+## embedded-database
+
+*   [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
+
+*   [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 
 ## sqlite3
 
@@ -21953,16 +21993,6 @@
 
 *   [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 
-## ruby
-
-*   [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
-
-*   [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
-
-*   [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
-
-*   [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
-
 ## zig
 
 *   [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
@@ -22274,16 +22304,6 @@
 ## api-keys
 
 *   [unkeyed/unkey](https://github.com/unkeyed/unkey) - The Developer Platform for Modern APIs
-
-## deployment
-
-*   [unkeyed/unkey](https://github.com/unkeyed/unkey) - The Developer Platform for Modern APIs
-
-*   [Ackee-Blockchain/wake](https://github.com/Ackee-Blockchain/wake) - Wake is a Python-based Solidity development and fuzz testing framework with built-in vulnerability detectors for building secure Ethereum dApps.
-
-*   [pcaversaccio/createx](https://github.com/pcaversaccio/createx) - Factory smart contract to make easier and safer usage of the `CREATE` and `CREATE2` EVM opcodes as well as of `CREATE3`-based (i.e. without an initcode factor) contract creations.
-
-*   [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 
 ## rate-limiter
 
@@ -26977,10 +26997,6 @@
 
 *   [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 
-## embedded
-
-*   [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
-
 ## lakehouse
 
 *   [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
@@ -27574,15 +27590,3 @@
 ## t3
 
 *   [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
-
-## compression
-
-*   [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
-
-## data-manipulation
-
-*   [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
-
-## hashing
-
-*   [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
