@@ -2166,6 +2166,7 @@
 *   [neobrutalism-components](#neobrutalism-components)
 *   [react-component-library](#react-component-library)
 *   [react-ui-components](#react-ui-components)
+*   [alpine](#alpine)
 *   [autocomplete](#autocomplete)
 *   [contenteditable](#contenteditable)
 *   [headlessui](#headlessui)
@@ -22680,6 +22681,10 @@
 ## react-ui-components
 
 *   [ekmas/neobrutalism-components](https://github.com/ekmas/neobrutalism-components) - A collection of neobrutalism-styled Tailwind components.
+
+## alpine
+
+*   [inokawa/editate](https://github.com/inokawa/editate) - An experimental, type-safe, framework agnostic and small (5kB+) contenteditable state manager.
 
 ## autocomplete
 
