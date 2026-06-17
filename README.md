@@ -2,9 +2,9 @@
 
 ## Table of Contents
 
+*   [Swift](#swift)
 *   [C++](#c)
 *   [JavaScript](#javascript)
-*   [Swift](#swift)
 *   [miscellaneous](#miscellaneous)
 *   [TypeScript](#typescript)
 *   [Python](#python)
@@ -37,6 +37,84 @@
 *   [Elixir](#elixir)
 *   [Lua](#lua)
 *   [Jinja](#jinja)
+
+## Swift
+
+*   [privatenumber/mac-ocr](https://github.com/privatenumber/mac-ocr) - macOS CLI for OCR and searchable PDFs using Apple's Vision framework.
+
+*   [facebook/idb](https://github.com/facebook/idb) - idb is a flexible command line interface for automating iOS simulators and devices
+
+*   [pluk-inc/markdown-preview](https://github.com/pluk-inc/markdown-preview) - A simple Markdown viewer for reading .md files
+
+*   [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo) - Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI models.
+
+*   [mykolaharmash/notelet](https://github.com/mykolaharmash/notelet) - SwiftUI component for displaying rich release notes inside an app
+
+*   [tddworks/baguette](https://github.com/tddworks/baguette) - Headless iOS Simulator manager/farm + host-side input injection for iOS 26 — taps, swipes, multi-finger gestures, and 60 fps streaming
+
+*   [10x-app-builder/10x](https://github.com/10x-app-builder/10x) - Open-source SwiftUI app builder.
+
+*   [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
+
+*   [shobhit99/SuperIsland](https://github.com/shobhit99/SuperIsland) - Dynamic Island for MacOS — with Extensions
+
+*   [arunabhverma/expo-paste-input](https://github.com/arunabhverma/expo-paste-input) - Cross-platform native paste handling for React Native.
+
+*   [Emanuele-web04/remodex](https://github.com/Emanuele-web04/remodex) - Remote Control for Codex.
+
+*   [Shubham0812/SwiftUI-Animations](https://github.com/Shubham0812/SwiftUI-Animations) - A repository containing a variety of animations and Animated components created in SwiftUI that you can use in your own projects.
+
+*   [yazinsai/OpenOats](https://github.com/yazinsai/OpenOats) - A meeting note-taker that talks back.
+
+*   [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) - A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
+
+*   [argmaxinc/argmax-oss-swift](https://github.com/argmaxinc/argmax-oss-swift) - On-device Speech AI for Apple Silicon
+
+*   [FluidInference/FluidAudio](https://github.com/FluidInference/FluidAudio) - Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.
+
+*   [kitlangton/Hex](https://github.com/kitlangton/Hex) - VOICE → WORDS
+
+*   [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences.
+
+*   [newmaterialco/chowder-iOS](https://github.com/newmaterialco/chowder-iOS) -
+
+*   [juanjovn/craion-onboarding](https://github.com/juanjovn/craion-onboarding) - Animated onboarding in SwiftUI from my app crAion
+
+*   [cameroncooke/AXe](https://github.com/cameroncooke/AXe) - AXe is a CLI tool for interacting with Simulators using Apple's Private Accessibility APIs.
+
+*   [bahattinkoc/ipaverse](https://github.com/bahattinkoc/ipaverse) - Native macOS workbench to download, inspect, archive, re-sign, and install iOS App Store IPAs.
+
+*   [nandorojo/galeria](https://github.com/nandorojo/galeria) - The React (Native) Image Viewer. 📷
+
+*   [Any-Distance/any-distance-ios](https://github.com/Any-Distance/any-distance-ios) -
+
+*   [sozercan/kaset](https://github.com/sozercan/kaset) - 📻 The missing YouTube Music macOS app
+
+*   [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
+
+*   [launchtodayhq/react-native-keyboard-composer](https://github.com/launchtodayhq/react-native-keyboard-composer) - A native keyboard-aware composer for React Native chat applications.
+
+*   [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.
+
+*   [productdevbook/port-killer](https://github.com/productdevbook/port-killer) - A powerful cross-platform port management tool for developers. Monitor ports, manage Kubernetes port forwards, integrate Cloudflare Tunnels, and kill processes with one click.
+
+*   [KeyboardKit/KeyboardKit](https://github.com/KeyboardKit/KeyboardKit) - Create amazing custom iOS keyboards with Swift & SwiftUI.
+
+*   [Dimillian/RetroDiffusionApp](https://github.com/Dimillian/RetroDiffusionApp) - iOS app for https://retrodiffusion.ai/app/devtools
+
+*   [the-ora/browser](https://github.com/the-ora/browser) - Less noise, more browsing.
+
+*   [mocki-toki/barik](https://github.com/mocki-toki/barik) - macOS menu bar replacement, with yabai and AeroSpace support
+
+*   [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
+
+*   [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch) - TheBoringNotch: Not so boring notch That Rocks 🎸🎶
+
+*   [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
+
+*   [evanw/thumbhash](https://github.com/evanw/thumbhash) - A very compact representation of an image placeholder
+
+*   [alexwidua/prototypes](https://github.com/alexwidua/prototypes) - little monorepo of swiftui prototypes
 
 ## C++
 
@@ -133,8 +211,6 @@
 *   [aralroca/next-translate](https://github.com/aralroca/next-translate) - Next.js plugin + i18n API for Next.js 🌍  -  Load page translations and use them in an easy way!
 
 *   [mozilla/web-ext](https://github.com/mozilla/web-ext) - A command line tool to help build, run, and test web extensions
-
-*   [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) - Customize Claude Code's system prompts, create custom toolsets, input pattern highlighters, themes/thinking verbs/spinners, customize input box & user message styling, support AGENTS.md, unlock private/unreleased features, and much more.  Supports both native/npm installs on all platforms.
 
 *   [vercel/nft](https://github.com/vercel/nft) - Node.js dependency tracing utility
 
@@ -345,82 +421,6 @@
 *   [react/react](https://github.com/react/react) - The library for web and native user interfaces.
 
 *   [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript
-
-## Swift
-
-*   [facebook/idb](https://github.com/facebook/idb) - idb is a flexible command line interface for automating iOS simulators and devices
-
-*   [pluk-inc/markdown-preview](https://github.com/pluk-inc/markdown-preview) - A simple Markdown viewer for reading .md files
-
-*   [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo) - Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI models.
-
-*   [mykolaharmash/notelet](https://github.com/mykolaharmash/notelet) - SwiftUI component for displaying rich release notes inside an app
-
-*   [tddworks/baguette](https://github.com/tddworks/baguette) - Headless iOS Simulator manager/farm + host-side input injection for iOS 26 — taps, swipes, multi-finger gestures, and 60 fps streaming
-
-*   [10x-app-builder/10x](https://github.com/10x-app-builder/10x) - Open-source SwiftUI app builder.
-
-*   [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
-
-*   [shobhit99/SuperIsland](https://github.com/shobhit99/SuperIsland) - Dynamic Island for MacOS — with Extensions
-
-*   [arunabhverma/expo-paste-input](https://github.com/arunabhverma/expo-paste-input) - Cross-platform native paste handling for React Native.
-
-*   [Emanuele-web04/remodex](https://github.com/Emanuele-web04/remodex) - Remote Control for Codex.
-
-*   [Shubham0812/SwiftUI-Animations](https://github.com/Shubham0812/SwiftUI-Animations) - A repository containing a variety of animations and Animated components created in SwiftUI that you can use in your own projects.
-
-*   [yazinsai/OpenOats](https://github.com/yazinsai/OpenOats) - A meeting note-taker that talks back.
-
-*   [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) - A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
-
-*   [argmaxinc/argmax-oss-swift](https://github.com/argmaxinc/argmax-oss-swift) - On-device Speech AI for Apple Silicon
-
-*   [FluidInference/FluidAudio](https://github.com/FluidInference/FluidAudio) - Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.
-
-*   [kitlangton/Hex](https://github.com/kitlangton/Hex) - VOICE → WORDS
-
-*   [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences.
-
-*   [newmaterialco/chowder-iOS](https://github.com/newmaterialco/chowder-iOS) -
-
-*   [juanjovn/craion-onboarding](https://github.com/juanjovn/craion-onboarding) - Animated onboarding in SwiftUI from my app crAion
-
-*   [cameroncooke/AXe](https://github.com/cameroncooke/AXe) - AXe is a CLI tool for interacting with Simulators using Apple's Private Accessibility APIs.
-
-*   [bahattinkoc/ipaverse](https://github.com/bahattinkoc/ipaverse) - Native macOS workbench to download, inspect, archive, re-sign, and install iOS App Store IPAs.
-
-*   [nandorojo/galeria](https://github.com/nandorojo/galeria) - The React (Native) Image Viewer. 📷
-
-*   [Any-Distance/any-distance-ios](https://github.com/Any-Distance/any-distance-ios) -
-
-*   [sozercan/kaset](https://github.com/sozercan/kaset) - 📻 The missing YouTube Music macOS app
-
-*   [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
-
-*   [launchtodayhq/react-native-keyboard-composer](https://github.com/launchtodayhq/react-native-keyboard-composer) - A native keyboard-aware composer for React Native chat applications.
-
-*   [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.
-
-*   [productdevbook/port-killer](https://github.com/productdevbook/port-killer) - A powerful cross-platform port management tool for developers. Monitor ports, manage Kubernetes port forwards, integrate Cloudflare Tunnels, and kill processes with one click.
-
-*   [KeyboardKit/KeyboardKit](https://github.com/KeyboardKit/KeyboardKit) - Create amazing custom iOS keyboards with Swift & SwiftUI.
-
-*   [Dimillian/RetroDiffusionApp](https://github.com/Dimillian/RetroDiffusionApp) - iOS app for https://retrodiffusion.ai/app/devtools
-
-*   [the-ora/browser](https://github.com/the-ora/browser) - Less noise, more browsing.
-
-*   [mocki-toki/barik](https://github.com/mocki-toki/barik) - macOS menu bar replacement, with yabai and AeroSpace support
-
-*   [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
-
-*   [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch) - TheBoringNotch: Not so boring notch That Rocks 🎸🎶
-
-*   [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
-
-*   [evanw/thumbhash](https://github.com/evanw/thumbhash) - A very compact representation of an image placeholder
-
-*   [alexwidua/prototypes](https://github.com/alexwidua/prototypes) - little monorepo of swiftui prototypes
 
 ## miscellaneous
 
@@ -811,6 +811,8 @@
 *   [sanity-labs/logo-soup](https://github.com/sanity-labs/logo-soup) - normalizes and harmonizes logo visuals
 
 *   [tambo-ai/tambo](https://github.com/tambo-ai/tambo) - Generative UI SDK for React
+
+*   [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) - Customize Claude Code's system prompts, create custom toolsets, input pattern highlighters, themes/thinking verbs/spinners, customize input box & user message styling, support AGENTS.md, unlock private/unreleased features, and much more.  Supports both native/npm installs on all platforms.
 
 *   [pmndrs/tunnel-rat](https://github.com/pmndrs/tunnel-rat) - 🐀 Non gratum anus rodentum
 
@@ -1586,7 +1588,7 @@
 
 *   [jpudysz/react-native-unistyles](https://github.com/jpudysz/react-native-unistyles) - Level up your React Native StyleSheet
 
-*   [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Pioneering open-source coding agent
+*   [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
 
 *   [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 
@@ -2492,7 +2494,7 @@
 
 *   [timescale/pg\_textsearch](https://github.com/timescale/pg_textsearch) - PostgreSQL extension for BM25 relevance-ranked full-text search. Postgres OSS licensed.
 
-*   [software-mansion/react-native-enriched](https://github.com/software-mansion/react-native-enriched) - Rich Text Editor for React Native
+*   [software-mansion/react-native-enriched-html](https://github.com/software-mansion/react-native-enriched-html) - HTML-based Rich Text solution for React Native
 
 *   [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 
@@ -2503,8 +2505,6 @@
 *   [asmvik/skhd](https://github.com/asmvik/skhd) -  Simple hotkey daemon for macOS
 
 *   [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
-
-*   [asmvik/yabai](https://github.com/asmvik/yabai) - A tiling window manager for macOS based on binary space partitioning
 
 ## HTML
 
@@ -2554,7 +2554,7 @@
 
 *   [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 
-*   [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | AI that knows what you've seen, said, or heard. Records everything you do, say, hear 24/7, local, private, secure
+*   [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | AI that knows what you've seen, said, or heard. Records everything you do, say, hear 24/7, local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps
 
 *   [tw93/Kaku](https://github.com/tw93/Kaku) - 🎃 A fast, out-of-the-box terminal built for AI coding.
 
