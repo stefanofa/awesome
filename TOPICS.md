@@ -1508,8 +1508,11 @@
 *   [multi-cloud](#multi-cloud)
 *   [multi-cloud-kubernetes](#multi-cloud-kubernetes)
 *   [objectstorage](#objectstorage)
-*   [capture-screenshots](#capture-screenshots)
+*   [capture-screen](#capture-screen)
 *   [clone](#clone)
+*   [dom-manipulation](#dom-manipulation)
+*   [fidelity](#fidelity)
+*   [plugin-system](#plugin-system)
 *   [ast-parser](#ast-parser)
 *   [code-analysis](#code-analysis)
 *   [conflict-detection](#conflict-detection)
@@ -2468,7 +2471,6 @@
 *   [haskell](#haskell)
 *   [java](#java)
 *   [ocaml](#ocaml)
-*   [plugin-system](#plugin-system)
 *   [zig](#zig)
 *   [anime](#anime)
 *   [react-dom](#react-dom)
@@ -4880,6 +4882,8 @@
 *   [software-mansion/TypeGPU](https://github.com/software-mansion/TypeGPU) - A modular and open-ended toolkit for WebGPU, with advanced type inference and the ability to write shaders in TypeScript
 
 *   [generaltranslation/gt](https://github.com/generaltranslation/gt) - Full-stack localization for every framework
+
+*   [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - High-performance engine for capturing, modifying, and converting DOM elements into any format.
 
 *   [evanwashere/mitata](https://github.com/evanwashere/mitata) - benchmark tooling that loves you ❤️
 
@@ -14743,8 +14747,6 @@
 
 *   [tambo-ai/tambo](https://github.com/tambo-ai/tambo) - Generative UI SDK for React
 
-*   [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - High-performance engine for capturing, modifying, and converting DOM elements into any format.
-
 *   [huozhi/sugar-high](https://github.com/huozhi/sugar-high) - ✏️ Super lightweight code syntax highlighter
 
 *   [supabase/supabase-js](https://github.com/supabase/supabase-js) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
@@ -19275,13 +19277,27 @@
 
 *   [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 
-## capture-screenshots
+## capture-screen
 
 *   [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - High-performance engine for capturing, modifying, and converting DOM elements into any format.
 
 ## clone
 
 *   [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - High-performance engine for capturing, modifying, and converting DOM elements into any format.
+
+## dom-manipulation
+
+*   [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - High-performance engine for capturing, modifying, and converting DOM elements into any format.
+
+## fidelity
+
+*   [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - High-performance engine for capturing, modifying, and converting DOM elements into any format.
+
+## plugin-system
+
+*   [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - High-performance engine for capturing, modifying, and converting DOM elements into any format.
+
+*   [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 
 ## ast-parser
 
@@ -24164,10 +24180,6 @@
 *   [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 
 ## ocaml
-
-*   [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
-
-## plugin-system
 
 *   [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 
