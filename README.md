@@ -39,6 +39,10 @@
 
 ## TypeScript
 
+*   [aidenybai/cnfast](https://github.com/aidenybai/cnfast) - Fast drop in replacement for `cn`
+
+*   [vercel-labs/emulate](https://github.com/vercel-labs/emulate) - Local API emulation for CI and no-network sandboxes
+
 *   [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) - A framework for building agent-native applications.
 
 *   [vadimdemedes/ink-ui](https://github.com/vadimdemedes/ink-ui) - 💄 Ink-redible command-line interfaces made easy
@@ -1203,8 +1207,6 @@
 
 *   [chakra-ui/ark](https://github.com/chakra-ui/ark) - Unstyled, accessible UI components for your design System. Works in React, Vue, Solid, and Svelte.
 
-*   [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
-
 *   [mrbirddev/fontsensei](https://github.com/mrbirddev/fontsensei) -
 
 *   [unlayer/react-email-editor](https://github.com/unlayer/react-email-editor) - Drag-n-Drop Email Editor Component for React.js
@@ -1751,10 +1753,6 @@
 
 *   [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code
 
-*   [joe-bell/cva](https://github.com/joe-bell/cva) - Class Variance Authority
-
-*   [joe-bell/plaiceholder](https://github.com/joe-bell/plaiceholder) - Beautiful image placeholders, without the hassle.
-
 ## C++
 
 *   [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
@@ -1875,6 +1873,8 @@
 
 *   [reactjs/rfcs](https://github.com/reactjs/rfcs) - RFCs for changes to React
 
+*   [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
+
 *   [pilcrowonpaper/copenhagen](https://github.com/pilcrowonpaper/copenhagen) - A basic guideline on implementing auth for the web
 
 *   [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
@@ -1915,7 +1915,7 @@
 
 *   [10x-app-builder/10x](https://github.com/10x-app-builder/10x) - Open-source SwiftUI app builder.
 
-*   [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications. Built for AI coding agents and programmability.
+*   [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
 
 *   [shobhit99/SuperIsland](https://github.com/shobhit99/SuperIsland) - Dynamic Island for MacOS — with Extensions
 
