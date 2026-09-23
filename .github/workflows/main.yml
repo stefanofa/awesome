@@ -5,16 +5,29 @@ on:
   schedule:
     - cron: "0 0 * * *"
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - name: Awesome generator
-        uses: simonecorsi/mawesome@v2.2.0
-        with:
-          compact-by-topic: true
-          template-path: "template/README.ejs"
-          api-token: ${{ secrets.API_TOKEN }}
-          github-email: ${{ secrets.USER_EMAIL }}
-          github-name: ${{ github.repository_owner }}
+      - uses: actions/checkout@v4
+
+      - name: Update star list
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }}
+        run: node scripts/update-stars.mjs
+
+      - name: Commit updates
+        run: |
+          if git diff --quiet -- README.md TOPICS.md data.json; then
+            echo "No changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md TOPICS.md data.json
+          git commit -m "chore(updates): updated entries in files"
+          git push
