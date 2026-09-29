@@ -88,7 +88,7 @@
 
 * [letstri/motion-panels](https://github.com/letstri/motion-panels) -
 
-* [kacperkapusciak/goldie](https://github.com/kacperkapusciak/goldie) - ✨ agentic app store previews and screenshots
+* [software-mansion-labs/goldie](https://github.com/software-mansion-labs/goldie) - ✨ agentic app store previews and screenshots
 
 * [danielwh2/drawably](https://github.com/danielwh2/drawably) - Hand-drawn UI controls. Every mount generates a fresh pen sketch from seeded randomness, and the stroke boils like an animated doodle. Zero dependencies, 4 KB of JS and one stylesheet.
 
