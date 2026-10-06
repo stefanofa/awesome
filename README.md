@@ -1218,7 +1218,7 @@
 
 * [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor.
 
-* [Shopify/react-native-skia](https://github.com/Shopify/react-native-skia) - High-performance React Native Graphics using Skia
+* [wcandillon/react-native-skia](https://github.com/wcandillon/react-native-skia) - High-performance React Native Graphics using Skia
 
 * [jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn) - A visual no-code theme editor for shadcn/ui components
 
@@ -1846,7 +1846,7 @@
 
 * [wakujs/waku](https://github.com/wakujs/waku) - ⛩️ The minimal React framework
 
-* [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
+* [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites.
 
 * [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 
@@ -2458,8 +2458,6 @@
 
 * [calcom/sans](https://github.com/calcom/sans) - The home for our Cal Sans font.
 
-* [google/dotprompt](https://github.com/google/dotprompt) - Executable GenAI prompt templates
-
 * [bytedance/monolith](https://github.com/bytedance/monolith) - A Lightweight Recommendation System
 
 * [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) - Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase
@@ -2534,7 +2532,7 @@
 
 * [dominikmartn/nothing-design-skill](https://github.com/dominikmartn/nothing-design-skill) - A Claude Code skill for generating UI in the Nothing design language. Monochrome, typographic, industrial.
 
-* [sleekdotdesign/agent-skills](https://github.com/sleekdotdesign/agent-skills) -
+* [sleekdotdesign/agent-skills](https://github.com/sleekdotdesign/agent-skills) - Official Sleek agent skill for creating and editing mobile app designs through the REST API. Includes account setup, screenshots and screen HTML.
 
 * [lapreamarcelo/store-wizard](https://github.com/lapreamarcelo/store-wizard) -
 
@@ -2955,6 +2953,8 @@
 * [vinzdg/codenotch](https://github.com/vinzdg/codenotch) - A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.
 
 * [f/textream](https://github.com/f/textream) - Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay. With extensible features.
+
+* [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) - Run iOS apps without actually installing them!
 
 * [fayazara/Screendrop](https://github.com/fayazara/Screendrop) - A beautiful screenshot + screen recording + Loom alternative - all native, self hostable and free.
 
@@ -3409,6 +3409,8 @@
 ## Dart
 
 * [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
+
+* [google/dotprompt](https://github.com/google/dotprompt) - Executable GenAI prompt templates
 
 ## Java
 
