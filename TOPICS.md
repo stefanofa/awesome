@@ -3,15 +3,38 @@
 ## Table of Contents
 
 * [anthropic](#anthropic)
+* [chatgpt](#chatgpt)
 * [claude](#claude)
-* [claude-ai](#claude-ai)
 * [claude-code](#claude-code)
-* [claude-code-plugin](#claude-code-plugin)
 * [cli](#cli)
+* [codex](#codex)
+* [deepseek](#deepseek)
+* [load-balancer](#load-balancer)
+* [multi-account](#multi-account)
+* [nodejs](#nodejs)
+* [oauth](#oauth)
+* [openai](#openai)
+* [proxy](#proxy)
+* [quota](#quota)
+* [rate-limiting](#rate-limiting)
+* [ai-agents](#ai-agents)
+* [ai-gateway](#ai-gateway)
+* [cline](#cline)
+* [copilot](#copilot)
+* [cursor](#cursor)
+* [free-ai](#free-ai)
+* [gemini](#gemini)
+* [gemini-cli](#gemini-cli)
+* [llm](#llm)
+* [llm-gateway](#llm-gateway)
+* [openai-proxy](#openai-proxy)
+* [qwen](#qwen)
+* [token-saver](#token-saver)
+* [claude-ai](#claude-ai)
+* [claude-code-plugin](#claude-code-plugin)
 * [cli-tool](#cli-tool)
 * [developer-tools](#developer-tools)
 * [hooks](#hooks)
-* [multi-account](#multi-account)
 * [rate-limit](#rate-limit)
 * [agent](#agent)
 * [ai](#ai)
@@ -21,9 +44,7 @@
 * [typescript](#typescript)
 * [photon](#photon)
 * [agent-skills](#agent-skills)
-* [ai-agents](#ai-agents)
 * [binary-analysis](#binary-analysis)
-* [codex](#codex)
 * [cordis](#cordis)
 * [ctf](#ctf)
 * [decompiler](#decompiler)
@@ -32,7 +53,6 @@
 * [dsh-plugin](#dsh-plugin)
 * [ghidra](#ghidra)
 * [hopper](#hopper)
-* [llm](#llm)
 * [mcp](#mcp)
 * [model-context-protocol](#model-context-protocol)
 * [reverse-engineering](#reverse-engineering)
@@ -60,8 +80,6 @@
 * [ai-chat](#ai-chat)
 * [ai-tools](#ai-tools)
 * [apple-silicon](#apple-silicon)
-* [chatgpt](#chatgpt)
-* [deepseek](#deepseek)
 * [desktop-app](#desktop-app)
 * [gemma](#gemma)
 * [gguf](#gguf)
@@ -73,7 +91,6 @@
 * [local-llm](#local-llm)
 * [mlx](#mlx)
 * [open-source](#open-source)
-* [qwen](#qwen)
 * [self-hosted](#self-hosted)
 * [3d-graphics](#3d-graphics)
 * [aivideo](#aivideo)
@@ -121,8 +138,6 @@
 * [ai-visibility-tracker](#ai-visibility-tracker)
 * [aio](#aio)
 * [answer-engine-optimization](#answer-engine-optimization)
-* [copilot](#copilot)
-* [gemini](#gemini)
 * [generative-engine-optimization](#generative-engine-optimization)
 * [geo](#geo)
 * [geo-optimization](#geo-optimization)
@@ -181,8 +196,6 @@
 * [bun](#bun)
 * [instagram](#instagram)
 * [linkedin](#linkedin)
-* [nodejs](#nodejs)
-* [oauth](#oauth)
 * [oauth2](#oauth2)
 * [sdk](#sdk)
 * [social-media](#social-media)
@@ -343,7 +356,6 @@
 * [simulators](#simulators)
 * [api-keys](#api-keys)
 * [credentials](#credentials)
-* [proxy](#proxy)
 * [registry](#registry)
 * [secrets](#secrets)
 * [analytics](#analytics)
@@ -351,7 +363,6 @@
 * [tokens](#tokens)
 * [agent-skill](#agent-skill)
 * [c2pa](#c2pa)
-* [openai](#openai)
 * [provenance](#provenance)
 * [synthid](#synthid)
 * [watermark](#watermark)
@@ -488,7 +499,6 @@
 * [antigravity](#antigravity)
 * [claude-agent-sdk](#claude-agent-sdk)
 * [claude-max](#claude-max)
-* [cline](#cline)
 * [crush-cli](#crush-cli)
 * [google-antigravity](#google-antigravity)
 * [jcode](#jcode)
@@ -765,7 +775,6 @@
 * [self-hosted-runners](#self-hosted-runners)
 * [compression](#compression)
 * [context-engineering](#context-engineering)
-* [cursor](#cursor)
 * [fastapi](#fastapi)
 * [token-optimization](#token-optimization)
 * [sandbox](#sandbox)
@@ -1390,6 +1399,12 @@
 * [monitor](#monitor)
 * [monitoring](#monitoring)
 * [doctor](#doctor)
+* [acpx](#acpx)
+* [ai-engineering](#ai-engineering)
+* [ai-governance](#ai-governance)
+* [autonomous-agents](#autonomous-agents)
+* [multi-agent](#multi-agent)
+* [workflow-automation](#workflow-automation)
 * [globalization](#globalization)
 * [i18n](#i18n)
 * [localization](#localization)
@@ -1533,19 +1548,15 @@
 * [ticker](#ticker)
 * [ai-coding-assistant](#ai-coding-assistant)
 * [context-transfer](#context-transfer)
-* [gemini-cli](#gemini-cli)
 * [github-copilot](#github-copilot)
 * [session-management](#session-management)
 * [agentic-workflow](#agentic-workflow)
 * [coordinator](#coordinator)
-* [ai-gateway](#ai-gateway)
 * [azure-openai](#azure-openai)
 * [bedrock](#bedrock)
 * [gateway](#gateway)
 * [litellm](#litellm)
-* [llm-gateway](#llm-gateway)
 * [mcp-gateway](#mcp-gateway)
-* [openai-proxy](#openai-proxy)
 * [rust-ai](#rust-ai)
 * [vertex-ai](#vertex-ai)
 * [aws-lambda](#aws-lambda)
@@ -2006,7 +2017,6 @@
 * [showcase](#showcase)
 * [vercel-oss](#vercel-oss)
 * [claude-code-marketplace](#claude-code-marketplace)
-* [multi-agent](#multi-agent)
 * [valdi](#valdi)
 * [bippy](#bippy)
 * [fiber](#fiber)
@@ -2444,7 +2454,6 @@
 * [api-key-management](#api-key-management)
 * [guardrails](#guardrails)
 * [llm-proxy](#llm-proxy)
-* [rate-limiting](#rate-limiting)
 * [coding-agent](#coding-agent)
 * [eslint](#eslint)
 * [batching](#batching)
@@ -3166,7 +3175,6 @@
 * [playback](#playback)
 * [volume](#volume)
 * [copilot-chat](#copilot-chat)
-* [workflow-automation](#workflow-automation)
 * [model-router](#model-router)
 * [nuxtjs](#nuxtjs)
 * [progressive-web-app](#progressive-web-app)
@@ -3263,7 +3271,6 @@
 * [sharp](#sharp)
 * [lazyload](#lazyload)
 * [deploy](#deploy)
-* [load-balancer](#load-balancer)
 * [pm2](#pm2)
 * [dock](#dock)
 * [docking](#docking)
@@ -3297,9 +3304,11 @@
 * [interpolation](#interpolation)
 * [jzazbz](#jzazbz)
 * [oklab](#oklab)
+* [design-system-engine](#design-system-engine)
+* [design-system-generator](#design-system-generator)
+* [design-systems-automation](#design-systems-automation)
+* [design-systems-tokens](#design-systems-tokens)
 * [dtcg](#dtcg)
-* [sass](#sass)
-* [w3c](#w3c)
 * [serial-port](#serial-port)
 * [terminal-emulators](#terminal-emulators)
 * [react-ssr](#react-ssr)
@@ -3421,6 +3430,7 @@
 * [font-files](#font-files)
 * [font-loading](#font-loading)
 * [fontsource](#fontsource)
+* [sass](#sass)
 * [typefaces](#typefaces)
 * [runtime-typechecking](#runtime-typechecking)
 * [static-typing](#static-typing)
@@ -3902,6 +3912,7 @@
 * [phaserjs](#phaserjs)
 * [youtube-playables](#youtube-playables)
 * [decorators](#decorators)
+* [nextjs-app-router](#nextjs-app-router)
 * [supports-dot-config](#supports-dot-config)
 * [http-request](#http-request)
 * [request](#request)
@@ -4267,6 +4278,10 @@
 
 ## anthropic
 
+* [KarpelesLab/teamclaude](https://github.com/KarpelesLab/teamclaude) - Multi-account proxy for Claude Code and Codex: pools Claude Max, ChatGPT/Codex, API-key and third-party backend accounts, and rotates on quota
+
+* [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
+
 * [inulute/cux](https://github.com/inulute/cux) - Run multiple Claude Code accounts as one. Auto-switches on rate limits and resumes your session no lost context, no logout dance.
 
 * [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - A privacy-first app that strips AI watermarks from content you own.
@@ -4313,7 +4328,71 @@
 
 * [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 
+## chatgpt
+
+* [KarpelesLab/teamclaude](https://github.com/KarpelesLab/teamclaude) - Multi-account proxy for Claude Code and Codex: pools Claude Max, ChatGPT/Codex, API-key and third-party backend accounts, and rotates on quota
+
+* [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
+
+* [AtomicBot-ai/Atomic-Chat](https://github.com/AtomicBot-ai/Atomic-Chat) - Local AI app and inference engine for agents. Run open-weight LLMs locally — private, 100% offline on your computer. Join our Discord: https://discord.com/invite/8wGSsvmg4V
+
+* [elmohq/elmo](https://github.com/elmohq/elmo) - Open-source Answer Engine Optimization (AEO) and Generative Engine Optimization (GEO) platform. Track how ChatGPT, Claude, Perplexity, Gemini, Copilot, Grok, and Google AI Overviews mention and cite your brand in AI search. MIT-licensed, self-hostable, every metric auditable in code.
+
+* [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - A privacy-first app that strips AI watermarks from content you own.
+
+* [voyager-crew/voyager](https://github.com/voyager-crew/voyager) - Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。
+
+* [elie222/rakazo](https://github.com/elie222/rakazo) - Open-source Grok Bot alternative. Choose your own model and sandbox.
+
+* [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
+
+* [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
+
+* [rokpiy/auto-commenter](https://github.com/rokpiy/auto-commenter) - A Claude skill that automatically posts personalized, authentic comments in your target communities.
+
+* [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
+
+* [FranciscoMoretti/chat-js](https://github.com/FranciscoMoretti/chat-js) - Production-ready AI chat. Start here and make it your own. Formerly Sparka AI
+
+* [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
+
+* [stackblitz-labs/use-stick-to-bottom](https://github.com/stackblitz-labs/use-stick-to-bottom) - A lightweight React Hook intended mainly for AI chat applications, for smoothly sticking to bottom of messages
+
+* [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.
+
+* [voideditor/void](https://github.com/voideditor/void) -
+
+* [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
+
+* [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework
+
+* [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
+
+* [TheR1D/shell\_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-5, will help you accomplish your tasks faster and more efficiently.
+
+* [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any website into a tiny, fast desktop app.
+
+* [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
+
+* [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
+
+* [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Background jobs, Landing page, Payments (Stripe, Polar.sh), Shadcn UI, S3 file upload. AI-ready with tailored AGENTS.md, skills, and Claude Code plugin. One cmd deploy. Powered by Wasp full-stack framework.
+
+* [CommandCodeAI/langui](https://github.com/CommandCodeAI/langui) - UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects.
+
+* [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
+
+* [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
+
+* [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
+
+* [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+
 ## claude
+
+* [KarpelesLab/teamclaude](https://github.com/KarpelesLab/teamclaude) - Multi-account proxy for Claude Code and Codex: pools Claude Max, ChatGPT/Codex, API-key and third-party backend accounts, and rotates on quota
+
+* [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
 
 * [inulute/cux](https://github.com/inulute/cux) - Run multiple Claude Code accounts as one. Auto-switches on rate limits and resumes your session no lost context, no logout dance.
 
@@ -4342,6 +4421,8 @@
 * [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 
 * [ParthJadhav/app-store-screenshots](https://github.com/ParthJadhav/app-store-screenshots) - end to end app store screenshot creation using AI
+
+* [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 
 * [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
 
@@ -4379,23 +4460,11 @@
 
 * [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
-## claude-ai
-
-* [inulute/cux](https://github.com/inulute/cux) - Run multiple Claude Code accounts as one. Auto-switches on rate limits and resumes your session no lost context, no logout dance.
-
-* [voyager-crew/voyager](https://github.com/voyager-crew/voyager) - Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。
-
-* [rokpiy/auto-commenter](https://github.com/rokpiy/auto-commenter) - A Claude skill that automatically posts personalized, authentic comments in your target communities.
-
-* [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases
-
-* [yusufkaraaslan/Skill\_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
-
-* [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
-
-* [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) - Data framework for your LLM applications. Focus on server side solution
-
 ## claude-code
+
+* [KarpelesLab/teamclaude](https://github.com/KarpelesLab/teamclaude) - Multi-account proxy for Claude Code and Codex: pools Claude Max, ChatGPT/Codex, API-key and third-party backend accounts, and rotates on quota
+
+* [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
 
 * [inulute/cux](https://github.com/inulute/cux) - Run multiple Claude Code accounts as one. Auto-switches on rate limits and resumes your session no lost context, no logout dance.
 
@@ -4453,6 +4522,8 @@
 
 * [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API
 
+* [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
+
 * [sleekdotdesign/agent-skills](https://github.com/sleekdotdesign/agent-skills) - Official Sleek agent skill for creating and editing mobile app designs through the REST API. Includes account setup, screenshots and screen HTML.
 
 * [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
@@ -4481,25 +4552,9 @@
 
 * [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers and Visual Engineers to design with Real Code.
 
-## claude-code-plugin
-
-* [inulute/cux](https://github.com/inulute/cux) - Run multiple Claude Code accounts as one. Auto-switches on rate limits and resumes your session no lost context, no logout dance.
-
-* [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder) - Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.
-
-* [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-
-* [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A browser inside your terminal
-
-* [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
-
-* [glifxyz/glif-mcp-server](https://github.com/glifxyz/glif-mcp-server) - Glif's hosted MCP server, plugin and skills for creating images, video and audio. Works with Claude, ChatGPT, Codex, Cursor and more.
-
-* [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
-
-* [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
-
 ## cli
+
+* [KarpelesLab/teamclaude](https://github.com/KarpelesLab/teamclaude) - Multi-account proxy for Claude Code and Codex: pools Claude Max, ChatGPT/Codex, API-key and third-party backend accounts, and rotates on quota
 
 * [inulute/cux](https://github.com/inulute/cux) - Run multiple Claude Code accounts as one. Auto-switches on rate limits and resumes your session no lost context, no logout dance.
 
@@ -4657,6 +4712,840 @@
 
 * [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for source code. 220+ languages, Rust engine, SARIF/HTML/badge reporters, GitHub Action, MCP server for AI agents.
 
+## codex
+
+* [KarpelesLab/teamclaude](https://github.com/KarpelesLab/teamclaude) - Multi-account proxy for Claude Code and Codex: pools Claude Max, ChatGPT/Codex, API-key and third-party backend accounts, and rotates on quota
+
+* [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
+
+* [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
+
+* [scenario-labs/skills](https://github.com/scenario-labs/skills) - Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.
+
+* [nightly-labs/openbot](https://github.com/nightly-labs/openbot) - A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.
+
+* [RubricLab/tokenmaxx](https://github.com/RubricLab/tokenmaxx) - A local proxy that aggregates usage across your Codex and Claude Code accounts — with live token-throughput analytics.
+
+* [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) - AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previews, a production-ready template
+
+* [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
+
+* [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
+
+* [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
+
+* [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A browser inside your terminal
+
+* [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io
+
+* [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
+
+* [inkeep/open-knowledge](https://github.com/inkeep/open-knowledge) - Beautiful, AI-native markdown IDE and LLM wiki
+
+* [superset-sh/superset](https://github.com/superset-sh/superset) - Superset is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.
+
+* [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
+
+* [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
+
+* [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
+
+* [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
+
+* [dominikmartn/hue](https://github.com/dominikmartn/hue) - open-source skill that learns any brand and turns it into a complete design system. works on claude code and codex. install once, every UI your assistant builds matches your brand.
+
+* [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
+
+* [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
+
+* [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API
+
+* [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
+
+* [sleekdotdesign/agent-skills](https://github.com/sleekdotdesign/agent-skills) - Official Sleek agent skill for creating and editing mobile app designs through the REST API. Includes account setup, screenshots and screen HTML.
+
+* [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
+
+* [intellectronica/ruler](https://github.com/intellectronica/ruler) - Ruler — apply the same rules to all coding agents
+
+* [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
+
+* [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
+
+* [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
+
+* [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
+
+* [theopenco/llmgateway](https://github.com/theopenco/llmgateway) - Route, manage, and analyze your LLM requests across multiple providers with a unified API interface.
+
+* [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers and Visual Engineers to design with Real Code.
+
+## deepseek
+
+* [KarpelesLab/teamclaude](https://github.com/KarpelesLab/teamclaude) - Multi-account proxy for Claude Code and Codex: pools Claude Max, ChatGPT/Codex, API-key and third-party backend accounts, and rotates on quota
+
+* [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
+
+* [AtomicBot-ai/Atomic-Chat](https://github.com/AtomicBot-ai/Atomic-Chat) - Local AI app and inference engine for agents. Run open-weight LLMs locally — private, 100% offline on your computer. Join our Discord: https://discord.com/invite/8wGSsvmg4V
+
+* [voyager-crew/voyager](https://github.com/voyager-crew/voyager) - Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。
+
+* [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK.
+
+* [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
+
+* [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.
+
+* [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3 and GLM 5.3
+
+* [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+
+* [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
+
+## load-balancer
+
+* [KarpelesLab/teamclaude](https://github.com/KarpelesLab/teamclaude) - Multi-account proxy for Claude Code and Codex: pools Claude Max, ChatGPT/Codex, API-key and third-party backend accounts, and rotates on quota
+
+* [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js/Typescript/Bun Production Process Manager with a built-in Load Balancer.
+
+* [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
+
+## multi-account
+
+* [KarpelesLab/teamclaude](https://github.com/KarpelesLab/teamclaude) - Multi-account proxy for Claude Code and Codex: pools Claude Max, ChatGPT/Codex, API-key and third-party backend accounts, and rotates on quota
+
+* [inulute/cux](https://github.com/inulute/cux) - Run multiple Claude Code accounts as one. Auto-switches on rate limits and resumes your session no lost context, no logout dance.
+
+* [realiti4/claude-swap](https://github.com/realiti4/claude-swap) - Switch between multiple Claude Code accounts, with automatic rate-limit rotation, usage dashboard, and parallel sessions
+
+## nodejs
+
+* [KarpelesLab/teamclaude](https://github.com/KarpelesLab/teamclaude) - Multi-account proxy for Claude Code and Codex: pools Claude Max, ChatGPT/Codex, API-key and third-party backend accounts, and rotates on quota
+
+* [opencoredev/social-sdk](https://github.com/opencoredev/social-sdk) - Typed TypeScript SDK for direct and managed social platform integrations, with capability checks, explicit outcomes, and deterministic testing.
+
+* [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
+
+* [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
+
+* [cordiverse/cordis](https://github.com/cordiverse/cordis) - Meta-Framework of Spatiotemporal Composability
+
+* [vltpkg/vltpkg](https://github.com/vltpkg/vltpkg) - the vlt package manager monorepo
+
+* [timgit/pg-boss](https://github.com/timgit/pg-boss) - Queueing jobs in Postgres from Node.js like a boss
+
+* [privatenumber/mac-ocr](https://github.com/privatenumber/mac-ocr) - macOS CLI for OCR and searchable PDFs using Apple's Vision framework
+
+* [Zhengqbbb/cz-git](https://github.com/Zhengqbbb/cz-git) - cz-git | czg  🛠️ DX first and more engineered, lightweight, customizable, standard output format Commitizen adapter and CLI
+
+* [playcanvas/engine](https://github.com/playcanvas/engine) - Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF
+
+* [opentypejs/opentype.js](https://github.com/opentypejs/opentype.js) - Read and write OpenType fonts using JavaScript.
+
+* [harfbuzz/harfbuzzjs](https://github.com/harfbuzz/harfbuzzjs) - Providing HarfBuzz shaping library for client/server side JavaScript projects
+
+* [vercel-labs/opensrc](https://github.com/vercel-labs/opensrc) - Fetch source code for npm packages to give AI coding agents deeper context
+
+* [bgub/eta](https://github.com/bgub/eta) - Embedded JS template engine for Node, Deno, and the browser. Lighweight, fast, and pluggable. Written in TypeScript
+
+* [WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys) - Socket-based TS/JavaScript API for WhatsApp Web
+
+* [dolanmiu/docx](https://github.com/dolanmiu/docx) - Easily generate and modify .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser.
+
+* [cli-table/cli-table3](https://github.com/cli-table/cli-table3) - Pretty unicode tables for the command line
+
+* [colyseus/colyseus](https://github.com/colyseus/colyseus) - ⚔ Multiplayer Framework for Node.js
+
+* [evanwashere/mitata](https://github.com/evanwashere/mitata) - benchmark tooling that loves you ❤️
+
+* [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
+
+* [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
+
+* [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation.
+
+* [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
+
+* [image-js/image-js](https://github.com/image-js/image-js) - Image processing and manipulation in JavaScript
+
+* [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework
+
+* [jonahsnider/convert](https://github.com/jonahsnider/convert) - The smallest & fastest library for really easy, totally type-safe unit conversions in TypeScript & JavaScript.
+
+* [moonrepo/proto](https://github.com/moonrepo/proto) - A pluggable multi-language version manager.
+
+* [middleapi/orpc](https://github.com/middleapi/orpc) - Typesafe APIs Made Simple 🪄
+
+* [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) - Data framework for your LLM applications. Focus on server side solution
+
+* [sindresorhus/slugify](https://github.com/sindresorhus/slugify) - Slugify a string
+
+* [microlinkhq/browserless](https://github.com/microlinkhq/browserless) - The headless Chrome/Chromium driver on top of Puppeteer. Take screenshots, generate PDFs, extract text and HTML with a production-ready API.
+
+* [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastra is the modern TypeScript framework for AI-powered applications and agents.
+
+* [paulmillr/chokidar](https://github.com/paulmillr/chokidar) - Minimal and efficient cross-platform file watching library
+
+* [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS, Python, .NET, Elixir, Rust and PHP based on Redis or PostgreSQL
+
+* [piscinajs/piscina](https://github.com/piscinajs/piscina) - A fast, efficient Node.js Worker Thread Pool implementation
+
+* [dmno-dev/dmno](https://github.com/dmno-dev/dmno) - The missing middleware for your configuration and secrets.
+
+* [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
+
+* [stormkit-io/app-stormkit-io](https://github.com/stormkit-io/app-stormkit-io) - Stormkit is an all in one solution for Full Stack Javascript applications.
+
+* [stormkit-io/www-stormkit-io](https://github.com/stormkit-io/www-stormkit-io) - Stormkit is a self-hostable, highly performant and scalable PaaS for modern web applications.
+
+* [sdorra/content-collections](https://github.com/sdorra/content-collections) - Transform your content into type-safe data collections
+
+* [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
+
+* [thx/resvg-js](https://github.com/thx/resvg-js) - A high-performance SVG renderer and toolkit, powered by Rust based resvg and napi-rs.
+
+* [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js/Typescript/Bun Production Process Manager with a built-in Load Balancer.
+
+* [tinylibs/tinypool](https://github.com/tinylibs/tinypool) - 🧵 A minimal and tiny Node.js Worker Thread Pool implementation (38KB)
+
+* [privatenumber/pkgroll](https://github.com/privatenumber/pkgroll) - 📦  Zero-config package bundler for Node.js + TypeScript
+
+* [gildas-lormeau/zip.js](https://github.com/gildas-lormeau/zip.js) - JavaScript library to zip and unzip files supporting parallel compression, web streams, pluggable compression engines, zip64, split files, data encryption, and deflate64 decompression.
+
+* [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger
+
+* [haraka/Haraka](https://github.com/haraka/Haraka) - A fast, highly extensible, and event driven SMTP server
+
+* [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.
+
+* [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
+
+* [adonisjs/core](https://github.com/adonisjs/core) - AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more.
+
+* [oclif/oclif](https://github.com/oclif/oclif) - CLI for generating, building, and releasing oclif CLIs. Built by Salesforce.
+
+* [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Background jobs, Landing page, Payments (Stripe, Polar.sh), Shadcn UI, S3 file upload. AI-ready with tailored AGENTS.md, skills, and Claude Code plugin. One cmd deploy. Powered by Wasp full-stack framework.
+
+* [google/zx](https://github.com/google/zx) - A tool for writing better scripts
+
+* [jaredhanson/passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js.
+
+* [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
+
+* [sindresorhus/ow](https://github.com/sindresorhus/ow) - Function argument validation for humans
+
+* [toddbluhm/env-cmd](https://github.com/toddbluhm/env-cmd) - Setting environment variables from a file
+
+* [ecyrbe/zodios](https://github.com/ecyrbe/zodios) - typescript http client and server with zod validation
+
+* [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2025)
+
+* [sindresorhus/np](https://github.com/sindresorhus/np) - A better `npm publish`
+
+* [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - The No-GraphQL Client for TypeScript
+
+* [finom/vovk](https://github.com/finom/vovk) - Back-end framework for Next.js App Router. One codebase → type-safe clients, OpenAPI, and AI tools
+
+* [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+
+* [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry
+
+* [mkosir/typescript-style-guide](https://github.com/mkosir/typescript-style-guide) - ⚙️ TypeScript Style Guide and Agent Skill. A concise set of conventions and best practices for consistent, maintainable code.
+
+* [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
+
+* [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
+
+* [feathersjs/feathers](https://github.com/feathersjs/feathers) - The API and real-time application framework
+
+* [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-generation full-text search library for Browser and Node.js
+
+* [novuhq/novu](https://github.com/novuhq/novu) - The open-source communication infrastructure for agents and products
+
+* [facebook/memlab](https://github.com/facebook/memlab) - A framework for finding JavaScript memory leaks and analyzing heap snapshots
+
+## oauth
+
+* [KarpelesLab/teamclaude](https://github.com/KarpelesLab/teamclaude) - Multi-account proxy for Claude Code and Codex: pools Claude Max, ChatGPT/Codex, API-key and third-party backend accounts, and rotates on quota
+
+* [opencoredev/social-sdk](https://github.com/opencoredev/social-sdk) - Typed TypeScript SDK for direct and managed social platform integrations, with capability checks, explicit outcomes, and deterministic testing.
+
+* [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
+
+* [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework
+
+* [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
+
+* [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
+
+* [jaredhanson/passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js.
+
+## openai
+
+* [KarpelesLab/teamclaude](https://github.com/KarpelesLab/teamclaude) - Multi-account proxy for Claude Code and Codex: pools Claude Max, ChatGPT/Codex, API-key and third-party backend accounts, and rotates on quota
+
+* [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
+
+* [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - A privacy-first app that strips AI watermarks from content you own.
+
+* [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
+
+* [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
+
+* [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
+
+* [Zhengqbbb/cz-git](https://github.com/Zhengqbbb/cz-git) - cz-git | czg  🛠️ DX first and more engineered, lightweight, customizable, standard output format Commitizen adapter and CLI
+
+* [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
+
+* [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
+
+* [dominikmartn/hue](https://github.com/dominikmartn/hue) - open-source skill that learns any brand and turns it into a complete design system. works on claude code and codex. install once, every UI your assistant builds matches your brand.
+
+* [CopilotKit/aimock](https://github.com/CopilotKit/aimock) - Mock everything your AI app talks to — LLM APIs, MCP, A2A, AG-UI, vector DBs, search. One package, one port, zero dependencies.
+
+* [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API
+
+* [BerriAI/litellm](https://github.com/BerriAI/litellm) - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging \[Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]
+
+* [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
+
+* [vercel-labs/tersa](https://github.com/vercel-labs/tersa) - Tersa is an open source canvas for building AI workflows.
+
+* [Code-with-Beto/snapai](https://github.com/Code-with-Beto/snapai) - AI-powered icon generation CLI for React Native & Expo developers. Generate stunning app icons in seconds using OpenAI's latest models.
+
+* [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
+
+* [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.
+
+* [FranciscoMoretti/chat-js](https://github.com/FranciscoMoretti/chat-js) - Production-ready AI chat. Start here and make it your own. Formerly Sparka AI
+
+* [TanStack/ai](https://github.com/TanStack/ai) - 🤖 Type-safe, provider-agnostic TypeScript AI SDK for streaming chat, tool calling, agents, and multimodal apps across OpenAI, Anthropic, Gemini, React, Vue, Svelte, and Solid.
+
+* [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
+
+* [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.
+
+* [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+
+* [voideditor/void](https://github.com/voideditor/void) -
+
+* [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
+
+* [theopenco/llmgateway](https://github.com/theopenco/llmgateway) - Route, manage, and analyze your LLM requests across multiple providers with a unified API interface.
+
+* [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework
+
+* [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
+
+* [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
+
+* [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) - Data framework for your LLM applications. Focus on server side solution
+
+* [TheR1D/shell\_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-5, will help you accomplish your tasks faster and more efficiently.
+
+* [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
+
+* [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 1,600+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
+
+* [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
+
+* [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
+
+* [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
+
+* [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
+
+* [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+
+## proxy
+
+* [KarpelesLab/teamclaude](https://github.com/KarpelesLab/teamclaude) - Multi-account proxy for Claude Code and Codex: pools Claude Max, ChatGPT/Codex, API-key and third-party backend accounts, and rotates on quota
+
+* [superdesigndev/treg](https://github.com/superdesigndev/treg) - OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn
+
+* [rynfar/meridian](https://github.com/rynfar/meridian) - Use Claude and Antigravity with Pi, OpenCode and other coding clients. Local API bridge, usage dashboard and Mac app. Antigravity preview available in 1.74.0.
+
+* [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
+
+* [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
+
+* [unjs/ipx](https://github.com/unjs/ipx) - 🖼️ High performance, secure and easy-to-use image optimizer.
+
+* [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - The best-in-class HTTP Debugger for macOS. Capture HTTP/HTTPS from macOS, iOS, Android with a few clicks ✅
+
+* [pmndrs/valtio](https://github.com/pmndrs/valtio) - 🧙 Valtio makes proxy-state simple  for React and Vanilla
+
+## quota
+
+* [KarpelesLab/teamclaude](https://github.com/KarpelesLab/teamclaude) - Multi-account proxy for Claude Code and Codex: pools Claude Max, ChatGPT/Codex, API-key and third-party backend accounts, and rotates on quota
+
+## rate-limiting
+
+* [KarpelesLab/teamclaude](https://github.com/KarpelesLab/teamclaude) - Multi-account proxy for Claude Code and Codex: pools Claude Max, ChatGPT/Codex, API-key and third-party backend accounts, and rotates on quota
+
+* [theopenco/llmgateway](https://github.com/theopenco/llmgateway) - Route, manage, and analyze your LLM requests across multiple providers with a unified API interface.
+
+## ai-agents
+
+* [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
+
+* [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
+
+* [veedstudio/open-edit](https://github.com/veedstudio/open-edit) - Open-source, agent-driven editing pipeline: create subtitles, motion graphics, slides, edit and render videos.
+
+* [universal-tool-calling-protocol/code-mode](https://github.com/universal-tool-calling-protocol/code-mode) - 🔌 Plug-and-play library to enable agents to call MCP and UTCP tools via code execution.
+
+* [nightly-labs/openbot](https://github.com/nightly-labs/openbot) - A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.
+
+* [monid-ai/monid](https://github.com/monid-ai/monid) - Monid - OpenRouter for agent tools. Join our community at https://discord.gg/rQzztcgJV8
+
+* [hypit-ai/hypit](https://github.com/hypit-ai/hypit) - Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.
+
+* [macro-inc/macro](https://github.com/macro-inc/macro) - Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
+
+* [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) - AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previews, a production-ready template
+
+* [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+
+* [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
+
+* [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
+
+* [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) - Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.
+
+* [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
+
+* [kortix-ai/suna](https://github.com/kortix-ai/suna) - The open-source AI Operating System
+
+* [rynfar/meridian](https://github.com/rynfar/meridian) - Use Claude and Antigravity with Pi, OpenCode and other coding clients. Local API bridge, usage dashboard and Mac app. Antigravity preview available in 1.74.0.
+
+* [elie222/rakazo](https://github.com/elie222/rakazo) - Open-source Grok Bot alternative. Choose your own model and sandbox.
+
+* [Jakubantalik/thinking-orbs](https://github.com/Jakubantalik/thinking-orbs) - Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two sizes, auto dark/light
+
+* [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
+
+* [Dicklesworthstone/destructive\_command\_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
+
+* [inkeep/agents](https://github.com/inkeep/agents) - Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows.
+
+* [superset-sh/superset](https://github.com/superset-sh/superset) - Superset is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.
+
+* [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
+
+* [InsForge/InsForge](https://github.com/InsForge/InsForge) - The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end.
+
+* [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
+
+* [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
+
+* [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
+
+* [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+
+* [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
+
+* [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
+
+* [danilop/semstash](https://github.com/danilop/semstash) - Unlimited semantic storage for humans and AI agents
+
+* [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
+
+* [standardagents/dmux](https://github.com/standardagents/dmux) - A dev agent multiplexer for git worktrees and coding agents.
+
+* [callstack/agent-device](https://github.com/callstack/agent-device) - Mobile app automation and verification for AI coding agents. CLI, MCP server, and typed Node.js API for iOS, Android, HarmonyOS, TV, web, macOS, and Linux.
+
+* [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
+
+* [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
+
+* [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex, Eve, Mastra, and more.
+
+* [opral/lix](https://github.com/opral/lix) - Embeddable version control system for files and tables.
+
+* [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
+
+* [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage agent platforms.
+
+* [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
+
+* [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
+
+* [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases
+
+* [TanStack/ai](https://github.com/TanStack/ai) - 🤖 Type-safe, provider-agnostic TypeScript AI SDK for streaming chat, tool calling, agents, and multimodal apps across OpenAI, Anthropic, Gemini, React, Vue, Svelte, and Solid.
+
+* [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
+
+* [vercel/workflow](https://github.com/vercel/workflow) - Workflow SDK: Build durable, reliable, and observable apps and AI Agents in TypeScript
+
+* [chroma-core/chroma](https://github.com/chroma-core/chroma) - Search infrastructure for AI
+
+* [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework
+
+* [arcjet/arcjet-js](https://github.com/arcjet/arcjet-js) - Runtime security for AI apps and agents: prompt injection detection, tool-call authorization, sensitive-data redaction, bot protection, and rate limiting. Drop it into your JS/TS code.
+
+* [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
+
+* [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
+
+* [browser-use/browser-use](https://github.com/browser-use/browser-use) - Agents that use the browser.
+
+* [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks) - Realtime infrastructure for multiplayer apps and agents
+
+* [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥
+
+* [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
+
+* [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy durable AI agents and workflows
+
+* [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
+
+* [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents.
+
+## ai-gateway
+
+* [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
+
+* [BerriAI/litellm](https://github.com/BerriAI/litellm) - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging \[Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]
+
+* [theopenco/llmgateway](https://github.com/theopenco/llmgateway) - Route, manage, and analyze your LLM requests across multiple providers with a unified API interface.
+
+* [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 1,600+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
+
+## cline
+
+* [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
+
+* [rynfar/meridian](https://github.com/rynfar/meridian) - Use Claude and Antigravity with Pi, OpenCode and other coding clients. Local API bridge, usage dashboard and Mac app. Antigravity preview available in 1.74.0.
+
+## copilot
+
+* [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
+
+* [elmohq/elmo](https://github.com/elmohq/elmo) - Open-source Answer Engine Optimization (AEO) and Generative Engine Optimization (GEO) platform. Track how ChatGPT, Claude, Perplexity, Gemini, Copilot, Grok, and Google AI Overviews mention and cite your brand in AI search. MIT-licensed, self-hostable, every metric auditable in code.
+
+* [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
+
+* [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
+
+* [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
+
+* [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with SDD or any other process!
+
+* [voideditor/void](https://github.com/voideditor/void) -
+
+* [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
+
+* [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
+
+* [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol
+
+## cursor
+
+* [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
+
+* [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
+
+* [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
+
+* [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
+
+* [ParthJadhav/app-store-screenshots](https://github.com/ParthJadhav/app-store-screenshots) - end to end app store screenshot creation using AI
+
+* [sleekdotdesign/agent-skills](https://github.com/sleekdotdesign/agent-skills) - Official Sleek agent skill for creating and editing mobile app designs through the REST API. Includes account setup, screenshots and screen HTML.
+
+* [yigitkonur/cli-continues](https://github.com/yigitkonur/cli-continues) - resume any AI coding session in another tool — Claude Code, Copilot, Gemini, Codex, Cursor
+
+* [intellectronica/ruler](https://github.com/intellectronica/ruler) - Ruler — apply the same rules to all coding agents
+
+* [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
+
+* [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
+
+* [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
+
+* [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
+
+* [voideditor/void](https://github.com/voideditor/void) -
+
+* [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
+
+* [haydenbleasel/ultracite](https://github.com/haydenbleasel/ultracite) - A highly opinionated, zero-configuration linter and formatter.
+
+* [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
+
+* [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers and Visual Engineers to design with Real Code.
+
+* [gmrchk/blobity](https://github.com/gmrchk/blobity) - The cursor is the heart of any interaction with the web. Why not take it to the next level? 🚀
+
+## free-ai
+
+* [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
+
+## gemini
+
+* [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
+
+* [elmohq/elmo](https://github.com/elmohq/elmo) - Open-source Answer Engine Optimization (AEO) and Generative Engine Optimization (GEO) platform. Track how ChatGPT, Claude, Perplexity, Gemini, Copilot, Grok, and Google AI Overviews mention and cite your brand in AI search. MIT-licensed, self-hostable, every metric auditable in code.
+
+* [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - A privacy-first app that strips AI watermarks from content you own.
+
+* [voyager-crew/voyager](https://github.com/voyager-crew/voyager) - Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。
+
+* [rynfar/meridian](https://github.com/rynfar/meridian) - Use Claude and Antigravity with Pi, OpenCode and other coding clients. Local API bridge, usage dashboard and Mac app. Antigravity preview available in 1.74.0.
+
+* [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
+
+* [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
+
+* [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
+
+* [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API
+
+* [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
+
+* [YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill) - AI skill for OpenClaw & Claude Code — recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use case, content remix, sample images.
+
+* [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
+
+* [gemini-cli-extensions/conductor](https://github.com/gemini-cli-extensions/conductor) - A plugin for AI coding agents (Antigravity, Claude Code) enabling Spec-Driven Development to specify, plan, and implement software features.
+
+* [FranciscoMoretti/chat-js](https://github.com/FranciscoMoretti/chat-js) - Production-ready AI chat. Start here and make it your own. Formerly Sparka AI
+
+* [TanStack/ai](https://github.com/TanStack/ai) - 🤖 Type-safe, provider-agnostic TypeScript AI SDK for streaming chat, tool calling, agents, and multimodal apps across OpenAI, Anthropic, Gemini, React, Vue, Svelte, and Solid.
+
+* [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
+
+* [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
+
+* [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
+
+* [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any website into a tiny, fast desktop app.
+
+* [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
+
+* [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
+
+* [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
+
+* [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+
+## gemini-cli
+
+* [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
+
+* [yigitkonur/cli-continues](https://github.com/yigitkonur/cli-continues) - resume any AI coding session in another tool — Claude Code, Copilot, Gemini, Codex, Cursor
+
+* [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
+
+## llm
+
+* [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
+
+* [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
+
+* [AtomicBot-ai/Atomic-Chat](https://github.com/AtomicBot-ai/Atomic-Chat) - Local AI app and inference engine for agents. Run open-weight LLMs locally — private, 100% offline on your computer. Join our Discord: https://discord.com/invite/8wGSsvmg4V
+
+* [thesysdev/openui](https://github.com/thesysdev/openui) - The Open Standard for Generative UI
+
+* [hypit-ai/hypit](https://github.com/hypit-ai/hypit) - Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.
+
+* [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+
+* [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
+
+* [kortix-ai/suna](https://github.com/kortix-ai/suna) - The open-source AI Operating System
+
+* [rynfar/meridian](https://github.com/rynfar/meridian) - Use Claude and Antigravity with Pi, OpenCode and other coding clients. Local API bridge, usage dashboard and Mac app. Antigravity preview available in 1.74.0.
+
+* [elie222/rakazo](https://github.com/elie222/rakazo) - Open-source Grok Bot alternative. Choose your own model and sandbox.
+
+* [inkeep/open-knowledge](https://github.com/inkeep/open-knowledge) - Beautiful, AI-native markdown IDE and LLM wiki
+
+* [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
+
+* [rivet-dev/agentos](https://github.com/rivet-dev/agentos) - Give agents an operating system as a library. Runs in your existing backend – no sandboxes, VMs, or SaaS. Powered by WebAssembly & V8 isolates.
+
+* [haydenbleasel/batchwork](https://github.com/haydenbleasel/batchwork) - Unified batch API for AI providers. Save up to 50% on LLM costs.
+
+* [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
+
+* [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
+
+* [CopilotKit/aimock](https://github.com/CopilotKit/aimock) - Mock everything your AI app talks to — LLM APIs, MCP, A2A, AG-UI, vector DBs, search. One package, one port, zero dependencies.
+
+* [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
+
+* [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
+
+* [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
+
+* [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Continuously record your company computer work, map your workflows, help you find work worth automating, and power your agents' context
+
+* [ratel-ai/ratel](https://github.com/ratel-ai/ratel) - Context engineering for AI agents. ~80% fewer tokens. Fix tool overload. Skills and memory with in-process BM25 and semantic retrieval. Progressive Disclosure. No vector DB.
+
+* [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) - MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.
+
+* [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
+
+* [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
+
+* [BerriAI/litellm](https://github.com/BerriAI/litellm) - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging \[Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]
+
+* [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
+
+* [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
+
+* [vercel-labs/opensrc](https://github.com/vercel-labs/opensrc) - Fetch source code for npm packages to give AI coding agents deeper context
+
+* [mybigday/llama.rn](https://github.com/mybigday/llama.rn) - React Native binding of llama.cpp
+
+* [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.
+
+* [FranciscoMoretti/chat-js](https://github.com/FranciscoMoretti/chat-js) - Production-ready AI chat. Start here and make it your own. Formerly Sparka AI
+
+* [TanStack/ai](https://github.com/TanStack/ai) - 🤖 Type-safe, provider-agnostic TypeScript AI SDK for streaming chat, tool calling, agents, and multimodal apps across OpenAI, Anthropic, Gemini, React, Vue, Svelte, and Solid.
+
+* [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori) - Memori is agent-native memory infrastructure. A LLM-agnostic layer that turns agent execution and conversation into structured, persistent state for production systems. Built for enterprise, Memori works with the data infrastructure you already run, no rip-and-replace, and deploys across managed cloud, single-tenant cloud, VPC, and on-premises.
+
+* [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – compact, human-readable serialization of JSON data for LLM prompts. TypeScript SDK, CLI, benchmarks.
+
+* [datapizza-labs/datapizza-ai](https://github.com/datapizza-labs/datapizza-ai) - Build reliable Gen AI solutions without overhead 🍕
+
+* [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
+
+* [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
+
+* [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.
+
+* [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+
+* [voideditor/void](https://github.com/voideditor/void) -
+
+* [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
+
+* [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
+
+* [theopenco/llmgateway](https://github.com/theopenco/llmgateway) - Route, manage, and analyze your LLM requests across multiple providers with a unified API interface.
+
+* [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI coding agent that lives in your terminal.
+
+* [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework
+
+* [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
+
+* [browser-use/browser-use](https://github.com/browser-use/browser-use) - Agents that use the browser.
+
+* [callstackincubator/ai](https://github.com/callstackincubator/ai) - On-device LLM execution in React Native with Vercel AI SDK compatibility
+
+* [beelzebub-labs/beelzebub](https://github.com/beelzebub-labs/beelzebub) - A secure low code deception runtime framework, leveraging AI for System Virtualization.
+
+* [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
+
+* [ahujasid/mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) - Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation.
+
+* [langchain-ai/langgraphjs](https://github.com/langchain-ai/langgraphjs) - Framework to build resilient language agents as graphs.
+
+* [genkit-ai/genkit](https://github.com/genkit-ai/genkit) - Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Google
+
+* [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
+
+* [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) - Data framework for your LLM applications. Focus on server side solution
+
+* [supabase-community/database-build](https://github.com/supabase-community/database-build) - In-browser Postgres sandbox with AI assistance (formerly postgres.new)
+
+* [TheR1D/shell\_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-5, will help you accomplish your tasks faster and more efficiently.
+
+* [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastra is the modern TypeScript framework for AI-powered applications and agents.
+
+* [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥
+
+* [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol
+
+* [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 1,600+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
+
+* [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+
+* [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
+
+* [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
+
+* [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
+
+* [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+
+## llm-gateway
+
+* [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
+
+* [BerriAI/litellm](https://github.com/BerriAI/litellm) - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging \[Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]
+
+* [theopenco/llmgateway](https://github.com/theopenco/llmgateway) - Route, manage, and analyze your LLM requests across multiple providers with a unified API interface.
+
+* [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 1,600+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
+
+## openai-proxy
+
+* [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
+
+* [BerriAI/litellm](https://github.com/BerriAI/litellm) - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging \[Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]
+
+## qwen
+
+* [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
+
+* [AtomicBot-ai/Atomic-Chat](https://github.com/AtomicBot-ai/Atomic-Chat) - Local AI app and inference engine for agents. Run open-weight LLMs locally — private, 100% offline on your computer. Join our Discord: https://discord.com/invite/8wGSsvmg4V
+
+* [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
+
+* [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.
+
+* [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI coding agent that lives in your terminal.
+
+* [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3 and GLM 5.3
+
+* [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+
+## token-saver
+
+* [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
+
+## claude-ai
+
+* [inulute/cux](https://github.com/inulute/cux) - Run multiple Claude Code accounts as one. Auto-switches on rate limits and resumes your session no lost context, no logout dance.
+
+* [voyager-crew/voyager](https://github.com/voyager-crew/voyager) - Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。
+
+* [rokpiy/auto-commenter](https://github.com/rokpiy/auto-commenter) - A Claude skill that automatically posts personalized, authentic comments in your target communities.
+
+* [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases
+
+* [yusufkaraaslan/Skill\_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
+
+* [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
+
+* [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) - Data framework for your LLM applications. Focus on server side solution
+
+## claude-code-plugin
+
+* [inulute/cux](https://github.com/inulute/cux) - Run multiple Claude Code accounts as one. Auto-switches on rate limits and resumes your session no lost context, no logout dance.
+
+* [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder) - Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.
+
+* [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+
+* [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A browser inside your terminal
+
+* [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
+
+* [glifxyz/glif-mcp-server](https://github.com/glifxyz/glif-mcp-server) - Glif's hosted MCP server, plugin and skills for creating images, video and audio. Works with Claude, ChatGPT, Codex, Cursor and more.
+
+* [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
+
+* [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
+
 ## cli-tool
 
 * [inulute/cux](https://github.com/inulute/cux) - Run multiple Claude Code accounts as one. Auto-switches on rate limits and resumes your session no lost context, no logout dance.
@@ -4778,12 +5667,6 @@
 * [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
 
 * [alovajs/alova](https://github.com/alovajs/alova) - The request strategy layer for JavaScript. 20+ ready-made strategies cut your request code by up to 70%
-
-## multi-account
-
-* [inulute/cux](https://github.com/inulute/cux) - Run multiple Claude Code accounts as one. Auto-switches on rate limits and resumes your session no lost context, no logout dance.
-
-* [realiti4/claude-swap](https://github.com/realiti4/claude-swap) - Switch between multiple Claude Code accounts, with automatic rate-limit rotation, usage dashboard, and parallel sessions
 
 ## rate-limit
 
@@ -5245,7 +6128,7 @@
 
 * [RapidNative/reactnative-run](https://github.com/RapidNative/reactnative-run) - Run React Native in your browser. Write, bundle, and preview with HMR, Expo Router, and npm support — all client-side.
 
-* [encoredev/encore](https://github.com/encoredev/encore) - The infrastructure platform for the intelligence era
+* [encoredev/encore](https://github.com/encoredev/encore) - Infrastructure orchestration from local to your cloud
 
 * [total-typescript/shoehorn](https://github.com/total-typescript/shoehorn) - Work seamlessly with partial mocks in TypeScript.
 
@@ -5493,8 +6376,6 @@
 
 * [midday-ai/midday](https://github.com/midday-ai/midday) - Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
 
-* [terrazzoapp/terrazzo](https://github.com/terrazzoapp/terrazzo) - Use DTCG tokens JSON to generate code for web, mobile, native apps, and more
-
 * [stackblitz/tutorialkit](https://github.com/stackblitz/tutorialkit) - TutorialKit by StackBlitz - Create interactive tutorials powered by the WebContainer API
 
 * [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
@@ -5603,6 +6484,8 @@
 
 * [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.
 
+* [finom/vovk](https://github.com/finom/vovk) - Back-end framework for Next.js App Router. One codebase → type-safe clients, OpenAPI, and AI tools
+
 * [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
 
 * [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
@@ -5701,6 +6584,8 @@
 
 * [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and a job application tracker. It helps you fill in each application; you press Submit. Runs locally in your AI coding CLI (Claude Code, Codex, OpenCode and more).
 
+* [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
+
 * [sleekdotdesign/agent-skills](https://github.com/sleekdotdesign/agent-skills) - Official Sleek agent skill for creating and editing mobile app designs through the REST API. Includes account setup, screenshots and screen HTML.
 
 * [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
@@ -5719,185 +6604,9 @@
 
 * [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - A reactive data store & sync engine.
 
-## ai-agents
-
-* [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
-
-* [veedstudio/open-edit](https://github.com/veedstudio/open-edit) - Open-source, agent-driven editing pipeline: create subtitles, motion graphics, slides, edit and render videos.
-
-* [universal-tool-calling-protocol/code-mode](https://github.com/universal-tool-calling-protocol/code-mode) - 🔌 Plug-and-play library to enable agents to call MCP and UTCP tools via code execution.
-
-* [nightly-labs/openbot](https://github.com/nightly-labs/openbot) - A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.
-
-* [monid-ai/monid](https://github.com/monid-ai/monid) - Monid - OpenRouter for agent tools. Join our community at https://discord.gg/rQzztcgJV8
-
-* [hypit-ai/hypit](https://github.com/hypit-ai/hypit) - Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.
-
-* [macro-inc/macro](https://github.com/macro-inc/macro) - Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
-
-* [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) - AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previews, a production-ready template
-
-* [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-
-* [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
-
-* [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
-
-* [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) - Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.
-
-* [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
-
-* [kortix-ai/suna](https://github.com/kortix-ai/suna) - The open-source AI Operating System
-
-* [rynfar/meridian](https://github.com/rynfar/meridian) - Use Claude and Antigravity with Pi, OpenCode and other coding clients. Local API bridge, usage dashboard and Mac app. Antigravity preview available in 1.74.0.
-
-* [elie222/rakazo](https://github.com/elie222/rakazo) - Open-source Grok Bot alternative. Choose your own model and sandbox.
-
-* [Jakubantalik/thinking-orbs](https://github.com/Jakubantalik/thinking-orbs) - Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two sizes, auto dark/light
-
-* [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
-
-* [Dicklesworthstone/destructive\_command\_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
-
-* [inkeep/agents](https://github.com/inkeep/agents) - Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows.
-
-* [superset-sh/superset](https://github.com/superset-sh/superset) - Superset is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.
-
-* [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
-
-* [InsForge/InsForge](https://github.com/InsForge/InsForge) - The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end.
-
-* [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
-
-* [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
-
-* [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
-
-* [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-
-* [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
-
-* [danilop/semstash](https://github.com/danilop/semstash) - Unlimited semantic storage for humans and AI agents
-
-* [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
-
-* [standardagents/dmux](https://github.com/standardagents/dmux) - A dev agent multiplexer for git worktrees and coding agents.
-
-* [callstack/agent-device](https://github.com/callstack/agent-device) - Mobile app automation and verification for AI coding agents. CLI, MCP server, and typed Node.js API for iOS, Android, HarmonyOS, TV, web, macOS, and Linux.
-
-* [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
-
-* [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
-
-* [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex, Eve, Mastra, and more.
-
-* [opral/lix](https://github.com/opral/lix) - Embeddable version control system for files and tables.
-
-* [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
-
-* [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage agent platforms.
-
-* [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
-
-* [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
-
-* [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases
-
-* [TanStack/ai](https://github.com/TanStack/ai) - 🤖 Type-safe, provider-agnostic TypeScript AI SDK for streaming chat, tool calling, agents, and multimodal apps across OpenAI, Anthropic, Gemini, React, Vue, Svelte, and Solid.
-
-* [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
-
-* [vercel/workflow](https://github.com/vercel/workflow) - Workflow SDK: Build durable, reliable, and observable apps and AI Agents in TypeScript
-
-* [chroma-core/chroma](https://github.com/chroma-core/chroma) - Search infrastructure for AI
-
-* [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework
-
-* [arcjet/arcjet-js](https://github.com/arcjet/arcjet-js) - Runtime security for AI apps and agents: prompt injection detection, tool-call authorization, sensitive-data redaction, bot protection, and rate limiting. Drop it into your JS/TS code.
-
-* [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
-
-* [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
-
-* [browser-use/browser-use](https://github.com/browser-use/browser-use) - Agents that use the browser.
-
-* [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks) - Realtime infrastructure for multiplayer apps and agents
-
-* [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥
-
-* [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
-
-* [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy durable AI agents and workflows
-
-* [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
-
-* [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents.
-
 ## binary-analysis
 
 * [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
-
-## codex
-
-* [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
-
-* [scenario-labs/skills](https://github.com/scenario-labs/skills) - Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.
-
-* [nightly-labs/openbot](https://github.com/nightly-labs/openbot) - A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.
-
-* [RubricLab/tokenmaxx](https://github.com/RubricLab/tokenmaxx) - A local proxy that aggregates usage across your Codex and Claude Code accounts — with live token-throughput analytics.
-
-* [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) - AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previews, a production-ready template
-
-* [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
-
-* [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
-
-* [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
-
-* [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A browser inside your terminal
-
-* [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io
-
-* [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
-
-* [inkeep/open-knowledge](https://github.com/inkeep/open-knowledge) - Beautiful, AI-native markdown IDE and LLM wiki
-
-* [superset-sh/superset](https://github.com/superset-sh/superset) - Superset is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.
-
-* [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
-
-* [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
-
-* [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
-
-* [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
-
-* [dominikmartn/hue](https://github.com/dominikmartn/hue) - open-source skill that learns any brand and turns it into a complete design system. works on claude code and codex. install once, every UI your assistant builds matches your brand.
-
-* [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
-
-* [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
-
-* [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API
-
-* [sleekdotdesign/agent-skills](https://github.com/sleekdotdesign/agent-skills) - Official Sleek agent skill for creating and editing mobile app designs through the REST API. Includes account setup, screenshots and screen HTML.
-
-* [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
-
-* [intellectronica/ruler](https://github.com/intellectronica/ruler) - Ruler — apply the same rules to all coding agents
-
-* [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
-
-* [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
-
-* [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
-
-* [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
-
-* [theopenco/llmgateway](https://github.com/theopenco/llmgateway) - Route, manage, and analyze your LLM requests across multiple providers with a unified API interface.
-
-* [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers and Visual Engineers to design with Real Code.
 
 ## cordis
 
@@ -5946,138 +6655,6 @@
 ## hopper
 
 * [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
-
-## llm
-
-* [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
-
-* [AtomicBot-ai/Atomic-Chat](https://github.com/AtomicBot-ai/Atomic-Chat) - Local AI app and inference engine for agents. Run open-weight LLMs locally — private, 100% offline on your computer. Join our Discord: https://discord.com/invite/8wGSsvmg4V
-
-* [thesysdev/openui](https://github.com/thesysdev/openui) - The Open Standard for Generative UI
-
-* [hypit-ai/hypit](https://github.com/hypit-ai/hypit) - Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.
-
-* [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-
-* [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
-
-* [kortix-ai/suna](https://github.com/kortix-ai/suna) - The open-source AI Operating System
-
-* [rynfar/meridian](https://github.com/rynfar/meridian) - Use Claude and Antigravity with Pi, OpenCode and other coding clients. Local API bridge, usage dashboard and Mac app. Antigravity preview available in 1.74.0.
-
-* [elie222/rakazo](https://github.com/elie222/rakazo) - Open-source Grok Bot alternative. Choose your own model and sandbox.
-
-* [inkeep/open-knowledge](https://github.com/inkeep/open-knowledge) - Beautiful, AI-native markdown IDE and LLM wiki
-
-* [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
-
-* [rivet-dev/agentos](https://github.com/rivet-dev/agentos) - Give agents an operating system as a library. Runs in your existing backend – no sandboxes, VMs, or SaaS. Powered by WebAssembly & V8 isolates.
-
-* [haydenbleasel/batchwork](https://github.com/haydenbleasel/batchwork) - Unified batch API for AI providers. Save up to 50% on LLM costs.
-
-* [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
-
-* [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
-
-* [CopilotKit/aimock](https://github.com/CopilotKit/aimock) - Mock everything your AI app talks to — LLM APIs, MCP, A2A, AG-UI, vector DBs, search. One package, one port, zero dependencies.
-
-* [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
-
-* [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
-
-* [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
-
-* [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Continuously record your company computer work, map your workflows, help you find work worth automating, and power your agents' context
-
-* [ratel-ai/ratel](https://github.com/ratel-ai/ratel) - Context engineering for AI agents. ~80% fewer tokens. Fix tool overload. Skills and memory with in-process BM25 and semantic retrieval. Progressive Disclosure. No vector DB.
-
-* [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) - MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.
-
-* [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
-
-* [BerriAI/litellm](https://github.com/BerriAI/litellm) - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging \[Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]
-
-* [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
-
-* [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
-
-* [vercel-labs/opensrc](https://github.com/vercel-labs/opensrc) - Fetch source code for npm packages to give AI coding agents deeper context
-
-* [mybigday/llama.rn](https://github.com/mybigday/llama.rn) - React Native binding of llama.cpp
-
-* [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.
-
-* [FranciscoMoretti/chat-js](https://github.com/FranciscoMoretti/chat-js) - Production-ready AI chat. Start here and make it your own. Formerly Sparka AI
-
-* [TanStack/ai](https://github.com/TanStack/ai) - 🤖 Type-safe, provider-agnostic TypeScript AI SDK for streaming chat, tool calling, agents, and multimodal apps across OpenAI, Anthropic, Gemini, React, Vue, Svelte, and Solid.
-
-* [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori) - Memori is agent-native memory infrastructure. A LLM-agnostic layer that turns agent execution and conversation into structured, persistent state for production systems. Built for enterprise, Memori works with the data infrastructure you already run, no rip-and-replace, and deploys across managed cloud, single-tenant cloud, VPC, and on-premises.
-
-* [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – compact, human-readable serialization of JSON data for LLM prompts. TypeScript SDK, CLI, benchmarks.
-
-* [datapizza-labs/datapizza-ai](https://github.com/datapizza-labs/datapizza-ai) - Build reliable Gen AI solutions without overhead 🍕
-
-* [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
-
-* [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
-
-* [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.
-
-* [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-
-* [voideditor/void](https://github.com/voideditor/void) -
-
-* [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
-
-* [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
-
-* [theopenco/llmgateway](https://github.com/theopenco/llmgateway) - Route, manage, and analyze your LLM requests across multiple providers with a unified API interface.
-
-* [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI coding agent that lives in your terminal.
-
-* [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework
-
-* [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
-
-* [browser-use/browser-use](https://github.com/browser-use/browser-use) - Agents that use the browser.
-
-* [callstackincubator/ai](https://github.com/callstackincubator/ai) - On-device LLM execution in React Native with Vercel AI SDK compatibility
-
-* [beelzebub-labs/beelzebub](https://github.com/beelzebub-labs/beelzebub) - A secure low code deception runtime framework, leveraging AI for System Virtualization.
-
-* [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
-
-* [ahujasid/mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) - Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation.
-
-* [langchain-ai/langgraphjs](https://github.com/langchain-ai/langgraphjs) - Framework to build resilient language agents as graphs.
-
-* [genkit-ai/genkit](https://github.com/genkit-ai/genkit) - Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Google
-
-* [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
-
-* [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) - Data framework for your LLM applications. Focus on server side solution
-
-* [supabase-community/database-build](https://github.com/supabase-community/database-build) - In-browser Postgres sandbox with AI assistance (formerly postgres.new)
-
-* [TheR1D/shell\_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-5, will help you accomplish your tasks faster and more efficiently.
-
-* [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastra is the modern TypeScript framework for AI-powered applications and agents.
-
-* [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥
-
-* [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol
-
-* [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 1,600+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
-
-* [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
-
-* [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
-
-* [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
-
-* [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
-
-* [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## mcp
 
@@ -6134,6 +6711,8 @@
 * [ratel-ai/ratel](https://github.com/ratel-ai/ratel) - Context engineering for AI agents. ~80% fewer tokens. Fix tool overload. Skills and memory with in-process BM25 and semantic retrieval. Progressive Disclosure. No vector DB.
 
 * [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
+
+* [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 
 * [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling\_dev
 
@@ -6198,6 +6777,8 @@
 * [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with AI and shadcn/ui
 
 * [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
+
+* [finom/vovk](https://github.com/finom/vovk) - Back-end framework for Next.js App Router. One codebase → type-safe clients, OpenAPI, and AI tools
 
 * [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for source code. 220+ languages, Rust engine, SARIF/HTML/badge reporters, GitHub Action, MCP server for AI agents.
 
@@ -6371,6 +6952,8 @@
 
 * [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 
+* [finom/vovk](https://github.com/finom/vovk) - Back-end framework for Next.js App Router. One codebase → type-safe clients, OpenAPI, and AI tools
+
 * [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 
 * [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
@@ -6451,11 +7034,15 @@
 
 * [dominikmartn/hue](https://github.com/dominikmartn/hue) - open-source skill that learns any brand and turns it into a complete design system. works on claude code and codex. install once, every UI your assistant builds matches your brand.
 
+* [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
+
 * [yusufkaraaslan/Skill\_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 
 * [browser-use/browser-use](https://github.com/browser-use/browser-use) - Agents that use the browser.
 
 * [unlayer/react-email-editor](https://github.com/unlayer/react-email-editor) - Drag-n-Drop Email Editor Component for React.js
+
+* [finom/vovk](https://github.com/finom/vovk) - Back-end framework for Next.js App Router. One codebase → type-safe clients, OpenAPI, and AI tools
 
 * [mkosir/typescript-style-guide](https://github.com/mkosir/typescript-style-guide) - ⚙️ TypeScript Style Guide and Agent Skill. A concise set of conventions and best practices for consistent, maintainable code.
 
@@ -6468,80 +7055,6 @@
 * [taigrr/spank](https://github.com/taigrr/spank) - Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.
 
 * [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) - MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.
-
-## chatgpt
-
-* [AtomicBot-ai/Atomic-Chat](https://github.com/AtomicBot-ai/Atomic-Chat) - Local AI app and inference engine for agents. Run open-weight LLMs locally — private, 100% offline on your computer. Join our Discord: https://discord.com/invite/8wGSsvmg4V
-
-* [elmohq/elmo](https://github.com/elmohq/elmo) - Open-source Answer Engine Optimization (AEO) and Generative Engine Optimization (GEO) platform. Track how ChatGPT, Claude, Perplexity, Gemini, Copilot, Grok, and Google AI Overviews mention and cite your brand in AI search. MIT-licensed, self-hostable, every metric auditable in code.
-
-* [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - A privacy-first app that strips AI watermarks from content you own.
-
-* [voyager-crew/voyager](https://github.com/voyager-crew/voyager) - Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。
-
-* [elie222/rakazo](https://github.com/elie222/rakazo) - Open-source Grok Bot alternative. Choose your own model and sandbox.
-
-* [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
-
-* [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
-
-* [rokpiy/auto-commenter](https://github.com/rokpiy/auto-commenter) - A Claude skill that automatically posts personalized, authentic comments in your target communities.
-
-* [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
-
-* [FranciscoMoretti/chat-js](https://github.com/FranciscoMoretti/chat-js) - Production-ready AI chat. Start here and make it your own. Formerly Sparka AI
-
-* [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
-
-* [stackblitz-labs/use-stick-to-bottom](https://github.com/stackblitz-labs/use-stick-to-bottom) - A lightweight React Hook intended mainly for AI chat applications, for smoothly sticking to bottom of messages
-
-* [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.
-
-* [voideditor/void](https://github.com/voideditor/void) -
-
-* [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
-
-* [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework
-
-* [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
-
-* [TheR1D/shell\_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-5, will help you accomplish your tasks faster and more efficiently.
-
-* [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any website into a tiny, fast desktop app.
-
-* [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
-
-* [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
-
-* [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Background jobs, Landing page, Payments (Stripe, Polar.sh), Shadcn UI, S3 file upload. AI-ready with tailored AGENTS.md, skills, and Claude Code plugin. One cmd deploy. Powered by Wasp full-stack framework.
-
-* [CommandCodeAI/langui](https://github.com/CommandCodeAI/langui) - UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects.
-
-* [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
-
-* [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
-
-* [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
-
-* [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
-
-## deepseek
-
-* [AtomicBot-ai/Atomic-Chat](https://github.com/AtomicBot-ai/Atomic-Chat) - Local AI app and inference engine for agents. Run open-weight LLMs locally — private, 100% offline on your computer. Join our Discord: https://discord.com/invite/8wGSsvmg4V
-
-* [voyager-crew/voyager](https://github.com/voyager-crew/voyager) - Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。
-
-* [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK.
-
-* [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
-
-* [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.
-
-* [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3 and GLM 5.3
-
-* [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
-
-* [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 
 ## desktop-app
 
@@ -6772,20 +7285,6 @@
 * [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 * [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-generation full-text search library for Browser and Node.js
-
-## qwen
-
-* [AtomicBot-ai/Atomic-Chat](https://github.com/AtomicBot-ai/Atomic-Chat) - Local AI app and inference engine for agents. Run open-weight LLMs locally — private, 100% offline on your computer. Join our Discord: https://discord.com/invite/8wGSsvmg4V
-
-* [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
-
-* [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.
-
-* [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI coding agent that lives in your terminal.
-
-* [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3 and GLM 5.3
-
-* [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 
 ## self-hosted
 
@@ -7022,6 +7521,8 @@
 * [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
 
 * [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
+
+* [finom/vovk](https://github.com/finom/vovk) - Back-end framework for Next.js App Router. One codebase → type-safe clients, OpenAPI, and AI tools
 
 * [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
@@ -7325,7 +7826,7 @@
 
 * [serafimcloud/21st](https://github.com/serafimcloud/21st) - npm for design engineers: largest marketplace of shadcn/ui-based React Tailwind components, blocks and hooks
 
-* [cosscom/coss](https://github.com/cosscom/coss) - coss.com/ui is the official design system of Cal.com
+* [cosscom/ui](https://github.com/cosscom/ui) - coss.com/ui is the official design system of Cal.com
 
 * [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.
 
@@ -8209,7 +8710,7 @@
 
 * [stepan662/react-arven](https://github.com/stepan662/react-arven) -
 
-* [Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM) -
+* [Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM) - Contrastive Language Models (CLMs) are a new class of System One model trained with a contrastive learning objective that connects states and actions.
 
 * [driceroland/Search](https://github.com/driceroland/Search) - A small, fast WebKit browser for macOS, by Office Commun.
 
@@ -8564,8 +9065,6 @@
 * [kasin-it/next-md-negotiate](https://github.com/kasin-it/next-md-negotiate) - Content negotiation for Next.js — serve Markdown to LLMs and HTML to browsers from the same URL.
 
 * [tigerabrodi/fude](https://github.com/tigerabrodi/fude) - A React component for rich text input with @ mentions and AI autocomplete.
-
-* [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 
 * [kuatsu/react-native-boost](https://github.com/kuatsu/react-native-boost) - ⚡️ The React Native performance compiler.
 
@@ -9301,6 +9800,8 @@
 
 * [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
 
+* [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
+
 * [callstack/agent-device](https://github.com/callstack/agent-device) - Mobile app automation and verification for AI coding agents. CLI, MCP server, and typed Node.js API for iOS, Android, HarmonyOS, TV, web, macOS, and Linux.
 
 * [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
@@ -9476,72 +9977,6 @@
 ## answer-engine-optimization
 
 * [elmohq/elmo](https://github.com/elmohq/elmo) - Open-source Answer Engine Optimization (AEO) and Generative Engine Optimization (GEO) platform. Track how ChatGPT, Claude, Perplexity, Gemini, Copilot, Grok, and Google AI Overviews mention and cite your brand in AI search. MIT-licensed, self-hostable, every metric auditable in code.
-
-## copilot
-
-* [elmohq/elmo](https://github.com/elmohq/elmo) - Open-source Answer Engine Optimization (AEO) and Generative Engine Optimization (GEO) platform. Track how ChatGPT, Claude, Perplexity, Gemini, Copilot, Grok, and Google AI Overviews mention and cite your brand in AI search. MIT-licensed, self-hostable, every metric auditable in code.
-
-* [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
-
-* [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
-
-* [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
-
-* [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with SDD or any other process!
-
-* [voideditor/void](https://github.com/voideditor/void) -
-
-* [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
-
-* [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
-
-* [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol
-
-## gemini
-
-* [elmohq/elmo](https://github.com/elmohq/elmo) - Open-source Answer Engine Optimization (AEO) and Generative Engine Optimization (GEO) platform. Track how ChatGPT, Claude, Perplexity, Gemini, Copilot, Grok, and Google AI Overviews mention and cite your brand in AI search. MIT-licensed, self-hostable, every metric auditable in code.
-
-* [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - A privacy-first app that strips AI watermarks from content you own.
-
-* [voyager-crew/voyager](https://github.com/voyager-crew/voyager) - Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。
-
-* [rynfar/meridian](https://github.com/rynfar/meridian) - Use Claude and Antigravity with Pi, OpenCode and other coding clients. Local API bridge, usage dashboard and Mac app. Antigravity preview available in 1.74.0.
-
-* [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
-
-* [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
-
-* [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
-
-* [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API
-
-* [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
-
-* [YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill) - AI skill for OpenClaw & Claude Code — recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use case, content remix, sample images.
-
-* [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
-
-* [gemini-cli-extensions/conductor](https://github.com/gemini-cli-extensions/conductor) - A plugin for AI coding agents (Antigravity, Claude Code) enabling Spec-Driven Development to specify, plan, and implement software features.
-
-* [FranciscoMoretti/chat-js](https://github.com/FranciscoMoretti/chat-js) - Production-ready AI chat. Start here and make it your own. Formerly Sparka AI
-
-* [TanStack/ai](https://github.com/TanStack/ai) - 🤖 Type-safe, provider-agnostic TypeScript AI SDK for streaming chat, tool calling, agents, and multimodal apps across OpenAI, Anthropic, Gemini, React, Vue, Svelte, and Solid.
-
-* [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
-
-* [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
-
-* [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
-
-* [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any website into a tiny, fast desktop app.
-
-* [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
-
-* [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
-
-* [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
-
-* [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## generative-engine-optimization
 
@@ -10053,6 +10488,8 @@
 
 * [ratel-ai/ratel](https://github.com/ratel-ai/ratel) - Context engineering for AI agents. ~80% fewer tokens. Fix tool overload. Skills and memory with in-process BM25 and semantic retrieval. Progressive Disclosure. No vector DB.
 
+* [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
+
 * [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
 
 * [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) -
@@ -10201,7 +10638,7 @@
 
 * [gridaco/grida](https://github.com/gridaco/grida) - Grida — Open Canvas
 
-* [encoredev/encore](https://github.com/encoredev/encore) - The infrastructure platform for the intelligence era
+* [encoredev/encore](https://github.com/encoredev/encore) - Infrastructure orchestration from local to your cloud
 
 * [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
 
@@ -10472,164 +10909,6 @@
 ## linkedin
 
 * [opencoredev/social-sdk](https://github.com/opencoredev/social-sdk) - Typed TypeScript SDK for direct and managed social platform integrations, with capability checks, explicit outcomes, and deterministic testing.
-
-## nodejs
-
-* [opencoredev/social-sdk](https://github.com/opencoredev/social-sdk) - Typed TypeScript SDK for direct and managed social platform integrations, with capability checks, explicit outcomes, and deterministic testing.
-
-* [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
-
-* [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
-
-* [cordiverse/cordis](https://github.com/cordiverse/cordis) - Meta-Framework of Spatiotemporal Composability
-
-* [vltpkg/vltpkg](https://github.com/vltpkg/vltpkg) - the vlt package manager monorepo
-
-* [timgit/pg-boss](https://github.com/timgit/pg-boss) - Queueing jobs in Postgres from Node.js like a boss
-
-* [privatenumber/mac-ocr](https://github.com/privatenumber/mac-ocr) - macOS CLI for OCR and searchable PDFs using Apple's Vision framework
-
-* [Zhengqbbb/cz-git](https://github.com/Zhengqbbb/cz-git) - cz-git | czg  🛠️ DX first and more engineered, lightweight, customizable, standard output format Commitizen adapter and CLI
-
-* [playcanvas/engine](https://github.com/playcanvas/engine) - Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF
-
-* [opentypejs/opentype.js](https://github.com/opentypejs/opentype.js) - Read and write OpenType fonts using JavaScript.
-
-* [harfbuzz/harfbuzzjs](https://github.com/harfbuzz/harfbuzzjs) - Providing HarfBuzz shaping library for client/server side JavaScript projects
-
-* [vercel-labs/opensrc](https://github.com/vercel-labs/opensrc) - Fetch source code for npm packages to give AI coding agents deeper context
-
-* [bgub/eta](https://github.com/bgub/eta) - Embedded JS template engine for Node, Deno, and the browser. Lighweight, fast, and pluggable. Written in TypeScript
-
-* [WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys) - Socket-based TS/JavaScript API for WhatsApp Web
-
-* [dolanmiu/docx](https://github.com/dolanmiu/docx) - Easily generate and modify .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser.
-
-* [cli-table/cli-table3](https://github.com/cli-table/cli-table3) - Pretty unicode tables for the command line
-
-* [colyseus/colyseus](https://github.com/colyseus/colyseus) - ⚔ Multiplayer Framework for Node.js
-
-* [evanwashere/mitata](https://github.com/evanwashere/mitata) - benchmark tooling that loves you ❤️
-
-* [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-
-* [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
-
-* [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation.
-
-* [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
-
-* [image-js/image-js](https://github.com/image-js/image-js) - Image processing and manipulation in JavaScript
-
-* [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework
-
-* [jonahsnider/convert](https://github.com/jonahsnider/convert) - The smallest & fastest library for really easy, totally type-safe unit conversions in TypeScript & JavaScript.
-
-* [moonrepo/proto](https://github.com/moonrepo/proto) - A pluggable multi-language version manager.
-
-* [middleapi/orpc](https://github.com/middleapi/orpc) - Typesafe APIs Made Simple 🪄
-
-* [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) - Data framework for your LLM applications. Focus on server side solution
-
-* [sindresorhus/slugify](https://github.com/sindresorhus/slugify) - Slugify a string
-
-* [microlinkhq/browserless](https://github.com/microlinkhq/browserless) - The headless Chrome/Chromium driver on top of Puppeteer. Take screenshots, generate PDFs, extract text and HTML with a production-ready API.
-
-* [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastra is the modern TypeScript framework for AI-powered applications and agents.
-
-* [paulmillr/chokidar](https://github.com/paulmillr/chokidar) - Minimal and efficient cross-platform file watching library
-
-* [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS, Python, .NET, Elixir, Rust and PHP based on Redis or PostgreSQL
-
-* [piscinajs/piscina](https://github.com/piscinajs/piscina) - A fast, efficient Node.js Worker Thread Pool implementation
-
-* [dmno-dev/dmno](https://github.com/dmno-dev/dmno) - The missing middleware for your configuration and secrets.
-
-* [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
-
-* [stormkit-io/app-stormkit-io](https://github.com/stormkit-io/app-stormkit-io) - Stormkit is an all in one solution for Full Stack Javascript applications.
-
-* [stormkit-io/www-stormkit-io](https://github.com/stormkit-io/www-stormkit-io) - Stormkit is a self-hostable, highly performant and scalable PaaS for modern web applications.
-
-* [sdorra/content-collections](https://github.com/sdorra/content-collections) - Transform your content into type-safe data collections
-
-* [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
-
-* [thx/resvg-js](https://github.com/thx/resvg-js) - A high-performance SVG renderer and toolkit, powered by Rust based resvg and napi-rs.
-
-* [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js/Typescript/Bun Production Process Manager with a built-in Load Balancer.
-
-* [tinylibs/tinypool](https://github.com/tinylibs/tinypool) - 🧵 A minimal and tiny Node.js Worker Thread Pool implementation (38KB)
-
-* [privatenumber/pkgroll](https://github.com/privatenumber/pkgroll) - 📦  Zero-config package bundler for Node.js + TypeScript
-
-* [gildas-lormeau/zip.js](https://github.com/gildas-lormeau/zip.js) - JavaScript library to zip and unzip files supporting parallel compression, web streams, pluggable compression engines, zip64, split files, data encryption, and deflate64 decompression.
-
-* [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger
-
-* [haraka/Haraka](https://github.com/haraka/Haraka) - A fast, highly extensible, and event driven SMTP server
-
-* [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.
-
-* [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
-
-* [adonisjs/core](https://github.com/adonisjs/core) - AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more.
-
-* [oclif/oclif](https://github.com/oclif/oclif) - CLI for generating, building, and releasing oclif CLIs. Built by Salesforce.
-
-* [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Background jobs, Landing page, Payments (Stripe, Polar.sh), Shadcn UI, S3 file upload. AI-ready with tailored AGENTS.md, skills, and Claude Code plugin. One cmd deploy. Powered by Wasp full-stack framework.
-
-* [google/zx](https://github.com/google/zx) - A tool for writing better scripts
-
-* [jaredhanson/passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js.
-
-* [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
-
-* [sindresorhus/ow](https://github.com/sindresorhus/ow) - Function argument validation for humans
-
-* [toddbluhm/env-cmd](https://github.com/toddbluhm/env-cmd) - Setting environment variables from a file
-
-* [ecyrbe/zodios](https://github.com/ecyrbe/zodios) - typescript http client and server with zod validation
-
-* [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2025)
-
-* [sindresorhus/np](https://github.com/sindresorhus/np) - A better `npm publish`
-
-* [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - The No-GraphQL Client for TypeScript
-
-* [finom/vovk](https://github.com/finom/vovk) - 🐺 Back-end Framework for Next.js App Router. One codebase → type-safe clients, OpenAPI, and AI tools
-
-* [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-
-* [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry
-
-* [mkosir/typescript-style-guide](https://github.com/mkosir/typescript-style-guide) - ⚙️ TypeScript Style Guide and Agent Skill. A concise set of conventions and best practices for consistent, maintainable code.
-
-* [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
-
-* [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
-
-* [feathersjs/feathers](https://github.com/feathersjs/feathers) - The API and real-time application framework
-
-* [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-generation full-text search library for Browser and Node.js
-
-* [novuhq/novu](https://github.com/novuhq/novu) - The open-source communication infrastructure for agents and products
-
-* [facebook/memlab](https://github.com/facebook/memlab) - A framework for finding JavaScript memory leaks and analyzing heap snapshots
-
-## oauth
-
-* [opencoredev/social-sdk](https://github.com/opencoredev/social-sdk) - Typed TypeScript SDK for direct and managed social platform integrations, with capability checks, explicit outcomes, and deterministic testing.
-
-* [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
-
-* [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework
-
-* [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
-
-* [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
-
-* [jaredhanson/passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js.
 
 ## oauth2
 
@@ -11328,6 +11607,8 @@
 * [adonisjs/core](https://github.com/adonisjs/core) - AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more.
 
 * [TanStack/router](https://github.com/TanStack/router) - 🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (React and more).
+
+* [finom/vovk](https://github.com/finom/vovk) - Back-end framework for Next.js App Router. One codebase → type-safe clients, OpenAPI, and AI tools
 
 * [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 
@@ -12595,22 +12876,6 @@
 
 * [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
 
-## proxy
-
-* [superdesigndev/treg](https://github.com/superdesigndev/treg) - OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn
-
-* [rynfar/meridian](https://github.com/rynfar/meridian) - Use Claude and Antigravity with Pi, OpenCode and other coding clients. Local API bridge, usage dashboard and Mac app. Antigravity preview available in 1.74.0.
-
-* [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
-
-* [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
-
-* [unjs/ipx](https://github.com/unjs/ipx) - 🖼️ High performance, secure and easy-to-use image optimizer.
-
-* [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - The best-in-class HTTP Debugger for macOS. Capture HTTP/HTTPS from macOS, iOS, Android with a few clicks ✅
-
-* [pmndrs/valtio](https://github.com/pmndrs/valtio) - 🧙 Valtio makes proxy-state simple  for React and Vanilla
-
 ## registry
 
 * [superdesigndev/treg](https://github.com/superdesigndev/treg) - OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn
@@ -12685,8 +12950,6 @@
 
 * [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
 
-* [terrazzoapp/terrazzo](https://github.com/terrazzoapp/terrazzo) - Use DTCG tokens JSON to generate code for web, mobile, native apps, and more
-
 ## agent-skill
 
 * [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - A privacy-first app that strips AI watermarks from content you own.
@@ -12694,80 +12957,6 @@
 ## c2pa
 
 * [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - A privacy-first app that strips AI watermarks from content you own.
-
-## openai
-
-* [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - A privacy-first app that strips AI watermarks from content you own.
-
-* [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
-
-* [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
-
-* [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
-
-* [Zhengqbbb/cz-git](https://github.com/Zhengqbbb/cz-git) - cz-git | czg  🛠️ DX first and more engineered, lightweight, customizable, standard output format Commitizen adapter and CLI
-
-* [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
-
-* [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
-
-* [dominikmartn/hue](https://github.com/dominikmartn/hue) - open-source skill that learns any brand and turns it into a complete design system. works on claude code and codex. install once, every UI your assistant builds matches your brand.
-
-* [CopilotKit/aimock](https://github.com/CopilotKit/aimock) - Mock everything your AI app talks to — LLM APIs, MCP, A2A, AG-UI, vector DBs, search. One package, one port, zero dependencies.
-
-* [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API
-
-* [BerriAI/litellm](https://github.com/BerriAI/litellm) - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging \[Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]
-
-* [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
-
-* [vercel-labs/tersa](https://github.com/vercel-labs/tersa) - Tersa is an open source canvas for building AI workflows.
-
-* [Code-with-Beto/snapai](https://github.com/Code-with-Beto/snapai) - AI-powered icon generation CLI for React Native & Expo developers. Generate stunning app icons in seconds using OpenAI's latest models.
-
-* [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
-
-* [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.
-
-* [FranciscoMoretti/chat-js](https://github.com/FranciscoMoretti/chat-js) - Production-ready AI chat. Start here and make it your own. Formerly Sparka AI
-
-* [TanStack/ai](https://github.com/TanStack/ai) - 🤖 Type-safe, provider-agnostic TypeScript AI SDK for streaming chat, tool calling, agents, and multimodal apps across OpenAI, Anthropic, Gemini, React, Vue, Svelte, and Solid.
-
-* [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
-
-* [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.
-
-* [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-
-* [voideditor/void](https://github.com/voideditor/void) -
-
-* [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
-
-* [theopenco/llmgateway](https://github.com/theopenco/llmgateway) - Route, manage, and analyze your LLM requests across multiple providers with a unified API interface.
-
-* [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework
-
-* [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
-
-* [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
-
-* [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) - Data framework for your LLM applications. Focus on server side solution
-
-* [TheR1D/shell\_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-5, will help you accomplish your tasks faster and more efficiently.
-
-* [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
-
-* [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 1,600+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
-
-* [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
-
-* [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
-
-* [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
-
-* [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
-
-* [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## provenance
 
@@ -12915,7 +13104,7 @@
 
 * [serafimcloud/21st](https://github.com/serafimcloud/21st) - npm for design engineers: largest marketplace of shadcn/ui-based React Tailwind components, blocks and hooks
 
-* [cosscom/coss](https://github.com/cosscom/coss) - coss.com/ui is the official design system of Cal.com
+* [cosscom/ui](https://github.com/cosscom/ui) - coss.com/ui is the official design system of Cal.com
 
 * [midday-ai/packrun](https://github.com/midday-ai/packrun) - npm for agents and humans
 
@@ -13005,7 +13194,7 @@
 
 * [serafimcloud/21st](https://github.com/serafimcloud/21st) - npm for design engineers: largest marketplace of shadcn/ui-based React Tailwind components, blocks and hooks
 
-* [cosscom/coss](https://github.com/cosscom/coss) - coss.com/ui is the official design system of Cal.com
+* [cosscom/ui](https://github.com/cosscom/ui) - coss.com/ui is the official design system of Cal.com
 
 * [KevinGrajeda/tailwindcss-spring](https://github.com/KevinGrajeda/tailwindcss-spring) - A plugin for Tailwind CSS that adds spring animations using linear(), define just two parameters and let the plugin do the rest.
 
@@ -13547,7 +13736,7 @@
 
 * [serafimcloud/21st](https://github.com/serafimcloud/21st) - npm for design engineers: largest marketplace of shadcn/ui-based React Tailwind components, blocks and hooks
 
-* [cosscom/coss](https://github.com/cosscom/coss) - coss.com/ui is the official design system of Cal.com
+* [cosscom/ui](https://github.com/cosscom/ui) - coss.com/ui is the official design system of Cal.com
 
 * [polarsource/polar](https://github.com/polarsource/polar) - Polar — A billing platform for the intelligence era
 
@@ -13629,7 +13818,7 @@
 
 * [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - The No-GraphQL Client for TypeScript
 
-* [finom/vovk](https://github.com/finom/vovk) - 🐺 Back-end Framework for Next.js App Router. One codebase → type-safe clients, OpenAPI, and AI tools
+* [finom/vovk](https://github.com/finom/vovk) - Back-end framework for Next.js App Router. One codebase → type-safe clients, OpenAPI, and AI tools
 
 * [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 
@@ -13735,7 +13924,7 @@
 
 * [sadmann7/diceui](https://github.com/sadmann7/diceui) - Accessible shadcn/ui components built with React, TypeScript, and Tailwind CSS. Copy-paste ready, and customizable.
 
-* [cosscom/coss](https://github.com/cosscom/coss) - coss.com/ui is the official design system of Cal.com
+* [cosscom/ui](https://github.com/cosscom/ui) - coss.com/ui is the official design system of Cal.com
 
 * [mui/base-ui](https://github.com/mui/base-ui) - Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI.
 
@@ -13881,7 +14070,7 @@
 
 * [JaleelB/emblor](https://github.com/JaleelB/emblor) - A fully-featured tag input component built with shadcn/ui
 
-* [cosscom/coss](https://github.com/cosscom/coss) - coss.com/ui is the official design system of Cal.com
+* [cosscom/ui](https://github.com/cosscom/ui) - coss.com/ui is the official design system of Cal.com
 
 * [Codehagen/Prismui](https://github.com/Codehagen/Prismui) - A fully customizable component library built on top of shadcn/ui. Beautiful, accessible, and ready for production.
 
@@ -14229,7 +14418,7 @@
 
 * [runs-on/runs-on](https://github.com/runs-on/runs-on) - Self-hosted GitHub Actions runners made simple. For AWS. 10x cheaper, up to 2x faster, and unlimited caching. Best alternative to Actions Runner Controller.
 
-* [encoredev/encore](https://github.com/encoredev/encore) - The infrastructure platform for the intelligence era
+* [encoredev/encore](https://github.com/encoredev/encore) - Infrastructure orchestration from local to your cloud
 
 * [opennextjs/opennextjs-aws](https://github.com/opennextjs/opennextjs-aws) - Open-source Next.js adapter for AWS
 
@@ -14351,6 +14540,8 @@
 
 * [superset-sh/superset](https://github.com/superset-sh/superset) - Superset is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.
 
+* [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
+
 * [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise) - The Open Source Agentic IDE. Create and orchestrate coding agents, show app previews and run git workflows. Use your favorite models across all providers.
 
 ## coding-agents
@@ -14432,8 +14623,6 @@
 * [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers and Visual Engineers to design with Real Code.
 
 * [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) - tailwindcss-motion is a Tailwind CSS Plugin made at RomboHQ. It’s a simple, yet powerful, animation library with a simple syntax.
-
-* [terrazzoapp/terrazzo](https://github.com/terrazzoapp/terrazzo) - Use DTCG tokens JSON to generate code for web, mobile, native apps, and more
 
 * [gmrchk/blobity](https://github.com/gmrchk/blobity) - The cursor is the heart of any interaction with the web. Why not take it to the next level? 🚀
 
@@ -14907,10 +15096,6 @@
 
 * [rynfar/meridian](https://github.com/rynfar/meridian) - Use Claude and Antigravity with Pi, OpenCode and other coding clients. Local API bridge, usage dashboard and Mac app. Antigravity preview available in 1.74.0.
 
-## cline
-
-* [rynfar/meridian](https://github.com/rynfar/meridian) - Use Claude and Antigravity with Pi, OpenCode and other coding clients. Local API bridge, usage dashboard and Mac app. Antigravity preview available in 1.74.0.
-
 ## crush-cli
 
 * [rynfar/meridian](https://github.com/rynfar/meridian) - Use Claude and Antigravity with Pi, OpenCode and other coding clients. Local API bridge, usage dashboard and Mac app. Antigravity preview available in 1.74.0.
@@ -15025,7 +15210,7 @@
 
 * [cloudflare/artifact-fs](https://github.com/cloudflare/artifact-fs) - ArtifactFS is a filesystem driver designed to mount large git repos as quickly as possible, hydrating file contents on-the-fly instead of blocking on the initial clone. It's ideal for agents, sandboxes, containers and other use-cases where startup time is critical.
 
-* [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file\_folder: Universal File Storage Client
+* [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file\_folder: Universal File Management Clients (for humans and agents)
 
 * [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit) - Windows/macOS/Linux GUI client for GIT users
 
@@ -15075,6 +15260,8 @@
 
 * [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Continuously record your company computer work, map your workflows, help you find work worth automating, and power your agents' context
 
+* [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
+
 * [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori) - Memori is agent-native memory infrastructure. A LLM-agnostic layer that turns agent execution and conversation into structured, persistent state for production systems. Built for enterprise, Memori works with the data infrastructure you already run, no rip-and-replace, and deploys across managed cloud, single-tenant cloud, VPC, and on-premises.
 
 * [facebook/memlab](https://github.com/facebook/memlab) - A framework for finding JavaScript memory leaks and analyzing heap snapshots
@@ -15096,6 +15283,8 @@
 * [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
 
 * [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Continuously record your company computer work, map your workflows, help you find work worth automating, and power your agents' context
+
+* [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 
 * [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
 
@@ -15540,6 +15729,8 @@
 * [papermark/papermark](https://github.com/papermark/papermark) - Papermark is the open-source DocSend alternative  and secure data rooms with built-in analytics and custom domains.
 
 * [ecyrbe/zodios](https://github.com/ecyrbe/zodios) - typescript http client and server with zod validation
+
+* [finom/vovk](https://github.com/finom/vovk) - Back-end framework for Next.js App Router. One codebase → type-safe clients, OpenAPI, and AI tools
 
 ## animation
 
@@ -16039,7 +16230,7 @@
 
 * [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 
-* [encoredev/encore](https://github.com/encoredev/encore) - The infrastructure platform for the intelligence era
+* [encoredev/encore](https://github.com/encoredev/encore) - Infrastructure orchestration from local to your cloud
 
 * [iii-hq/iii](https://github.com/iii-hq/iii) - Effortlessly compose, extend, and observe every service in real-time for the first time ever.
 
@@ -16048,6 +16239,8 @@
 * [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
 
 * [FrigadeHQ/remote-storage](https://github.com/FrigadeHQ/remote-storage) - remoteStorage is a simple library that combines the localStorage API with a remote server to persist data across sessions, devices, and browsers. It works as a simple key value database store and backend with support for React, Next.js, Vue, Node, or any Javascript stack
+
+* [finom/vovk](https://github.com/finom/vovk) - Back-end framework for Next.js App Router. One codebase → type-safe clients, OpenAPI, and AI tools
 
 * [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 
@@ -16089,7 +16282,7 @@
 
 * [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 
-* [encoredev/encore](https://github.com/encoredev/encore) - The infrastructure platform for the intelligence era
+* [encoredev/encore](https://github.com/encoredev/encore) - Infrastructure orchestration from local to your cloud
 
 * [rorkai/App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI) - Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more
 
@@ -16349,6 +16542,8 @@
 
 * [47ng/nuqs](https://github.com/47ng/nuqs) - Type-safe search params state manager for React frameworks - Like useState, but stored in the URL query string.
 
+* [finom/vovk](https://github.com/finom/vovk) - Back-end framework for Next.js App Router. One codebase → type-safe clients, OpenAPI, and AI tools
+
 * [open-circle/valibot](https://github.com/open-circle/valibot) - The modular and type safe schema library for validating structural data 🤖
 
 * [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
@@ -16457,7 +16652,7 @@
 
 * [alchemy-run/alchemy](https://github.com/alchemy-run/alchemy) - Infrastructure as Effects
 
-* [encoredev/encore](https://github.com/encoredev/encore) - The infrastructure platform for the intelligence era
+* [encoredev/encore](https://github.com/encoredev/encore) - Infrastructure orchestration from local to your cloud
 
 * [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 
@@ -17209,6 +17404,8 @@
 
 * [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 
+* [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
+
 * [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 
 * [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
@@ -17314,42 +17511,6 @@
 * [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 
 * [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
-
-## cursor
-
-* [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
-
-* [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
-
-* [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
-
-* [ParthJadhav/app-store-screenshots](https://github.com/ParthJadhav/app-store-screenshots) - end to end app store screenshot creation using AI
-
-* [sleekdotdesign/agent-skills](https://github.com/sleekdotdesign/agent-skills) - Official Sleek agent skill for creating and editing mobile app designs through the REST API. Includes account setup, screenshots and screen HTML.
-
-* [yigitkonur/cli-continues](https://github.com/yigitkonur/cli-continues) - resume any AI coding session in another tool — Claude Code, Copilot, Gemini, Codex, Cursor
-
-* [intellectronica/ruler](https://github.com/intellectronica/ruler) - Ruler — apply the same rules to all coding agents
-
-* [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
-
-* [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
-
-* [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
-
-* [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
-
-* [voideditor/void](https://github.com/voideditor/void) -
-
-* [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
-
-* [haydenbleasel/ultracite](https://github.com/haydenbleasel/ultracite) - A highly opinionated, zero-configuration linter and formatter.
-
-* [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
-
-* [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers and Visual Engineers to design with Real Code.
-
-* [gmrchk/blobity](https://github.com/gmrchk/blobity) - The cursor is the heart of any interaction with the web. Why not take it to the next level? 🚀
 
 ## fastapi
 
@@ -17467,6 +17628,8 @@
 
 * [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 
+* [finom/vovk](https://github.com/finom/vovk) - Back-end framework for Next.js App Router. One codebase → type-safe clients, OpenAPI, and AI tools
+
 ## http-client
 
 * [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern REST API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　✨ 1st-Class OpenAPI/Swagger Support
@@ -17496,6 +17659,8 @@
 * [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 
 * [ecyrbe/zodios](https://github.com/ecyrbe/zodios) - typescript http client and server with zod validation
+
+* [finom/vovk](https://github.com/finom/vovk) - Back-end framework for Next.js App Router. One codebase → type-safe clients, OpenAPI, and AI tools
 
 * [HiDeoo/starlight-openapi](https://github.com/HiDeoo/starlight-openapi) - Starlight plugin to generate documentation from OpenAPI/Swagger specifications
 
@@ -17527,7 +17692,7 @@
 
 * [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 
-* [finom/vovk](https://github.com/finom/vovk) - 🐺 Back-end Framework for Next.js App Router. One codebase → type-safe clients, OpenAPI, and AI tools
+* [finom/vovk](https://github.com/finom/vovk) - Back-end framework for Next.js App Router. One codebase → type-safe clients, OpenAPI, and AI tools
 
 ## swagger
 
@@ -17957,7 +18122,7 @@
 
 * [perplexityai/bumblebee](https://github.com/perplexityai/bumblebee) - Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises.
 
-* [encoredev/encore](https://github.com/encoredev/encore) - The infrastructure platform for the intelligence era
+* [encoredev/encore](https://github.com/encoredev/encore) - Infrastructure orchestration from local to your cloud
 
 * [rorkai/App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI) - Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more
 
@@ -18385,7 +18550,7 @@
 
 * [haydenbleasel/files-sdk](https://github.com/haydenbleasel/files-sdk) - Write once. Store anywhere.
 
-* [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file\_folder: Universal File Storage Client
+* [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file\_folder: Universal File Management Clients (for humans and agents)
 
 * [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 
@@ -19349,8 +19514,6 @@
 
 * [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) - tailwindcss-motion is a Tailwind CSS Plugin made at RomboHQ. It’s a simple, yet powerful, animation library with a simple syntax.
 
-* [terrazzoapp/terrazzo](https://github.com/terrazzoapp/terrazzo) - Use DTCG tokens JSON to generate code for web, mobile, native apps, and more
-
 * [callstack/linaria](https://github.com/callstack/linaria) - Zero-runtime CSS in JS library
 
 * [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
@@ -19413,7 +19576,7 @@
 
 * [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 
-* [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file\_folder: Universal File Storage Client
+* [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file\_folder: Universal File Management Clients (for humans and agents)
 
 * [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 
@@ -19941,7 +20104,7 @@
 
 * [taigrr/spank](https://github.com/taigrr/spank) - Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.
 
-* [encoredev/encore](https://github.com/encoredev/encore) - The infrastructure platform for the intelligence era
+* [encoredev/encore](https://github.com/encoredev/encore) - Infrastructure orchestration from local to your cloud
 
 * [rorkai/App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI) - Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more
 
@@ -20148,8 +20311,6 @@
 * [chakra-ui/ark](https://github.com/chakra-ui/ark) - Unstyled, accessible UI components for your design System. Works in React, Vue, Solid, and Svelte.
 
 * [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers and Visual Engineers to design with Real Code.
-
-* [terrazzoapp/terrazzo](https://github.com/terrazzoapp/terrazzo) - Use DTCG tokens JSON to generate code for web, mobile, native apps, and more
 
 * [gluestack/gluestack-ui](https://github.com/gluestack/gluestack-ui) - React & React Native Components & Patterns (copy-paste components & patterns crafted with Tailwind CSS (NativeWind))
 
@@ -20913,7 +21074,7 @@
 
 ## cloud-native
 
-* [encoredev/encore](https://github.com/encoredev/encore) - The infrastructure platform for the intelligence era
+* [encoredev/encore](https://github.com/encoredev/encore) - Infrastructure orchestration from local to your cloud
 
 * [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
 
@@ -20921,11 +21082,11 @@
 
 ## devops-automation
 
-* [encoredev/encore](https://github.com/encoredev/encore) - The infrastructure platform for the intelligence era
+* [encoredev/encore](https://github.com/encoredev/encore) - Infrastructure orchestration from local to your cloud
 
 ## distributed-systems
 
-* [encoredev/encore](https://github.com/encoredev/encore) - The infrastructure platform for the intelligence era
+* [encoredev/encore](https://github.com/encoredev/encore) - Infrastructure orchestration from local to your cloud
 
 * [restatedev/restate](https://github.com/restatedev/restate) - Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD.
 
@@ -20933,27 +21094,27 @@
 
 ## encore
 
-* [encoredev/encore](https://github.com/encoredev/encore) - The infrastructure platform for the intelligence era
+* [encoredev/encore](https://github.com/encoredev/encore) - Infrastructure orchestration from local to your cloud
 
 ## gcp
 
-* [encoredev/encore](https://github.com/encoredev/encore) - The infrastructure platform for the intelligence era
+* [encoredev/encore](https://github.com/encoredev/encore) - Infrastructure orchestration from local to your cloud
 
 * [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 
 ## infrastructure-as-code
 
-* [encoredev/encore](https://github.com/encoredev/encore) - The infrastructure platform for the intelligence era
+* [encoredev/encore](https://github.com/encoredev/encore) - Infrastructure orchestration from local to your cloud
 
 * [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 
 ## infrastructure-automation
 
-* [encoredev/encore](https://github.com/encoredev/encore) - The infrastructure platform for the intelligence era
+* [encoredev/encore](https://github.com/encoredev/encore) - Infrastructure orchestration from local to your cloud
 
 ## microservices
 
-* [encoredev/encore](https://github.com/encoredev/encore) - The infrastructure platform for the intelligence era
+* [encoredev/encore](https://github.com/encoredev/encore) - Infrastructure orchestration from local to your cloud
 
 * [restatedev/restate](https://github.com/restatedev/restate) - Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD.
 
@@ -20961,7 +21122,7 @@
 
 ## serverless
 
-* [encoredev/encore](https://github.com/encoredev/encore) - The infrastructure platform for the intelligence era
+* [encoredev/encore](https://github.com/encoredev/encore) - Infrastructure orchestration from local to your cloud
 
 * [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 
@@ -21411,11 +21572,11 @@
 
 ## archiving
 
-* [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file\_folder: Universal File Storage Client
+* [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file\_folder: Universal File Management Clients (for humans and agents)
 
 ## azure
 
-* [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file\_folder: Universal File Storage Client
+* [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file\_folder: Universal File Management Clients (for humans and agents)
 
 * [Noovolari/leapp](https://github.com/Noovolari/leapp) - Leapp is the DevTool to access your cloud
 
@@ -21423,61 +21584,61 @@
 
 ## dms
 
-* [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file\_folder: Universal File Storage Client
+* [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file\_folder: Universal File Management Clients (for humans and agents)
 
 ## edrms
 
-* [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file\_folder: Universal File Storage Client
+* [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file\_folder: Universal File Management Clients (for humans and agents)
 
 ## ftp
 
-* [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file\_folder: Universal File Storage Client
+* [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file\_folder: Universal File Management Clients (for humans and agents)
 
 ## ged
 
-* [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file\_folder: Universal File Storage Client
+* [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file\_folder: Universal File Management Clients (for humans and agents)
 
 ## ipfs
 
-* [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file\_folder: Universal File Storage Client
+* [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file\_folder: Universal File Management Clients (for humans and agents)
 
 * [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 
 ## mft
 
-* [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file\_folder: Universal File Storage Client
+* [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file\_folder: Universal File Management Clients (for humans and agents)
 
 ## nfs
 
-* [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file\_folder: Universal File Storage Client
+* [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file\_folder: Universal File Management Clients (for humans and agents)
 
 ## sae
 
-* [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file\_folder: Universal File Storage Client
+* [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file\_folder: Universal File Management Clients (for humans and agents)
 
 ## seda
 
-* [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file\_folder: Universal File Storage Client
+* [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file\_folder: Universal File Management Clients (for humans and agents)
 
 ## sftp
 
-* [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file\_folder: Universal File Storage Client
+* [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file\_folder: Universal File Management Clients (for humans and agents)
 
 ## sharepoint
 
-* [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file\_folder: Universal File Storage Client
+* [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file\_folder: Universal File Management Clients (for humans and agents)
 
 ## smb
 
-* [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file\_folder: Universal File Storage Client
+* [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file\_folder: Universal File Management Clients (for humans and agents)
 
 ## vfs
 
-* [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file\_folder: Universal File Storage Client
+* [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file\_folder: Universal File Management Clients (for humans and agents)
 
 ## webdav
 
-* [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file\_folder: Universal File Storage Client
+* [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file\_folder: Universal File Management Clients (for humans and agents)
 
 ## appstore
 
@@ -21622,6 +21783,36 @@
 ## doctor
 
 * [millionco/react-doctor](https://github.com/millionco/react-doctor) - Your agent writes bad React. This catches it
+
+## acpx
+
+* [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
+
+## ai-engineering
+
+* [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
+
+## ai-governance
+
+* [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
+
+## autonomous-agents
+
+* [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
+
+## multi-agent
+
+* [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
+
+* [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
+
+## workflow-automation
+
+* [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
+
+* [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy durable AI agents and workflows
+
+* [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
 ## globalization
 
@@ -22075,7 +22266,7 @@
 
 * [founded-labs/react-native-reusables](https://github.com/founded-labs/react-native-reusables) - Bringing shadcn/ui to React Native. Beautifully crafted components with Nativewind/Uniwind, open source, and almost as easy to use.
 
-* [cosscom/coss](https://github.com/cosscom/coss) - coss.com/ui is the official design system of Cal.com
+* [cosscom/ui](https://github.com/cosscom/ui) - coss.com/ui is the official design system of Cal.com
 
 * [joshuawootonn/react-components-from-scratch](https://github.com/joshuawootonn/react-components-from-scratch) - Accessible and animated components
 
@@ -22543,12 +22734,6 @@
 
 * [yigitkonur/cli-continues](https://github.com/yigitkonur/cli-continues) - resume any AI coding session in another tool — Claude Code, Copilot, Gemini, Codex, Cursor
 
-## gemini-cli
-
-* [yigitkonur/cli-continues](https://github.com/yigitkonur/cli-continues) - resume any AI coding session in another tool — Claude Code, Copilot, Gemini, Codex, Cursor
-
-* [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
-
 ## github-copilot
 
 * [yigitkonur/cli-continues](https://github.com/yigitkonur/cli-continues) - resume any AI coding session in another tool — Claude Code, Copilot, Gemini, Codex, Cursor
@@ -22575,14 +22760,6 @@
 
 * [standardagents/dmux](https://github.com/standardagents/dmux) - A dev agent multiplexer for git worktrees and coding agents.
 
-## ai-gateway
-
-* [BerriAI/litellm](https://github.com/BerriAI/litellm) - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging \[Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]
-
-* [theopenco/llmgateway](https://github.com/theopenco/llmgateway) - Route, manage, and analyze your LLM requests across multiple providers with a unified API interface.
-
-* [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 1,600+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
-
 ## azure-openai
 
 * [BerriAI/litellm](https://github.com/BerriAI/litellm) - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging \[Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]
@@ -22603,14 +22780,6 @@
 
 * [BerriAI/litellm](https://github.com/BerriAI/litellm) - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging \[Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]
 
-## llm-gateway
-
-* [BerriAI/litellm](https://github.com/BerriAI/litellm) - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging \[Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]
-
-* [theopenco/llmgateway](https://github.com/theopenco/llmgateway) - Route, manage, and analyze your LLM requests across multiple providers with a unified API interface.
-
-* [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 1,600+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
-
 ## mcp-gateway
 
 * [BerriAI/litellm](https://github.com/BerriAI/litellm) - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging \[Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]
@@ -22618,10 +22787,6 @@
 * [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
 
 * [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 1,600+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
-
-## openai-proxy
-
-* [BerriAI/litellm](https://github.com/BerriAI/litellm) - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging \[Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]
 
 ## rust-ai
 
@@ -22892,6 +23057,8 @@
 * [dsherret/ts-morph](https://github.com/dsherret/ts-morph) - TypeScript Compiler API wrapper for static analysis and programmatic code changes.
 
 * [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
+
+* [finom/vovk](https://github.com/finom/vovk) - Back-end framework for Next.js App Router. One codebase → type-safe clients, OpenAPI, and AI tools
 
 ## handlebars
 
@@ -23430,6 +23597,8 @@
 ## standard-schema
 
 * [turbostarter/envin](https://github.com/turbostarter/envin) - Type-safe env validation with live previews 🌳
+
+* [finom/vovk](https://github.com/finom/vovk) - Back-end framework for Next.js App Router. One codebase → type-safe clients, OpenAPI, and AI tools
 
 * [open-circle/valibot](https://github.com/open-circle/valibot) - The modular and type safe schema library for validating structural data 🤖
 
@@ -25151,10 +25320,6 @@
 
 * [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
 
-## multi-agent
-
-* [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
-
 ## valdi
 
 * [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
@@ -26803,13 +26968,9 @@
 
 * [style-dictionary/style-dictionary](https://github.com/style-dictionary/style-dictionary) - A build system for creating cross-platform styles.
 
-* [terrazzoapp/terrazzo](https://github.com/terrazzoapp/terrazzo) - Use DTCG tokens JSON to generate code for web, mobile, native apps, and more
-
 ## style-tokens
 
 * [style-dictionary/style-dictionary](https://github.com/style-dictionary/style-dictionary) - A build system for creating cross-platform styles.
-
-* [terrazzoapp/terrazzo](https://github.com/terrazzoapp/terrazzo) - Use DTCG tokens JSON to generate code for web, mobile, native apps, and more
 
 ## styleguide
 
@@ -27227,7 +27388,7 @@
 
 * [openstatusHQ/data-table-filters](https://github.com/openstatusHQ/data-table-filters) - React data tables for shadcn/ui: faceted filters, sorting, infinite scroll. Filtering, faceted counts and cursor pagination can run in SQL with Drizzle.
 
-* [cosscom/coss](https://github.com/cosscom/coss) - coss.com/ui is the official design system of Cal.com
+* [cosscom/ui](https://github.com/cosscom/ui) - coss.com/ui is the official design system of Cal.com
 
 ## tanstack-table-v9
 
@@ -27438,10 +27599,6 @@
 * [theopenco/llmgateway](https://github.com/theopenco/llmgateway) - Route, manage, and analyze your LLM requests across multiple providers with a unified API interface.
 
 ## llm-proxy
-
-* [theopenco/llmgateway](https://github.com/theopenco/llmgateway) - Route, manage, and analyze your LLM requests across multiple providers with a unified API interface.
-
-## rate-limiting
 
 * [theopenco/llmgateway](https://github.com/theopenco/llmgateway) - Route, manage, and analyze your LLM requests across multiple providers with a unified API interface.
 
@@ -30843,12 +31000,6 @@
 
 * [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol
 
-## workflow-automation
-
-* [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy durable AI agents and workflows
-
-* [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-
 ## model-router
 
 * [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 1,600+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
@@ -31345,12 +31496,6 @@
 
 * [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js/Typescript/Bun Production Process Manager with a built-in Load Balancer.
 
-## load-balancer
-
-* [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js/Typescript/Bun Production Process Manager with a built-in Load Balancer.
-
-* [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
-
 ## pm2
 
 * [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js/Typescript/Bun Production Process Manager with a built-in Load Balancer.
@@ -31493,21 +31638,23 @@
 
 * [Evercoder/culori](https://github.com/Evercoder/culori) - A comprehensive color library for JavaScript.
 
+## design-system-engine
+
+* [terrazzoapp/terrazzo](https://github.com/terrazzoapp/terrazzo) - Use DTCG tokens JSON to generate code for web, mobile, native apps, and more
+
+## design-system-generator
+
+* [terrazzoapp/terrazzo](https://github.com/terrazzoapp/terrazzo) - Use DTCG tokens JSON to generate code for web, mobile, native apps, and more
+
+## design-systems-automation
+
+* [terrazzoapp/terrazzo](https://github.com/terrazzoapp/terrazzo) - Use DTCG tokens JSON to generate code for web, mobile, native apps, and more
+
+## design-systems-tokens
+
+* [terrazzoapp/terrazzo](https://github.com/terrazzoapp/terrazzo) - Use DTCG tokens JSON to generate code for web, mobile, native apps, and more
+
 ## dtcg
-
-* [terrazzoapp/terrazzo](https://github.com/terrazzoapp/terrazzo) - Use DTCG tokens JSON to generate code for web, mobile, native apps, and more
-
-## sass
-
-* [terrazzoapp/terrazzo](https://github.com/terrazzoapp/terrazzo) - Use DTCG tokens JSON to generate code for web, mobile, native apps, and more
-
-* [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
-
-* [pahen/madge](https://github.com/pahen/madge) - Create graphs from your CommonJS, AMD or ES6 module dependencies
-
-* [IanLunn/Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
-
-## w3c
 
 * [terrazzoapp/terrazzo](https://github.com/terrazzoapp/terrazzo) - Use DTCG tokens JSON to generate code for web, mobile, native apps, and more
 
@@ -32070,6 +32217,14 @@
 ## fontsource
 
 * [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
+
+## sass
+
+* [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
+
+* [pahen/madge](https://github.com/pahen/madge) - Create graphs from your CommonJS, AMD or ES6 module dependencies
+
+* [IanLunn/Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
 
 ## typefaces
 
@@ -33549,7 +33704,7 @@
 
 * [TanStack/router](https://github.com/TanStack/router) - 🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (React and more).
 
-* [finom/vovk](https://github.com/finom/vovk) - 🐺 Back-end Framework for Next.js App Router. One codebase → type-safe clients, OpenAPI, and AI tools
+* [finom/vovk](https://github.com/finom/vovk) - Back-end framework for Next.js App Router. One codebase → type-safe clients, OpenAPI, and AI tools
 
 ## searchparams
 
@@ -34133,11 +34288,15 @@
 
 ## decorators
 
-* [finom/vovk](https://github.com/finom/vovk) - 🐺 Back-end Framework for Next.js App Router. One codebase → type-safe clients, OpenAPI, and AI tools
+* [finom/vovk](https://github.com/finom/vovk) - Back-end framework for Next.js App Router. One codebase → type-safe clients, OpenAPI, and AI tools
+
+## nextjs-app-router
+
+* [finom/vovk](https://github.com/finom/vovk) - Back-end framework for Next.js App Router. One codebase → type-safe clients, OpenAPI, and AI tools
 
 ## supports-dot-config
 
-* [finom/vovk](https://github.com/finom/vovk) - 🐺 Back-end Framework for Next.js App Router. One codebase → type-safe clients, OpenAPI, and AI tools
+* [finom/vovk](https://github.com/finom/vovk) - Back-end framework for Next.js App Router. One codebase → type-safe clients, OpenAPI, and AI tools
 
 ## http-request
 

@@ -2,12 +2,12 @@
 
 ## Table of Contents
 
+* [JavaScript](#javascript)
 * [Go](#go)
 * [TypeScript](#typescript)
 * [Python](#python)
 * [Rust](#rust)
 * [miscellaneous](#miscellaneous)
-* [JavaScript](#javascript)
 * [HTML](#html)
 * [Swift](#swift)
 * [Markdown](#markdown)
@@ -38,6 +38,300 @@
 * [Jinja](#jinja)
 * [SCSS](#scss)
 
+## JavaScript
+
+* [KarpelesLab/teamclaude](https://github.com/KarpelesLab/teamclaude) - Multi-account proxy for Claude Code and Codex: pools Claude Max, ChatGPT/Codex, API-key and third-party backend accounts, and rotates on quota
+
+* [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
+
+* [JohnHeibel/ClaudeAnimationBase](https://github.com/JohnHeibel/ClaudeAnimationBase) - A starter kit for animating hand-painted cartoons with Claude: p5.js + p5.brush, the Clawd character, 31 acted emotions and a guide for the model
+
+* [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+
+* [Nutlope/variate](https://github.com/Nutlope/variate) - A compact design skill that generates four design variations of a component to iterate better on your UIs. A skill for Claude Code, Codex CLI, and opencode.
+
+* [micromark/micromark](https://github.com/micromark/micromark) - small, safe, and great commonmark (optionally gfm, mdx) compliant markdown parser
+
+* [tandpfun/wardrobe](https://github.com/tandpfun/wardrobe) - Your clothes, extracted and organized with gpt-image.
+
+* [NuvioMedia/NuvioTVSmart](https://github.com/NuvioMedia/NuvioTVSmart) - Official Nuvio WebOS, TizenOS Repository
+
+* [Shpigford/knockoff](https://github.com/Shpigford/knockoff) - Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.
+
+* [guilhermerodz/input-otp](https://github.com/guilhermerodz/input-otp) - One time passcode Input. Accessible & unstyled.
+
+* [BuilderIO/skills](https://github.com/BuilderIO/skills) - Skills for agents
+
+* [Leonxlnx/lumenshaders](https://github.com/Leonxlnx/lumenshaders) - LUMEN, a generative shader studio. 9 WebGL2 art modes plus synth style blending, perfect-loop animation, gradient sets, share codes and PNG/WebM/GIF export. Zero dependencies.
+
+* [sindresorhus/clipboardy](https://github.com/sindresorhus/clipboardy) - Access the system clipboard (copy/paste)
+
+* [playcanvas/engine](https://github.com/playcanvas/engine) - Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF
+
+* [opentypejs/opentype.js](https://github.com/opentypejs/opentype.js) - Read and write OpenType fonts using JavaScript.
+
+* [foliojs/pdfkit](https://github.com/foliojs/pdfkit) - A JavaScript PDF generation library for Node and the browser
+
+* [eBayClassifiedsGroup/update-ts-references](https://github.com/eBayClassifiedsGroup/update-ts-references) - Helper for multi-package repository with TypeScript
+
+* [Popmotion/popmotion](https://github.com/Popmotion/popmotion) - Simple animation libraries for delightful user interfaces
+
+* [callstack/masked-view](https://github.com/callstack/masked-view) - React Native Masked View Library
+
+* [dominikmartn/hue](https://github.com/dominikmartn/hue) - open-source skill that learns any brand and turns it into a complete design system. works on claude code and codex. install once, every UI your assistant builds matches your brand.
+
+* [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
+
+* [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and a job application tracker. It helps you fill in each application; you press Submit. Runs locally in your AI coding CLI (Claude Code, Codex, OpenCode and more).
+
+* [PlayableIntelligence/game-creator](https://github.com/PlayableIntelligence/game-creator) - Opinionated Claude Plugin to make 2D (Phaser) & 3D (ThreeJS) Games
+
+* [endel/Multiplayer-Starter-Kit-Racing](https://github.com/endel/Multiplayer-Starter-Kit-Racing) - Fork: Multiplayer Racing Prototype
+
+* [pushmatrix/textstring](https://github.com/pushmatrix/textstring) - physics based text strings
+
+* [dashersw/gea](https://github.com/dashersw/gea) - A batteries-included, reactive JavaScript UI framework. No virtual DOM. Compile-time JSX transforms. Proxy-based stores. Surgical DOM patching.
+
+* [bberak/react-native-game-engine](https://github.com/bberak/react-native-game-engine) - A lightweight Game Engine for React Native 🕹⚡🎮
+
+* [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
+
+* [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
+
+* [aralroca/next-translate](https://github.com/aralroca/next-translate) - Next.js plugin + i18n API for Next.js 🌍  -  Load page translations and use them in an easy way!
+
+* [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
+
+* [mozilla/web-ext](https://github.com/mozilla/web-ext) - A command line tool to help build, run, and test web extensions
+
+* [vercel/nft](https://github.com/vercel/nft) - Node.js dependency tracing utility
+
+* [handlebars-lang/handlebars.js](https://github.com/handlebars-lang/handlebars.js) - Minimal templating on steroids.
+
+* [YUZU-Hub/appscreen](https://github.com/YUZU-Hub/appscreen) - Create screenshots for the iOS App Store
+
+* [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
+
+* [marudy/react-native-responsive-screen](https://github.com/marudy/react-native-responsive-screen) - Make React Native views responsive for all devices with the use of 2 simple methods
+
+* [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
+
+* [oblador/react-native-vector-image](https://github.com/oblador/react-native-vector-image) - iOS/Android native vector assets generated from SVG
+
+* [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
+
+* [glifxyz/glif-mcp-server](https://github.com/glifxyz/glif-mcp-server) - Glif's hosted MCP server, plugin and skills for creating images, video and audio. Works with Claude, ChatGPT, Codex, Cursor and more.
+
+* [expo/testflight](https://github.com/expo/testflight) - Deploy apps directly to TestFlight from the command line using EAS Build and Submit.
+
+* [WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys) - Socket-based TS/JavaScript API for WhatsApp Web
+
+* [cli-table/cli-table3](https://github.com/cli-table/cli-table3) - Pretty unicode tables for the command line
+
+* [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
+
+* [brunosimon/folio-2025](https://github.com/brunosimon/folio-2025) -
+
+* [d3/d3-timer](https://github.com/d3/d3-timer) - An efficient queue for managing thousands of concurrent animations.
+
+* [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - High-performance engine for capturing, modifying, and converting DOM elements into any format.
+
+* [evanwashere/mitata](https://github.com/evanwashere/mitata) - benchmark tooling that loves you ❤️
+
+* [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain.
+
+* [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY
+
+* [Jean-Tinland/simple-bar](https://github.com/Jean-Tinland/simple-bar) - A yabai and AeroSpace status bar widget for Übersicht
+
+* [lukeed/mri](https://github.com/lukeed/mri) - Quickly scan for CLI flags and arguments
+
+* [style-dictionary/style-dictionary](https://github.com/style-dictionary/style-dictionary) - A build system for creating cross-platform styles.
+
+* [Ripple-TS/ripple](https://github.com/Ripple-TS/ripple) - the elegant TypeScript UI framework
+
+* [panphora/overtype](https://github.com/panphora/overtype) - The markdown editor that's just a textarea https://overtype.dev
+
+* [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
+
+* [stefanofa/awesome](https://github.com/stefanofa/awesome) - 💡 A collection of my starred repos, organized by language. Find inspiration and tools quickly!
+
+* [EvanBacon/expo-apple-targets](https://github.com/EvanBacon/expo-apple-targets) - Config Plugin to setup Apple targets
+
+* [caiogondim/fast-memoize.js](https://github.com/caiogondim/fast-memoize.js) - :rabbit2: Fastest possible memoization library
+
+* [liabru/matter-js](https://github.com/liabru/matter-js) - a 2D rigid body physics engine for the web ▲● ■
+
+* [huggingface/transformers.js](https://github.com/huggingface/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
+
+* [coollabsio/next-image-transformation](https://github.com/coollabsio/next-image-transformation) - Drop-in replacement for Vercel's Nextjs image optimization service. Cloud version 👇
+
+* [Nozbe/WatermelonDB](https://github.com/Nozbe/WatermelonDB) - 🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️
+
+* [infinite-table/infinite-react](https://github.com/infinite-table/infinite-react) - The modern React DataGrid for building apps — faster
+
+* [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
+
+* [e18e/e18e](https://github.com/e18e/e18e) -
+
+* [joshwcomeau/use-sound](https://github.com/joshwcomeau/use-sound) - A React Hook for playing sound effects
+
+* [joshwcomeau/tinkersynth](https://github.com/joshwcomeau/tinkersynth) - An experimental art project. Create unique art through serendipitous discovery.
+
+* [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - The largest open-source library of animated, interactive, and customizable React & Next.js components for building standout web products and experiences. Built for humans and AI agents.
+
+* [LeaVerou/style-observer](https://github.com/LeaVerou/style-observer) - Run JS when a CSS property changes. Any CSS property.
+
+* [ohmjs/ohm](https://github.com/ohmjs/ohm) - A library and language for building parsers, interpreters, compilers, etc.
+
+* [jspm/import-map](https://github.com/jspm/import-map) - Import Map Utility
+
+* [guybedford/es-module-lexer](https://github.com/guybedford/es-module-lexer) - Low-overhead lexer dedicated to ES module parsing for fast analysis
+
+* [openlayers/openlayers](https://github.com/openlayers/openlayers) - OpenLayers
+
+* [guybedford/es-module-shims](https://github.com/guybedford/es-module-shims) - Shims for new ES modules features on top of the basic modules support in browsers
+
+* [emotion-js/emotion](https://github.com/emotion-js/emotion) - 👩‍🎤 CSS-in-JS library designed for high performance style composition
+
+* [yairEO/knobs](https://github.com/yairEO/knobs) - UI knobs controllers for JS/CSS live manipulation of various parameters
+
+* [raunofreiberg/interfaces](https://github.com/raunofreiberg/interfaces) - A non-exhaustive list of details that make a good web interface.
+
+* [sindresorhus/slugify](https://github.com/sindresorhus/slugify) - Slugify a string
+
+* [microlinkhq/browserless](https://github.com/microlinkhq/browserless) - The headless Chrome/Chromium driver on top of Puppeteer. Take screenshots, generate PDFs, extract text and HTML with a production-ready API.
+
+* [The-01-Company/jsontr.ee](https://github.com/The-01-Company/jsontr.ee) - Effortlessly visualize JSON structures as dynamic tree diagrams
+
+* [liriliri/eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
+
+* [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
+
+* [goldfire/howler.js](https://github.com/goldfire/howler.js) - Javascript audio library for the modern web.
+
+* [wasmerio/winterjs](https://github.com/wasmerio/winterjs) - Winter is coming... ❄️
+
+* [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js/Typescript/Bun Production Process Manager with a built-in Load Balancer.
+
+* [Evercoder/culori](https://github.com/Evercoder/culori) - A comprehensive color library for JavaScript.
+
+* [CanadaHonk/porffor](https://github.com/CanadaHonk/porffor) - An ahead-of-time JavaScript compiler
+
+* [nksaraf/vinxi](https://github.com/nksaraf/vinxi) - The Full Stack JavaScript SDK
+
+* [shadowwalker/next-pwa](https://github.com/shadowwalker/next-pwa) - Zero config PWA plugin for Next.js, with workbox 🧰
+
+* [gildas-lormeau/zip.js](https://github.com/gildas-lormeau/zip.js) - JavaScript library to zip and unzip files supporting parallel compression, web streams, pluggable compression engines, zip64, split files, data encryption, and deflate64 decompression.
+
+* [shipshapecode/shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
+
+* [spencermountain/spacetime](https://github.com/spencermountain/spacetime) - A lightweight javascript timezone library
+
+* [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
+
+* [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a secure dotenv—from the creator of `dotenv`
+
+* [bestofjs/bestofjs](https://github.com/bestofjs/bestofjs) - :star: A place to find the best components to build amazing web applications. The best of JavaScript!
+
+* [scarf-sh/scarf-js](https://github.com/scarf-sh/scarf-js) - Installation analytics for your npm package
+
+* [trezy/next-safe](https://github.com/trezy/next-safe) -
+
+* [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger
+
+* [antfu/eslint-config](https://github.com/antfu/eslint-config) - Anthony's ESLint config preset
+
+* [eslint/eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
+
+* [haraka/Haraka](https://github.com/haraka/Haraka) - A fast, highly extensible, and event driven SMTP server
+
+* [tapjs/tsimp](https://github.com/tapjs/tsimp) -
+
+* [sindresorhus/ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner
+
+* [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - 📦🚀 Fully automated version management and package publishing
+
+* [pahen/madge](https://github.com/pahen/madge) - Create graphs from your CommonJS, AMD or ES6 module dependencies
+
+* [MostlyAdequate/mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide) - Mostly adequate guide to FP (in javascript)
+
+* [GoogleChrome/workbox](https://github.com/GoogleChrome/workbox) - 📦 Workbox: JavaScript libraries for Progressive Web Apps
+
+* [pmndrs/drei](https://github.com/pmndrs/drei) - 🥉 useful helpers for react-three-fiber
+
+* [winstonjs/winston](https://github.com/winstonjs/winston) - A logger for just about everything.
+
+* [veltman/flubber](https://github.com/veltman/flubber) - Tools for smoother shape animations.
+
+* [google/zx](https://github.com/google/zx) - A tool for writing better scripts
+
+* [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
+
+* [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
+
+* [jaredhanson/passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js.
+
+* [facebook/stylex](https://github.com/facebook/stylex) - StyleX is the styling system for ambitious user interfaces.
+
+* [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.
+
+* [illixion/vscode-vibrancy-continued](https://github.com/illixion/vscode-vibrancy-continued) - Enable Acrylic/Mica/Glass effect for your VS Code
+
+* [plopjs/plop](https://github.com/plopjs/plop) - Consistency Made Simple
+
+* [hashicorp/nextjs-bundle-analysis](https://github.com/hashicorp/nextjs-bundle-analysis) - A github action that provides detailed bundle analysis on PRs for next.js apps
+
+* [sampotts/plyr](https://github.com/sampotts/plyr) - Deprecated in favour of Video.js 10; security updates only. Simple HTML5, YouTube and Vimeo player.
+
+* [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2025)
+
+* [sindresorhus/np](https://github.com/sindresorhus/np) - A better `npm publish`
+
+* [phaserjs/phaser](https://github.com/phaserjs/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
+
+* [micromatch/micromatch](https://github.com/micromatch/micromatch) - Highly optimized wildcard and glob matching library. Faster, drop-in replacement to minimatch and multimatch. Used by square, webpack, babel core, yarn, jest, ract-native, taro, bulma, browser-sync, stylelint, nyc, ava, and many others! Follow micromatch's author: https://github.com/jonschlinkert
+
+* [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
+
+* [nativewind/nativewind](https://github.com/nativewind/nativewind) - The utility-first workflow you love from Tailwind CSS in your React Native applications.
+
+* [eslint/generator-eslint](https://github.com/eslint/generator-eslint) - A Yeoman generator to help with ESLint development
+
+* [module-federation/core](https://github.com/module-federation/core) - Module Federation is a concept that allows developers to share code and resources across multiple JavaScript applications
+
+* [sandworm-hq/sandworm-audit](https://github.com/sandworm-hq/sandworm-audit) - Security & License Compliance For Your App's Dependencies 🪱
+
+* [developit/redaxios](https://github.com/developit/redaxios) - The Axios API, as an 800 byte Fetch wrapper.
+
+* [ProseMirror/prosemirror](https://github.com/ProseMirror/prosemirror) - The ProseMirror WYSIWYM editor
+
+* [publint/publint](https://github.com/publint/publint) - Lint packaging errors
+
+* [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-generation full-text search library for Browser and Node.js
+
+* [react/react](https://github.com/react/react) - The library for web and native user interfaces.
+
+* [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript
+
+* [smeijer/spin-delay](https://github.com/smeijer/spin-delay) - Smart spinner helper for React, to manage the duration of loading states.
+
+* [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
+
+* [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
+
+* [wagerfield/parallax](https://github.com/wagerfield/parallax) - Parallax Engine that reacts to the orientation of a smart device
+
+* [yusefnapora/minty](https://github.com/yusefnapora/minty) - a minimal NFT minting platform using IPFS
+
+* [protofire/solhint](https://github.com/protofire/solhint) - Solhint is an open-source project to provide a linting utility for Solidity code.
+
+* [fomo-nouns/fomo-nouns](https://github.com/fomo-nouns/fomo-nouns) - Repository for the FOMO Nouns project
+
+* [ethereum/blockies](https://github.com/ethereum/blockies) - \<1k library that generates blocky identicons
+
+* [mewo2/terrain](https://github.com/mewo2/terrain) - Fantasy map generator
+
 ## Go
 
 * [inulute/cux](https://github.com/inulute/cux) - Run multiple Claude Code accounts as one. Auto-switches on rate limits and resumes your session no lost context, no logout dance.
@@ -62,13 +356,13 @@
 
 * [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
 
-* [encoredev/encore](https://github.com/encoredev/encore) - The infrastructure platform for the intelligence era
+* [encoredev/encore](https://github.com/encoredev/encore) - Infrastructure orchestration from local to your cloud
 
 * [rorkai/App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI) - Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more
 
 * [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API
 
-* [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file\_folder: Universal File Storage Client
+* [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file\_folder: Universal File Management Clients (for humans and agents)
 
 * [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab) - High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard.
 
@@ -1484,7 +1778,7 @@
 
 * [JaleelB/emblor](https://github.com/JaleelB/emblor) - A fully-featured tag input component built with shadcn/ui
 
-* [cosscom/coss](https://github.com/cosscom/coss) - coss.com/ui is the official design system of Cal.com
+* [cosscom/ui](https://github.com/cosscom/ui) - coss.com/ui is the official design system of Cal.com
 
 * [languine-ai/languine](https://github.com/languine-ai/languine) - Translate your application with Languine CLI powered by AI.
 
@@ -2006,7 +2300,7 @@
 
 * [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
 
-* [finom/vovk](https://github.com/finom/vovk) - 🐺 Back-end Framework for Next.js App Router. One codebase → type-safe clients, OpenAPI, and AI tools
+* [finom/vovk](https://github.com/finom/vovk) - Back-end framework for Next.js App Router. One codebase → type-safe clients, OpenAPI, and AI tools
 
 * [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
 
@@ -2226,7 +2520,7 @@
 
 * [scenario-labs/skills](https://github.com/scenario-labs/skills) - Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.
 
-* [Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM) -
+* [Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM) - Contrastive Language Models (CLMs) are a new class of System One model trained with a contrastive learning objective that connects states and actions.
 
 * [agent0ai/agent-zero](https://github.com/agent0ai/agent-zero) - Agent Zero AI framework
 
@@ -2741,296 +3035,6 @@
 * [flashbots/pm](https://github.com/flashbots/pm) - Everything there is to know about Flashbots
 
 * [matter-labs/awesome-zero-knowledge-proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs) - A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).
-
-## JavaScript
-
-* [JohnHeibel/ClaudeAnimationBase](https://github.com/JohnHeibel/ClaudeAnimationBase) - A starter kit for animating hand-painted cartoons with Claude: p5.js + p5.brush, the Clawd character, 31 acted emotions and a guide for the model
-
-* [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-
-* [Nutlope/variate](https://github.com/Nutlope/variate) - A compact design skill that generates four design variations of a component to iterate better on your UIs. A skill for Claude Code, Codex CLI, and opencode.
-
-* [micromark/micromark](https://github.com/micromark/micromark) - small, safe, and great commonmark (optionally gfm, mdx) compliant markdown parser
-
-* [tandpfun/wardrobe](https://github.com/tandpfun/wardrobe) - Your clothes, extracted and organized with gpt-image.
-
-* [NuvioMedia/NuvioTVSmart](https://github.com/NuvioMedia/NuvioTVSmart) - Official Nuvio WebOS, TizenOS Repository
-
-* [Shpigford/knockoff](https://github.com/Shpigford/knockoff) - Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.
-
-* [guilhermerodz/input-otp](https://github.com/guilhermerodz/input-otp) - One time passcode Input. Accessible & unstyled.
-
-* [BuilderIO/skills](https://github.com/BuilderIO/skills) - Skills for agents
-
-* [Leonxlnx/lumenshaders](https://github.com/Leonxlnx/lumenshaders) - LUMEN, a generative shader studio. 9 WebGL2 art modes plus synth style blending, perfect-loop animation, gradient sets, share codes and PNG/WebM/GIF export. Zero dependencies.
-
-* [sindresorhus/clipboardy](https://github.com/sindresorhus/clipboardy) - Access the system clipboard (copy/paste)
-
-* [playcanvas/engine](https://github.com/playcanvas/engine) - Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF
-
-* [opentypejs/opentype.js](https://github.com/opentypejs/opentype.js) - Read and write OpenType fonts using JavaScript.
-
-* [foliojs/pdfkit](https://github.com/foliojs/pdfkit) - A JavaScript PDF generation library for Node and the browser
-
-* [eBayClassifiedsGroup/update-ts-references](https://github.com/eBayClassifiedsGroup/update-ts-references) - Helper for multi-package repository with TypeScript
-
-* [Popmotion/popmotion](https://github.com/Popmotion/popmotion) - Simple animation libraries for delightful user interfaces
-
-* [callstack/masked-view](https://github.com/callstack/masked-view) - React Native Masked View Library
-
-* [dominikmartn/hue](https://github.com/dominikmartn/hue) - open-source skill that learns any brand and turns it into a complete design system. works on claude code and codex. install once, every UI your assistant builds matches your brand.
-
-* [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
-
-* [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and a job application tracker. It helps you fill in each application; you press Submit. Runs locally in your AI coding CLI (Claude Code, Codex, OpenCode and more).
-
-* [PlayableIntelligence/game-creator](https://github.com/PlayableIntelligence/game-creator) - Opinionated Claude Plugin to make 2D (Phaser) & 3D (ThreeJS) Games
-
-* [endel/Multiplayer-Starter-Kit-Racing](https://github.com/endel/Multiplayer-Starter-Kit-Racing) - Fork: Multiplayer Racing Prototype
-
-* [pushmatrix/textstring](https://github.com/pushmatrix/textstring) - physics based text strings
-
-* [dashersw/gea](https://github.com/dashersw/gea) - A batteries-included, reactive JavaScript UI framework. No virtual DOM. Compile-time JSX transforms. Proxy-based stores. Surgical DOM patching.
-
-* [bberak/react-native-game-engine](https://github.com/bberak/react-native-game-engine) - A lightweight Game Engine for React Native 🕹⚡🎮
-
-* [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
-
-* [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
-
-* [aralroca/next-translate](https://github.com/aralroca/next-translate) - Next.js plugin + i18n API for Next.js 🌍  -  Load page translations and use them in an easy way!
-
-* [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
-
-* [mozilla/web-ext](https://github.com/mozilla/web-ext) - A command line tool to help build, run, and test web extensions
-
-* [vercel/nft](https://github.com/vercel/nft) - Node.js dependency tracing utility
-
-* [handlebars-lang/handlebars.js](https://github.com/handlebars-lang/handlebars.js) - Minimal templating on steroids.
-
-* [YUZU-Hub/appscreen](https://github.com/YUZU-Hub/appscreen) - Create screenshots for the iOS App Store
-
-* [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
-
-* [marudy/react-native-responsive-screen](https://github.com/marudy/react-native-responsive-screen) - Make React Native views responsive for all devices with the use of 2 simple methods
-
-* [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
-
-* [oblador/react-native-vector-image](https://github.com/oblador/react-native-vector-image) - iOS/Android native vector assets generated from SVG
-
-* [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
-
-* [glifxyz/glif-mcp-server](https://github.com/glifxyz/glif-mcp-server) - Glif's hosted MCP server, plugin and skills for creating images, video and audio. Works with Claude, ChatGPT, Codex, Cursor and more.
-
-* [expo/testflight](https://github.com/expo/testflight) - Deploy apps directly to TestFlight from the command line using EAS Build and Submit.
-
-* [WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys) - Socket-based TS/JavaScript API for WhatsApp Web
-
-* [cli-table/cli-table3](https://github.com/cli-table/cli-table3) - Pretty unicode tables for the command line
-
-* [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
-
-* [brunosimon/folio-2025](https://github.com/brunosimon/folio-2025) -
-
-* [d3/d3-timer](https://github.com/d3/d3-timer) - An efficient queue for managing thousands of concurrent animations.
-
-* [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - High-performance engine for capturing, modifying, and converting DOM elements into any format.
-
-* [evanwashere/mitata](https://github.com/evanwashere/mitata) - benchmark tooling that loves you ❤️
-
-* [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain.
-
-* [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY
-
-* [Jean-Tinland/simple-bar](https://github.com/Jean-Tinland/simple-bar) - A yabai and AeroSpace status bar widget for Übersicht
-
-* [lukeed/mri](https://github.com/lukeed/mri) - Quickly scan for CLI flags and arguments
-
-* [style-dictionary/style-dictionary](https://github.com/style-dictionary/style-dictionary) - A build system for creating cross-platform styles.
-
-* [Ripple-TS/ripple](https://github.com/Ripple-TS/ripple) - the elegant TypeScript UI framework
-
-* [panphora/overtype](https://github.com/panphora/overtype) - The markdown editor that's just a textarea https://overtype.dev
-
-* [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-
-* [stefanofa/awesome](https://github.com/stefanofa/awesome) - 💡 A collection of my starred repos, organized by language. Find inspiration and tools quickly!
-
-* [EvanBacon/expo-apple-targets](https://github.com/EvanBacon/expo-apple-targets) - Config Plugin to setup Apple targets
-
-* [caiogondim/fast-memoize.js](https://github.com/caiogondim/fast-memoize.js) - :rabbit2: Fastest possible memoization library
-
-* [liabru/matter-js](https://github.com/liabru/matter-js) - a 2D rigid body physics engine for the web ▲● ■
-
-* [huggingface/transformers.js](https://github.com/huggingface/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
-
-* [coollabsio/next-image-transformation](https://github.com/coollabsio/next-image-transformation) - Drop-in replacement for Vercel's Nextjs image optimization service. Cloud version 👇
-
-* [Nozbe/WatermelonDB](https://github.com/Nozbe/WatermelonDB) - 🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️
-
-* [infinite-table/infinite-react](https://github.com/infinite-table/infinite-react) - The modern React DataGrid for building apps — faster
-
-* [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
-
-* [e18e/e18e](https://github.com/e18e/e18e) -
-
-* [joshwcomeau/use-sound](https://github.com/joshwcomeau/use-sound) - A React Hook for playing sound effects
-
-* [joshwcomeau/tinkersynth](https://github.com/joshwcomeau/tinkersynth) - An experimental art project. Create unique art through serendipitous discovery.
-
-* [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - The largest open-source library of animated, interactive, and customizable React & Next.js components for building standout web products and experiences. Built for humans and AI agents.
-
-* [LeaVerou/style-observer](https://github.com/LeaVerou/style-observer) - Run JS when a CSS property changes. Any CSS property.
-
-* [ohmjs/ohm](https://github.com/ohmjs/ohm) - A library and language for building parsers, interpreters, compilers, etc.
-
-* [jspm/import-map](https://github.com/jspm/import-map) - Import Map Utility
-
-* [guybedford/es-module-lexer](https://github.com/guybedford/es-module-lexer) - Low-overhead lexer dedicated to ES module parsing for fast analysis
-
-* [openlayers/openlayers](https://github.com/openlayers/openlayers) - OpenLayers
-
-* [guybedford/es-module-shims](https://github.com/guybedford/es-module-shims) - Shims for new ES modules features on top of the basic modules support in browsers
-
-* [emotion-js/emotion](https://github.com/emotion-js/emotion) - 👩‍🎤 CSS-in-JS library designed for high performance style composition
-
-* [yairEO/knobs](https://github.com/yairEO/knobs) - UI knobs controllers for JS/CSS live manipulation of various parameters
-
-* [raunofreiberg/interfaces](https://github.com/raunofreiberg/interfaces) - A non-exhaustive list of details that make a good web interface.
-
-* [sindresorhus/slugify](https://github.com/sindresorhus/slugify) - Slugify a string
-
-* [microlinkhq/browserless](https://github.com/microlinkhq/browserless) - The headless Chrome/Chromium driver on top of Puppeteer. Take screenshots, generate PDFs, extract text and HTML with a production-ready API.
-
-* [The-01-Company/jsontr.ee](https://github.com/The-01-Company/jsontr.ee) - Effortlessly visualize JSON structures as dynamic tree diagrams
-
-* [liriliri/eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
-
-* [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
-
-* [goldfire/howler.js](https://github.com/goldfire/howler.js) - Javascript audio library for the modern web.
-
-* [wasmerio/winterjs](https://github.com/wasmerio/winterjs) - Winter is coming... ❄️
-
-* [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js/Typescript/Bun Production Process Manager with a built-in Load Balancer.
-
-* [Evercoder/culori](https://github.com/Evercoder/culori) - A comprehensive color library for JavaScript.
-
-* [CanadaHonk/porffor](https://github.com/CanadaHonk/porffor) - An ahead-of-time JavaScript compiler
-
-* [nksaraf/vinxi](https://github.com/nksaraf/vinxi) - The Full Stack JavaScript SDK
-
-* [shadowwalker/next-pwa](https://github.com/shadowwalker/next-pwa) - Zero config PWA plugin for Next.js, with workbox 🧰
-
-* [gildas-lormeau/zip.js](https://github.com/gildas-lormeau/zip.js) - JavaScript library to zip and unzip files supporting parallel compression, web streams, pluggable compression engines, zip64, split files, data encryption, and deflate64 decompression.
-
-* [shipshapecode/shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
-
-* [spencermountain/spacetime](https://github.com/spencermountain/spacetime) - A lightweight javascript timezone library
-
-* [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
-
-* [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a secure dotenv—from the creator of `dotenv`
-
-* [bestofjs/bestofjs](https://github.com/bestofjs/bestofjs) - :star: A place to find the best components to build amazing web applications. The best of JavaScript!
-
-* [scarf-sh/scarf-js](https://github.com/scarf-sh/scarf-js) - Installation analytics for your npm package
-
-* [trezy/next-safe](https://github.com/trezy/next-safe) -
-
-* [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger
-
-* [antfu/eslint-config](https://github.com/antfu/eslint-config) - Anthony's ESLint config preset
-
-* [eslint/eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
-
-* [haraka/Haraka](https://github.com/haraka/Haraka) - A fast, highly extensible, and event driven SMTP server
-
-* [tapjs/tsimp](https://github.com/tapjs/tsimp) -
-
-* [sindresorhus/ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner
-
-* [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - 📦🚀 Fully automated version management and package publishing
-
-* [pahen/madge](https://github.com/pahen/madge) - Create graphs from your CommonJS, AMD or ES6 module dependencies
-
-* [MostlyAdequate/mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide) - Mostly adequate guide to FP (in javascript)
-
-* [GoogleChrome/workbox](https://github.com/GoogleChrome/workbox) - 📦 Workbox: JavaScript libraries for Progressive Web Apps
-
-* [pmndrs/drei](https://github.com/pmndrs/drei) - 🥉 useful helpers for react-three-fiber
-
-* [winstonjs/winston](https://github.com/winstonjs/winston) - A logger for just about everything.
-
-* [veltman/flubber](https://github.com/veltman/flubber) - Tools for smoother shape animations.
-
-* [google/zx](https://github.com/google/zx) - A tool for writing better scripts
-
-* [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
-
-* [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
-
-* [jaredhanson/passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js.
-
-* [facebook/stylex](https://github.com/facebook/stylex) - StyleX is the styling system for ambitious user interfaces.
-
-* [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.
-
-* [illixion/vscode-vibrancy-continued](https://github.com/illixion/vscode-vibrancy-continued) - Enable Acrylic/Mica/Glass effect for your VS Code
-
-* [plopjs/plop](https://github.com/plopjs/plop) - Consistency Made Simple
-
-* [hashicorp/nextjs-bundle-analysis](https://github.com/hashicorp/nextjs-bundle-analysis) - A github action that provides detailed bundle analysis on PRs for next.js apps
-
-* [sampotts/plyr](https://github.com/sampotts/plyr) - Deprecated in favour of Video.js 10; security updates only. Simple HTML5, YouTube and Vimeo player.
-
-* [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2025)
-
-* [sindresorhus/np](https://github.com/sindresorhus/np) - A better `npm publish`
-
-* [phaserjs/phaser](https://github.com/phaserjs/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
-
-* [micromatch/micromatch](https://github.com/micromatch/micromatch) - Highly optimized wildcard and glob matching library. Faster, drop-in replacement to minimatch and multimatch. Used by square, webpack, babel core, yarn, jest, ract-native, taro, bulma, browser-sync, stylelint, nyc, ava, and many others! Follow micromatch's author: https://github.com/jonschlinkert
-
-* [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
-
-* [nativewind/nativewind](https://github.com/nativewind/nativewind) - The utility-first workflow you love from Tailwind CSS in your React Native applications.
-
-* [eslint/generator-eslint](https://github.com/eslint/generator-eslint) - A Yeoman generator to help with ESLint development
-
-* [module-federation/core](https://github.com/module-federation/core) - Module Federation is a concept that allows developers to share code and resources across multiple JavaScript applications
-
-* [sandworm-hq/sandworm-audit](https://github.com/sandworm-hq/sandworm-audit) - Security & License Compliance For Your App's Dependencies 🪱
-
-* [developit/redaxios](https://github.com/developit/redaxios) - The Axios API, as an 800 byte Fetch wrapper.
-
-* [ProseMirror/prosemirror](https://github.com/ProseMirror/prosemirror) - The ProseMirror WYSIWYM editor
-
-* [publint/publint](https://github.com/publint/publint) - Lint packaging errors
-
-* [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-generation full-text search library for Browser and Node.js
-
-* [react/react](https://github.com/react/react) - The library for web and native user interfaces.
-
-* [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript
-
-* [smeijer/spin-delay](https://github.com/smeijer/spin-delay) - Smart spinner helper for React, to manage the duration of loading states.
-
-* [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
-
-* [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
-
-* [wagerfield/parallax](https://github.com/wagerfield/parallax) - Parallax Engine that reacts to the orientation of a smart device
-
-* [yusefnapora/minty](https://github.com/yusefnapora/minty) - a minimal NFT minting platform using IPFS
-
-* [protofire/solhint](https://github.com/protofire/solhint) - Solhint is an open-source project to provide a linting utility for Solidity code.
-
-* [fomo-nouns/fomo-nouns](https://github.com/fomo-nouns/fomo-nouns) - Repository for the FOMO Nouns project
-
-* [ethereum/blockies](https://github.com/ethereum/blockies) - \<1k library that generates blocky identicons
-
-* [mewo2/terrain](https://github.com/mewo2/terrain) - Fantasy map generator
 
 ## HTML
 
