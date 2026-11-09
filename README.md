@@ -270,7 +270,7 @@
 
 ## Python
 
-* [JuneYaooo/rea-video](https://github.com/JuneYaooo/rea-video) - Reverse-engineer any video, shot by shot: tells whether each shot was filmed, AI-generated or coded, how the captions, cuts and audio were made, and how to remake it. 逆向一切视频，逐镜拆出制作方式并给出复刻方案。
+* [JuneYaooo/rea-video](https://github.com/JuneYaooo/rea-video) - Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. 逆向一切视频，逐个镜头看是拍的、AI 生成的还是代码做的，再告诉你怎么复刻。
 
 * [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) - Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.
 
@@ -590,7 +590,7 @@
 
 * [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 
-* [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
+* [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Uncensored Open-source alternative to AI video platforms — Free AI image & video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
 
 * [aralroca/next-translate](https://github.com/aralroca/next-translate) - Next.js plugin + i18n API for Next.js 🌍  -  Load page translations and use them in an easy way!
 
@@ -836,7 +836,7 @@
 
 * [vercel-labs/wterm](https://github.com/vercel-labs/wterm) - A terminal emulator for the web
 
-* [every-app/every-app](https://github.com/every-app/every-app) - Make every SaaS open source.
+* [every-app/every-app](https://github.com/every-app/every-app) - Every app your business needs to grow.
 
 * [mromidev/claude-animated-shorts](https://github.com/mromidev/claude-animated-shorts) - Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion
 
@@ -2172,7 +2172,7 @@
 
 * [martiserra99/formity](https://github.com/martiserra99/formity) - React multi-step forms where logic has no limits - for any use case
 
-* [omgovich/colord](https://github.com/omgovich/colord) - 👑 A tiny yet powerful tool for high-performance color manipulations and conversions
+* [omgovich/colord](https://github.com/omgovich/colord) - 👑 A tiny yet powerful JavaScript library for high-performance color manipulations and conversions
 
 * [danielpetho/fancy](https://github.com/danielpetho/fancy) -
 
