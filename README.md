@@ -50,7 +50,7 @@
 
 * [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat) - Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.
 
-* [pmndrs/pine](https://github.com/pmndrs/pine) - a reactive harness for agents
+* [pmndre/pine](https://github.com/pmndre/pine) - a reactive harness for agents
 
 * [anomalyco/textjs](https://github.com/anomalyco/textjs) - A React framework for apps that render in the browser console.
 
@@ -64,7 +64,7 @@
 
 * [vercel-labs/wterm](https://github.com/vercel-labs/wterm) - A terminal emulator for the web
 
-* [every-app/every-app](https://github.com/every-app/every-app) - Every app your business needs to grow.
+* [every-app/every-app](https://github.com/every-app/every-app) - Open source alternatives to everything.
 
 * [mromidev/claude-animated-shorts](https://github.com/mromidev/claude-animated-shorts) - Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion
 
@@ -214,7 +214,7 @@
 
 * [zenbu-labs/terminal-code](https://github.com/zenbu-labs/terminal-code) - VS Code in the terminal
 
-* [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) - Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.
+* [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) - The open, self-hostable alternative to closed AI bots. Production-ready, fully customizable, and plugs into every stack: any agent, any model, any tool.
 
 * [teo-goulois/better-gradient](https://github.com/teo-goulois/better-gradient) -
 
@@ -843,8 +843,6 @@
 * [ecrindigital/facetpack](https://github.com/ecrindigital/facetpack) - The missing toolkit for React Native. Rust-powered performance & developer experience.
 
 * [zerebos/ghostty-config](https://github.com/zerebos/ghostty-config) - A beautiful config generator for Ghostty terminal.
-
-* [replicate/hype](https://github.com/replicate/hype) - A feed of trending repos/models from GitHub, Replicate, HuggingFace, and Reddit.
 
 * [dolanmiu/docx](https://github.com/dolanmiu/docx) - Easily generate and modify .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser.
 
@@ -1550,7 +1548,7 @@
 
 * [preset/preset](https://github.com/preset/preset) - Elegant, ecosystem-agnostic preset mechanism
 
-* [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers and Visual Engineers to design with Real Code.
+* [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers and Visual Engineers to design with Real Code.
 
 * [onejs/one](https://github.com/onejs/one) - ❶ One lets you target React web and React Native with a single Vite plugin. Everything you need to build great websites and apps with unified routing.
 
@@ -1640,7 +1638,7 @@
 
 * [unjs/ipx](https://github.com/unjs/ipx) - 🖼️ High performance, secure and easy-to-use image optimizer.
 
-* [johannschopplich/unlazy](https://github.com/johannschopplich/unlazy) - 🪧 Universal lazy loading library for placeholder images leveraging native browser APIs
+* [johannschopplich/unlazy](https://github.com/johannschopplich/unlazy) - 🪧 Native image lazy loading with BlurHash and ThumbHash placeholders – vanilla JS, Vue, React, Svelte, Solid and Nuxt
 
 * [chakra-ui/park-ui](https://github.com/chakra-ui/park-ui) - Beautifully designed components built with Ark UI and Panda CSS that work with a variety of JS frameworks.
 
@@ -2412,7 +2410,7 @@
 
 * [expo/exact](https://github.com/expo/exact) - Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.
 
-* [nexxeln/torrential](https://github.com/nexxeln/torrential) - Find films and shows, and watch them on your Mac, phone, or TV while they download.
+* [nexxeln/torrential](https://github.com/nexxeln/torrential) - Find films and shows, and watch them on your computer, phone, or TV while they download.
 
 * [voyager-so/vork](https://github.com/voyager-so/vork) - Headless 3D and VFX engine for agents. Research preview.
 
@@ -2588,7 +2586,7 @@
 
 * [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
 
-* [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3 and GLM 5.3
+* [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3.1 and GLM 5.3
 
 * [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
 
@@ -3050,7 +3048,7 @@
 
 ## Swift
 
-* [JosssphZhou/poki](https://github.com/JosssphZhou/poki) - Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.
+* [JosssphZhou/poki](https://github.com/JosssphZhou/poki) - Poki uses your iPhone like you do. An open-source agent that sees your screen and taps, types, and swipes across any app on your real device. Runs locally, plugs right into Claude Code and any MCP agent.
 
 * [govijr/terminal-mac](https://github.com/govijr/terminal-mac) - Entire MacOS running in your terminal.
 
@@ -3130,7 +3128,7 @@
 
 * [Shubham0812/SwiftUI-Animations](https://github.com/Shubham0812/SwiftUI-Animations) - A repository containing a variety of animations and Animated components created in SwiftUI that you can use in your own projects.
 
-* [yazinsai/OpenOats](https://github.com/yazinsai/OpenOats) - A meeting note-taker that talks back.
+* [yazinsai/OpenOats](https://github.com/yazinsai/OpenOats) - A beautiful, minimal meeting recorder for Mac. Press Start, and after Stop you get Notes and a transcript in one markdown file. On-device, free and open source.
 
 * [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) - A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
 
