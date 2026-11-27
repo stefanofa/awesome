@@ -6356,7 +6356,7 @@
 
 * [Leonxlnx/tastecode](https://github.com/Leonxlnx/tastecode) - One desktop app for your coding agents, made for creative work. Early beta, Windows and macOS.
 
-* [expo/exact](https://github.com/expo/exact) - Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.
+* [expo/exact](https://github.com/expo/exact) - Agent Native, Rust based, high performance way to build apps on web, iOS, macOS, Android, Linux and other platforms.
 
 * [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 
@@ -6388,7 +6388,7 @@
 
 * [openai/tart](https://github.com/openai/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations
 
-* [expo/exact](https://github.com/expo/exact) - Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.
+* [expo/exact](https://github.com/expo/exact) - Agent Native, Rust based, high performance way to build apps on web, iOS, macOS, Android, Linux and other platforms.
 
 * [shinyobjectz/raea](https://github.com/shinyobjectz/raea) - Render Anything Engine: tell your AI what to make. Videos, motion graphics, 3D and games as React and TypeScript, rendered on your own GPU. Rust + Bevy, macOS, Linux and Windows.
 
@@ -7764,7 +7764,7 @@
 
 * [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat) - Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.
 
-* [expo/exact](https://github.com/expo/exact) - Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.
+* [expo/exact](https://github.com/expo/exact) - Agent Native, Rust based, high performance way to build apps on web, iOS, macOS, Android, Linux and other platforms.
 
 * [nexxeln/torrential](https://github.com/nexxeln/torrential) - Find films and shows, and watch them on your computer, phone, or TV while they download.
 
@@ -8236,7 +8236,7 @@
 
 * [damkandev/hilo](https://github.com/damkandev/hilo) - A shared drive for your coding agents, on your own machines. Live repos and any folder in sync, every version kept, file tools over MCP, one folder per cloud sandbox. Free, MIT, no account.
 
-* [expo/exact](https://github.com/expo/exact) - Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.
+* [expo/exact](https://github.com/expo/exact) - Agent Native, Rust based, high performance way to build apps on web, iOS, macOS, Android, Linux and other platforms.
 
 * [nexxeln/torrential](https://github.com/nexxeln/torrential) - Find films and shows, and watch them on your computer, phone, or TV while they download.
 
@@ -10842,7 +10842,7 @@
 
 * [Microck/raft](https://github.com/Microck/raft) - self-hosted persistent Linux workspaces. open-source alternative to boat.dev
 
-* [expo/exact](https://github.com/expo/exact) - Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.
+* [expo/exact](https://github.com/expo/exact) - Agent Native, Rust based, high performance way to build apps on web, iOS, macOS, Android, Linux and other platforms.
 
 * [shinyobjectz/raea](https://github.com/shinyobjectz/raea) - Render Anything Engine: tell your AI what to make. Videos, motion graphics, 3D and games as React and TypeScript, rendered on your own GPU. Rust + Bevy, macOS, Linux and Windows.
 
@@ -11180,13 +11180,13 @@
 
 ## appkit
 
-* [expo/exact](https://github.com/expo/exact) - Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.
+* [expo/exact](https://github.com/expo/exact) - Agent Native, Rust based, high performance way to build apps on web, iOS, macOS, Android, Linux and other platforms.
 
 * [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) - Free and open-source macOS menu bar toolkit.
 
 ## cross-platform
 
-* [expo/exact](https://github.com/expo/exact) - Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.
+* [expo/exact](https://github.com/expo/exact) - Agent Native, Rust based, high performance way to build apps on web, iOS, macOS, Android, Linux and other platforms.
 
 * [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 
@@ -11216,7 +11216,7 @@
 
 ## css
 
-* [expo/exact](https://github.com/expo/exact) - Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.
+* [expo/exact](https://github.com/expo/exact) - Agent Native, Rust based, high performance way to build apps on web, iOS, macOS, Android, Linux and other platforms.
 
 * [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 
@@ -11276,7 +11276,7 @@
 
 ## ios
 
-* [expo/exact](https://github.com/expo/exact) - Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.
+* [expo/exact](https://github.com/expo/exact) - Agent Native, Rust based, high performance way to build apps on web, iOS, macOS, Android, Linux and other platforms.
 
 * [JosssphZhou/poki](https://github.com/JosssphZhou/poki) - Poki uses your iPhone like you do. An open-source agent app that runs on your iPhone, reads the screen, and taps, types and swipes in real apps with your own model account.
 
@@ -11402,11 +11402,11 @@
 
 ## native-apps
 
-* [expo/exact](https://github.com/expo/exact) - Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.
+* [expo/exact](https://github.com/expo/exact) - Agent Native, Rust based, high performance way to build apps on web, iOS, macOS, Android, Linux and other platforms.
 
 ## swift
 
-* [expo/exact](https://github.com/expo/exact) - Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.
+* [expo/exact](https://github.com/expo/exact) - Agent Native, Rust based, high performance way to build apps on web, iOS, macOS, Android, Linux and other platforms.
 
 * [JosssphZhou/poki](https://github.com/JosssphZhou/poki) - Poki uses your iPhone like you do. An open-source agent app that runs on your iPhone, reads the screen, and taps, types and swipes in real apps with your own model account.
 
@@ -11482,7 +11482,7 @@
 
 ## uikit
 
-* [expo/exact](https://github.com/expo/exact) - Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.
+* [expo/exact](https://github.com/expo/exact) - Agent Native, Rust based, high performance way to build apps on web, iOS, macOS, Android, Linux and other platforms.
 
 * [vadimdemedes/ink-ui](https://github.com/vadimdemedes/ink-ui) - 💄 Ink-redible command-line interfaces made easy
 
@@ -11500,7 +11500,7 @@
 
 ## web
 
-* [expo/exact](https://github.com/expo/exact) - Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.
+* [expo/exact](https://github.com/expo/exact) - Agent Native, Rust based, high performance way to build apps on web, iOS, macOS, Android, Linux and other platforms.
 
 * [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 

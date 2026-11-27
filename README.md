@@ -2572,7 +2572,7 @@
 
 * [paukraft/t3boat](https://github.com/paukraft/t3boat) - Auto-sleeping T3 Code remote machines on your Boat subscription
 
-* [expo/exact](https://github.com/expo/exact) - Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.
+* [expo/exact](https://github.com/expo/exact) - Agent Native, Rust based, high performance way to build apps on web, iOS, macOS, Android, Linux and other platforms.
 
 * [nexxeln/torrential](https://github.com/nexxeln/torrential) - Find films and shows, and watch them on your computer, phone, or TV while they download.
 
