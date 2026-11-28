@@ -360,9 +360,14 @@
 * [text-to-video](#text-to-video)
 * [textures](#textures)
 * [dictation](#dictation)
+* [meeting-transcription](#meeting-transcription)
+* [offline](#offline)
+* [parakeet](#parakeet)
 * [speech-recognition](#speech-recognition)
 * [speech-to-text](#speech-to-text)
 * [voice-control](#voice-control)
+* [voice-dictation](#voice-dictation)
+* [whisper](#whisper)
 * [durable](#durable)
 * [pi](#pi)
 * [vercel](#vercel)
@@ -816,10 +821,14 @@
 * [safari-extension](#safari-extension)
 * [plugin](#plugin)
 * [cordis](#cordis)
+* [agent-platform](#agent-platform)
+* [ai-workspace](#ai-workspace)
 * [company-as-code](#company-as-code)
 * [company-operating-system](#company-operating-system)
 * [company-os](#company-os)
 * [companyos](#companyos)
+* [enterprise-ai](#enterprise-ai)
+* [self-hosted-ai](#self-hosted-ai)
 * [demo-video](#demo-video)
 * [product-demo](#product-demo)
 * [ai-coding](#ai-coding)
@@ -1132,7 +1141,6 @@
 * [qwen3-tts-ui](#qwen3-tts-ui)
 * [voice-ai](#voice-ai)
 * [voice-clone](#voice-clone)
-* [whisper](#whisper)
 * [code-analysis](#code-analysis)
 * [graphify](#graphify)
 * [graphrag](#graphrag)
@@ -1470,7 +1478,6 @@
 * [search-engine](#search-engine)
 * [searxng](#searxng)
 * [searxng-copilot](#searxng-copilot)
-* [self-hosted-ai](#self-hosted-ai)
 * [vane](#vane)
 * [anti-slop](#anti-slop)
 * [slop](#slop)
@@ -1513,7 +1520,6 @@
 * [cms](#cms)
 * [emdash](#emdash)
 * [local-storage](#local-storage)
-* [offline](#offline)
 * [powersync](#powersync)
 * [state-management](#state-management)
 * [sync](#sync)
@@ -1596,7 +1602,6 @@
 * [physical-ai](#physical-ai)
 * [meeting-recorder](#meeting-recorder)
 * [on-device](#on-device)
-* [parakeet](#parakeet)
 * [florence2](#florence2)
 * [idefics](#idefics)
 * [llava](#llava)
@@ -2274,6 +2279,7 @@
 * [internal](#internal)
 * [reconciler](#reconciler)
 * [esbuild](#esbuild)
+* [exact](#exact)
 * [hook](#hook)
 * [intersection-observer](#intersection-observer)
 * [intersectionobserver](#intersectionobserver)
@@ -7326,6 +7332,8 @@
 
 * [scenario-labs/blender-plugin](https://github.com/scenario-labs/blender-plugin) - Scenario for Blender: AI images, video, 3D and PBR materials in the viewport, plus a local MCP server for agents. Blender 5.0+ extension, GPL-3.0-or-later.
 
+* [anomalyco/hex](https://github.com/anomalyco/hex) - Local voice dictation for mac, windows and linux
+
 * [VicPitic/the-brains](https://github.com/VicPitic/the-brains) - The smartest brains on earth, in an MCP. Cited, searchable MCP servers built from founders' talks, essays and posts.
 
 * [Leonxlnx/earshot](https://github.com/Leonxlnx/earshot) - Sound effects for coding agents: ask in plain words and earshot renders the sound in code. CPU-only, no audio model, open source.
@@ -7353,6 +7361,8 @@
 * [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 
 * [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) - The open, self-hostable alternative to closed AI bots. Production-ready, fully customizable, and plugs into every stack: any agent, any model, any tool.
+
+* [kortix-ai/CompanyOS](https://github.com/kortix-ai/CompanyOS) - Kortix CompanyOS – the open-source operating system for the AI-native company. Connect every data source, orchestrate agents, and keep their skills, memory and connectors in one git repo you own. Any model, in our cloud or yours.
 
 * [Remocn/remocn](https://github.com/Remocn/remocn) - Production-ready animations, transitions, backgrounds, and scenes for Remotion
 
@@ -8726,6 +8736,8 @@
 
 * [traceloop/openllmetry-js](https://github.com/traceloop/openllmetry-js) - Sister project to OpenLLMetry, but in Typescript. Open-source observability for your LLM application, based on OpenTelemetry
 
+* [anomalyco/hex](https://github.com/anomalyco/hex) - Local voice dictation for mac, windows and linux
+
 * [pgrundev/pgboxdb](https://github.com/pgrundev/pgboxdb) - PGBoxDB — Lightweight Postgres for AI agents. Written in Rust. Thousands of isolated databases in one runtime 🐘
 
 * [VicPitic/the-brains](https://github.com/VicPitic/the-brains) - The smartest brains on earth, in an MCP. Cited, searchable MCP servers built from founders' talks, essays and posts.
@@ -8787,6 +8799,8 @@
 * [timoncool/videosos](https://github.com/timoncool/videosos) - AI video production in the browser — text-to-video, image-to-video, lip sync, 100+ models. Google Veo 3.1, FLUX, Gemini, Imagen 4. Free, open-source, private.
 
 * [ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU) - Beautiful, open source, WebGPU-based charting library
+
+* [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library to build terminal user interfaces (TUI)
 
 * [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 
@@ -9101,6 +9115,8 @@
 * [aymericzip/intlayer](https://github.com/aymericzip/intlayer) - Per-component Internationalisation solution for JS application. Type-Safe. Translate with AI. Edit Visually.
 
 * [dolanmiu/docx](https://github.com/dolanmiu/docx) - Easily generate and modify .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser.
+
+* [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library to build terminal user interfaces (TUI)
 
 * [tstyche/tstyche](https://github.com/tstyche/tstyche) - Everything You Need for Type Testing.
 
@@ -11066,6 +11082,8 @@
 
 * [hypit-ai/hypit](https://github.com/hypit-ai/hypit) - Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.
 
+* [kortix-ai/CompanyOS](https://github.com/kortix-ai/CompanyOS) - Kortix CompanyOS – the open-source operating system for the AI-native company. Connect every data source, orchestrate agents, and keep their skills, memory and connectors in one git repo you own. Any model, in our cloud or yours.
+
 * [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) - Hindsight: Agent Memory That Learns
 
 * [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) - A framework for building agentic apps
@@ -11161,6 +11179,8 @@
 ## multi-agent
 
 * [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat) - Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.
+
+* [kortix-ai/CompanyOS](https://github.com/kortix-ai/CompanyOS) - Kortix CompanyOS – the open-source operating system for the AI-native company. Connect every data source, orchestrate agents, and keep their skills, memory and connectors in one git repo you own. Any model, in our cloud or yours.
 
 * [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 
@@ -11925,6 +11945,8 @@
 ## ai-assistant
 
 * [JosssphZhou/poki](https://github.com/JosssphZhou/poki) - Poki uses your iPhone like you do. An open-source agent app that runs on your iPhone, reads the screen, and taps, types and swipes in real apps with your own model account.
+
+* [kortix-ai/CompanyOS](https://github.com/kortix-ai/CompanyOS) - Kortix CompanyOS – the open-source operating system for the AI-native company. Connect every data source, orchestrate agents, and keep their skills, memory and connectors in one git repo you own. Any model, in our cloud or yours.
 
 * [elie222/rakazo](https://github.com/elie222/rakazo) - Open-source Grok Bot alternative. Choose your own model and sandbox.
 
@@ -13390,7 +13412,7 @@
 
 * [darkresearch/generative-ui](https://github.com/darkresearch/generative-ui) - Tools and templates for building generative UI applications. Mobile-first, optimized for Expo.
 
-* [enzomanuelmangano/demos](https://github.com/enzomanuelmangano/demos) - An ongoing collection of React Native animations crafted with Reanimated, Gesture Handler, and Skia.
+* [enzomanuelmangano/demos](https://github.com/enzomanuelmangano/demos) - 100+ animations running on the GPU, built with Exact, Rust and WebGPU
 
 * [heroui-inc/heroui-native](https://github.com/heroui-inc/heroui-native) - 📱Beautiful, fast and modern React Native UI library
 
@@ -13539,6 +13561,8 @@
 * [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) - Customize Claude Code's system prompts, create custom toolsets, input pattern highlighters, themes/thinking verbs/spinners, customize input box & user message styling, support AGENTS.md, unlock private/unreleased features, and much more.  Supports both native/npm installs on all platforms.
 
 * [zerebos/ghostty-config](https://github.com/zerebos/ghostty-config) - A beautiful config generator for Ghostty terminal.
+
+* [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library to build terminal user interfaces (TUI)
 
 * [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 
@@ -14274,6 +14298,26 @@
 
 * [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) - Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. Windows, iOS testflight!  Android, Linux waitlist open! A local Wispr Flow alternative. Follow https://x.com/fluidvoiceapp for more
 
+## meeting-transcription
+
+* [anomalyco/hex](https://github.com/anomalyco/hex) - Local voice dictation for mac, windows and linux
+
+## offline
+
+* [anomalyco/hex](https://github.com/anomalyco/hex) - Local voice dictation for mac, windows and linux
+
+* [powersync-ja/powersync-js](https://github.com/powersync-ja/powersync-js) - PowerSync client SDKs for JavaScript clients
+
+* [dexie/Dexie.js](https://github.com/dexie/Dexie.js) - A Minimalistic Wrapper for IndexedDB
+
+## parakeet
+
+* [anomalyco/hex](https://github.com/anomalyco/hex) - Local voice dictation for mac, windows and linux
+
+* [yazinsai/OpenOats](https://github.com/yazinsai/OpenOats) - A beautiful, minimal meeting recorder for Mac. Press Start, and after Stop you get Notes and a transcript in one markdown file. On-device, free and open source.
+
+* [FluidInference/FluidAudio](https://github.com/FluidInference/FluidAudio) - Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.
+
 ## speech-recognition
 
 * [anomalyco/hex](https://github.com/anomalyco/hex) - Local voice dictation for mac, windows and linux
@@ -14305,6 +14349,24 @@
 ## voice-control
 
 * [anomalyco/hex](https://github.com/anomalyco/hex) - Local voice dictation for mac, windows and linux
+
+## voice-dictation
+
+* [anomalyco/hex](https://github.com/anomalyco/hex) - Local voice dictation for mac, windows and linux
+
+## whisper
+
+* [anomalyco/hex](https://github.com/anomalyco/hex) - Local voice dictation for mac, windows and linux
+
+* [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
+
+* [yazinsai/OpenOats](https://github.com/yazinsai/OpenOats) - A beautiful, minimal meeting recorder for Mac. Press Start, and after Stop you get Notes and a transcript in one markdown file. On-device, free and open source.
+
+* [argmaxinc/argmax-oss-swift](https://github.com/argmaxinc/argmax-oss-swift) - On-device Speech AI for Apple Silicon
+
+* [kitlangton/Hex](https://github.com/kitlangton/Hex) - Archived: legacy Swift Hex app. New app and source: github.com/anomalyco/hex
+
+* [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - Easy-to-use Speech Toolkit including Self-Supervised Learning model, SOTA/Streaming ASR with punctuation, Streaming TTS with text frontend, Speaker Verification System, End-to-End Speech Translation and Keyword Spotting. Won NAACL2022 Best Demo Award.
 
 ## durable
 
@@ -16628,7 +16690,7 @@
 
 * [darkresearch/generative-ui](https://github.com/darkresearch/generative-ui) - Tools and templates for building generative UI applications. Mobile-first, optimized for Expo.
 
-* [enzomanuelmangano/demos](https://github.com/enzomanuelmangano/demos) - An ongoing collection of React Native animations crafted with Reanimated, Gesture Handler, and Skia.
+* [enzomanuelmangano/demos](https://github.com/enzomanuelmangano/demos) - 100+ animations running on the GPU, built with Exact, Rust and WebGPU
 
 * [heroui-inc/heroui-native](https://github.com/heroui-inc/heroui-native) - 📱Beautiful, fast and modern React Native UI library
 
@@ -16754,7 +16816,7 @@
 
 * [pawicao/react-native-header-motion](https://github.com/pawicao/react-native-header-motion) - High-level APIs for orchestrating header motion driven by scroll — built on top of React Native Reanimated.
 
-* [enzomanuelmangano/demos](https://github.com/enzomanuelmangano/demos) - An ongoing collection of React Native animations crafted with Reanimated, Gesture Handler, and Skia.
+* [enzomanuelmangano/demos](https://github.com/enzomanuelmangano/demos) - 100+ animations running on the GPU, built with Exact, Rust and WebGPU
 
 ## month-view
 
@@ -16794,7 +16856,7 @@
 
 * [pawicao/react-native-header-motion](https://github.com/pawicao/react-native-header-motion) - High-level APIs for orchestrating header motion driven by scroll — built on top of React Native Reanimated.
 
-* [enzomanuelmangano/demos](https://github.com/enzomanuelmangano/demos) - An ongoing collection of React Native animations crafted with Reanimated, Gesture Handler, and Skia.
+* [enzomanuelmangano/demos](https://github.com/enzomanuelmangano/demos) - 100+ animations running on the GPU, built with Exact, Rust and WebGPU
 
 * [dohooo/react-native-reanimated-carousel](https://github.com/dohooo/react-native-reanimated-carousel) - 🎠 A performant, customizable carousel for React Native, powered by Reanimated and Gesture Handler. Works on iOS, Android and Web.
 
@@ -18608,6 +18670,8 @@
 
 * [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 
+* [kortix-ai/CompanyOS](https://github.com/kortix-ai/CompanyOS) - Kortix CompanyOS – the open-source operating system for the AI-native company. Connect every data source, orchestrate agents, and keep their skills, memory and connectors in one git repo you own. Any model, in our cloud or yours.
+
 * [ParadevAI/Paradev](https://github.com/ParadevAI/Paradev) - Paradev is an open-source Codex App and Conductor alternative. Orchestrate an army coding agents in parallel with your own subscriptions.
 
 * [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - The best way to control Claude Code, Codex and more from any computer or phone
@@ -18633,6 +18697,8 @@
 ## terminal-ui
 
 * [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
+
+* [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library to build terminal user interfaces (TUI)
 
 ## tmux
 
@@ -18784,6 +18850,14 @@
 
 * [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 
+## agent-platform
+
+* [kortix-ai/CompanyOS](https://github.com/kortix-ai/CompanyOS) - Kortix CompanyOS – the open-source operating system for the AI-native company. Connect every data source, orchestrate agents, and keep their skills, memory and connectors in one git repo you own. Any model, in our cloud or yours.
+
+## ai-workspace
+
+* [kortix-ai/CompanyOS](https://github.com/kortix-ai/CompanyOS) - Kortix CompanyOS – the open-source operating system for the AI-native company. Connect every data source, orchestrate agents, and keep their skills, memory and connectors in one git repo you own. Any model, in our cloud or yours.
+
 ## company-as-code
 
 * [kortix-ai/CompanyOS](https://github.com/kortix-ai/CompanyOS) - Kortix CompanyOS – the open-source operating system for the AI-native company. Connect every data source, orchestrate agents, and keep their skills, memory and connectors in one git repo you own. Any model, in our cloud or yours.
@@ -18799,6 +18873,16 @@
 ## companyos
 
 * [kortix-ai/CompanyOS](https://github.com/kortix-ai/CompanyOS) - Kortix CompanyOS – the open-source operating system for the AI-native company. Connect every data source, orchestrate agents, and keep their skills, memory and connectors in one git repo you own. Any model, in our cloud or yours.
+
+## enterprise-ai
+
+* [kortix-ai/CompanyOS](https://github.com/kortix-ai/CompanyOS) - Kortix CompanyOS – the open-source operating system for the AI-native company. Connect every data source, orchestrate agents, and keep their skills, memory and connectors in one git repo you own. Any model, in our cloud or yours.
+
+## self-hosted-ai
+
+* [kortix-ai/CompanyOS](https://github.com/kortix-ai/CompanyOS) - Kortix CompanyOS – the open-source operating system for the AI-native company. Connect every data source, orchestrate agents, and keep their skills, memory and connectors in one git repo you own. Any model, in our cloud or yours.
+
+* [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
 
 ## demo-video
 
@@ -21118,18 +21202,6 @@
 
 * [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
 
-## whisper
-
-* [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
-
-* [yazinsai/OpenOats](https://github.com/yazinsai/OpenOats) - A beautiful, minimal meeting recorder for Mac. Press Start, and after Stop you get Notes and a transcript in one markdown file. On-device, free and open source.
-
-* [argmaxinc/argmax-oss-swift](https://github.com/argmaxinc/argmax-oss-swift) - On-device Speech AI for Apple Silicon
-
-* [kitlangton/Hex](https://github.com/kitlangton/Hex) - Archived: legacy Swift Hex app. New app and source: github.com/anomalyco/hex
-
-* [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - Easy-to-use Speech Toolkit including Self-Supervised Learning model, SOTA/Streaming ASR with punctuation, Streaming TTS with text frontend, Speaker Verification System, End-to-End Speech Translation and Keyword Spotting. Won NAACL2022 Best Demo Award.
-
 ## code-analysis
 
 * [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
@@ -22268,7 +22340,7 @@
 
 * [Rednegniw/number-flow-react-native](https://github.com/Rednegniw/number-flow-react-native) - Beautiful number animations for React Native. Digit-by-digit rolling counter, currency ticker, time display, and odometer with View-based and Skia renderers. Full Intl.NumberFormat support.
 
-* [enzomanuelmangano/demos](https://github.com/enzomanuelmangano/demos) - An ongoing collection of React Native animations crafted with Reanimated, Gesture Handler, and Skia.
+* [enzomanuelmangano/demos](https://github.com/enzomanuelmangano/demos) - 100+ animations running on the GPU, built with Exact, Rust and WebGPU
 
 * [wcandillon/react-native-skia](https://github.com/wcandillon/react-native-skia) - High-performance React Native Graphics using Skia
 
@@ -22836,6 +22908,8 @@
 
 * [margelo/react-native-graph](https://github.com/margelo/react-native-graph) - 📈 Beautiful, high-performance Graphs and Charts for React Native built with Skia
 
+* [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library to build terminal user interfaces (TUI)
+
 * [evanwashere/mitata](https://github.com/evanwashere/mitata) - benchmark tooling that loves you ❤️
 
 * [zap-studio/monorepo](https://github.com/zap-studio/monorepo) - Type-safe, framework-agnostic, composable, and tree-shakeable TypeScript libraries for the web.
@@ -23348,10 +23422,6 @@
 
 * [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
 
-## self-hosted-ai
-
-* [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
-
 ## vane
 
 * [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
@@ -23623,12 +23693,6 @@
 * [powersync-ja/powersync-js](https://github.com/powersync-ja/powersync-js) - PowerSync client SDKs for JavaScript clients
 
 * [FrigadeHQ/remote-storage](https://github.com/FrigadeHQ/remote-storage) - remoteStorage is a simple library that combines the localStorage API with a remote server to persist data across sessions, devices, and browsers. It works as a simple key value database store and backend with support for React, Next.js, Vue, Node, or any Javascript stack
-
-## offline
-
-* [powersync-ja/powersync-js](https://github.com/powersync-ja/powersync-js) - PowerSync client SDKs for JavaScript clients
-
-* [dexie/Dexie.js](https://github.com/dexie/Dexie.js) - A Minimalistic Wrapper for IndexedDB
 
 ## powersync
 
@@ -24163,12 +24227,6 @@
 ## on-device
 
 * [yazinsai/OpenOats](https://github.com/yazinsai/OpenOats) - A beautiful, minimal meeting recorder for Mac. Press Start, and after Stop you get Notes and a transcript in one markdown file. On-device, free and open source.
-
-## parakeet
-
-* [yazinsai/OpenOats](https://github.com/yazinsai/OpenOats) - A beautiful, minimal meeting recorder for Mac. Press Start, and after Stop you get Notes and a transcript in one markdown file. On-device, free and open source.
-
-* [FluidInference/FluidAudio](https://github.com/FluidInference/FluidAudio) - Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.
 
 ## florence2
 
@@ -27973,6 +28031,10 @@
 * [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
 
 * [unjs/unplugin](https://github.com/unjs/unplugin) - Unified plugin system for Vite, Rollup, Webpack, esbuild, Rolldown, and more
+
+## exact
+
+* [enzomanuelmangano/demos](https://github.com/enzomanuelmangano/demos) - 100+ animations running on the GPU, built with Exact, Rust and WebGPU
 
 ## hook
 
